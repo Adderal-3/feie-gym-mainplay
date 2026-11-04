@@ -1,0 +1,4646 @@
+{
+  "1": {
+    "1101": {
+      "id": 1101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "1102": {
+      "id": 1102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1103": {
+      "id": 1103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "1104": {
+      "id": 1104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 30,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1105": {
+      "id": 1105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "1201": {
+      "id": 1201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "1202": {
+      "id": 1202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 5,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1203": {
+      "id": 1203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 450,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "1204": {
+      "id": 1204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 80,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1205": {
+      "id": 1205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 26,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1301": {
+      "id": 1301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "1302": {
+      "id": 1302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 90,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "1303": {
+      "id": 1303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "1304": {
+      "id": 1304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 50,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1305": {
+      "id": 1305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 180,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1401": {
+      "id": 1401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1402": {
+      "id": 1402,
+      "unlockCondition": 4,
+      "taskType": 14,
+      "count": 60,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1403": {
+      "id": 1403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 560,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1404": {
+      "id": 1404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1405": {
+      "id": 1405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "1501": {
+      "id": 1501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1502": {
+      "id": 1502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 260,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "1503": {
+      "id": 1503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 210,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "1504": {
+      "id": 1504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 56,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "1505": {
+      "id": 1505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 9,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1601": {
+      "id": 1601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1602": {
+      "id": 1602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 2600,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "1603": {
+      "id": 1603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 35,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1604": {
+      "id": 1604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 125,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "1605": {
+      "id": 1605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 360,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "1701": {
+      "id": 1701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "1702": {
+      "id": 1702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "1703": {
+      "id": 1703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "1704": {
+      "id": 1704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 420,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "1705": {
+      "id": 1705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 180,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "2": {
+    "2101": {
+      "id": 2101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "2102": {
+      "id": 2102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2103": {
+      "id": 2103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 15,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "2104": {
+      "id": 2104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 35,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2105": {
+      "id": 2105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "2201": {
+      "id": 2201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "2202": {
+      "id": 2202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2203": {
+      "id": 2203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 500,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "2204": {
+      "id": 2204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 100,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2205": {
+      "id": 2205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 28,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2301": {
+      "id": 2301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "2302": {
+      "id": 2302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "2303": {
+      "id": 2303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "2304": {
+      "id": 2304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 70,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2305": {
+      "id": 2305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 210,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox5": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2401": {
+      "id": 2401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2402": {
+      "id": 2402,
+      "unlockCondition": 4,
+      "taskType": 14,
+      "count": 68,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2403": {
+      "id": 2403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 880,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2404": {
+      "id": 2404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2405": {
+      "id": 2405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 3,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2501": {
+      "id": 2501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2502": {
+      "id": 2502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 320,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "2503": {
+      "id": 2503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 245,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "2504": {
+      "id": 2504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 60,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "2505": {
+      "id": 2505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2601": {
+      "id": 2601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2602": {
+      "id": 2602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3200,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "2603": {
+      "id": 2603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 42,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2604": {
+      "id": 2604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2605": {
+      "id": 2605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 420,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "2701": {
+      "id": 2701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "2702": {
+      "id": 2702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 175,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "2703": {
+      "id": 2703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "2704": {
+      "id": 2704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 485,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "2705": {
+      "id": 2705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 200,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "3": {
+    "3101": {
+      "id": 3101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "3102": {
+      "id": 3102,
+      "unlockCondition": 1,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "3103": {
+      "id": 3103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 21,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "3104": {
+      "id": 3104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 45,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3105": {
+      "id": 3105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3201": {
+      "id": 3201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "3202": {
+      "id": 3202,
+      "unlockCondition": 2,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3203": {
+      "id": 3203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "3204": {
+      "id": 3204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3205": {
+      "id": 3205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 30,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3301": {
+      "id": 3301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "3302": {
+      "id": 3302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3303": {
+      "id": 3303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "3304": {
+      "id": 3304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 88,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3305": {
+      "id": 3305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 245,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3401": {
+      "id": 3401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3402": {
+      "id": 3402,
+      "unlockCondition": 4,
+      "taskType": 14,
+      "count": 75,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3403": {
+      "id": 3403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 1200,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3404": {
+      "id": 3404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3405": {
+      "id": 3405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 4,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3501": {
+      "id": 3501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3502": {
+      "id": 3502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 380,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3503": {
+      "id": 3503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 300,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "3504": {
+      "id": 3504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 64,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "3505": {
+      "id": 3505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 18,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3601": {
+      "id": 3601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "3602": {
+      "id": 3602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3800,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "3603": {
+      "id": 3603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 50,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3604": {
+      "id": 3604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 190,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "3605": {
+      "id": 3605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 520,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "3701": {
+      "id": 3701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "3702": {
+      "id": 3702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 240,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film10": 1
+      },
+      "taskIdBackup": 0
+    },
+    "3703": {
+      "id": 3703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 90,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "3704": {
+      "id": 3704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 540,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "3705": {
+      "id": 3705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 240,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "4": {
+    "4101": {
+      "id": 4101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "4102": {
+      "id": 4102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4103": {
+      "id": 4103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "4104": {
+      "id": 4104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 30,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4105": {
+      "id": 4105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "4201": {
+      "id": 4201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "4202": {
+      "id": 4202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 5,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4203": {
+      "id": 4203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 450,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "4204": {
+      "id": 4204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 80,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4205": {
+      "id": 4205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 26,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4301": {
+      "id": 4301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "4302": {
+      "id": 4302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 90,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "4303": {
+      "id": 4303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "4304": {
+      "id": 4304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 50,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4305": {
+      "id": 4305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 180,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4401": {
+      "id": 4401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4402": {
+      "id": 4402,
+      "unlockCondition": 4,
+      "taskType": 13,
+      "count": 65,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4403": {
+      "id": 4403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 560,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4404": {
+      "id": 4404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4405": {
+      "id": 4405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "4501": {
+      "id": 4501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4502": {
+      "id": 4502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 260,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "4503": {
+      "id": 4503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 210,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "4504": {
+      "id": 4504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 56,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "4505": {
+      "id": 4505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 9,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4601": {
+      "id": 4601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4602": {
+      "id": 4602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 2600,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "4603": {
+      "id": 4603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 35,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4604": {
+      "id": 4604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 125,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "4605": {
+      "id": 4605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 360,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "4701": {
+      "id": 4701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "4702": {
+      "id": 4702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "4703": {
+      "id": 4703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "4704": {
+      "id": 4704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 420,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "4705": {
+      "id": 4705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 180,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "5": {
+    "5101": {
+      "id": 5101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "5102": {
+      "id": 5102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5103": {
+      "id": 5103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 15,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "5104": {
+      "id": 5104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 35,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5105": {
+      "id": 5105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "5201": {
+      "id": 5201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "5202": {
+      "id": 5202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5203": {
+      "id": 5203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 500,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "5204": {
+      "id": 5204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 100,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5205": {
+      "id": 5205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 28,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5301": {
+      "id": 5301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "5302": {
+      "id": 5302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "5303": {
+      "id": 5303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "5304": {
+      "id": 5304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 70,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5305": {
+      "id": 5305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 210,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox5": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5401": {
+      "id": 5401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5402": {
+      "id": 5402,
+      "unlockCondition": 4,
+      "taskType": 13,
+      "count": 75,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5403": {
+      "id": 5403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 880,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5404": {
+      "id": 5404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5405": {
+      "id": 5405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 3,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5501": {
+      "id": 5501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5502": {
+      "id": 5502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 320,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "5503": {
+      "id": 5503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 245,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "5504": {
+      "id": 5504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 60,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "5505": {
+      "id": 5505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5601": {
+      "id": 5601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5602": {
+      "id": 5602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3200,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "5603": {
+      "id": 5603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 42,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5604": {
+      "id": 5604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5605": {
+      "id": 5605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 420,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "5701": {
+      "id": 5701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "5702": {
+      "id": 5702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 175,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "5703": {
+      "id": 5703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "5704": {
+      "id": 5704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 485,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "5705": {
+      "id": 5705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 200,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "6": {
+    "6101": {
+      "id": 6101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "6102": {
+      "id": 6102,
+      "unlockCondition": 1,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "6103": {
+      "id": 6103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 21,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "6104": {
+      "id": 6104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 45,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6105": {
+      "id": 6105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6201": {
+      "id": 6201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "6202": {
+      "id": 6202,
+      "unlockCondition": 2,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6203": {
+      "id": 6203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "6204": {
+      "id": 6204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6205": {
+      "id": 6205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 30,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6301": {
+      "id": 6301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "6302": {
+      "id": 6302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6303": {
+      "id": 6303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "6304": {
+      "id": 6304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 88,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6305": {
+      "id": 6305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 245,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6401": {
+      "id": 6401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6402": {
+      "id": 6402,
+      "unlockCondition": 4,
+      "taskType": 13,
+      "count": 85,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6403": {
+      "id": 6403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 1200,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6404": {
+      "id": 6404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6405": {
+      "id": 6405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 4,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6501": {
+      "id": 6501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6502": {
+      "id": 6502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 380,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6503": {
+      "id": 6503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 300,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "6504": {
+      "id": 6504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 64,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "6505": {
+      "id": 6505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 18,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6601": {
+      "id": 6601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "6602": {
+      "id": 6602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3800,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "6603": {
+      "id": 6603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 50,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6604": {
+      "id": 6604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 190,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "6605": {
+      "id": 6605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 520,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "6701": {
+      "id": 6701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "6702": {
+      "id": 6702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 240,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film10": 1
+      },
+      "taskIdBackup": 0
+    },
+    "6703": {
+      "id": 6703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 90,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "6704": {
+      "id": 6704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 540,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "6705": {
+      "id": 6705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 240,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "7": {
+    "7101": {
+      "id": 7101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "7102": {
+      "id": 7102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7103": {
+      "id": 7103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "7104": {
+      "id": 7104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 30,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7105": {
+      "id": 7105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "7201": {
+      "id": 7201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "7202": {
+      "id": 7202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 5,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7203": {
+      "id": 7203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 450,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "7204": {
+      "id": 7204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 80,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7205": {
+      "id": 7205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 26,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7301": {
+      "id": 7301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "7302": {
+      "id": 7302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 90,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "7303": {
+      "id": 7303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "7304": {
+      "id": 7304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 50,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7305": {
+      "id": 7305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 180,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7401": {
+      "id": 7401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7402": {
+      "id": 7402,
+      "unlockCondition": 4,
+      "taskType": 15,
+      "count": 45,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7403": {
+      "id": 7403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 560,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7404": {
+      "id": 7404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7405": {
+      "id": 7405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "7501": {
+      "id": 7501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7502": {
+      "id": 7502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 260,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "7503": {
+      "id": 7503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 210,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "7504": {
+      "id": 7504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 56,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "7505": {
+      "id": 7505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 9,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7601": {
+      "id": 7601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7602": {
+      "id": 7602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 2600,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "7603": {
+      "id": 7603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 35,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7604": {
+      "id": 7604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 125,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "7605": {
+      "id": 7605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 360,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "7701": {
+      "id": 7701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "7702": {
+      "id": 7702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "7703": {
+      "id": 7703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "7704": {
+      "id": 7704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 420,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "7705": {
+      "id": 7705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 180,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "8": {
+    "8101": {
+      "id": 8101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "8102": {
+      "id": 8102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8103": {
+      "id": 8103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 15,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "8104": {
+      "id": 8104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 35,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8105": {
+      "id": 8105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "8201": {
+      "id": 8201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "8202": {
+      "id": 8202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8203": {
+      "id": 8203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 500,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "8204": {
+      "id": 8204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 100,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8205": {
+      "id": 8205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 28,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8301": {
+      "id": 8301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "8302": {
+      "id": 8302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "8303": {
+      "id": 8303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "8304": {
+      "id": 8304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 70,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8305": {
+      "id": 8305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 210,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox5": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8401": {
+      "id": 8401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8402": {
+      "id": 8402,
+      "unlockCondition": 4,
+      "taskType": 15,
+      "count": 50,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8403": {
+      "id": 8403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 880,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8404": {
+      "id": 8404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8405": {
+      "id": 8405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 3,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8501": {
+      "id": 8501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8502": {
+      "id": 8502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 320,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "8503": {
+      "id": 8503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 245,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "8504": {
+      "id": 8504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 60,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "8505": {
+      "id": 8505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8601": {
+      "id": 8601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8602": {
+      "id": 8602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3200,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "8603": {
+      "id": 8603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 42,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8604": {
+      "id": 8604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8605": {
+      "id": 8605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 420,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "8701": {
+      "id": 8701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "8702": {
+      "id": 8702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 175,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "8703": {
+      "id": 8703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "8704": {
+      "id": 8704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 485,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "8705": {
+      "id": 8705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 200,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "9": {
+    "9101": {
+      "id": 9101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "9102": {
+      "id": 9102,
+      "unlockCondition": 1,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "9103": {
+      "id": 9103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 21,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "9104": {
+      "id": 9104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 45,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9105": {
+      "id": 9105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9201": {
+      "id": 9201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "9202": {
+      "id": 9202,
+      "unlockCondition": 2,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9203": {
+      "id": 9203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "9204": {
+      "id": 9204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9205": {
+      "id": 9205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 30,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9301": {
+      "id": 9301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "9302": {
+      "id": 9302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9303": {
+      "id": 9303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "9304": {
+      "id": 9304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 88,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9305": {
+      "id": 9305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 245,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9401": {
+      "id": 9401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9402": {
+      "id": 9402,
+      "unlockCondition": 4,
+      "taskType": 15,
+      "count": 60,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9403": {
+      "id": 9403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 1200,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9404": {
+      "id": 9404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9405": {
+      "id": 9405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 4,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9501": {
+      "id": 9501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9502": {
+      "id": 9502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 380,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9503": {
+      "id": 9503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 300,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "9504": {
+      "id": 9504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 64,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "9505": {
+      "id": 9505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 18,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9601": {
+      "id": 9601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "9602": {
+      "id": 9602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3800,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "9603": {
+      "id": 9603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 50,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9604": {
+      "id": 9604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 190,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "9605": {
+      "id": 9605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 520,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "9701": {
+      "id": 9701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "9702": {
+      "id": 9702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 240,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film10": 1
+      },
+      "taskIdBackup": 0
+    },
+    "9703": {
+      "id": 9703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 90,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "9704": {
+      "id": 9704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 540,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "9705": {
+      "id": 9705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 240,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "10": {
+    "10101": {
+      "id": 10101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "10102": {
+      "id": 10102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10103": {
+      "id": 10103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "10104": {
+      "id": 10104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 30,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10105": {
+      "id": 10105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "10201": {
+      "id": 10201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "10202": {
+      "id": 10202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 5,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10203": {
+      "id": 10203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 450,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "10204": {
+      "id": 10204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 80,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10205": {
+      "id": 10205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 26,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10301": {
+      "id": 10301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "10302": {
+      "id": 10302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 90,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "10303": {
+      "id": 10303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "10304": {
+      "id": 10304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 50,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10305": {
+      "id": 10305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 180,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10401": {
+      "id": 10401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10402": {
+      "id": 10402,
+      "unlockCondition": 4,
+      "taskType": 16,
+      "count": 55,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10403": {
+      "id": 10403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 560,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10404": {
+      "id": 10404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10405": {
+      "id": 10405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "10501": {
+      "id": 10501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10502": {
+      "id": 10502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 260,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "10503": {
+      "id": 10503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 210,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "10504": {
+      "id": 10504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 56,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "10505": {
+      "id": 10505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 9,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10601": {
+      "id": 10601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10602": {
+      "id": 10602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 2600,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "10603": {
+      "id": 10603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 35,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10604": {
+      "id": 10604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 125,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "10605": {
+      "id": 10605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 360,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "10701": {
+      "id": 10701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "10702": {
+      "id": 10702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "10703": {
+      "id": 10703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "10704": {
+      "id": 10704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 420,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "10705": {
+      "id": 10705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 180,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "11": {
+    "11101": {
+      "id": 11101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "11102": {
+      "id": 11102,
+      "unlockCondition": 1,
+      "taskType": 7,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11103": {
+      "id": 11103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 15,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "11104": {
+      "id": 11104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 35,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11105": {
+      "id": 11105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 600,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Energy": 5
+      },
+      "taskIdBackup": 0
+    },
+    "11201": {
+      "id": 11201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "11202": {
+      "id": 11202,
+      "unlockCondition": 2,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11203": {
+      "id": 11203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 500,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "11204": {
+      "id": 11204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 100,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11205": {
+      "id": 11205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 28,
+      "rewards": {
+        "9820001": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11301": {
+      "id": 11301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "11302": {
+      "id": 11302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 110,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "11303": {
+      "id": 11303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "11304": {
+      "id": 11304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 70,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11305": {
+      "id": 11305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 210,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox5": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11401": {
+      "id": 11401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11402": {
+      "id": 11402,
+      "unlockCondition": 4,
+      "taskType": 16,
+      "count": 60,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11403": {
+      "id": 11403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 880,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11404": {
+      "id": 11404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11405": {
+      "id": 11405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 3,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11501": {
+      "id": 11501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11502": {
+      "id": 11502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 320,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "11503": {
+      "id": 11503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 245,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "11504": {
+      "id": 11504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 60,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "11505": {
+      "id": 11505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 12,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11601": {
+      "id": 11601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11602": {
+      "id": 11602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3200,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "11603": {
+      "id": 11603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 42,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11604": {
+      "id": 11604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11605": {
+      "id": 11605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 420,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "11701": {
+      "id": 11701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "11702": {
+      "id": 11702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 175,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film4": 1
+      },
+      "taskIdBackup": 0
+    },
+    "11703": {
+      "id": 11703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 80,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "11704": {
+      "id": 11704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 485,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "11705": {
+      "id": 11705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 200,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  },
+  "12": {
+    "12101": {
+      "id": 12101,
+      "unlockCondition": 1,
+      "taskType": 0,
+      "count": 1,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "12102": {
+      "id": 12102,
+      "unlockCondition": 1,
+      "taskType": 6,
+      "count": 7,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "12103": {
+      "id": 12103,
+      "unlockCondition": 1,
+      "taskType": 10,
+      "count": 21,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 10
+      },
+      "taskIdBackup": 0
+    },
+    "12104": {
+      "id": 12104,
+      "unlockCondition": 1,
+      "taskType": 3,
+      "count": 45,
+      "rewards": {
+        "98301": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12105": {
+      "id": 12105,
+      "unlockCondition": 1,
+      "taskType": 2,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 10,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12201": {
+      "id": 12201,
+      "unlockCondition": 2,
+      "taskType": 0,
+      "count": 2,
+      "rewards": {
+        "98808": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "12202": {
+      "id": 12202,
+      "unlockCondition": 2,
+      "taskType": 7,
+      "count": 2,
+      "rewards": {
+        "sevenDayPoint": 25,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12203": {
+      "id": 12203,
+      "unlockCondition": 2,
+      "taskType": 11,
+      "count": 650,
+      "rewards": {
+        "sevenDayPoint": 15,
+        "Energy": 15
+      },
+      "taskIdBackup": 0
+    },
+    "12204": {
+      "id": 12204,
+      "unlockCondition": 2,
+      "taskType": 4,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 30,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12205": {
+      "id": 12205,
+      "unlockCondition": 2,
+      "taskType": 12,
+      "count": 30,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12301": {
+      "id": 12301,
+      "unlockCondition": 3,
+      "taskType": 0,
+      "count": 3,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 10
+      },
+      "taskIdBackup": 0
+    },
+    "12302": {
+      "id": 12302,
+      "unlockCondition": 3,
+      "taskType": 3,
+      "count": 130,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12303": {
+      "id": 12303,
+      "unlockCondition": 3,
+      "taskType": 8,
+      "count": 1,
+      "rewards": {
+        "sevenDayPoint": 80,
+        "Diamond": 15
+      },
+      "taskIdBackup": 0
+    },
+    "12304": {
+      "id": 12304,
+      "unlockCondition": 3,
+      "taskType": 5,
+      "count": 88,
+      "rewards": {
+        "9820002": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12305": {
+      "id": 12305,
+      "unlockCondition": 3,
+      "taskType": 9,
+      "count": 245,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "MhdIIBlindBox2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12401": {
+      "id": 12401,
+      "unlockCondition": 4,
+      "taskType": 0,
+      "count": 4,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12402": {
+      "id": 12402,
+      "unlockCondition": 4,
+      "taskType": 16,
+      "count": 70,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Film3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12403": {
+      "id": 12403,
+      "unlockCondition": 4,
+      "taskType": 11,
+      "count": 1200,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12404": {
+      "id": 12404,
+      "unlockCondition": 4,
+      "taskType": 1,
+      "count": 150,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox1": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12405": {
+      "id": 12405,
+      "unlockCondition": 4,
+      "taskType": 7,
+      "count": 4,
+      "rewards": {
+        "sevenDayPoint": 50,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12501": {
+      "id": 12501,
+      "unlockCondition": 5,
+      "taskType": 0,
+      "count": 5,
+      "rewards": {
+        "98802": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12502": {
+      "id": 12502,
+      "unlockCondition": 5,
+      "taskType": 3,
+      "count": 380,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12503": {
+      "id": 12503,
+      "unlockCondition": 5,
+      "taskType": 4,
+      "count": 300,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "12504": {
+      "id": 12504,
+      "unlockCondition": 5,
+      "taskType": 12,
+      "count": 64,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "12505": {
+      "id": 12505,
+      "unlockCondition": 5,
+      "taskType": 6,
+      "count": 18,
+      "rewards": {
+        "sevenDayPoint": 20,
+        "Film2": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12601": {
+      "id": 12601,
+      "unlockCondition": 6,
+      "taskType": 0,
+      "count": 6,
+      "rewards": {
+        "98801": 1,
+        "sevenDayPoint": 20
+      },
+      "taskIdBackup": 0
+    },
+    "12602": {
+      "id": 12602,
+      "unlockCondition": 6,
+      "taskType": 2,
+      "count": 3800,
+      "rewards": {
+        "91004": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "12603": {
+      "id": 12603,
+      "unlockCondition": 6,
+      "taskType": 10,
+      "count": 50,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "MhdIIBlindBox3": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12604": {
+      "id": 12604,
+      "unlockCondition": 6,
+      "taskType": 5,
+      "count": 190,
+      "rewards": {
+        "sevenDayPoint": 40,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "12605": {
+      "id": 12605,
+      "unlockCondition": 6,
+      "taskType": 3,
+      "count": 520,
+      "rewards": {
+        "98302": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    },
+    "12701": {
+      "id": 12701,
+      "unlockCondition": 7,
+      "taskType": 0,
+      "count": 7,
+      "rewards": {
+        "9820022": 1,
+        "sevenDayPoint": 30
+      },
+      "taskIdBackup": 0
+    },
+    "12702": {
+      "id": 12702,
+      "unlockCondition": 7,
+      "taskType": 5,
+      "count": 240,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Film10": 1
+      },
+      "taskIdBackup": 0
+    },
+    "12703": {
+      "id": 12703,
+      "unlockCondition": 7,
+      "taskType": 12,
+      "count": 90,
+      "rewards": {
+        "9820003": 1,
+        "sevenDayPoint": 60
+      },
+      "taskIdBackup": 0
+    },
+    "12704": {
+      "id": 12704,
+      "unlockCondition": 7,
+      "taskType": 9,
+      "count": 540,
+      "rewards": {
+        "sevenDayPoint": 60,
+        "Energy": 25
+      },
+      "taskIdBackup": 0
+    },
+    "12705": {
+      "id": 12705,
+      "unlockCondition": 7,
+      "taskType": 1,
+      "count": 240,
+      "rewards": {
+        "91005": 1,
+        "sevenDayPoint": 40
+      },
+      "taskIdBackup": 0
+    }
+  }
+}

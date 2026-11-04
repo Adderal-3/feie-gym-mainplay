@@ -1,0 +1,1256 @@
+{
+  "eventpass1": {
+    "id": "eventpass1",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu15",
+    "taskgoose": "aqiuUI15",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "PassNew_eventpass1_1",
+      "PassNew_eventpass1_2",
+      "PassNew_eventpass1_3",
+      "PassNew_eventpass1_4",
+      "PassNew_eventpass1_5",
+      "PassNew_eventpass1_6",
+      "PassNew_eventpass1_7",
+      "PassNew_eventpass1_8",
+      "PassNew_eventpass1_9"
+    ],
+    "passElementFirst": [
+      9981001,
+      9981005,
+      9981009,
+      9981013,
+      9981017,
+      9981021,
+      9981025,
+      9981029,
+      9981033
+    ],
+    "passElementForth": [
+      9981004,
+      9981008,
+      9981012,
+      9981016,
+      9981020,
+      9981024,
+      9981028,
+      9981032,
+      9981036
+    ],
+    "passRewardMailID": 1,
+    "previousPassId": "",
+    "passRebuyChest": {}
+  },
+  "eventpass2": {
+    "id": "eventpass2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu16",
+    "taskgoose": "aqiuUI16",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "PassNew_eventpass2_1",
+      "PassNew_eventpass2_2",
+      "PassNew_eventpass2_3",
+      "PassNew_eventpass2_4",
+      "PassNew_eventpass2_5",
+      "Chest_EPVIP1",
+      "PassNew_eventpass2_6",
+      "PassNew_eventpass2_7",
+      "PassNew_eventpass2_8",
+      "PassNew_eventpass2_9"
+    ],
+    "passElementFirst": [
+      9981037,
+      9981041,
+      9981045,
+      9981049,
+      9981053,
+      9981057,
+      9981061,
+      9981065,
+      9981085
+    ],
+    "passElementForth": [
+      9981040,
+      9981044,
+      9981048,
+      9981052,
+      9981056,
+      9981060,
+      9981064,
+      9981068,
+      9981088
+    ],
+    "passRewardMailID": 2,
+    "previousPassId": "eventpass1",
+    "passRebuyChest": {
+      "93106": 1
+    }
+  },
+  "eventpass3": {
+    "id": "eventpass3",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "taskpet": "1003",
+    "recoveryElementSeries": [
+      "PassNew_eventpass3_1",
+      "PassNew_eventpass3_2",
+      "PassNew_eventpass3_3",
+      "PassNew_eventpass3_4",
+      "Chest_EPVIP2",
+      "PassNew_eventpass3_5",
+      "PassNew_eventpass3_6",
+      "PassNew_eventpass3_7",
+      "PassNew_eventpass3_8"
+    ],
+    "passElementFirst": [
+      9981069,
+      9981073,
+      9981077,
+      9981081,
+      9981089,
+      9981093,
+      9981097,
+      9981121
+    ],
+    "passElementForth": [
+      9981072,
+      9981076,
+      9981080,
+      9981084,
+      9981092,
+      9981096,
+      9981100,
+      9981124
+    ],
+    "passRewardMailID": 3,
+    "previousPassId": "eventpass2",
+    "passRebuyChest": {
+      "93107": 1
+    }
+  },
+  "eventpass4": {
+    "id": "eventpass4",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu15",
+    "taskgoose": "aqiuUI15",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "PassNew_eventpass4_1",
+      "PassNew_eventpass4_2",
+      "PassNew_eventpass4_3",
+      "PassNew_eventpass4_4",
+      "Chest_EPVIP3",
+      "PassNew_eventpass4_5",
+      "PassNew_eventpass4_6",
+      "PassNew_eventpass4_7",
+      "PassNew_eventpass4_8",
+      "PassNew_eventpass4_9"
+    ],
+    "passElementFirst": [
+      9981101,
+      9981105,
+      9981109,
+      9981113,
+      9981117,
+      9981125,
+      9981129,
+      9981133,
+      9981137
+    ],
+    "passElementForth": [
+      9981104,
+      9981108,
+      9981112,
+      9981116,
+      9981120,
+      9981128,
+      9981132,
+      9981136,
+      9981140
+    ],
+    "passRewardMailID": 4,
+    "previousPassId": "eventpass3",
+    "passRebuyChest": {
+      "93108": 1
+    }
+  },
+  "eventpass5": {
+    "id": "eventpass5",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu4",
+    "taskgoose": "aqiuUI4",
+    "taskpet": "2003",
+    "recoveryElementSeries": [
+      "PassNew_eventpass5_1",
+      "PassNew_eventpass5_2",
+      "PassNew_eventpass5_3",
+      "PassNew_eventpass5_4",
+      "Chest_EPVIP4",
+      "PassNew_eventpass5_5",
+      "PassNew_eventpass5_6",
+      "PassNew_eventpass5_7",
+      "PassNew_eventpass5_8",
+      "PassNew_eventpass5_9"
+    ],
+    "passElementFirst": [
+      9981141,
+      9981145,
+      9981149,
+      9981153,
+      9981157,
+      9981161,
+      9981165,
+      9981169,
+      9981173
+    ],
+    "passElementForth": [
+      9981144,
+      9981148,
+      9981152,
+      9981156,
+      9981160,
+      9981164,
+      9981168,
+      9981172,
+      9981176
+    ],
+    "passRewardMailID": 5,
+    "previousPassId": "eventpass4",
+    "passRebuyChest": {
+      "93109": 1
+    }
+  },
+  "eventpass6": {
+    "id": "eventpass6",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu17",
+    "taskgoose": "aqiuUI17",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP5",
+      "PassNew_eventpass6_1",
+      "PassNew_eventpass6_2",
+      "PassNew_eventpass6_3",
+      "PassNew_eventpass6_4",
+      "PassNew_eventpass6_5",
+      "PassNew_eventpass6_6",
+      "PassNew_eventpass6_7",
+      "PassNew_eventpass6_8"
+    ],
+    "passElementFirst": [
+      9981177,
+      9981181,
+      9981185,
+      9981189,
+      9981193,
+      9981197,
+      9981201,
+      9981205
+    ],
+    "passElementForth": [
+      9981180,
+      9981184,
+      9981188,
+      9981192,
+      9981196,
+      9981200,
+      9981204,
+      9981208
+    ],
+    "passRewardMailID": 6,
+    "previousPassId": "eventpass5",
+    "passRebuyChest": {
+      "93110": 1
+    }
+  },
+  "eventpass7": {
+    "id": "eventpass7",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu3",
+    "taskgoose": "aqiuUI3",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP6",
+      "PassNew_eventpass7_1",
+      "PassNew_eventpass7_2",
+      "PassNew_eventpass7_3",
+      "PassNew_eventpass7_4",
+      "PassNew_eventpass7_5",
+      "PassNew_eventpass7_6",
+      "PassNew_eventpass7_7",
+      "PassNew_eventpass7_8",
+      "PassNew_eventpass7_9",
+      "PassNew_eventpass7_10",
+      "PassNew_eventpass7_11"
+    ],
+    "passElementFirst": [
+      9981209,
+      9981213,
+      9981217,
+      9981221,
+      9981225,
+      9981229,
+      9981233,
+      9981237,
+      9981241,
+      9981245,
+      9981249
+    ],
+    "passElementForth": [
+      9981212,
+      9981216,
+      9981220,
+      9981224,
+      9981228,
+      9981232,
+      9981236,
+      9981240,
+      9981244,
+      9981248,
+      9981252
+    ],
+    "passRewardMailID": 7,
+    "previousPassId": "eventpass6",
+    "passRebuyChest": {
+      "93111": 1
+    }
+  },
+  "eventpass8": {
+    "id": "eventpass8",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "taskpet": "3003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP7",
+      "PassNew_eventpass8_1",
+      "PassNew_eventpass8_2",
+      "PassNew_eventpass8_3",
+      "PassNew_eventpass8_4",
+      "PassNew_eventpass8_5",
+      "PassNew_eventpass8_6",
+      "PassNew_eventpass8_7",
+      "PassNew_eventpass8_8",
+      "PassNew_eventpass8_9",
+      "PassNew_eventpass8_10"
+    ],
+    "passElementFirst": [
+      9981253,
+      9981257,
+      9981261,
+      9981265,
+      9981269,
+      9981273,
+      9981277,
+      9981281,
+      9981285,
+      9981289
+    ],
+    "passElementForth": [
+      9981256,
+      9981260,
+      9981264,
+      9981268,
+      9981272,
+      9981276,
+      9981280,
+      9981284,
+      9981288,
+      9981292
+    ],
+    "passRewardMailID": 8,
+    "previousPassId": "eventpass7",
+    "passRebuyChest": {
+      "93112": 1
+    }
+  },
+  "eventpass9": {
+    "id": "eventpass9",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu13",
+    "taskgoose": "aqiuUI13",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP8",
+      "PassNew_eventpass9_1",
+      "PassNew_eventpass9_2",
+      "PassNew_eventpass9_3",
+      "PassNew_eventpass9_4",
+      "PassNew_eventpass9_5",
+      "PassNew_eventpass9_6",
+      "PassNew_eventpass9_7",
+      "PassNew_eventpass9_8"
+    ],
+    "passElementFirst": [
+      9981293,
+      9981297,
+      9981301,
+      9981305,
+      9981309,
+      9981313,
+      9981317,
+      9981321
+    ],
+    "passElementForth": [
+      9981296,
+      9981300,
+      9981304,
+      9981308,
+      9981312,
+      9981316,
+      9981320,
+      9981324
+    ],
+    "passRewardMailID": 9,
+    "previousPassId": "eventpass8",
+    "passRebuyChest": {
+      "93113": 1
+    }
+  },
+  "eventpass10": {
+    "id": "eventpass10",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu3",
+    "taskgoose": "aqiuUI3",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP9",
+      "PassNew_eventpass10_1",
+      "PassNew_eventpass10_2",
+      "PassNew_eventpass10_3",
+      "PassNew_eventpass10_4",
+      "PassNew_eventpass10_5",
+      "PassNew_eventpass10_6"
+    ],
+    "passElementFirst": [
+      9981325,
+      9981329,
+      9981333,
+      9981337,
+      9981341,
+      9981365
+    ],
+    "passElementForth": [
+      9981328,
+      9981332,
+      9981336,
+      9981340,
+      9981344,
+      9981368
+    ],
+    "passRewardMailID": 10,
+    "previousPassId": "eventpass9",
+    "passRebuyChest": {
+      "93114": 1
+    }
+  },
+  "eventpass11": {
+    "id": "eventpass11",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu9",
+    "taskgoose": "aqiuUI9",
+    "taskpet": "4003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP10",
+      "PassNew_eventpass11_1",
+      "PassNew_eventpass11_2",
+      "PassNew_eventpass11_3",
+      "PassNew_eventpass11_4",
+      "PassNew_eventpass11_5",
+      "PassNew_eventpass11_6"
+    ],
+    "passElementFirst": [
+      9981345,
+      9981349,
+      9981353,
+      9981357,
+      9981361,
+      9981369
+    ],
+    "passElementForth": [
+      9981348,
+      9981352,
+      9981356,
+      9981360,
+      9981364,
+      9981372
+    ],
+    "passRewardMailID": 11,
+    "previousPassId": "eventpass10",
+    "passRebuyChest": {
+      "93115": 1
+    }
+  },
+  "eventpass12": {
+    "id": "eventpass12",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu4",
+    "taskgoose": "aqiuUI4",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP11",
+      "PassNew_eventpass12_1",
+      "PassNew_eventpass12_2",
+      "PassNew_eventpass12_3",
+      "PassNew_eventpass12_4",
+      "PassNew_eventpass12_5",
+      "PassNew_eventpass12_6"
+    ],
+    "passElementFirst": [
+      9981373,
+      9981377,
+      9981381,
+      9981385,
+      9981389,
+      9981393
+    ],
+    "passElementForth": [
+      9981376,
+      9981380,
+      9981384,
+      9981388,
+      9981392,
+      9981396
+    ],
+    "passRewardMailID": 12,
+    "previousPassId": "eventpass11",
+    "passRebuyChest": {
+      "93116": 1
+    }
+  },
+  "eventpass13": {
+    "id": "eventpass13",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "taskpet": "5003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP12",
+      "PassNew_eventpass13_1",
+      "PassNew_eventpass13_2",
+      "PassNew_eventpass13_3",
+      "PassNew_eventpass13_4",
+      "PassNew_eventpass13_5",
+      "PassNew_eventpass13_6"
+    ],
+    "passElementFirst": [
+      9981397,
+      9981401,
+      9981405,
+      9981409,
+      9981413,
+      9981417
+    ],
+    "passElementForth": [
+      9981400,
+      9981404,
+      9981408,
+      9981412,
+      9981416,
+      9981420
+    ],
+    "passRewardMailID": 13,
+    "previousPassId": "eventpass12",
+    "passRebuyChest": {
+      "93117": 1
+    }
+  },
+  "eventpass14": {
+    "id": "eventpass14",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP13",
+      "PassNew_eventpass14_1",
+      "PassNew_eventpass14_2",
+      "PassNew_eventpass14_3",
+      "PassNew_eventpass14_4",
+      "PassNew_eventpass14_5",
+      "PassNew_eventpass14_6"
+    ],
+    "passElementFirst": [
+      9981421,
+      9981425,
+      9981429,
+      9981433,
+      9981437,
+      9981441
+    ],
+    "passElementForth": [
+      9981424,
+      9981428,
+      9981432,
+      9981436,
+      9981440,
+      9981444
+    ],
+    "passRewardMailID": 14,
+    "previousPassId": "eventpass13",
+    "passRebuyChest": {
+      "93118": 1
+    }
+  },
+  "eventpass15": {
+    "id": "eventpass15",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu16",
+    "taskgoose": "aqiu16",
+    "taskpet": "6003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP14",
+      "PassNew_eventpass15_1",
+      "PassNew_eventpass15_2",
+      "PassNew_eventpass15_3",
+      "PassNew_eventpass15_4",
+      "PassNew_eventpass15_5",
+      "PassNew_eventpass15_6",
+      "PassNew_eventpass15_7"
+    ],
+    "passElementFirst": [
+      9981445,
+      9981449,
+      9981453,
+      9981457,
+      9981461,
+      9981465,
+      9981469
+    ],
+    "passElementForth": [
+      9981448,
+      9981452,
+      9981456,
+      9981460,
+      9981464,
+      9981468,
+      9981472
+    ],
+    "passRewardMailID": 15,
+    "previousPassId": "eventpass14",
+    "passRebuyChest": {
+      "93119": 1
+    }
+  },
+  "eventpass16": {
+    "id": "eventpass16",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP15",
+      "PassNew_eventpass16_1",
+      "PassNew_eventpass16_2",
+      "PassNew_eventpass16_3",
+      "PassNew_eventpass16_4",
+      "PassNew_eventpass16_5",
+      "PassNew_eventpass16_6"
+    ],
+    "passElementFirst": [
+      9981473,
+      9981477,
+      9981481,
+      9981485,
+      9981489,
+      9981493
+    ],
+    "passElementForth": [
+      9981476,
+      9981480,
+      9981484,
+      9981488,
+      9981492,
+      9981496
+    ],
+    "passRewardMailID": 16,
+    "previousPassId": "eventpass15",
+    "passRebuyChest": {
+      "93120": 1
+    }
+  },
+  "eventpass17": {
+    "id": "eventpass17",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu15",
+    "taskgoose": "aqiuUI15",
+    "taskpet": "7003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP16",
+      "PassNew_eventpass17_1",
+      "PassNew_eventpass17_2",
+      "PassNew_eventpass17_3",
+      "PassNew_eventpass17_4",
+      "PassNew_eventpass17_5",
+      "PassNew_eventpass17_6",
+      "PassNew_eventpass17_7",
+      "PassNew_eventpass17_8"
+    ],
+    "passElementFirst": [
+      9981497,
+      9981501,
+      9981505,
+      9981509,
+      9981513,
+      9981517,
+      9981521,
+      9981525
+    ],
+    "passElementForth": [
+      9981500,
+      9981504,
+      9981508,
+      9981512,
+      9981516,
+      9981520,
+      9981524,
+      9981528
+    ],
+    "passRewardMailID": 17,
+    "previousPassId": "eventpass16",
+    "passRebuyChest": {
+      "93121": 1
+    }
+  },
+  "eventpass18": {
+    "id": "eventpass18",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu12",
+    "taskgoose": "aqiuUI12",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP17",
+      "PassNew_eventpass18_1",
+      "PassNew_eventpass18_2",
+      "PassNew_eventpass18_3",
+      "PassNew_eventpass18_4"
+    ],
+    "passElementFirst": [
+      9981529,
+      9981533,
+      9981537,
+      9981541
+    ],
+    "passElementForth": [
+      9981532,
+      9981536,
+      9981540,
+      9981544
+    ],
+    "passRewardMailID": 18,
+    "previousPassId": "eventpass17",
+    "passRebuyChest": {
+      "93122": 1
+    }
+  },
+  "eventpass19": {
+    "id": "eventpass19",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP18",
+      "PassNew_eventpass19_1",
+      "PassNew_eventpass19_2",
+      "PassNew_eventpass19_3"
+    ],
+    "passElementFirst": [
+      9981545,
+      9981549,
+      9981553
+    ],
+    "passElementForth": [
+      9981548,
+      9981552,
+      9981556
+    ],
+    "passRewardMailID": 19,
+    "previousPassId": "eventpass18",
+    "passRebuyChest": {
+      "93123": 1
+    }
+  },
+  "eventpass20": {
+    "id": "eventpass20",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu17",
+    "taskgoose": "aqiuUI17",
+    "taskpet": "8003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP19",
+      "PassNew_eventpass20_1",
+      "PassNew_eventpass20_2",
+      "PassNew_eventpass20_3",
+      "PassNew_eventpass20_4",
+      "PassNew_eventpass20_5"
+    ],
+    "passElementFirst": [
+      9981557,
+      9981561,
+      9981565,
+      9981569,
+      9981585
+    ],
+    "passElementForth": [
+      9981560,
+      9981564,
+      9981568,
+      9981572,
+      9981588
+    ],
+    "passRewardMailID": 20,
+    "previousPassId": "eventpass19",
+    "passRebuyChest": {
+      "93124": 1
+    }
+  },
+  "eventpass21": {
+    "id": "eventpass21",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP20",
+      "PassNew_eventpass21_1",
+      "PassNew_eventpass21_2",
+      "PassNew_eventpass21_3",
+      "PassNew_eventpass21_4"
+    ],
+    "passElementFirst": [
+      9981573,
+      9981577,
+      9981581,
+      9981589
+    ],
+    "passElementForth": [
+      9981576,
+      9981580,
+      9981584,
+      9981592
+    ],
+    "passRewardMailID": 21,
+    "previousPassId": "eventpass20",
+    "passRebuyChest": {
+      "93125": 1
+    }
+  },
+  "eventpass22": {
+    "id": "eventpass22",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu4",
+    "taskgoose": "aqiuUI4",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP21",
+      "PassNew_eventpass22_1",
+      "PassNew_eventpass22_2",
+      "PassNew_eventpass22_3",
+      "PassNew_eventpass22_4",
+      "PassNew_eventpass22_5"
+    ],
+    "passElementFirst": [
+      9981593,
+      9981597,
+      9981601,
+      9981605,
+      9981609
+    ],
+    "passElementForth": [
+      9981596,
+      9981600,
+      9981604,
+      9981608,
+      9981612
+    ],
+    "passRewardMailID": 22,
+    "previousPassId": "eventpass21",
+    "passRebuyChest": {
+      "93126": 1
+    }
+  },
+  "eventpass23": {
+    "id": "eventpass23",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu12",
+    "taskgoose": "aqiuUI12",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP22",
+      "PassNew_eventpass23_1",
+      "PassNew_eventpass23_2",
+      "PassNew_eventpass23_3",
+      "PassNew_eventpass23_4",
+      "PassNew_eventpass23_5",
+      "PassNew_eventpass23_6",
+      "PassNew_eventpass23_7"
+    ],
+    "passElementFirst": [
+      9981613,
+      9981617,
+      9981621,
+      9981625,
+      9981629,
+      9981633,
+      9981637
+    ],
+    "passElementForth": [
+      9981616,
+      9981620,
+      9981624,
+      9981628,
+      9981632,
+      9981636,
+      9981640
+    ],
+    "passRewardMailID": 23,
+    "previousPassId": "eventpass22",
+    "passRebuyChest": {
+      "93127": 1
+    }
+  },
+  "eventpass24": {
+    "id": "eventpass24",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "taskpet": "9003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP23",
+      "PassNew_eventpass24_1",
+      "PassNew_eventpass24_2",
+      "PassNew_eventpass24_3",
+      "PassNew_eventpass24_4",
+      "PassNew_eventpass24_5"
+    ],
+    "passElementFirst": [
+      9981641,
+      9981645,
+      9981649,
+      9981653,
+      9981665
+    ],
+    "passElementForth": [
+      9981644,
+      9981648,
+      9981652,
+      9981656,
+      9981668
+    ],
+    "passRewardMailID": 24,
+    "previousPassId": "eventpass23",
+    "passRebuyChest": {
+      "93128": 1
+    }
+  },
+  "eventpass25": {
+    "id": "eventpass25",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu13",
+    "taskgoose": "aqiuUI13",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP24",
+      "PassNew_eventpass25_1",
+      "PassNew_eventpass25_2",
+      "PassNew_eventpass25_3",
+      "PassNew_eventpass25_4",
+      "PassNew_eventpass25_5"
+    ],
+    "passElementFirst": [
+      9981657,
+      9981661,
+      9981669,
+      9981673,
+      9981677
+    ],
+    "passElementForth": [
+      9981660,
+      9981664,
+      9981672,
+      9981676,
+      9981680
+    ],
+    "passRewardMailID": 25,
+    "previousPassId": "eventpass24",
+    "passRebuyChest": {
+      "93129": 1
+    }
+  },
+  "eventpass26": {
+    "id": "eventpass26",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu5",
+    "taskgoose": "aqiuUI5",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP25",
+      "PassNew_eventpass26_1",
+      "PassNew_eventpass26_2",
+      "PassNew_eventpass26_3",
+      "PassNew_eventpass26_4",
+      "PassNew_eventpass26_5"
+    ],
+    "passElementFirst": [
+      9981681,
+      9981685,
+      9981689,
+      9981693,
+      9981697
+    ],
+    "passElementForth": [
+      9981684,
+      9981688,
+      9981692,
+      9981696,
+      9981700
+    ],
+    "passRewardMailID": 26,
+    "previousPassId": "eventpass25",
+    "passRebuyChest": {
+      "93130": 1
+    }
+  },
+  "eventpass27": {
+    "id": "eventpass27",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP26",
+      "PassNew_eventpass27_1",
+      "PassNew_eventpass27_2",
+      "PassNew_eventpass27_3",
+      "PassNew_eventpass27_4",
+      "PassNew_eventpass27_5"
+    ],
+    "passElementFirst": [
+      9981701,
+      9981705,
+      9981709,
+      9981713,
+      9981717
+    ],
+    "passElementForth": [
+      9981704,
+      9981708,
+      9981712,
+      9981716,
+      9981720
+    ],
+    "passRewardMailID": 27,
+    "previousPassId": "eventpass26",
+    "passRebuyChest": {
+      "93131": 1
+    }
+  },
+  "eventpass28": {
+    "id": "eventpass28",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu9",
+    "taskgoose": "aqiuUI9",
+    "taskpet": "10003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP27",
+      "PassNew_eventpass28_1",
+      "PassNew_eventpass28_2",
+      "PassNew_eventpass28_3",
+      "PassNew_eventpass28_4",
+      "PassNew_eventpass28_5"
+    ],
+    "passElementFirst": [
+      9981721,
+      9981725,
+      9981729,
+      9981733,
+      9981737
+    ],
+    "passElementForth": [
+      9981724,
+      9981728,
+      9981732,
+      9981736,
+      9981740
+    ],
+    "passRewardMailID": 28,
+    "previousPassId": "eventpass27",
+    "passRebuyChest": {
+      "93132": 1
+    }
+  },
+  "eventpass29": {
+    "id": "eventpass29",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu17",
+    "taskgoose": "aqiuUI17",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP28",
+      "PassNew_eventpass29_1",
+      "PassNew_eventpass29_2",
+      "PassNew_eventpass29_3",
+      "PassNew_eventpass29_4",
+      "PassNew_eventpass29_5"
+    ],
+    "passElementFirst": [
+      9981741,
+      9981745,
+      9981749,
+      9981753,
+      9981757
+    ],
+    "passElementForth": [
+      9981744,
+      9981748,
+      9981752,
+      9981756,
+      9981760
+    ],
+    "passRewardMailID": 29,
+    "previousPassId": "eventpass28",
+    "passRebuyChest": {
+      "93133": 1
+    }
+  },
+  "eventpass30": {
+    "id": "eventpass30",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu14",
+    "taskgoose": "aqiuUI14",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP29",
+      "PassNew_eventpass30_1",
+      "PassNew_eventpass30_2",
+      "PassNew_eventpass30_3",
+      "PassNew_eventpass30_4",
+      "PassNew_eventpass30_5"
+    ],
+    "passElementFirst": [
+      9981761,
+      9981765,
+      9981769,
+      9981773,
+      9981777
+    ],
+    "passElementForth": [
+      9981764,
+      9981768,
+      9981772,
+      9981776,
+      9981780
+    ],
+    "passRewardMailID": 30,
+    "previousPassId": "eventpass29",
+    "passRebuyChest": {
+      "93134": 1
+    }
+  },
+  "eventpass31": {
+    "id": "eventpass31",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP30",
+      "PassNew_eventpass31_1",
+      "PassNew_eventpass31_2",
+      "PassNew_eventpass31_3",
+      "PassNew_eventpass31_4",
+      "PassNew_eventpass31_5"
+    ],
+    "passElementFirst": [
+      9981781,
+      9981785,
+      9981789,
+      9981793,
+      9981797
+    ],
+    "passElementForth": [
+      9981784,
+      9981788,
+      9981792,
+      9981796,
+      9981800
+    ],
+    "passRewardMailID": 31,
+    "previousPassId": "eventpass30",
+    "passRebuyChest": {
+      "93135": 1
+    }
+  },
+  "eventpass32": {
+    "id": "eventpass32",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu4",
+    "taskgoose": "aqiuUI4",
+    "taskpet": "11003",
+    "recoveryElementSeries": [
+      "Chest_EPVIP31",
+      "PassNew_eventpass32_1",
+      "PassNew_eventpass32_2",
+      "PassNew_eventpass32_3",
+      "PassNew_eventpass32_4",
+      "PassNew_eventpass32_5"
+    ],
+    "passElementFirst": [
+      9981801,
+      9981805,
+      9981809,
+      9981813,
+      9981817
+    ],
+    "passElementForth": [
+      9981804,
+      9981808,
+      9981812,
+      9981816,
+      9981820
+    ],
+    "passRewardMailID": 32,
+    "previousPassId": "eventpass31",
+    "passRebuyChest": {
+      "93136": 1
+    }
+  },
+  "eventpass33": {
+    "id": "eventpass33",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu12",
+    "taskgoose": "aqiuUI12",
+    "taskpet": "",
+    "recoveryElementSeries": [
+      "Chest_EPVIP32",
+      "PassNew_eventpass33_1",
+      "PassNew_eventpass33_2",
+      "PassNew_eventpass33_3",
+      "PassNew_eventpass33_4",
+      "PassNew_eventpass33_5"
+    ],
+    "passElementFirst": [
+      9981821,
+      9981825,
+      9981829,
+      9981833,
+      9981837
+    ],
+    "passElementForth": [
+      9981824,
+      9981828,
+      9981832,
+      9981836,
+      9981840
+    ],
+    "passRewardMailID": 33,
+    "previousPassId": "eventpass32",
+    "passRebuyChest": {
+      "93137": 1
+    }
+  }
+}

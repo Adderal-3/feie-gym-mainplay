@@ -1,0 +1,1150 @@
+{
+  "monopoly1": {
+    "1": {
+      "id": 1,
+      "start": 1,
+      "number": 1,
+      "type": 3,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "2": {
+      "id": 2,
+      "start": 0,
+      "number": 8,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "3": {
+      "id": 3,
+      "start": 0,
+      "number": 15,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "4": {
+      "id": 4,
+      "start": 0,
+      "number": 22,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "5": {
+      "id": 5,
+      "start": 0,
+      "number": 29,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "6": {
+      "id": 6,
+      "start": 0,
+      "number": 30,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "7": {
+      "id": 7,
+      "start": 0,
+      "number": 37,
+      "type": 4,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "8": {
+      "id": 8,
+      "start": 0,
+      "number": 38,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "9": {
+      "id": 9,
+      "start": 0,
+      "number": 45,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "10": {
+      "id": 10,
+      "start": 0,
+      "number": 46,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "11": {
+      "id": 11,
+      "start": 0,
+      "number": 47,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "12": {
+      "id": 12,
+      "start": 0,
+      "number": 48,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "13": {
+      "id": 13,
+      "start": 0,
+      "number": 49,
+      "type": 3,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "14": {
+      "id": 14,
+      "start": 0,
+      "number": 42,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "15": {
+      "id": 15,
+      "start": 0,
+      "number": 35,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "16": {
+      "id": 16,
+      "start": 0,
+      "number": 28,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "17": {
+      "id": 17,
+      "start": 0,
+      "number": 21,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "18": {
+      "id": 18,
+      "start": 0,
+      "number": 20,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "19": {
+      "id": 19,
+      "start": 0,
+      "number": 13,
+      "type": 4,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "20": {
+      "id": 20,
+      "start": 0,
+      "number": 12,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "21": {
+      "id": 21,
+      "start": 0,
+      "number": 5,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "22": {
+      "id": 22,
+      "start": 0,
+      "number": 4,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "23": {
+      "id": 23,
+      "start": 0,
+      "number": 3,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "24": {
+      "id": 24,
+      "start": 0,
+      "number": 2,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    }
+  },
+  "monopoly2": {
+    "101": {
+      "id": 101,
+      "start": 1,
+      "number": 1,
+      "type": 3,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "102": {
+      "id": 102,
+      "start": 0,
+      "number": 8,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "103": {
+      "id": 103,
+      "start": 0,
+      "number": 15,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "104": {
+      "id": 104,
+      "start": 0,
+      "number": 22,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "105": {
+      "id": 105,
+      "start": 0,
+      "number": 29,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "106": {
+      "id": 106,
+      "start": 0,
+      "number": 30,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "107": {
+      "id": 107,
+      "start": 0,
+      "number": 37,
+      "type": 4,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "108": {
+      "id": 108,
+      "start": 0,
+      "number": 38,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "109": {
+      "id": 109,
+      "start": 0,
+      "number": 45,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "110": {
+      "id": 110,
+      "start": 0,
+      "number": 46,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "111": {
+      "id": 111,
+      "start": 0,
+      "number": 47,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "112": {
+      "id": 112,
+      "start": 0,
+      "number": 48,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "113": {
+      "id": 113,
+      "start": 0,
+      "number": 49,
+      "type": 3,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "114": {
+      "id": 114,
+      "start": 0,
+      "number": 42,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "115": {
+      "id": 115,
+      "start": 0,
+      "number": 35,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "116": {
+      "id": 116,
+      "start": 0,
+      "number": 28,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "117": {
+      "id": 117,
+      "start": 0,
+      "number": 21,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "118": {
+      "id": 118,
+      "start": 0,
+      "number": 20,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "119": {
+      "id": 119,
+      "start": 0,
+      "number": 13,
+      "type": 4,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "",
+      "exRewardNum": [],
+      "bornReward": [],
+      "reward": []
+    },
+    "120": {
+      "id": 120,
+      "start": 0,
+      "number": 12,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        6,
+        9,
+        15,
+        30,
+        45,
+        60
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "121": {
+      "id": 121,
+      "start": 0,
+      "number": 5,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "122": {
+      "id": 122,
+      "start": 0,
+      "number": 4,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Energy",
+      "exRewardNum": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "123": {
+      "id": 123,
+      "start": 0,
+      "number": 3,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "monopolyCoin",
+      "exRewardNum": [
+        8,
+        12,
+        20,
+        40,
+        60,
+        80
+      ],
+      "bornReward": [],
+      "reward": []
+    },
+    "124": {
+      "id": 124,
+      "start": 0,
+      "number": 2,
+      "type": 2,
+      "weight": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "exRewardType": "Coin",
+      "exRewardNum": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "bornReward": [],
+      "reward": []
+    }
+  }
+}

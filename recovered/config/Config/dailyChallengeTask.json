@@ -1,0 +1,1574 @@
+{
+  "1": {
+    "1101": {
+      "id": 1101,
+      "unlockCondition": 0,
+      "count": [
+        50
+      ],
+      "typeID": 1,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1102": {
+      "id": 1102,
+      "unlockCondition": 0,
+      "count": [
+        5,
+        10,
+        20
+      ],
+      "typeID": 2,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1103": {
+      "id": 1103,
+      "unlockCondition": 0,
+      "count": [
+        1,
+        2,
+        4
+      ],
+      "typeID": 3,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1104": {
+      "id": 1104,
+      "unlockCondition": 0,
+      "count": [
+        100,
+        200,
+        300
+      ],
+      "typeID": 4,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1105": {
+      "id": 1105,
+      "unlockCondition": 0,
+      "count": [
+        30
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        }
+      ],
+      "score": 5
+    },
+    "1106": {
+      "id": 1106,
+      "unlockCondition": 0,
+      "count": [
+        75
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        }
+      ],
+      "score": 10
+    },
+    "1107": {
+      "id": 1107,
+      "unlockCondition": 0,
+      "count": [
+        150
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Film2": 1
+        }
+      ],
+      "score": 10
+    },
+    "1108": {
+      "id": 1108,
+      "unlockCondition": 0,
+      "count": [
+        225,
+        300,
+        400
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1109": {
+      "id": 1109,
+      "unlockCondition": 0,
+      "count": [
+        300,
+        450,
+        675
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "Energy": 7
+        }
+      ],
+      "score": 10
+    },
+    "1110": {
+      "id": 1110,
+      "unlockCondition": 0,
+      "count": [
+        450,
+        750,
+        1250
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 10
+    },
+    "1111": {
+      "id": 1111,
+      "unlockCondition": 0,
+      "count": [
+        600,
+        1050,
+        1800
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1112": {
+      "id": 1112,
+      "unlockCondition": 0,
+      "count": [
+        750,
+        1350,
+        2450
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 7
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "Energy": 12
+        }
+      ],
+      "score": 15
+    },
+    "1113": {
+      "id": 1113,
+      "unlockCondition": 0,
+      "count": [
+        900,
+        1800,
+        3600
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 15
+    },
+    "1114": {
+      "id": 1114,
+      "unlockCondition": 0,
+      "count": [
+        1050,
+        2250,
+        5000
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 12
+        },
+        {
+          "Energy": 15
+        },
+        {
+          "Energy": 18
+        }
+      ],
+      "score": 20
+    },
+    "1115": {
+      "id": 1115,
+      "unlockCondition": 1114,
+      "count": [
+        1680,
+        3600,
+        8000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1116": {
+      "id": 1116,
+      "unlockCondition": 1115,
+      "count": [
+        2520,
+        5400,
+        12000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1117": {
+      "id": 1117,
+      "unlockCondition": 1116,
+      "count": [
+        3360,
+        7200,
+        16000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1118": {
+      "id": 1118,
+      "unlockCondition": 1117,
+      "count": [
+        4200,
+        9000,
+        20000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1119": {
+      "id": 1119,
+      "unlockCondition": 1118,
+      "count": [
+        5040,
+        10800,
+        24000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1120": {
+      "id": 1120,
+      "unlockCondition": 1119,
+      "count": [
+        5880,
+        12600,
+        28000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1121": {
+      "id": 1121,
+      "unlockCondition": 1120,
+      "count": [
+        6720,
+        14400,
+        32000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1122": {
+      "id": 1122,
+      "unlockCondition": 1121,
+      "count": [
+        7560,
+        16200,
+        36000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1123": {
+      "id": 1123,
+      "unlockCondition": 1122,
+      "count": [
+        8400,
+        18000,
+        40000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    }
+  },
+  "2": {
+    "1201": {
+      "id": 1201,
+      "unlockCondition": 0,
+      "count": [
+        50
+      ],
+      "typeID": 1,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1202": {
+      "id": 1202,
+      "unlockCondition": 0,
+      "count": [
+        5,
+        10,
+        20
+      ],
+      "typeID": 2,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1203": {
+      "id": 1203,
+      "unlockCondition": 0,
+      "count": [
+        100,
+        200,
+        300
+      ],
+      "typeID": 5,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1204": {
+      "id": 1204,
+      "unlockCondition": 0,
+      "count": [
+        30
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1205": {
+      "id": 1205,
+      "unlockCondition": 0,
+      "count": [
+        75
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        }
+      ],
+      "score": 5
+    },
+    "1206": {
+      "id": 1206,
+      "unlockCondition": 0,
+      "count": [
+        150
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        }
+      ],
+      "score": 10
+    },
+    "1207": {
+      "id": 1207,
+      "unlockCondition": 0,
+      "count": [
+        225,
+        300,
+        400
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Film2": 1
+        }
+      ],
+      "score": 10
+    },
+    "1208": {
+      "id": 1208,
+      "unlockCondition": 0,
+      "count": [
+        300,
+        450,
+        675
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "Energy": 7
+        }
+      ],
+      "score": 10
+    },
+    "1209": {
+      "id": 1209,
+      "unlockCondition": 0,
+      "count": [
+        375,
+        600,
+        960
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 10
+    },
+    "1210": {
+      "id": 1210,
+      "unlockCondition": 0,
+      "count": [
+        450,
+        900,
+        1800
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 7
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "Energy": 12
+        }
+      ],
+      "score": 10
+    },
+    "1211": {
+      "id": 1211,
+      "unlockCondition": 0,
+      "count": [
+        600,
+        1200,
+        2400
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 10
+    },
+    "1212": {
+      "id": 1212,
+      "unlockCondition": 0,
+      "count": [
+        750,
+        1500,
+        3000
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 12
+        },
+        {
+          "Energy": 15
+        },
+        {
+          "Energy": 18
+        }
+      ],
+      "score": 15
+    },
+    "1213": {
+      "id": 1213,
+      "unlockCondition": 1212,
+      "count": [
+        1200,
+        2400,
+        4800
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1214": {
+      "id": 1214,
+      "unlockCondition": 1213,
+      "count": [
+        1800,
+        3600,
+        7200
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1215": {
+      "id": 1215,
+      "unlockCondition": 1214,
+      "count": [
+        2400,
+        4800,
+        9600
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1216": {
+      "id": 1216,
+      "unlockCondition": 1215,
+      "count": [
+        3000,
+        6000,
+        12000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1217": {
+      "id": 1217,
+      "unlockCondition": 1216,
+      "count": [
+        3600,
+        7200,
+        14400
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1218": {
+      "id": 1218,
+      "unlockCondition": 1217,
+      "count": [
+        4200,
+        8400,
+        16800
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1219": {
+      "id": 1219,
+      "unlockCondition": 1218,
+      "count": [
+        4800,
+        9600,
+        19200
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1220": {
+      "id": 1220,
+      "unlockCondition": 1219,
+      "count": [
+        5400,
+        10800,
+        21600
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1221": {
+      "id": 1221,
+      "unlockCondition": 1220,
+      "count": [
+        6000,
+        12000,
+        24000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    }
+  },
+  "3": {
+    "1301": {
+      "id": 1301,
+      "unlockCondition": 0,
+      "count": [
+        50
+      ],
+      "typeID": 1,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1302": {
+      "id": 1302,
+      "unlockCondition": 0,
+      "count": [
+        5,
+        10,
+        20
+      ],
+      "typeID": 2,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1303": {
+      "id": 1303,
+      "unlockCondition": 0,
+      "count": [
+        1,
+        2,
+        4
+      ],
+      "typeID": 3,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1304": {
+      "id": 1304,
+      "unlockCondition": 0,
+      "count": [
+        3,
+        5,
+        7
+      ],
+      "typeID": 3,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1305": {
+      "id": 1305,
+      "unlockCondition": 0,
+      "count": [
+        30
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        }
+      ],
+      "score": 5
+    },
+    "1306": {
+      "id": 1306,
+      "unlockCondition": 0,
+      "count": [
+        75
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        }
+      ],
+      "score": 10
+    },
+    "1307": {
+      "id": 1307,
+      "unlockCondition": 0,
+      "count": [
+        150
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Film2": 1
+        }
+      ],
+      "score": 10
+    },
+    "1308": {
+      "id": 1308,
+      "unlockCondition": 0,
+      "count": [
+        225,
+        300,
+        400
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1309": {
+      "id": 1309,
+      "unlockCondition": 0,
+      "count": [
+        300,
+        450,
+        675
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "Energy": 7
+        }
+      ],
+      "score": 10
+    },
+    "1310": {
+      "id": 1310,
+      "unlockCondition": 0,
+      "count": [
+        450,
+        750,
+        1250
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 10
+    },
+    "1311": {
+      "id": 1311,
+      "unlockCondition": 0,
+      "count": [
+        600,
+        1050,
+        1800
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1312": {
+      "id": 1312,
+      "unlockCondition": 0,
+      "count": [
+        750,
+        1350,
+        2450
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 7
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "Energy": 12
+        }
+      ],
+      "score": 15
+    },
+    "1313": {
+      "id": 1313,
+      "unlockCondition": 0,
+      "count": [
+        900,
+        1800,
+        3600
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 15
+    },
+    "1314": {
+      "id": 1314,
+      "unlockCondition": 0,
+      "count": [
+        1050,
+        2250,
+        5000
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 12
+        },
+        {
+          "Energy": 15
+        },
+        {
+          "Energy": 18
+        }
+      ],
+      "score": 20
+    },
+    "1315": {
+      "id": 1315,
+      "unlockCondition": 1314,
+      "count": [
+        1680,
+        3600,
+        8000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1316": {
+      "id": 1316,
+      "unlockCondition": 1315,
+      "count": [
+        2520,
+        5400,
+        12000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1317": {
+      "id": 1317,
+      "unlockCondition": 1316,
+      "count": [
+        3360,
+        7200,
+        16000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1318": {
+      "id": 1318,
+      "unlockCondition": 1317,
+      "count": [
+        4200,
+        9000,
+        20000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1319": {
+      "id": 1319,
+      "unlockCondition": 1318,
+      "count": [
+        5040,
+        10800,
+        24000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1320": {
+      "id": 1320,
+      "unlockCondition": 1319,
+      "count": [
+        5880,
+        12600,
+        28000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1321": {
+      "id": 1321,
+      "unlockCondition": 1320,
+      "count": [
+        6720,
+        14400,
+        32000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1322": {
+      "id": 1322,
+      "unlockCondition": 1321,
+      "count": [
+        7560,
+        16200,
+        36000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    },
+    "1323": {
+      "id": 1323,
+      "unlockCondition": 1322,
+      "count": [
+        8400,
+        18000,
+        40000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 1
+    }
+  },
+  "4": {
+    "1401": {
+      "id": 1401,
+      "unlockCondition": 0,
+      "count": [
+        50
+      ],
+      "typeID": 1,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1402": {
+      "id": 1402,
+      "unlockCondition": 0,
+      "count": [
+        5,
+        10,
+        20
+      ],
+      "typeID": 2,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1403": {
+      "id": 1403,
+      "unlockCondition": 0,
+      "count": [
+        1,
+        2,
+        4
+      ],
+      "typeID": 3,
+      "dailytaskFreeReward": [
+        {
+          "Film1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1404": {
+      "id": 1404,
+      "unlockCondition": 0,
+      "count": [
+        3,
+        5,
+        7
+      ],
+      "typeID": 3,
+      "dailytaskFreeReward": [
+        {
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "score": 5
+    },
+    "1405": {
+      "id": 1405,
+      "unlockCondition": 0,
+      "count": [
+        30
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        }
+      ],
+      "score": 5
+    },
+    "1406": {
+      "id": 1406,
+      "unlockCondition": 0,
+      "count": [
+        75
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        }
+      ],
+      "score": 10
+    },
+    "1407": {
+      "id": 1407,
+      "unlockCondition": 0,
+      "count": [
+        150
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Film2": 1
+        }
+      ],
+      "score": 10
+    },
+    "1408": {
+      "id": 1408,
+      "unlockCondition": 0,
+      "count": [
+        225,
+        300,
+        400
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1409": {
+      "id": 1409,
+      "unlockCondition": 0,
+      "count": [
+        300,
+        450,
+        675
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 3
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "Energy": 7
+        }
+      ],
+      "score": 10
+    },
+    "1410": {
+      "id": 1410,
+      "unlockCondition": 0,
+      "count": [
+        450,
+        750,
+        1250
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 10
+    },
+    "1411": {
+      "id": 1411,
+      "unlockCondition": 0,
+      "count": [
+        600,
+        1050,
+        1800
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Coin": 100
+        },
+        {
+          "Coin": 150
+        },
+        {
+          "Coin": 200
+        }
+      ],
+      "score": 10
+    },
+    "1412": {
+      "id": 1412,
+      "unlockCondition": 0,
+      "count": [
+        750,
+        1350,
+        2450
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 7
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "Energy": 12
+        }
+      ],
+      "score": 15
+    },
+    "1413": {
+      "id": 1413,
+      "unlockCondition": 0,
+      "count": [
+        900,
+        1800,
+        3600
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "98808": 1
+        },
+        {
+          "98802": 1
+        },
+        {
+          "98802": 1
+        }
+      ],
+      "score": 15
+    },
+    "1414": {
+      "id": 1414,
+      "unlockCondition": 0,
+      "count": [
+        1050,
+        2250,
+        5000
+      ],
+      "typeID": 6,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 12
+        },
+        {
+          "Energy": 15
+        },
+        {
+          "Energy": 18
+        }
+      ],
+      "score": 20
+    },
+    "1415": {
+      "id": 1415,
+      "unlockCondition": 1414,
+      "count": [
+        1680,
+        3600,
+        8000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1416": {
+      "id": 1416,
+      "unlockCondition": 1415,
+      "count": [
+        2520,
+        5400,
+        12000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1417": {
+      "id": 1417,
+      "unlockCondition": 1416,
+      "count": [
+        3360,
+        7200,
+        16000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1418": {
+      "id": 1418,
+      "unlockCondition": 1417,
+      "count": [
+        4200,
+        9000,
+        20000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1419": {
+      "id": 1419,
+      "unlockCondition": 1418,
+      "count": [
+        5040,
+        10800,
+        24000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1420": {
+      "id": 1420,
+      "unlockCondition": 1419,
+      "count": [
+        5880,
+        12600,
+        28000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1421": {
+      "id": 1421,
+      "unlockCondition": 1420,
+      "count": [
+        6720,
+        14400,
+        32000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1422": {
+      "id": 1422,
+      "unlockCondition": 1421,
+      "count": [
+        7560,
+        16200,
+        36000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    },
+    "1423": {
+      "id": 1423,
+      "unlockCondition": 1422,
+      "count": [
+        8400,
+        18000,
+        40000
+      ],
+      "typeID": 7,
+      "dailytaskFreeReward": [
+        {
+          "Energy": 20
+        }
+      ],
+      "score": 50
+    }
+  }
+}

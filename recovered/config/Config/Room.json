@@ -1,0 +1,185 @@
+{
+  "1": {
+    "id": 1,
+    "nextId": 2,
+    "preDisplay": [
+      "PlayerLevel154"
+    ],
+    "unlock": [
+      "PlayerLevel157"
+    ],
+    "picture": "room_pic_01",
+    "detailPicture": "room_detail_pic_01",
+    "gooseId": 1001,
+    "reward": {
+      "90301": 1,
+      "98103": 1,
+      "98303": 1
+    },
+    "dialog": 16199,
+    "adornWeight": {
+      "1001010101": 30,
+      "1001010501": 100,
+      "1001020101": 30,
+      "1001020201": 50,
+      "1001020701": 100,
+      "1001030101": 30,
+      "1001030701": 50,
+      "1001030801": 50,
+      "1001040201": 30,
+      "1001040601": 30,
+      "1001040701": 100
+    },
+    "gooseDialog": 16200,
+    "gooseBuild": 10010101
+  },
+  "2": {
+    "id": 2,
+    "nextId": 3,
+    "preDisplay": [
+      "FinishBuildRoom1"
+    ],
+    "unlock": [
+      "FinishBuildRoom1"
+    ],
+    "picture": "room_pic_02",
+    "detailPicture": "room_detail_pic_02",
+    "gooseId": 1002,
+    "reward": {
+      "90301": 1,
+      "98103": 1,
+      "98303": 1
+    },
+    "dialog": 16219,
+    "adornWeight": {
+      "1002010401": 3,
+      "1002010601": 1,
+      "1002010701": 2,
+      "1002010801": 2,
+      "1002010901": 4,
+      "1002011101": 3,
+      "1002020301": 5,
+      "1002020501": 2,
+      "1002020601": 3,
+      "1002030501": 3,
+      "1002030701": 3,
+      "1002040201": 1,
+      "1002040401": 2,
+      "1002040501": 2
+    },
+    "gooseDialog": 16210,
+    "gooseBuild": 10020104
+  },
+  "3": {
+    "id": 3,
+    "nextId": 4,
+    "preDisplay": [
+      "FinishBuildRoom2"
+    ],
+    "unlock": [
+      "FinishBuildRoom2"
+    ],
+    "picture": "room_pic_03",
+    "detailPicture": "room_detail_pic_03",
+    "gooseId": 2003,
+    "reward": {
+      "90301": 1,
+      "98103": 1,
+      "98303": 1
+    },
+    "dialog": 16315,
+    "adornWeight": {
+      "1003010401": 2,
+      "1003010501": 4,
+      "1003010601": 3,
+      "1003010701": 3,
+      "1003010901": 2,
+      "1003020301": 4,
+      "1003020601": 2,
+      "1003020701": 3,
+      "1003030201": 4,
+      "1003030401": 2,
+      "1003030501": 2,
+      "1003030801": 1,
+      "1003040501": 4,
+      "1003040901": 2,
+      "1003041001": 1,
+      "1003041101": 3,
+      "1003041201": 4
+    },
+    "gooseDialog": 16308,
+    "gooseBuild": 10030104
+  },
+  "4": {
+    "id": 4,
+    "nextId": 5,
+    "preDisplay": [
+      "FinishBuildRoom3"
+    ],
+    "unlock": [
+      "FinishBuildRoom3"
+    ],
+    "picture": "room_pic_04",
+    "detailPicture": "room_detail_pic_04",
+    "gooseId": 2007,
+    "reward": {
+      "90301": 1,
+      "98103": 1,
+      "98303": 1
+    },
+    "dialog": 16325,
+    "adornWeight": {
+      "1004010301": 2,
+      "1004010401": 4,
+      "1004010601": 4,
+      "1004010901": 2,
+      "1004020801": 2,
+      "1004030301": 4,
+      "1004030401": 2,
+      "1004030701": 3,
+      "1004030901": 2,
+      "1004040401": 3,
+      "1004040701": 3,
+      "1004040801": 1,
+      "1004041001": 4
+    },
+    "gooseDialog": 16324,
+    "gooseBuild": 10040103
+  },
+  "5": {
+    "id": 5,
+    "nextId": 6,
+    "preDisplay": [
+      "FinishBuildRoom4"
+    ],
+    "unlock": [
+      "-1"
+    ],
+    "picture": "room_pic_999",
+    "detailPicture": "room_detail_pic_999",
+    "gooseId": 0,
+    "reward": {},
+    "dialog": 0,
+    "adornWeight": {},
+    "gooseDialog": 0,
+    "gooseBuild": 0
+  },
+  "6": {
+    "id": 6,
+    "nextId": 0,
+    "preDisplay": [
+      "FinishBuildRoom4"
+    ],
+    "unlock": [
+      "-1"
+    ],
+    "picture": "room_pic_999",
+    "detailPicture": "room_detail_pic_999",
+    "gooseId": 0,
+    "reward": {},
+    "dialog": 0,
+    "adornWeight": {},
+    "gooseDialog": 0,
+    "gooseBuild": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "butterfly": {
+    "id": "butterfly",
+    "beginDialog": 15711,
+    "firstGetButterfly": 15712,
+    "endDialog": 15713
+  },
+  "feather999": {
+    "id": "feather999",
+    "beginDialog": 15811,
+    "firstGetButterfly": 15812,
+    "endDialog": 15813
+  }
+}

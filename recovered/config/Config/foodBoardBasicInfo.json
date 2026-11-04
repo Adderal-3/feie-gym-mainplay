@@ -1,0 +1,364 @@
+{
+  "healthy1": {
+    "EventId": "healthy1",
+    "unlockEntrance": 20,
+    "board": 20,
+    "task": 1001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "2303",
+    "boardAnim": "jiankangcanrukou",
+    "foodPassId": 120001,
+    "passPrice": 3000,
+    "ogPassPrice": 22800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "groupRGB": [
+      17,
+      125,
+      139
+    ],
+    "entranceRGB": [
+      11,
+      83,
+      66
+    ],
+    "titleRGB": [
+      125,
+      89,
+      218
+    ],
+    "lineRGB": [
+      37,
+      82,
+      80
+    ],
+    "limitOrderMax": 0,
+    "limitOrderScore": 1000,
+    "boardType": "healthy1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 1004,
+    "orderGeneratorCD": 7200,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "healthy2": {
+    "EventId": "healthy2",
+    "unlockEntrance": 20,
+    "board": 27,
+    "task": 2001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "unhealthy",
+    "boardAnim": "bujiankangdangrukou",
+    "foodPassId": 120002,
+    "passPrice": 3000,
+    "ogPassPrice": 22800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_unhealthy",
+    "groupRGB": [
+      68,
+      48,
+      140
+    ],
+    "entranceRGB": [
+      83,
+      32,
+      95
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      71,
+      52,
+      141
+    ],
+    "limitOrderMax": 0,
+    "limitOrderScore": 1000,
+    "boardType": "healthy2",
+    "rankPointLeast": 2000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 2004,
+    "orderGeneratorCD": 7200,
+    "isRankEnter": 1,
+    "rankAnim": "TimeOrdernanguae",
+    "dailyValueParm": 0.7417
+  },
+  "travel1": {
+    "EventId": "travel1",
+    "unlockEntrance": 20,
+    "board": 37,
+    "task": 3001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240302",
+    "boardAnim": "lvxingrukou",
+    "foodPassId": 120003,
+    "passPrice": 3000,
+    "ogPassPrice": 16800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240302",
+    "groupRGB": [
+      104,
+      164,
+      120
+    ],
+    "entranceRGB": [
+      76,
+      30,
+      19
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      88,
+      174,
+      186
+    ],
+    "limitOrderMax": 1,
+    "limitOrderScore": 400,
+    "boardType": "travel1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "travel2": {
+    "EventId": "travel2",
+    "unlockEntrance": 20,
+    "board": 37,
+    "task": 4001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240302",
+    "boardAnim": "lvxingrukou",
+    "foodPassId": 120004,
+    "passPrice": 3000,
+    "ogPassPrice": 16800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240302",
+    "groupRGB": [
+      104,
+      164,
+      120
+    ],
+    "entranceRGB": [
+      76,
+      30,
+      19
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      88,
+      174,
+      186
+    ],
+    "limitOrderMax": 1,
+    "limitOrderScore": 400,
+    "boardType": "travel1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "travel3": {
+    "EventId": "travel3",
+    "unlockEntrance": 20,
+    "board": 37,
+    "task": 5001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240302",
+    "boardAnim": "lvxingrukou",
+    "foodPassId": 120005,
+    "passPrice": 3000,
+    "ogPassPrice": 16800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240302",
+    "groupRGB": [
+      104,
+      164,
+      120
+    ],
+    "entranceRGB": [
+      76,
+      30,
+      19
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      88,
+      174,
+      186
+    ],
+    "limitOrderMax": 1,
+    "limitOrderScore": 400,
+    "boardType": "travel1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "travel4": {
+    "EventId": "travel4",
+    "unlockEntrance": 20,
+    "board": 37,
+    "task": 6001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240302",
+    "boardAnim": "lvxingrukou",
+    "foodPassId": 120006,
+    "passPrice": 3000,
+    "ogPassPrice": 16800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240302",
+    "groupRGB": [
+      104,
+      164,
+      120
+    ],
+    "entranceRGB": [
+      76,
+      30,
+      19
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      88,
+      174,
+      186
+    ],
+    "limitOrderMax": 1,
+    "limitOrderScore": 400,
+    "boardType": "travel1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "travel5": {
+    "EventId": "travel5",
+    "unlockEntrance": 20,
+    "board": 37,
+    "task": 7001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240302",
+    "boardAnim": "lvxingrukou",
+    "foodPassId": 120007,
+    "passPrice": 3000,
+    "ogPassPrice": 16800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240302",
+    "groupRGB": [
+      104,
+      164,
+      120
+    ],
+    "entranceRGB": [
+      76,
+      30,
+      19
+    ],
+    "titleRGB": [
+      210,
+      90,
+      20
+    ],
+    "lineRGB": [
+      88,
+      174,
+      186
+    ],
+    "limitOrderMax": 1,
+    "limitOrderScore": 400,
+    "boardType": "travel1",
+    "rankPointLeast": 1000,
+    "titleArea": 0,
+    "worldRankBadgeReward": [],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  },
+  "arch": {
+    "EventId": "arch",
+    "unlockEntrance": 20,
+    "board": 50,
+    "task": 8001,
+    "initPassPoint": 0,
+    "EventPassPoint": "foodPoint",
+    "EntranceIcon": "240823",
+    "boardAnim": "TimeOrderyxaqiu",
+    "foodPassId": 120008,
+    "passPrice": 6800,
+    "ogPassPrice": 32800,
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld_240823",
+    "groupRGB": [
+      161,
+      88,
+      48
+    ],
+    "entranceRGB": [
+      142,
+      68,
+      37
+    ],
+    "titleRGB": [
+      162,
+      99,
+      63
+    ],
+    "lineRGB": [
+      87,
+      124,
+      97
+    ],
+    "limitOrderMax": 0,
+    "limitOrderScore": 1200,
+    "boardType": "arch",
+    "rankPointLeast": 2000,
+    "titleArea": 6,
+    "worldRankBadgeReward": [
+      115
+    ],
+    "orderGeneratorId": 0,
+    "orderGeneratorCD": 0,
+    "isRankEnter": 0,
+    "rankAnim": "",
+    "dailyValueParm": 0
+  }
+}

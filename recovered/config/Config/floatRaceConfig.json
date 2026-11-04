@@ -1,0 +1,49 @@
+{
+  "unlock": [
+    "PlayerLevel15"
+  ],
+  "graphID": "floarRace",
+  "orderSlotNum": 0,
+  "shopDiamondCoef": 0.5,
+  "shopCoinCoef": 0.01,
+  "availableShop": [
+    2,
+    7
+  ],
+  "bubbleCoef": [
+    0.4,
+    0.5,
+    0.6,
+    0.7
+  ],
+  "bubbleCoefWeight": [
+    10,
+    8,
+    5,
+    3
+  ],
+  "consumeUpgradeTime": [
+    10,
+    21,
+    30,
+    50
+  ],
+  "consumeWeight": [
+    100,
+    200,
+    500,
+    1000
+  ],
+  "consumePointNum": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 2
+  },
+  "slotCd": [
+    0,
+    0,
+    0
+  ]
+}

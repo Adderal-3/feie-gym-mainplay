@@ -1,0 +1,264 @@
+{
+  "selectedSprites": 32,
+  "textures": 32,
+  "maxBytes": 157286400,
+  "files": [
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "0239c615-4f33-4282-a880-fdf13a036bbf",
+      "version": "f3eb7",
+      "sprites": [
+        "Texture/Element/G_4/7406"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "040f5046-6b1a-44ad-aeca-ee64f0cee0c9",
+      "version": "21526",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0005"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "0b4fc6f6-1d61-46b8-8aa8-fe4fc435148c",
+      "version": "4ca92",
+      "sprites": [
+        "Texture/Element/F_4/6407_5"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "114f009f-9adb-40ff-bcb2-1d5519414f3e",
+      "version": "3eec0",
+      "sprites": [
+        "Texture/Element/A_0/1011"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "1c70d3f1-44f2-4fca-9372-deedd1d4497d",
+      "version": "cc221",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0007"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "1d84b8ba-bc6e-42fe-b871-88dafffc1bf4",
+      "version": "2c0a5",
+      "sprites": [
+        "Texture/Element/F_4/6407_4"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "2bc8a744-d326-49da-a3fe-881ef61b98e6",
+      "version": "9bcf2",
+      "sprites": [
+        "Texture/Element/F_4/6407_7"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "3b4e56a2-82be-4f99-b691-911f94b3ccef",
+      "version": "cd231",
+      "sprites": [
+        "Texture/Element/F_4/6407_10"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "3eb63f90-978f-4154-8b9f-104ac2dc7324",
+      "version": "e06c1",
+      "sprites": [
+        "Texture/Element/C_0/3005"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "42447b5e-29ef-4840-8e30-b6ea3b67fc92",
+      "version": "11a6e",
+      "sprites": [
+        "Texture/Element/F_4/6407_6"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "4a37a302-9b0f-4aaf-b034-aadc62cac0d2",
+      "version": "28d71",
+      "sprites": [
+        "Texture/Element/F_4/6407_1"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "52e865c4-25b6-4628-890d-a3b50f55d0a6",
+      "version": "3ba72",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0010"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "680dfed9-d2bd-475d-b9b5-3b6206c5c923",
+      "version": "a34eb",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0006"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "71ef1969-05af-4896-b781-ee16638cbe64",
+      "version": "22899",
+      "sprites": [
+        "Texture/Element/F_4/6407_2"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "7c2e1ba4-a201-4e7b-b984-00659066c4f9",
+      "version": "201fc",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0011"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "807ace8a-77ef-4052-90fc-c1f544f47bff",
+      "version": "12312",
+      "sprites": [
+        "Texture/Element/H_1/8102"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "8a489d3f-fa74-4e84-907d-ce7e821a2c54",
+      "version": "a9536",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0012"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "96d0409f-1334-4955-afdd-a55e73f1295b",
+      "version": "a29db",
+      "sprites": [
+        "Texture/Element/F_4/6407_8"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "af57a00e-6ec8-40e3-9b04-c5fe5ee95704",
+      "version": "e9e5b",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0008"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "bacee312-0a76-4b27-a912-596cdc660d75",
+      "version": "63729",
+      "sprites": [
+        "Texture/Element/Energy/99303"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "bb7011cf-f85b-4a55-90c0-7ebf7348649e",
+      "version": "ddfc2",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0009"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "c126700a-6c6a-49c9-8dca-a11c95b59f22",
+      "version": "f02cf",
+      "sprites": [
+        "Texture/Element/F_4/6407_3"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "c1b59e9d-8c1d-448c-be88-bfb07b76bc97",
+      "version": "d75f5",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0002"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "c572c885-436c-4f20-90ff-ac94b37d4536",
+      "version": "268eb",
+      "sprites": [
+        "Texture/Element/F_4/6407_9"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "c790dbf7-90ec-433f-9890-fad0f26341ab",
+      "version": "50899",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0003"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "d1c4c0bf-57c1-4689-bc48-de3996e31453",
+      "version": "b1a21",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0001"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "dc2e2b76-1581-41f1-bd5d-813c84ec7f67",
+      "version": "5cd6c",
+      "sprites": [
+        "Texture/Element/F_4/6407_11"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "ed4d381d-c997-454d-9661-bd0c66561240",
+      "version": "d8192",
+      "sprites": [
+        "Texture/Element/Prop_11/98741_sd0004"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "ed97fe7f-e779-4b17-b8ed-d3ee80510147",
+      "version": "0d015",
+      "sprites": [
+        "Texture/Element/Chest_Pig/90901"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "f432ee46-a330-4b0c-8148-5c4a618709ec",
+      "version": "deb8c",
+      "sprites": [
+        "Texture/Element/Prop_2000/98793"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "fa5e6e6e-382d-4932-8334-b1d9822dc332",
+      "version": "d0acf",
+      "sprites": [
+        "Texture/Element/I_3/9301"
+      ]
+    },
+    {
+      "bundle": "gameAsset",
+      "textureUuid": "fdc6ae95-fe70-4b99-ab86-1320b73b2263",
+      "version": "6b010",
+      "sprites": [
+        "Texture/Element/Scene_1/11001"
+      ]
+    }
+  ],
+  "unresolved": []
+}

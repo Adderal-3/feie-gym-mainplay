@@ -1,0 +1,30 @@
+{
+  "farm": {
+    "id": "farm",
+    "chess4_title": "大丰收农场",
+    "chess4_prepareToast": "大丰收农场即将开放",
+    "chess4_tap_energyII_toast": "大丰收农场开启期间可使用",
+    "actExplain": "用铲子挖掘蔬菜，放入称重台，升级蔬菜雕像，提交优秀农场主奖杯，领取进度奖励吧！",
+    "chess4_rank_title": "农场记录簿",
+    "chess4_weight": "重量",
+    "chess4_list_lockToast": "前往挖掘吧",
+    "chess4_listDetail_digTimes": "累计挖掘次数",
+    "chess4_listDetail_targetMeasure": "kg",
+    "chess4_listDetail_targetDesc": "挖到超过{0}的{1}即可解锁",
+    "chess4_listDetail_targetAchieveDesc": "挖到超过{0}的{1}"
+  },
+  "dragon": {
+    "id": "dragon",
+    "chess4_title": "奇遇龙场",
+    "chess4_prepareToast": "奇遇龙场即将开放",
+    "chess4_tap_energyII_toast": "奇遇龙场开启期间可使用",
+    "actExplain": "孵化龙蛋，将龙宝宝放至魔法阵，升级龙宝宝雕像，提交龙巢宝藏，领取进度奖励吧！",
+    "chess4_rank_title": "龙场记录簿",
+    "chess4_weight": "魔力值",
+    "chess4_list_lockToast": "前往孵化吧",
+    "chess4_listDetail_digTimes": "累计孵化次数",
+    "chess4_listDetail_targetMeasure": "mp",
+    "chess4_listDetail_targetDesc": "孵化超过{0}的{1}即可解锁",
+    "chess4_listDetail_targetAchieveDesc": "孵化超过{0}的{1}"
+  }
+}

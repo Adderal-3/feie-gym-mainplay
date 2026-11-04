@@ -1,0 +1,44 @@
+{
+  "1": {
+    "id": 1,
+    "unlock": [],
+    "order": 100,
+    "icon": "Bgm_Cover_01",
+    "duration": "1:06",
+    "music": "bg_main",
+    "weight": 100
+  },
+  "2": {
+    "id": 2,
+    "unlock": [
+      "GetElement8113"
+    ],
+    "order": 90,
+    "icon": "Bgm_Cover_02",
+    "duration": "1:36",
+    "music": "bg_main2",
+    "weight": 80
+  },
+  "3": {
+    "id": 3,
+    "unlock": [
+      "GetElement83912"
+    ],
+    "order": 70,
+    "icon": "Bgm_Cover_03",
+    "duration": "1:37",
+    "music": "bg_main3",
+    "weight": 80
+  },
+  "4": {
+    "id": 4,
+    "unlock": [
+      "GetElement82912"
+    ],
+    "order": 80,
+    "icon": "Bgm_Cover_04",
+    "duration": "1:32",
+    "music": "bg_main4",
+    "weight": 80
+  }
+}

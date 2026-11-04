@@ -1,0 +1,14 @@
+{
+  "acpay1": {
+    "id": "acpay1",
+    "unlockLevel": [
+      "PlayerLevel12"
+    ],
+    "actPic": "Conpay/img_acpay_01",
+    "actIcon": "Conpay/icon_btn_acpay_01",
+    "grandReward": {
+      "Uniform3002": 1
+    },
+    "grandRewardUnlock": 3
+  }
+}

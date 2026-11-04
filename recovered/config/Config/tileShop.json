@@ -1,0 +1,142 @@
+{
+  "1": {
+    "id": 1,
+    "type": "undo",
+    "belong": "gogV2",
+    "adCount": 2,
+    "price": {
+      "Diamond": 3
+    },
+    "addCount": 2,
+    "Cof": 0,
+    "refreshInventory": 49999
+  },
+  "2": {
+    "id": 2,
+    "type": "shuffle",
+    "belong": "gogV2",
+    "adCount": 2,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "3": {
+    "id": 3,
+    "type": "autoMerge",
+    "belong": "gogV2",
+    "adCount": 1,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "4": {
+    "id": 4,
+    "type": "moveOut",
+    "belong": "gogV2",
+    "adCount": 0,
+    "price": {
+      "Diamond": 20
+    },
+    "addCount": 10,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "5": {
+    "id": 5,
+    "type": "miniRelive",
+    "belong": "gogV2",
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 0,
+    "Cof": 2,
+    "refreshInventory": 32
+  },
+  "6": {
+    "id": 6,
+    "type": "relive",
+    "belong": "gogV2",
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "101": {
+    "id": 101,
+    "type": "undo",
+    "belong": "volcano",
+    "adCount": 2,
+    "price": {
+      "Diamond": 3
+    },
+    "addCount": 2,
+    "Cof": 0,
+    "refreshInventory": 49999
+  },
+  "102": {
+    "id": 102,
+    "type": "shuffle",
+    "belong": "volcano",
+    "adCount": 2,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "103": {
+    "id": 103,
+    "type": "autoMerge",
+    "belong": "volcano",
+    "adCount": 1,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "104": {
+    "id": 104,
+    "type": "moveOut",
+    "belong": "volcano",
+    "adCount": 0,
+    "price": {
+      "Diamond": 20
+    },
+    "addCount": 10,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "105": {
+    "id": 105,
+    "type": "miniRelive",
+    "belong": "volcano",
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 0,
+    "Cof": 2,
+    "refreshInventory": 32
+  },
+  "106": {
+    "id": 106,
+    "type": "relive",
+    "belong": "volcano",
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "refreshInventory": 9999
+  }
+}

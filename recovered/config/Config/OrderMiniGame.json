@@ -1,0 +1,99 @@
+{
+  "mg1": {
+    "10001": {
+      "id": 10001,
+      "orderSeries": 1,
+      "unlockOrderId": [
+        10002
+      ],
+      "demand": {
+        "1102": 1
+      },
+      "reward": {
+        "Coin": 50
+      },
+      "ProgressBar": 5
+    },
+    "10002": {
+      "id": 10002,
+      "orderSeries": 1,
+      "unlockOrderId": [
+        10003,
+        11001
+      ],
+      "demand": {
+        "1102": 1,
+        "1103": 1
+      },
+      "reward": {},
+      "ProgressBar": 5
+    },
+    "10003": {
+      "id": 10003,
+      "orderSeries": 1,
+      "unlockOrderId": [
+        10004
+      ],
+      "demand": {
+        "1102": 1
+      },
+      "reward": {
+        "Coin": 100
+      },
+      "ProgressBar": 5
+    },
+    "10004": {
+      "id": 10004,
+      "orderSeries": 1,
+      "unlockOrderId": [
+        10001
+      ],
+      "demand": {
+        "1102": 1,
+        "1103": 1
+      },
+      "reward": {},
+      "ProgressBar": 5
+    },
+    "11001": {
+      "id": 11001,
+      "orderSeries": 2,
+      "unlockOrderId": [
+        11002
+      ],
+      "demand": {
+        "gog101": 1
+      },
+      "reward": {
+        "Energy": 10
+      },
+      "ProgressBar": 10
+    },
+    "11002": {
+      "id": 11002,
+      "orderSeries": 2,
+      "unlockOrderId": [
+        11003
+      ],
+      "demand": {
+        "1102": 1
+      },
+      "reward": {},
+      "ProgressBar": 5
+    },
+    "11003": {
+      "id": 11003,
+      "orderSeries": 2,
+      "unlockOrderId": [
+        11001
+      ],
+      "demand": {
+        "gog102": 1
+      },
+      "reward": {
+        "Energy": 20
+      },
+      "ProgressBar": 10
+    }
+  }
+}

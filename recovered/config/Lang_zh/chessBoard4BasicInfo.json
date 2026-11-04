@@ -1,0 +1,13 @@
+{
+  "chess4_list_reward": "进度奖励",
+  "chess4_list_rare": "稀有度",
+  "chess4_list_digTimes": "总计",
+  "chess4_list_historyMax": "记录",
+  "chess4_list_lockDesc": "尚未发现",
+  "chess4_list_explain": "每次参与活动的记录将会保留在记录簿中",
+  "chess4_listDetail_newRecord": "新纪录",
+  "chess4_listDetail_worldRecord": "挑战最强",
+  "chess4_listDetail_worldRecordDecs": "当前{0}的世界记录为：",
+  "chess4_listDetail_worldRecordLock": "成为{0}{1}后解锁",
+  "actMaxEnergy_desc": "每20分钟恢复\n1点能量"
+}

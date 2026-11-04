@@ -1,0 +1,104 @@
+{
+  "sign1": {
+    "id": "sign1",
+    "title": "周年庆签到",
+    "grandRewardExplanation": "累计签到15次即可领取可爱的肥鹅！",
+    "freeGiftDesc": "累计签到15天领取限定肥鹅！"
+  },
+  "sign2": {
+    "id": "sign2",
+    "title": "欢庆新周年",
+    "grandRewardExplanation": "累计签到7次即可领取蜡笔小新！",
+    "freeGiftDesc": "累计签到7天领取限定服装！"
+  },
+  "sign999": {
+    "id": "sign999",
+    "title": "新手店长打卡",
+    "grandRewardExplanation": "累计签到7次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到7天领取丰富好礼！"
+  },
+  "sign3": {
+    "id": "sign3",
+    "title": "店长打卡有礼",
+    "grandRewardExplanation": "累计签到7次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到7天领取丰富好礼！"
+  },
+  "sign4": {
+    "id": "sign4",
+    "title": "店长打卡有礼",
+    "grandRewardExplanation": "累计签到5次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到5天领取丰富好礼！"
+  },
+  "sign5": {
+    "id": "sign5",
+    "title": "甄嬛驾临",
+    "grandRewardExplanation": "累计签到12次即可领取莞嫔！",
+    "freeGiftDesc": "累计签到12天领取限定肥鹅！"
+  },
+  "sign6": {
+    "id": "sign6",
+    "title": "店长打卡有礼",
+    "grandRewardExplanation": "累计签到15次即可领取足球爱好者！",
+    "freeGiftDesc": "累计签到15天领取限定肥鹅！"
+  },
+  "sign7": {
+    "id": "sign7",
+    "title": "元气满满签到",
+    "grandRewardExplanation": "累计签到9次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到9天领取丰富好礼！"
+  },
+  "sign8": {
+    "id": "sign8",
+    "title": "周年庆签到",
+    "grandRewardExplanation": "累计签到15次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到15天领取丰富好礼！"
+  },
+  "sign9": {
+    "id": "sign9",
+    "title": "韩服1周年签到",
+    "grandRewardExplanation": "累计签到7次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到7天领取丰富好礼！"
+  },
+  "sign10": {
+    "id": "sign10",
+    "title": "冬日签到",
+    "grandRewardExplanation": "连续签到6次即可领取绿野铃铛头像框！",
+    "freeGiftDesc": "连续签到6天领取限定头像框！"
+  },
+  "sign11": {
+    "id": "sign11",
+    "title": "三周年签到",
+    "grandRewardExplanation": "累计签到12次即可领取柑橘肥鹅！",
+    "freeGiftDesc": "累计签到12天领取限定肥鹅！"
+  },
+  "sign12": {
+    "id": "sign12",
+    "title": "日服新年签到",
+    "grandRewardExplanation": "累计签到7次即可领取丰富奖励！",
+    "freeGiftDesc": "累计签到7天领取丰富好礼！"
+  },
+  "sign13": {
+    "id": "sign13",
+    "title": "岁月留影签到",
+    "grandRewardExplanation": "连续签到6次即可领取丰富奖励！",
+    "freeGiftDesc": "连续签到6天领取超多相纸包！"
+  },
+  "sign14": {
+    "id": "sign14",
+    "title": "岁月留影签到",
+    "grandRewardExplanation": "连续签到6次即可领取丰富奖励！",
+    "freeGiftDesc": "连续签到6天领取超多相纸包！"
+  },
+  "sign15": {
+    "id": "sign15",
+    "title": "汤姆猫工牌签到",
+    "grandRewardExplanation": "连续签到9次即可领取汤姆猫工牌！",
+    "freeGiftDesc": "连续签到9天领取汤姆猫工牌！"
+  },
+  "sign16": {
+    "id": "sign16",
+    "title": "周年签到",
+    "grandRewardExplanation": "连续签到9次即可领取蛋糕工牌！",
+    "freeGiftDesc": "连续签到9天领取蛋糕工牌！"
+  }
+}

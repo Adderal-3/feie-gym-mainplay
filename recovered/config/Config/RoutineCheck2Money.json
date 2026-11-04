@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "condition": "rMoney15<1",
+    "kr": 1.5
+  },
+  "2": {
+    "id": 2,
+    "condition": "rMoney15<15 and rMoney15>=1",
+    "kr": 1.35
+  },
+  "3": {
+    "id": 3,
+    "condition": "rMoney15<75 and rMoney15>=15",
+    "kr": 1.65
+  },
+  "4": {
+    "id": 4,
+    "condition": "rMoney15<215 and rMoney15>=75",
+    "kr": 1.725
+  },
+  "5": {
+    "id": 5,
+    "condition": "rMoney15<525 and rMoney15>=215",
+    "kr": 1.875
+  },
+  "6": {
+    "id": 6,
+    "condition": "rMoney15<1345 and rMoney15>=525",
+    "kr": 2.1
+  },
+  "7": {
+    "id": 7,
+    "condition": "rMoney15<3675 and rMoney15>=1345",
+    "kr": 2.4
+  },
+  "8": {
+    "id": 8,
+    "condition": "rMoney15>=3675",
+    "kr": 3
+  }
+}

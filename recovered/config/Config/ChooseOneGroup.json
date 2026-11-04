@@ -1,0 +1,82 @@
+{
+  "994001": {
+    "activityID": "994001",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "seriesInclude": [
+      9940011,
+      9940012,
+      9940013
+    ],
+    "price": {
+      "Cash": 4000
+    },
+    "giftID": 99400199,
+    "refreshInventory": 3,
+    "refreshTimes": 1,
+    "autoOpenFlag": 1,
+    "canMainmapShow": 1,
+    "txtColor": "#7d59da"
+  },
+  "994002": {
+    "activityID": "994002",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "seriesInclude": [
+      9940021,
+      9940022,
+      9940023
+    ],
+    "price": {
+      "Cash": 5000
+    },
+    "giftID": 99400299,
+    "refreshInventory": 3,
+    "refreshTimes": 1,
+    "autoOpenFlag": 0,
+    "canMainmapShow": 0,
+    "txtColor": "#d77322"
+  },
+  "994003": {
+    "activityID": "994003",
+    "unlock": [
+      "PlayerLevel6"
+    ],
+    "seriesInclude": [
+      9940031,
+      9940032,
+      9940033
+    ],
+    "price": {
+      "Cash": 5000
+    },
+    "giftID": 99400399,
+    "refreshInventory": 3,
+    "refreshTimes": 1,
+    "autoOpenFlag": 1,
+    "canMainmapShow": 1,
+    "txtColor": "#7d59da"
+  },
+  "994004": {
+    "activityID": "994004",
+    "unlock": [
+      "PlayerLevel13"
+    ],
+    "seriesInclude": [
+      9940041,
+      9940042,
+      9940043
+    ],
+    "price": {
+      "Cash": 5000
+    },
+    "giftID": 99400499,
+    "refreshInventory": 3,
+    "refreshTimes": 1,
+    "autoOpenFlag": 1,
+    "canMainmapShow": 1,
+    "txtColor": "#d77322"
+  }
+}

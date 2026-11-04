@@ -1,0 +1,56 @@
+{
+  "1": {
+    "id": 1,
+    "categorize": [
+      "event001"
+    ],
+    "clockStartTime": 1691460000,
+    "clockEndTime": 1692719999,
+    "icon": "bg_eventcard_2308"
+  },
+  "2": {
+    "id": 2,
+    "categorize": [
+      "event002"
+    ],
+    "clockStartTime": 1700100000,
+    "clockEndTime": 1701446399,
+    "icon": "bg_eventcard_2311"
+  },
+  "3": {
+    "id": 3,
+    "categorize": [
+      "event005"
+    ],
+    "clockStartTime": 1707184800,
+    "clockEndTime": 1708531199,
+    "icon": "bg_eventcard_2402"
+  },
+  "4": {
+    "id": 4,
+    "categorize": [
+      "event007"
+    ],
+    "clockStartTime": 1718942400,
+    "clockEndTime": 1720367998,
+    "icon": "bg_eventcard_2406"
+  },
+  "5": {
+    "id": 5,
+    "categorize": [
+      "event009"
+    ],
+    "clockStartTime": 1727755200,
+    "clockEndTime": 1729094399,
+    "icon": "bg_eventcard_2407"
+  },
+  "6": {
+    "id": 6,
+    "categorize": [
+      "event010"
+    ],
+    "clockStartTime": 1760803200,
+    "clockEndTime": 1761494400,
+    "icon": "bg_eventcard_2510"
+  }
+}

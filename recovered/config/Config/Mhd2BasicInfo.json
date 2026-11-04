@@ -1,0 +1,576 @@
+{
+  "mhd1": {
+    "id": "mhd1",
+    "kanbanGoose": "goose202",
+    "targetAdornskin": 700105,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.35,
+    "progressFixedStage": [],
+    "progressLoopStage": [],
+    "progressFixedReward": [],
+    "progressLoopReward": [],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd2": {
+    "id": "mhd2",
+    "kanbanGoose": "goose204",
+    "targetAdornskin": 101805,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.15,
+    "progressFixedStage": [],
+    "progressLoopStage": [],
+    "progressFixedReward": [],
+    "progressLoopReward": [],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd3": {
+    "id": "mhd3",
+    "kanbanGoose": "goose213",
+    "targetAdornskin": 301506,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.15,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd4": {
+    "id": "mhd4",
+    "kanbanGoose": "goose220",
+    "targetAdornskin": 1301004,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.15,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd5": {
+    "id": "mhd5",
+    "kanbanGoose": "goose88",
+    "targetAdornskin": 600104,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.35,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd6": {
+    "id": "mhd6",
+    "kanbanGoose": "goose229",
+    "targetAdornskin": 1100104,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.15,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd7": {
+    "id": "mhd7",
+    "kanbanGoose": "goose235",
+    "targetAdornskin": 901604,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.25,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd8": {
+    "id": "mhd8",
+    "kanbanGoose": "goose242",
+    "targetAdornskin": 1400903,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.25,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd9": {
+    "id": "mhd9",
+    "kanbanGoose": "goose245",
+    "targetAdornskin": 1400903,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd10": {
+    "id": "mhd10",
+    "kanbanGoose": "goose248",
+    "targetAdornskin": 1800102,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.25,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd12": {
+    "id": "mhd12",
+    "kanbanGoose": "goose255",
+    "targetAdornskin": 1200506,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.35,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd11": {
+    "id": "mhd11",
+    "kanbanGoose": "goose250",
+    "targetAdornskin": 1800102,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.1,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd13": {
+    "id": "mhd13",
+    "kanbanGoose": "goose258",
+    "targetAdornskin": 1200506,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.35,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  },
+  "mhd14": {
+    "id": "mhd14",
+    "kanbanGoose": "goose263",
+    "targetAdornskin": 1100103,
+    "tabColor": "#8B5215",
+    "progressColor": "#8B5215",
+    "lineColor": "#F3BFBF",
+    "festivalGiftId": 261,
+    "waterfallGiftId": 0,
+    "rollingGiftId": 0,
+    "gooseSize": 1.25,
+    "progressFixedStage": [
+      30,
+      50,
+      60,
+      70
+    ],
+    "progressLoopStage": [
+      80,
+      80
+    ],
+    "progressFixedReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "progressLoopReward": [
+      {
+        "MhdIIBlindBox9": 1
+      },
+      {
+        "MhdIIBlindBox9": 1
+      }
+    ],
+    "exchangeShopId": "mhd1"
+  }
+}

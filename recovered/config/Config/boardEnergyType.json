@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": "1",
+    "boardType": [
+      "main",
+      "chessBoard5",
+      "chessBoard6",
+      "healthy",
+      "puzzleWarehouse",
+      "chessBoard",
+      "chessBoard2"
+    ]
+  },
+  "2": {
+    "Id": "2",
+    "boardType": [
+      "chessBoard3"
+    ]
+  },
+  "3": {
+    "Id": "3",
+    "boardType": [
+      "chessBoard4"
+    ]
+  },
+  "4": {
+    "Id": "4",
+    "boardType": [
+      "chessBoard7"
+    ]
+  },
+  "5": {
+    "Id": "5",
+    "boardType": [
+      "chessBoard8"
+    ]
+  },
+  "6": {
+    "Id": "6",
+    "boardType": [
+      "chessBoard9"
+    ]
+  }
+}

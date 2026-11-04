@@ -1,0 +1,18 @@
+{
+  "orderware1": {
+    "theme": "orderware1",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "mostObtainableStars": 50,
+    "graphID": "autoOrder1"
+  },
+  "orderware2": {
+    "theme": "orderware2",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "mostObtainableStars": 99999,
+    "graphID": "autoOrder2"
+  }
+}

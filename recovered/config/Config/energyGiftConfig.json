@@ -1,0 +1,6 @@
+{
+  "maxDailyTime": 3,
+  "unlockCondition": [
+    "PlayerLevel5"
+  ]
+}

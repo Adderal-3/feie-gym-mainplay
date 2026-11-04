@@ -1,0 +1,76 @@
+{
+  "warehouse1": {
+    "id": "warehouse1",
+    "BeginDialog": 9336,
+    "EnterBoard": 0,
+    "GetElement": [
+      "450005:9343",
+      "450305:9344",
+      "450605:9345",
+      "451005:9346",
+      "451405:9347",
+      "9879344:9349"
+    ],
+    "ClickElement": [
+      "451801:9340",
+      "451901:9341"
+    ],
+    "OpenList": [
+      "101:9337",
+      "111:9342"
+    ],
+    "EndDialog": 9348,
+    "RandomRewardDialog": 9339
+  },
+  "warehouse2": {
+    "id": "warehouse2",
+    "BeginDialog": 9336,
+    "EnterBoard": 0,
+    "GetElement": [
+      "710005:9355",
+      "710305:9357",
+      "710605:9358",
+      "711005:9356",
+      "9879350:9349"
+    ],
+    "ClickElement": [
+      "98180150:9359"
+    ],
+    "OpenList": [],
+    "EndDialog": 9348,
+    "RandomRewardDialog": 9339
+  },
+  "warehouse3": {
+    "id": "warehouse3",
+    "BeginDialog": 9336,
+    "EnterBoard": 0,
+    "GetElement": [
+      "711505:9360",
+      "711545:9361",
+      "711585:9362",
+      "711635:9363"
+    ],
+    "ClickElement": [
+      "98180156:9359"
+    ],
+    "OpenList": [],
+    "EndDialog": 9348,
+    "RandomRewardDialog": 9339
+  },
+  "warehouse4": {
+    "id": "warehouse4",
+    "BeginDialog": 9336,
+    "EnterBoard": 0,
+    "GetElement": [
+      "711846:9365",
+      "711766:9366"
+    ],
+    "ClickElement": [
+      "711715:9364",
+      "711805:9367"
+    ],
+    "OpenList": [],
+    "EndDialog": 9348,
+    "RandomRewardDialog": 9339
+  }
+}

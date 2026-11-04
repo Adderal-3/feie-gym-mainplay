@@ -1,0 +1,127 @@
+{
+  "bb1": {
+    "activityID": "bb1",
+    "maxBox": 10,
+    "blindBoxCoin": 10,
+    "claimLimit": 10,
+    "exchange": 10,
+    "costOne": {
+      "Diamond": 10
+    },
+    "costTen": {
+      "Diamond": 100
+    },
+    "costOneCoin": {
+      "BlindBoxCoin": 1
+    },
+    "costTenCoin": {
+      "BlindBoxCoin": 10
+    },
+    "luckyTimes": 100,
+    "luckyBox": 9999,
+    "introPic": "BB_bg_shuoming",
+    "AdPage": "BB_bg_yugao",
+    "activityLevel": 7,
+    "showLevel": 1
+  },
+  "bb2": {
+    "activityID": "bb2",
+    "maxBox": 10,
+    "blindBoxCoin": 0,
+    "claimLimit": 0,
+    "exchange": 0,
+    "costOne": {
+      "Diamond": 10
+    },
+    "costTen": {
+      "Diamond": 100
+    },
+    "costOneCoin": {
+      "BlindBoxCoin": 1
+    },
+    "costTenCoin": {
+      "BlindBoxCoin": 10
+    },
+    "luckyTimes": 100,
+    "luckyBox": 9998,
+    "introPic": "BB_bg_shuoming_02",
+    "AdPage": "BB_bg_yugao_02",
+    "activityLevel": 7,
+    "showLevel": 0
+  },
+  "bb3": {
+    "activityID": "bb3",
+    "maxBox": 10,
+    "blindBoxCoin": 0,
+    "claimLimit": 0,
+    "exchange": 0,
+    "costOne": {
+      "Diamond": 10
+    },
+    "costTen": {
+      "Diamond": 100
+    },
+    "costOneCoin": {
+      "BlindBoxCoin": 1
+    },
+    "costTenCoin": {
+      "BlindBoxCoin": 10
+    },
+    "luckyTimes": 100,
+    "luckyBox": 9997,
+    "introPic": "BB_bg_shuoming_03",
+    "AdPage": "BB_bg_yugao_03",
+    "activityLevel": 7,
+    "showLevel": 0
+  },
+  "bb4": {
+    "activityID": "bb4",
+    "maxBox": 10,
+    "blindBoxCoin": 0,
+    "claimLimit": 0,
+    "exchange": 0,
+    "costOne": {
+      "Diamond": 10
+    },
+    "costTen": {
+      "Diamond": 100
+    },
+    "costOneCoin": {
+      "BlindBoxCoin": 1
+    },
+    "costTenCoin": {
+      "BlindBoxCoin": 10
+    },
+    "luckyTimes": 100,
+    "luckyBox": 9996,
+    "introPic": "BB_bg_shuoming_04",
+    "AdPage": "BB_bg_yugao_04",
+    "activityLevel": 7,
+    "showLevel": 0
+  },
+  "bb5": {
+    "activityID": "bb5",
+    "maxBox": 10,
+    "blindBoxCoin": 10,
+    "claimLimit": 10,
+    "exchange": 10,
+    "costOne": {
+      "Diamond": 10
+    },
+    "costTen": {
+      "Diamond": 100
+    },
+    "costOneCoin": {
+      "BlindBoxCoin": 1
+    },
+    "costTenCoin": {
+      "BlindBoxCoin": 10
+    },
+    "luckyTimes": 100,
+    "luckyBox": 9995,
+    "introPic": "BB_bg_shuoming_02",
+    "AdPage": "BB_bg_yugao_02",
+    "activityLevel": 7,
+    "showLevel": 1
+  }
+}

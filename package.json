@@ -1,0 +1,16 @@
+{
+  "name": "feie-gym-mainplay-recovery",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local cached client code and asset recovery for analysis",
+  "scripts": {
+    "analyze": "node tools/analyze-bundles.mjs",
+    "verify": "node tools/verify-recovery.mjs",
+    "preview": "node tools/preview-server.mjs"
+  },
+  "devDependencies": {
+    "acorn": "^8.15.0",
+    "prettier": "^3.6.2"
+  }
+}

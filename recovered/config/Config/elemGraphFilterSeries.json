@@ -1,0 +1,26 @@
+{
+  "G_2": {
+    "filterSeries": "G_2"
+  },
+  "G_4": {
+    "filterSeries": "G_4"
+  },
+  "I_2": {
+    "filterSeries": "I_2"
+  },
+  "I_3": {
+    "filterSeries": "I_3"
+  },
+  "I_4": {
+    "filterSeries": "I_4"
+  },
+  "Coin": {
+    "filterSeries": "Coin"
+  },
+  "Dlc_26": {
+    "filterSeries": "Dlc_26"
+  },
+  "Dlc_27": {
+    "filterSeries": "Dlc_27"
+  }
+}

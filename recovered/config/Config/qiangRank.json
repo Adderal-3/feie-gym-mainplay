@@ -1,0 +1,96 @@
+{
+  "qiang1": {
+    "1": {
+      "rank": 1,
+      "scoreRange": [
+        1,
+        850
+      ],
+      "opponentScore": 800,
+      "difficultyRange": [
+        396,
+        700
+      ],
+      "extraReward": {
+        "Film3": 1
+      }
+    },
+    "2": {
+      "rank": 2,
+      "scoreRange": [
+        850,
+        950
+      ],
+      "opponentScore": 900,
+      "difficultyRange": [
+        396,
+        800
+      ],
+      "extraReward": {
+        "Film4": 1
+      }
+    },
+    "3": {
+      "rank": 3,
+      "scoreRange": [
+        950,
+        9999
+      ],
+      "opponentScore": 1000,
+      "difficultyRange": [
+        396,
+        900
+      ],
+      "extraReward": {
+        "Film5": 1
+      }
+    }
+  },
+  "gu1": {
+    "4": {
+      "rank": 4,
+      "scoreRange": [
+        1,
+        850
+      ],
+      "opponentScore": 800,
+      "difficultyRange": [
+        396,
+        700
+      ],
+      "extraReward": {
+        "MhdIIBlindBox1": 1
+      }
+    },
+    "5": {
+      "rank": 5,
+      "scoreRange": [
+        850,
+        950
+      ],
+      "opponentScore": 900,
+      "difficultyRange": [
+        396,
+        800
+      ],
+      "extraReward": {
+        "MhdIIBlindBox2": 1
+      }
+    },
+    "6": {
+      "rank": 6,
+      "scoreRange": [
+        950,
+        9999
+      ],
+      "opponentScore": 1000,
+      "difficultyRange": [
+        396,
+        900
+      ],
+      "extraReward": {
+        "MhdIIBlindBox3": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "holmes2": {
+    "id": "holmes2",
+    "BeginDialog": 18485,
+    "EnterBoard": 0,
+    "EndDialog": 18500,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "29001:18486",
+      "29055:18487",
+      "29113:18488",
+      "29027:18489",
+      "29064:18491",
+      "29075:18493",
+      "29083:18495",
+      "29094:18497",
+      "29095:18498",
+      "29002:18490",
+      "29003:18492",
+      "29004:18494",
+      "29005:18496"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "29121:18499"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  }
+}

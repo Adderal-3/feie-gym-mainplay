@@ -1,0 +1,61 @@
+{
+  "acpay1": {
+    "1": {
+      "id": 1,
+      "minPayment": 1800,
+      "goodsId": 129,
+      "reward": {
+        "90901": 1
+      },
+      "rewardPic": "Conpay/icon_acpay_2401_01"
+    },
+    "2": {
+      "id": 2,
+      "minPayment": 3000,
+      "goodsId": 132,
+      "reward": {
+        "90301": 1,
+        "90901": 1
+      },
+      "rewardPic": ""
+    },
+    "3": {
+      "id": 3,
+      "minPayment": 6800,
+      "goodsId": 137,
+      "reward": {
+        "90801": 1,
+        "90902": 1
+      },
+      "rewardPic": ""
+    },
+    "4": {
+      "id": 4,
+      "minPayment": 12800,
+      "goodsId": 140,
+      "reward": {
+        "98803": 1
+      },
+      "rewardPic": "Conpay/icon_acpay_2401_02"
+    },
+    "5": {
+      "id": 5,
+      "minPayment": 19800,
+      "goodsId": 143,
+      "reward": {
+        "98605": 1,
+        "Energy": 100
+      },
+      "rewardPic": ""
+    },
+    "6": {
+      "id": 6,
+      "minPayment": 32800,
+      "goodsId": 144,
+      "reward": {
+        "Diamond": 50
+      },
+      "rewardPic": "Conpay/icon_acpay_2401_03"
+    }
+  }
+}

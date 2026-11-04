@@ -1,0 +1,52 @@
+{
+  "config1": {
+    "id": "config1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "teamVersusOrder",
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "beginDialog": 18276,
+    "endDialogWin": 18277,
+    "endDialogLose": 18278,
+    "consumeUpgradeTime": [
+      5,
+      11,
+      20,
+      29
+    ],
+    "consumeWeight": [
+      0,
+      100,
+      300,
+      500,
+      1000
+    ],
+    "consumePointNum": {
+      "1": 1
+    },
+    "shopDiamondCoef": 0.2,
+    "shopCoinCoef": 0.01,
+    "availableShop": [
+      2,
+      7
+    ],
+    "bubbleCoef": [
+      0.15,
+      0.2,
+      0.25,
+      0.3
+    ],
+    "bubbleCoefWeight": [
+      10,
+      8,
+      5,
+      3
+    ]
+  }
+}

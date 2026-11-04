@@ -1,0 +1,92 @@
+{
+  "dutyday": {
+    "1": {
+      "id": 1,
+      "dailytaskName": "达到{0}级"
+    },
+    "2": {
+      "id": 2,
+      "dailytaskName": "发射任意发射器{0}次"
+    },
+    "3": {
+      "id": 3,
+      "dailytaskName": "完成{0}个订单"
+    },
+    "4": {
+      "id": 4,
+      "dailytaskName": "解锁{0}次粉色手提包"
+    },
+    "5": {
+      "id": 5,
+      "dailytaskName": "在棋盘合成{0}次"
+    },
+    "6": {
+      "id": 6,
+      "dailytaskName": "为健身房建造{0}次"
+    },
+    "7": {
+      "id": 7,
+      "dailytaskName": "消耗钻石购买{0}次能量"
+    },
+    "8": {
+      "id": 8,
+      "dailytaskName": "发射任意发射器{0}次"
+    },
+    "9": {
+      "id": 9,
+      "dailytaskName": "在棋盘上出售{0}次任意元素"
+    },
+    "10": {
+      "id": 10,
+      "dailytaskName": "选中发射器并消耗钻石加速{0}次"
+    },
+    "11": {
+      "id": 11,
+      "dailytaskName": "为健身房建造{0}次"
+    },
+    "12": {
+      "id": 12,
+      "dailytaskName": "累计消耗{0}能量"
+    },
+    "13": {
+      "id": 13,
+      "dailytaskName": "合成{0}个最高等级金币"
+    },
+    "14": {
+      "id": 14,
+      "dailytaskName": "在棋盘合成{0}次"
+    },
+    "15": {
+      "id": 15,
+      "dailytaskName": "达到{0}级"
+    },
+    "16": {
+      "id": 16,
+      "dailytaskName": "合成{0}个最高等级能量球"
+    },
+    "17": {
+      "id": 17,
+      "dailytaskName": "完成{0}个订单"
+    },
+    "18": {
+      "id": 18,
+      "dailytaskName": "为健身房建造{0}次"
+    },
+    "19": {
+      "id": 19,
+      "dailytaskName": "累计消耗{0}金币"
+    },
+    "20": {
+      "id": 20,
+      "dailytaskName": "累计消耗{0}钻石"
+    },
+    "21": {
+      "id": 21,
+      "dailytaskName": "累计消耗{0}星星"
+    },
+    "22": {
+      "id": 22,
+      "dailytaskName": "达到{0}级"
+    }
+  }
+}

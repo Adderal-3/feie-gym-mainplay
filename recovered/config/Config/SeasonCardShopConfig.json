@@ -1,0 +1,22 @@
+{
+  "Base": {
+    "actType": "Base",
+    "bg": "img_shopbg_base",
+    "icon": "img_shopicon_base"
+  },
+  "XL": {
+    "actType": "XL",
+    "bg": "img_shopbg_xl",
+    "icon": "img_shopicon_xl"
+  },
+  "Basegold": {
+    "actType": "Basegold",
+    "bg": "img_shopbg_basegold",
+    "icon": "img_shopicon_basegold"
+  },
+  "XLgold": {
+    "actType": "XLgold",
+    "bg": "img_shopbg_xlgold",
+    "icon": "img_shopicon_xlgold"
+  }
+}

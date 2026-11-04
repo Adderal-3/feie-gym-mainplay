@@ -1,0 +1,1694 @@
+{
+  "undersea": {
+    "id": "undersea",
+    "unlockEntrance": 20,
+    "board": 15,
+    "boardId": [
+      23
+    ],
+    "task": [
+      2001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2040",
+    "EntranceIcon": "2307",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      90
+    ],
+    "endGameImagePath": "act_2307_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "textColor": "",
+    "rankColor": "",
+    "rankLineColor": "",
+    "extraShop": 0,
+    "rankAnim": "TimeOrdernvchuanzhang",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "999006",
+    "progressWaterId": "",
+    "rollingId": "998002",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "picnic": {
+    "id": "picnic",
+    "unlockEntrance": 20,
+    "board": 16,
+    "boardId": [
+      24
+    ],
+    "task": [
+      3001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1051",
+    "EntranceIcon": "2308",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      91
+    ],
+    "endGameImagePath": "actpro_pic_end_2308",
+    "exchangeCoinOffer": [],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "textColor": "",
+    "rankColor": "",
+    "rankLineColor": "",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderliangyuyie",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "999007",
+    "progressWaterId": "",
+    "rollingId": "998003",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "misty": {
+    "id": "misty",
+    "unlockEntrance": 20,
+    "board": 20,
+    "boardId": [
+      28
+    ],
+    "task": [
+      4001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 34410,
+    "worldRankScore": 34410,
+    "taskgoose": "1054",
+    "EntranceIcon": "2311",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      103
+    ],
+    "endGameImagePath": "act_2311_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      103
+    ],
+    "textColor": "#479e94",
+    "rankColor": "",
+    "rankLineColor": "",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderdahuilang",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "screen_switch_wolf",
+    "waterId": "999009",
+    "progressWaterId": "",
+    "rollingId": "998005",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "shin": {
+    "id": "shin",
+    "unlockEntrance": 20,
+    "board": 22,
+    "boardId": [
+      30
+    ],
+    "task": [
+      5001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 35000,
+    "worldRankScore": 35000,
+    "taskgoose": "1059",
+    "EntranceIcon": "2401",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      105
+    ],
+    "endGameImagePath": "act_2401_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      105
+    ],
+    "textColor": "#6F401B",
+    "rankColor": "#606CB3",
+    "rankLineColor": "#89D4FB",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderzhuzhu",
+    "showStageTwo": 1,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "999011",
+    "progressWaterId": "",
+    "rollingId": "998007",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "door": {
+    "id": "door",
+    "unlockEntrance": 20,
+    "board": 25,
+    "boardId": [
+      32,
+      33,
+      34
+    ],
+    "task": [
+      6001,
+      6101,
+      6201
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2061",
+    "EntranceIcon": "240202",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      126
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#951D1D",
+    "rankColor": "#951D1D",
+    "rankLineColor": "#951D1D",
+    "extraShop": 0,
+    "rankAnim": "TimeOrdertangyuane",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "spring": {
+    "id": "spring",
+    "unlockEntrance": 20,
+    "board": 26,
+    "boardId": [
+      35
+    ],
+    "task": [
+      7001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 30303,
+    "worldRankScore": 30303,
+    "taskgoose": "1062",
+    "EntranceIcon": "2402",
+    "unlockHappyEnd": [
+      "GetGoose1062"
+    ],
+    "giftSeriesId": [
+      119
+    ],
+    "endGameImagePath": "act_2402_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      106
+    ],
+    "textColor": "#d39650",
+    "rankColor": "#9C5471",
+    "rankLineColor": "#5D8DA2",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderaqine",
+    "showStageTwo": 0,
+    "canSell": 7001,
+    "canBingo": 7004,
+    "switchMp3": "screen_switch_drum",
+    "waterId": "999012",
+    "progressWaterId": "",
+    "rollingId": "998008",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "duanwu1": {
+    "id": "duanwu1",
+    "unlockEntrance": 20,
+    "board": 30,
+    "boardId": [
+      45,
+      46,
+      47
+    ],
+    "task": [
+      8001,
+      8101,
+      8201
+    ],
+    "prepareDuration": 24,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2071",
+    "EntranceIcon": "240602",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      147
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#446930",
+    "rankColor": "#446930",
+    "rankLineColor": "#a5cd6b",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderanlingrong",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "zhzboard": {
+    "id": "zhzboard",
+    "unlockEntrance": 20,
+    "board": 32,
+    "boardId": [
+      48
+    ],
+    "task": [
+      9001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 30253,
+    "worldRankScore": 20553,
+    "taskgoose": "1067",
+    "EntranceIcon": "2406",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      148
+    ],
+    "endGameImagePath": "act_2406_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      111
+    ],
+    "textColor": "#d39650",
+    "rankColor": "#d37755",
+    "rankLineColor": "#ffc17a",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderhuangshang",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 9004,
+    "switchMp3": "screen_switch_zhzboard",
+    "waterId": "999018",
+    "progressWaterId": "",
+    "rollingId": "998013",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "battleroyal": {
+    "id": "battleroyal",
+    "unlockEntrance": 20,
+    "board": 33,
+    "boardId": [
+      49
+    ],
+    "task": [
+      10001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 34410,
+    "worldRankScore": 34410,
+    "taskgoose": "1072",
+    "EntranceIcon": "2407",
+    "unlockHappyEnd": [
+      "GetGoose1072"
+    ],
+    "giftSeriesId": [
+      164
+    ],
+    "endGameImagePath": "act_2407_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      113
+    ],
+    "textColor": "#3a6a88",
+    "rankColor": "#3a6a88",
+    "rankLineColor": "#3a6a88",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderdutue",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "screen_switch_card",
+    "waterId": "999019",
+    "progressWaterId": "",
+    "rollingId": "998014",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "premoon": {
+    "id": "premoon",
+    "unlockEntrance": 20,
+    "board": 39,
+    "boardId": [
+      55,
+      56,
+      57
+    ],
+    "task": [
+      11001,
+      11101,
+      11201
+    ],
+    "prepareDuration": 24,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2080",
+    "EntranceIcon": "240909",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      192,
+      193
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#e4a853",
+    "rankColor": "#4A60B0",
+    "rankLineColor": "#B89CEC",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderchange",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "moon2024": {
+    "id": "moon2024",
+    "unlockEntrance": 20,
+    "board": 40,
+    "boardId": [
+      58
+    ],
+    "task": [
+      12001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 15510,
+    "worldRankScore": 15510,
+    "taskgoose": "2082",
+    "EntranceIcon": "240927",
+    "unlockHappyEnd": [
+      "GetGoose2082"
+    ],
+    "giftSeriesId": [
+      182
+    ],
+    "endGameImagePath": "actpro_pic_end_240927",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      116
+    ],
+    "textColor": "#ac6eb4",
+    "rankColor": "#5CCACC",
+    "rankLineColor": "#92C3E2",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderyhyxiaojie",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "screen_switch_wolf2",
+    "waterId": "999020",
+    "progressWaterId": "",
+    "rollingId": "998016",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "dreamdoor": {
+    "id": "dreamdoor",
+    "unlockEntrance": 20,
+    "board": 41,
+    "boardId": [
+      60,
+      61,
+      62
+    ],
+    "task": [
+      13001,
+      13101,
+      13201
+    ],
+    "prepareDuration": 24,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2087",
+    "EntranceIcon": "2411",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      205,
+      206
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#c86cea",
+    "rankColor": "#4A60B0",
+    "rankLineColor": "#CBA9F4",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderkeshuichong",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "snowwhite": {
+    "id": "snowwhite",
+    "unlockEntrance": 20,
+    "board": 42,
+    "boardId": [
+      63
+    ],
+    "task": [
+      14001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 60430,
+    "worldRankScore": 60430,
+    "taskgoose": "2090",
+    "EntranceIcon": "241206",
+    "unlockHappyEnd": [
+      "GetGoose2090"
+    ],
+    "giftSeriesId": [
+      212
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      118
+    ],
+    "textColor": "#6885ca",
+    "rankColor": "#5CCACC",
+    "rankLineColor": "#92C3E2",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderbaixuegongzhu",
+    "showStageTwo": 0,
+    "canSell": 14001,
+    "canBingo": 14001,
+    "switchMp3": "screen_switch_fengling",
+    "waterId": "999024",
+    "progressWaterId": "",
+    "rollingId": "998019",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "theatre": {
+    "id": "theatre",
+    "unlockEntrance": 20,
+    "board": 44,
+    "boardId": [
+      66
+    ],
+    "task": [
+      15001
+    ],
+    "prepareDuration": 24,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 26000,
+    "worldRankScore": 26000,
+    "taskgoose": "1084",
+    "EntranceIcon": "250126",
+    "unlockHappyEnd": [
+      "GetGoose1084"
+    ],
+    "giftSeriesId": [
+      224
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      119
+    ],
+    "textColor": "#e69119",
+    "rankColor": "#6372e3",
+    "rankLineColor": "#ffd561",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderlaoatai",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "screen_switch_timeclock",
+    "waterId": "999027",
+    "progressWaterId": "",
+    "rollingId": "998023",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "unicorndoor": {
+    "id": "unicorndoor",
+    "unlockEntrance": 20,
+    "board": 45,
+    "boardId": [
+      68,
+      69,
+      70
+    ],
+    "task": [
+      16001,
+      16101,
+      16201
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1085",
+    "EntranceIcon": "250212",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      225
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#EE91B1",
+    "rankColor": "#E1714C",
+    "rankLineColor": "#E0C3F8",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderlv",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "fooddoor": {
+    "id": "fooddoor",
+    "unlockEntrance": 20,
+    "board": 61,
+    "boardId": [
+      71,
+      72,
+      73
+    ],
+    "task": [
+      17001,
+      17401,
+      17700
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2100",
+    "EntranceIcon": "2207",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      233
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#5f790C",
+    "rankColor": "#c38527",
+    "rankLineColor": "#c38527",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderxiaodangaoe",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 0,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "castlesky": {
+    "id": "castlesky",
+    "unlockEntrance": 20,
+    "board": 63,
+    "boardId": [
+      75
+    ],
+    "task": [
+      19001
+    ],
+    "prepareDuration": 48,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 25975,
+    "worldRankScore": 25975,
+    "taskgoose": "2105",
+    "EntranceIcon": "250418",
+    "unlockHappyEnd": [
+      "GetGoose2105"
+    ],
+    "giftSeriesId": [
+      239
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      120
+    ],
+    "textColor": "#6083ba",
+    "rankColor": "#4d8db6",
+    "rankLineColor": "#7dc6ed",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderpinminkushaonv",
+    "showStageTwo": 0,
+    "canSell": 19001,
+    "canBingo": 19001,
+    "switchMp3": "screen_switch_castlesky",
+    "waterId": "",
+    "progressWaterId": "66660001",
+    "rollingId": "998024",
+    "claimTime": 86400,
+    "extendExpires": 86400,
+    "extendTime": 172800,
+    "extendGiftID": 238001,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "hoggoosedoor": {
+    "id": "hoggoosedoor",
+    "unlockEntrance": 20,
+    "board": 66,
+    "boardId": [
+      78,
+      79,
+      80
+    ],
+    "task": [
+      20101,
+      20201,
+      20301
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2106",
+    "EntranceIcon": "250509",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      242
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#7635b5",
+    "rankColor": "#9a49de",
+    "rankLineColor": "#c9a8fb",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderjisie",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 86400,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "mofakaimenrukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "holmes": {
+    "id": "holmes",
+    "unlockEntrance": 20,
+    "board": 67,
+    "boardId": [
+      81
+    ],
+    "task": [
+      21001
+    ],
+    "prepareDuration": 3,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1089",
+    "EntranceIcon": "250522",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#764F4B",
+    "rankColor": "#AF6D31",
+    "rankLineColor": "#BDA38B",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderhuashenge",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 7200,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "fuermosirukou",
+    "TitleArea": [
+      0,
+      -11
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "bloverdoor": {
+    "id": "bloverdoor",
+    "unlockEntrance": 20,
+    "board": 68,
+    "boardId": [
+      82,
+      83,
+      84
+    ],
+    "task": [
+      22101,
+      22201,
+      22301
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2110",
+    "EntranceIcon": "250613",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      249
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#446930",
+    "rankColor": "#446930",
+    "rankLineColor": "#a5cd6b",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderfenshe",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 86400,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "duanwukaimenrukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "seadoor": {
+    "id": "seadoor",
+    "unlockEntrance": 20,
+    "board": 72,
+    "boardId": [
+      91,
+      92,
+      93
+    ],
+    "task": [
+      23101,
+      23201,
+      23301
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1092",
+    "EntranceIcon": "250717",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      254
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#446930",
+    "rankColor": "#446930",
+    "rankLineColor": "#a5cd6b",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderqiyue",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 86400,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "shenhairukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "ghost": {
+    "id": "ghost",
+    "unlockEntrance": 20,
+    "board": 73,
+    "boardId": [
+      94
+    ],
+    "task": [
+      24001
+    ],
+    "prepareDuration": 3,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 18000,
+    "worldRankScore": 18000,
+    "taskgoose": "zhanbushi",
+    "EntranceIcon": "250729",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#b753c6",
+    "rankColor": "#7d68ac",
+    "rankLineColor": "#bd9af3",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderzhanbushi",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 7200,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "youlingrukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "fashion": {
+    "id": "fashion",
+    "unlockEntrance": 20,
+    "board": 74,
+    "boardId": [
+      95
+    ],
+    "task": [
+      25001
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 27515,
+    "worldRankScore": 27515,
+    "taskgoose": "2114",
+    "EntranceIcon": "250815",
+    "unlockHappyEnd": [
+      "GetGoose2114"
+    ],
+    "giftSeriesId": [
+      257
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      121
+    ],
+    "textColor": "#935bb6",
+    "rankColor": "#9e41ac",
+    "rankLineColor": "#eda0d6",
+    "extraShop": 1,
+    "rankAnim": "TimeOrderxinshoushejishi",
+    "showStageTwo": 0,
+    "canSell": 25001,
+    "canBingo": 25001,
+    "switchMp3": "screen_switch_fashion",
+    "waterId": "999032",
+    "progressWaterId": "",
+    "rollingId": "998025",
+    "claimTime": 86400,
+    "extendExpires": 86400,
+    "extendTime": 172800,
+    "extendGiftID": 238101,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "moon2door": {
+    "id": "moon2door",
+    "unlockEntrance": 20,
+    "board": 68,
+    "boardId": [
+      102,
+      103,
+      104
+    ],
+    "task": [
+      26101,
+      26201,
+      26301
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1099",
+    "EntranceIcon": "251001",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      265
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#446930",
+    "rankColor": "#9a7356",
+    "rankLineColor": "#b5c9bd",
+    "extraShop": 0,
+    "rankAnim": "TimeOrdermofashu",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 86400,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "101kaimenrukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "cheese": {
+    "id": "cheese",
+    "unlockEntrance": 20,
+    "board": 80,
+    "boardId": [
+      105
+    ],
+    "task": [
+      27001
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 0,
+    "isRank": 1,
+    "isNewEnter": 0,
+    "finishScore": 28515,
+    "worldRankScore": 28515,
+    "taskgoose": "1103",
+    "EntranceIcon": "251016",
+    "unlockHappyEnd": [
+      "GetGoose1103"
+    ],
+    "giftSeriesId": [
+      272
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [
+      8150,
+      8151,
+      8158
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      122
+    ],
+    "textColor": "#c06026",
+    "rankColor": "#bf5e34",
+    "rankLineColor": "#f5c0bf",
+    "extraShop": 1,
+    "rankAnim": "TimeOrdertejichushi",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 27020,
+    "switchMp3": "",
+    "waterId": "999034",
+    "progressWaterId": "",
+    "rollingId": "998027",
+    "claimTime": 86400,
+    "extendExpires": 86400,
+    "extendTime": 172800,
+    "extendGiftID": 238201,
+    "boardAnim": "",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "mistydoor": {
+    "id": "mistydoor",
+    "unlockEntrance": 20,
+    "board": 81,
+    "boardId": [
+      106,
+      107,
+      108
+    ],
+    "task": [
+      28101,
+      28201,
+      28301
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2118",
+    "EntranceIcon": "251120",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      274
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#d676b5",
+    "rankColor": "#c5569f",
+    "rankLineColor": "#e9aad3",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderjimu",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "screen_switch_wolf",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 86400,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "kaimenwuyarukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 1.1126,
+    "starBoard": 1,
+    "orderBoard": 0,
+    "rewardChest": []
+  },
+  "cinderella": {
+    "id": "cinderella",
+    "unlockEntrance": 20,
+    "board": 83,
+    "boardId": [
+      110
+    ],
+    "task": [
+      29001
+    ],
+    "prepareDuration": 12,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "2120",
+    "EntranceIcon": "251217",
+    "unlockHappyEnd": [
+      "GetGoose2120"
+    ],
+    "giftSeriesId": [
+      277
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      123
+    ],
+    "textColor": "#935bb6",
+    "rankColor": "#9e41ac",
+    "rankLineColor": "#eda0d6",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderjijie1",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 29001,
+    "switchMp3": "",
+    "waterId": "999035",
+    "progressWaterId": "",
+    "rollingId": "998028",
+    "claimTime": 86400,
+    "extendExpires": 86400,
+    "extendTime": 172800,
+    "extendGiftID": 238301,
+    "boardAnim": "qipanruilarukou",
+    "TitleArea": [
+      0,
+      0
+    ],
+    "dailyValueParm": 0,
+    "starBoard": 0,
+    "orderBoard": 1,
+    "rewardChest": [
+      {
+        "22221": 1
+      },
+      {
+        "22222": 1
+      },
+      {
+        "22223": 1
+      },
+      {
+        "22224": 1
+      },
+      {
+        "22225": 1
+      }
+    ]
+  }
+}

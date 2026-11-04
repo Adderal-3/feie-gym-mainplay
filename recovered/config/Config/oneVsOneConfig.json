@@ -1,0 +1,60 @@
+{
+  "config1": {
+    "id": "config1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "oneVsOneOrder",
+    "slotCd": [
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "robotUrgeIds": [
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "playerExpectRank": 2,
+    "beginDialog": 9389,
+    "winDialog": 9390,
+    "loseDialog": 9391,
+    "endDialog": 9392,
+    "consumeUpgradeTime": [
+      5,
+      11,
+      20,
+      29
+    ],
+    "consumeWeight": [
+      0,
+      100,
+      300,
+      500,
+      1000
+    ],
+    "consumePointNum": {
+      "1": 1
+    },
+    "shopDiamondCoef": 0.2,
+    "shopCoinCoef": 0.01,
+    "availableShop": [
+      2,
+      7
+    ],
+    "bubbleCoef": [
+      0.15,
+      0.2,
+      0.25,
+      0.3
+    ],
+    "bubbleCoefWeight": [
+      10,
+      8,
+      5,
+      3
+    ]
+  }
+}

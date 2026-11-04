@@ -1,0 +1,170 @@
+{
+  "1": {
+    "id": 1,
+    "configId": "partnerWheel1",
+    "baseScore": 2,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "2": {
+    "id": 2,
+    "configId": "partnerWheel1",
+    "baseScore": 5,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "3": {
+    "id": 3,
+    "configId": "partnerWheel1",
+    "baseScore": 20,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 1
+  },
+  "4": {
+    "id": 4,
+    "configId": "partnerWheel1",
+    "baseScore": 5,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "5": {
+    "id": 5,
+    "configId": "partnerWheel1",
+    "baseScore": 1,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "6": {
+    "id": 6,
+    "configId": "partnerWheel1",
+    "baseScore": 10,
+    "weight": [
+      10,
+      2,
+      2,
+      2,
+      2
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "7": {
+    "id": 7,
+    "configId": "partnerWheel1",
+    "baseScore": 5,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "8": {
+    "id": 8,
+    "configId": "partnerWheel1",
+    "baseScore": 15,
+    "weight": [
+      15,
+      3,
+      3,
+      3,
+      3
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "9": {
+    "id": 9,
+    "configId": "partnerWheel1",
+    "baseScore": 5,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "10": {
+    "id": 10,
+    "configId": "partnerWheel1",
+    "baseScore": 2,
+    "weight": [
+      10,
+      2,
+      2,
+      2,
+      2
+    ],
+    "effectType": 0,
+    "highlight": 0
+  },
+  "11": {
+    "id": 11,
+    "configId": "partnerWheel1",
+    "baseScore": 10,
+    "weight": [
+      10,
+      2,
+      2,
+      2,
+      2
+    ],
+    "effectType": 1,
+    "highlight": 0
+  },
+  "12": {
+    "id": 12,
+    "configId": "partnerWheel1",
+    "baseScore": 1,
+    "weight": [
+      5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "effectType": 0,
+    "highlight": 0
+  }
+}

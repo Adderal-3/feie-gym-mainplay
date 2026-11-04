@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "preDisplay": [
+      "PlayerLevel12"
+    ],
+    "picture": "story_pic_42",
+    "detailPicture": "story_detail_pic_42",
+    "demand": {
+      "Energy": 25
+    },
+    "reward": {
+      "11001": 1
+    },
+    "jumpName": "hydrant"
+  }
+}

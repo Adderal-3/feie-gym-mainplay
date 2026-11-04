@@ -1,0 +1,708 @@
+{
+  "2011": {
+    "ID": 2011,
+    "matchID": "CostEnergy2",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 300,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "2012": {
+    "ID": 2012,
+    "matchID": "CostEnergy2",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 200,
+      "Energy": 25,
+      "AdornCoupon": 50
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "2013": {
+    "ID": 2013,
+    "matchID": "CostEnergy2",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 100,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "3011": {
+    "ID": 3011,
+    "matchID": "CostEnergy3",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 500,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 200
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "3012": {
+    "ID": 3012,
+    "matchID": "CostEnergy3",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 300,
+      "Energy": 25,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "3013": {
+    "ID": 3013,
+    "matchID": "CostEnergy3",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 200,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "4011": {
+    "ID": 4011,
+    "matchID": "CostEnergy4",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 800,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 200
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "4012": {
+    "ID": 4012,
+    "matchID": "CostEnergy4",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 500,
+      "Energy": 25,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "4013": {
+    "ID": 4013,
+    "matchID": "CostEnergy4",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 300,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5011": {
+    "ID": 5011,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 300,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5012": {
+    "ID": 5012,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 200,
+      "Energy": 25,
+      "AdornCoupon": 50
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5013": {
+    "ID": 5013,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      6,
+      14
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 100,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5111": {
+    "ID": 5111,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 500,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 200
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5112": {
+    "ID": 5112,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 300,
+      "Energy": 25,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5113": {
+    "ID": 5113,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      15,
+      60
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 200,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5211": {
+    "ID": 5211,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "98202": 1,
+      "Coin": 800,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 200
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5212": {
+    "ID": 5212,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 500,
+      "Energy": 25,
+      "AdornCoupon": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "5213": {
+    "ID": 5213,
+    "matchID": "CostEnergy5",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "98101": 1,
+      "98201": 1,
+      "Coin": 300,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "6211": {
+    "ID": 6211,
+    "matchID": "CostEnergy6",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 800,
+      "Energy": 50,
+      "Diamond": 10,
+      "AdornCoupon": 200,
+      "CardPoint": 200
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "6212": {
+    "ID": 6212,
+    "matchID": "CostEnergy6",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "Coin": 500,
+      "Energy": 25,
+      "AdornCoupon": 100,
+      "CardPoint": 150
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "6213": {
+    "ID": 6213,
+    "matchID": "CostEnergy6",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "Coin": 300,
+      "Energy": 25,
+      "CardPoint": 100
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "7211": {
+    "ID": 7211,
+    "matchID": "CostEnergy7",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 500,
+      "Energy": 50,
+      "Diamond": 5,
+      "AdornCoupon": 100,
+      "CardPoint": 200,
+      "Star": 5
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "7212": {
+    "ID": 7212,
+    "matchID": "CostEnergy7",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 2,
+    "endRank": 2,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "Coin": 200,
+      "Energy": 25
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "7213": {
+    "ID": 7213,
+    "matchID": "CostEnergy7",
+    "rankGroupId": [
+      61,
+      120
+    ],
+    "startRank": 3,
+    "endRank": 3,
+    "icon": "icon_rankreward_03",
+    "rankReward": {
+      "Coin": 100,
+      "Energy": 10
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "8011": {
+    "ID": 8011,
+    "matchID": "CostEnergy8",
+    "rankGroupId": [
+      6,
+      12
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "91101": 1,
+      "91201": 1,
+      "91301": 1,
+      "91401": 1,
+      "Coin": 2000
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "9011": {
+    "ID": 9011,
+    "matchID": "CostEnergy9",
+    "rankGroupId": [
+      6,
+      12
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "Coin": 100,
+      "Energy": 10,
+      "Diamond": 2,
+      "AdornCoupon": 10
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "9111": {
+    "ID": 9111,
+    "matchID": "CostEnergy9",
+    "rankGroupId": [
+      13,
+      60
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "Coin": 200,
+      "Energy": 20,
+      "Diamond": 2,
+      "AdornCoupon": 10
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "9211": {
+    "ID": 9211,
+    "matchID": "CostEnergy9",
+    "rankGroupId": [
+      61,
+      90
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 200,
+      "Energy": 20,
+      "Diamond": 2,
+      "CardPoint": 50,
+      "Star": 2
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "9311": {
+    "ID": 9311,
+    "matchID": "CostEnergy9",
+    "rankGroupId": [
+      91,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 500,
+      "Energy": 30,
+      "Diamond": 5,
+      "CardPoint": 50,
+      "Star": 2
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "10011": {
+    "ID": 10011,
+    "matchID": "CostEnergy10",
+    "rankGroupId": [
+      13,
+      60
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "98102": 1,
+      "Coin": 200,
+      "Energy": 20,
+      "Diamond": 2,
+      "AdornCoupon": 10
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "10111": {
+    "ID": 10111,
+    "matchID": "CostEnergy10",
+    "rankGroupId": [
+      61,
+      90
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 200,
+      "Energy": 20,
+      "Diamond": 2,
+      "CardPoint": 50,
+      "Star": 2
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "10211": {
+    "ID": 10211,
+    "matchID": "CostEnergy10",
+    "rankGroupId": [
+      91,
+      120
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "Coin": 500,
+      "Energy": 30,
+      "Diamond": 5,
+      "CardPoint": 50,
+      "Star": 2
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "11011": {
+    "ID": 11011,
+    "matchID": "CostEnergy11",
+    "rankGroupId": [
+      13,
+      20
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "91101": 1,
+      "91301": 1,
+      "91401": 1,
+      "98401": 1,
+      "Coin": 2000
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  },
+  "12011": {
+    "ID": 12011,
+    "matchID": "CostEnergy12",
+    "rankGroupId": [
+      13,
+      20
+    ],
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "91101": 1,
+      "91201": 1,
+      "91301": 1,
+      "91401": 1,
+      "Coin": 2000
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "holdTime": 360
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "multiButton1": {
+    "id": "multiButton1",
+    "type": "Main",
+    "unlock": "PlayerLevel8",
+    "unlock4": "PlayerLevel15",
+    "times": 4
+  }
+}

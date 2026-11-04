@@ -1,0 +1,158 @@
+{
+  "alap1": {
+    "id": "alap1",
+    "router": [],
+    "giftMainId": 997001,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700101,
+      99700102,
+      99700103
+    ],
+    "actPic": "LoginGift_bg_01",
+    "actIcon": "icon_LoginGift",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap2": {
+    "id": "alap2",
+    "router": [],
+    "giftMainId": 997002,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700201,
+      99700202,
+      99700203
+    ],
+    "actPic": "LoginGift_bg_02",
+    "actIcon": "icon_LoginGift2",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap3": {
+    "id": "alap3",
+    "router": [],
+    "giftMainId": 997003,
+    "price": {
+      "Cash": 1800
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700301,
+      99700302,
+      99700303
+    ],
+    "actPic": "LoginGift_bg_03",
+    "actIcon": "icon_LoginGift3",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap4": {
+    "id": "alap4",
+    "router": [],
+    "giftMainId": 997004,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700401,
+      99700402,
+      99700403
+    ],
+    "actPic": "LoginGift_bg_04",
+    "actIcon": "icon_LoginGift4",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap5": {
+    "id": "alap5",
+    "router": [
+      "alap5",
+      "alap6",
+      "alap7"
+    ],
+    "giftMainId": 997005,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700501,
+      99700502,
+      99700503
+    ],
+    "actPic": "LoginGift_bg_05",
+    "actIcon": "icon_LoginGift5",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap6": {
+    "id": "alap6",
+    "router": [
+      "alap5",
+      "alap6",
+      "alap7"
+    ],
+    "giftMainId": 997006,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700601,
+      99700602,
+      99700603
+    ],
+    "actPic": "LoginGift_bg_05",
+    "actIcon": "icon_LoginGift5",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap7": {
+    "id": "alap7",
+    "router": [
+      "alap5",
+      "alap6",
+      "alap7"
+    ],
+    "giftMainId": 997007,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700701,
+      99700702,
+      99700703
+    ],
+    "actPic": "LoginGift_bg_05",
+    "actIcon": "icon_LoginGift5",
+    "canLevel": 12,
+    "duration": 7
+  },
+  "alap8": {
+    "id": "alap8",
+    "router": [],
+    "giftMainId": 997008,
+    "price": {
+      "Cash": 3000
+    },
+    "tagText": "300%",
+    "giftIds": [
+      99700801,
+      99700802,
+      99700803
+    ],
+    "actPic": "LoginGift_bg_08",
+    "actIcon": "icon_LoginGift8",
+    "canLevel": 12,
+    "duration": 7
+  }
+}

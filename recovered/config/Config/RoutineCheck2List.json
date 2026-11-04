@@ -1,0 +1,104 @@
+{
+  "check2_1": {
+    "id": "check2_1",
+    "enterDialog": 9212,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 99101,
+    "availableSeries": {
+      "A_1": 100,
+      "A_2": 8,
+      "E_1": 30,
+      "H_2": 80,
+      "B_2": 5,
+      "B_1": 100,
+      "B_3": 10,
+      "C_2": 10,
+      "C_1": 100,
+      "I_1": 100,
+      "G_3": 50,
+      "Scene_2": 100,
+      "Dlc_21": 100,
+      "Dlc_22": 10,
+      "Order_Dlc_24": 100,
+      "Dlc_25": 10
+    },
+    "fixRange": [
+      0.6,
+      1.5
+    ],
+    "fixFactor": 0.35,
+    "pointFactor": 0.25,
+    "EntranceIcon": "2404",
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "waterId": "999029",
+    "expandBonusType": [
+      "Star",
+      "RoutineCheckIIPoint"
+    ],
+    "roundCount": 8,
+    "orderPointLimite": 2000,
+    "entranceAnim": "richangshiwurukou",
+    "animOffset": -5,
+    "progressBackground": "busyday_bg",
+    "progressColor": "#640E0E",
+    "rewardsPosition": 6,
+    "starTranslate": 35
+  },
+  "check2_2": {
+    "id": "check2_2",
+    "enterDialog": 9218,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 99101,
+    "availableSeries": {
+      "A_1": 100,
+      "A_2": 8,
+      "E_1": 30,
+      "H_2": 80,
+      "B_2": 5,
+      "B_1": 100,
+      "B_3": 10,
+      "C_2": 10,
+      "C_1": 100,
+      "I_1": 100,
+      "G_3": 50,
+      "Scene_2": 100,
+      "Dlc_21": 100,
+      "Dlc_22": 10,
+      "Order_Dlc_24": 100,
+      "Dlc_25": 10
+    },
+    "fixRange": [
+      0.8,
+      1.6
+    ],
+    "fixFactor": 0.4,
+    "pointFactor": 0.25,
+    "EntranceIcon": "2508",
+    "walkGoose": "aqiang",
+    "boardAnim": "TimeOrderAqiang",
+    "character": "aqiangUI",
+    "waterId": "999030",
+    "expandBonusType": [
+      "Star",
+      "RoutineCheckIIPoint"
+    ],
+    "roundCount": 1,
+    "orderPointLimite": 2000,
+    "entranceAnim": "lixingjiancharukou",
+    "animOffset": 10,
+    "progressBackground": "deepsea_bg",
+    "progressColor": "#254683",
+    "rewardsPosition": 18,
+    "starTranslate": 35
+  }
+}

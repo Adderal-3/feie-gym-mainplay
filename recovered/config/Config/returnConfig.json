@@ -1,0 +1,78 @@
+{
+  "returncenterLastTime": 15,
+  "returncenterLastTimeNew": 3,
+  "returncenterSigninTime": 7,
+  "returncenterUnlockPlayerLevel": 5,
+  "returncenterUnlockPlayerLevelNew": 8,
+  "returncenterRewardMaxNum": {
+    "Diamond": 100
+  },
+  "logoutlastTime": 30,
+  "orderSeries": 998,
+  "giftseries": 66,
+  "returnDeleteLowValueElement": [
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    2101,
+    2102,
+    2103,
+    2104,
+    3101,
+    3102,
+    3103,
+    5101,
+    5102,
+    5103,
+    6001,
+    6002,
+    6003,
+    6101,
+    6102,
+    6103,
+    8201,
+    8202,
+    8203,
+    9101,
+    9102,
+    9103,
+    9201,
+    9202,
+    70011,
+    70012,
+    70013,
+    70111,
+    70112,
+    70113,
+    70211,
+    70212,
+    70213,
+    7401,
+    7402,
+    4101,
+    4102,
+    4103
+  ],
+  "returnDays": [
+    13,
+    20,
+    30
+  ],
+  "needShopDiscount": [
+    1,
+    1,
+    1
+  ],
+  "needPackup": [
+    1,
+    1,
+    1
+  ],
+  "needDelete": [
+    0,
+    0,
+    1
+  ]
+}

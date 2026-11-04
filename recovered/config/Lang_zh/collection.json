@@ -1,0 +1,7 @@
+{
+  "collection1": {
+    "id": "collection1",
+    "title": "花丛采蜜",
+    "desc": "<row spacing=3><text color=#293C8A outline=White>完成订单，帮助小蜜蜂肥鹅收集</text><img=ItemType.collectionPoint size=42><text color=#293C8A outline=White></text>"
+  }
+}

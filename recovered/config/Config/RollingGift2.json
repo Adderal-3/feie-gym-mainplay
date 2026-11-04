@@ -1,0 +1,360 @@
+{
+  "998029": {
+    "998029001": {
+      "rgID": 998029001,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 150,
+        "Diamond": 5
+      },
+      "price": {
+        "Cash": 600
+      },
+      "isLoop": 0
+    },
+    "998029002": {
+      "rgID": 998029002,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 5
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029003": {
+      "rgID": 998029003,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 5
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029004": {
+      "rgID": 998029004,
+      "seriesBelong": 998029,
+      "content": {
+        "92108": 1,
+        "Energy": 160,
+        "Diamond": 30
+      },
+      "price": {
+        "Cash": 1200
+      },
+      "isLoop": 0
+    },
+    "998029005": {
+      "rgID": 998029005,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029006": {
+      "rgID": 998029006,
+      "seriesBelong": 998029,
+      "content": {
+        "Film2": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029007": {
+      "rgID": 998029007,
+      "seriesBelong": 998029,
+      "content": {
+        "92105": 1,
+        "Energy": 240,
+        "Diamond": 50
+      },
+      "price": {
+        "Cash": 1800
+      },
+      "isLoop": 0
+    },
+    "998029008": {
+      "rgID": 998029008,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029009": {
+      "rgID": 998029009,
+      "seriesBelong": 998029,
+      "content": {
+        "Film2": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029010": {
+      "rgID": 998029010,
+      "seriesBelong": 998029,
+      "content": {
+        "92107": 1,
+        "Energy": 340,
+        "Diamond": 120
+      },
+      "price": {
+        "Cash": 3000
+      },
+      "isLoop": 0
+    },
+    "998029011": {
+      "rgID": 998029011,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 10,
+        "Film8": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029012": {
+      "rgID": 998029012,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 10,
+        "Film2": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029013": {
+      "rgID": 998029013,
+      "seriesBelong": 998029,
+      "content": {
+        "92107": 1,
+        "Energy": 660,
+        "Diamond": 200
+      },
+      "price": {
+        "Cash": 5000
+      },
+      "isLoop": 0
+    },
+    "998029014": {
+      "rgID": 998029014,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 10,
+        "Film3": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029015": {
+      "rgID": 998029015,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 10,
+        "Film9": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029016": {
+      "rgID": 998029016,
+      "seriesBelong": 998029,
+      "content": {
+        "9820002": 1,
+        "Energy": 830,
+        "Diamond": 350
+      },
+      "price": {
+        "Cash": 6800
+      },
+      "isLoop": 0
+    },
+    "998029017": {
+      "rgID": 998029017,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film9": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029018": {
+      "rgID": 998029018,
+      "seriesBelong": 998029,
+      "content": {
+        "Film9": 1,
+        "Diamond": 20
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029019": {
+      "rgID": 998029019,
+      "seriesBelong": 998029,
+      "content": {
+        "92106": 1,
+        "Energy": 980,
+        "Diamond": 650
+      },
+      "price": {
+        "Cash": 9800
+      },
+      "isLoop": 0
+    },
+    "998029020": {
+      "rgID": 998029020,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film4": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029021": {
+      "rgID": 998029021,
+      "seriesBelong": 998029,
+      "content": {
+        "90301": 1,
+        "Film10": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029022": {
+      "rgID": 998029022,
+      "seriesBelong": 998029,
+      "content": {
+        "9820002": 1,
+        "Energy": 1180,
+        "Diamond": 960
+      },
+      "price": {
+        "Cash": 12800
+      },
+      "isLoop": 0
+    },
+    "998029023": {
+      "rgID": 998029023,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film4": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029024": {
+      "rgID": 998029024,
+      "seriesBelong": 998029,
+      "content": {
+        "92105": 1,
+        "Film10": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029025": {
+      "rgID": 998029025,
+      "seriesBelong": 998029,
+      "content": {
+        "9820002": 1,
+        "Energy": 1480,
+        "Diamond": 1350
+      },
+      "price": {
+        "Cash": 16800
+      },
+      "isLoop": 0
+    },
+    "998029026": {
+      "rgID": 998029026,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film4": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029027": {
+      "rgID": 998029027,
+      "seriesBelong": 998029,
+      "content": {
+        "92108": 1,
+        "Film10": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029028": {
+      "rgID": 998029028,
+      "seriesBelong": 998029,
+      "content": {
+        "9820002": 1,
+        "Energy": 1780,
+        "Diamond": 1600
+      },
+      "price": {
+        "Cash": 19800
+      },
+      "isLoop": 0
+    },
+    "998029029": {
+      "rgID": 998029029,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film4": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029030": {
+      "rgID": 998029030,
+      "seriesBelong": 998029,
+      "content": {
+        "92106": 1,
+        "Film10": 1
+      },
+      "price": {},
+      "isLoop": 0
+    },
+    "998029031": {
+      "rgID": 998029031,
+      "seriesBelong": 998029,
+      "content": {
+        "9820003": 1,
+        "Energy": 2480,
+        "Diamond": 2800
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "isLoop": 1
+    },
+    "998029032": {
+      "rgID": 998029032,
+      "seriesBelong": 998029,
+      "content": {
+        "Energy": 20,
+        "Film5": 1
+      },
+      "price": {},
+      "isLoop": 1
+    },
+    "998029033": {
+      "rgID": 998029033,
+      "seriesBelong": 998029,
+      "content": {
+        "92107": 1,
+        "Film11": 1
+      },
+      "price": {},
+      "isLoop": 1
+    }
+  }
+}

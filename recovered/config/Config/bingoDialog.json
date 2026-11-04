@@ -1,0 +1,116 @@
+{
+  "bingo40": {
+    "id": "bingo40",
+    "beginDialog": 18560,
+    "firstFilling": 0,
+    "getMagicHat": 0,
+    "finishTurn": [
+      "4903:18561"
+    ]
+  },
+  "bingo41": {
+    "id": "bingo41",
+    "beginDialog": 18562,
+    "firstFilling": 0,
+    "getMagicHat": 0,
+    "finishTurn": [
+      "5003:18563"
+    ]
+  },
+  "bingo42": {
+    "id": "bingo42",
+    "beginDialog": 18619,
+    "firstFilling": 0,
+    "getMagicHat": 0,
+    "finishTurn": [
+      "5103:18620"
+    ]
+  },
+  "bingo43": {
+    "id": "bingo43",
+    "beginDialog": 18621,
+    "firstFilling": 0,
+    "getMagicHat": 0,
+    "finishTurn": [
+      "5203:18622"
+    ]
+  },
+  "bingo44": {
+    "id": "bingo44",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "53011:13103",
+      "53021:13103",
+      "53031:13103",
+      "53041:13103",
+      "53013:13104",
+      "53023:13104",
+      "53033:13104",
+      "53043:13104"
+    ]
+  },
+  "bingo45": {
+    "id": "bingo45",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "54011:13103",
+      "54021:13103",
+      "54031:13103",
+      "54041:13103",
+      "54013:13104",
+      "54023:13104",
+      "54033:13104",
+      "54043:13104"
+    ]
+  },
+  "bingoAuto1_1": {
+    "id": "bingoAuto1_1",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "1:13103",
+      "3:13104"
+    ]
+  },
+  "bingoAuto1_2": {
+    "id": "bingoAuto1_2",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "1:13103",
+      "3:13104"
+    ]
+  },
+  "bingoOld1_1": {
+    "id": "bingoOld1_1",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "7:13103",
+      "9:13104"
+    ]
+  },
+  "bingoOld1_2": {
+    "id": "bingoOld1_2",
+    "beginDialog": 13101,
+    "firstFilling": 13102,
+    "getMagicHat": 13105,
+    "finishTurn": [
+      "10:13103",
+      "13:13103",
+      "16:13103",
+      "19:13103",
+      "12:13104",
+      "15:13104",
+      "18:13104",
+      "21:13104"
+    ]
+  }
+}

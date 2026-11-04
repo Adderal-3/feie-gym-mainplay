@@ -1,0 +1,77 @@
+{
+  "5002": {
+    "shopId": 5002,
+    "Base": {
+      "Film3": 1
+    },
+    "XL": {
+      "Film9": 1
+    },
+    "Basegold": {
+      "Film12": 1
+    },
+    "XLgold": {
+      "Film15": 1
+    }
+  },
+  "5003": {
+    "shopId": 5003,
+    "Base": {
+      "Film4": 1
+    },
+    "XL": {
+      "Film10": 1
+    },
+    "Basegold": {
+      "Film13": 1
+    },
+    "XLgold": {
+      "Film16": 1
+    }
+  },
+  "5004": {
+    "shopId": 5004,
+    "Base": {
+      "Film5": 1
+    },
+    "XL": {
+      "Film11": 1
+    },
+    "Basegold": {
+      "Film14": 1
+    },
+    "XLgold": {
+      "Film17": 1
+    }
+  },
+  "5005": {
+    "shopId": 5005,
+    "Base": {
+      "Film5": 2
+    },
+    "XL": {
+      "Film11": 2
+    },
+    "Basegold": {
+      "Film14": 2
+    },
+    "XLgold": {
+      "Film17": 2
+    }
+  },
+  "5006": {
+    "shopId": 5006,
+    "Base": {
+      "Film5": 4
+    },
+    "XL": {
+      "Film11": 4
+    },
+    "Basegold": {
+      "Film14": 4
+    },
+    "XLgold": {
+      "Film17": 4
+    }
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "13": {
+    "13_10001": {
+      "id": "13_10001",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "Exp": 10,
+        "Adorn1001": 1,
+        "Coin": 50
+      },
+      "buildDay": 1,
+      "isShow": 0
+    },
+    "13_10002": {
+      "id": "13_10002",
+      "demand": {
+        "Star": 1
+      },
+      "reward": {
+        "1005": 1,
+        "Exp": 5,
+        "Adorn1005": 1
+      },
+      "buildDay": 1,
+      "isShow": 1
+    },
+    "13_10003": {
+      "id": "13_10003",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "Exp": 15,
+        "Adorn1003": 1,
+        "Coin": 75
+      },
+      "buildDay": 1,
+      "isShow": 0
+    },
+    "13_10004": {
+      "id": "13_10004",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "2001": 1,
+        "Exp": 10,
+        "Adorn1002": 1
+      },
+      "buildDay": 1,
+      "isShow": 1
+    },
+    "13_10005": {
+      "id": "13_10005",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "Exp": 15,
+        "Adorn1013": 1,
+        "Coin": 75
+      },
+      "buildDay": 1,
+      "isShow": 0
+    },
+    "13_10006": {
+      "id": "13_10006",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "1006": 1,
+        "Exp": 15,
+        "Adorn1012": 1
+      },
+      "buildDay": 1,
+      "isShow": 1
+    },
+    "13_10007": {
+      "id": "13_10007",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "91101": 1,
+        "Exp": 10,
+        "Adorn1018": 1
+      },
+      "buildDay": 2,
+      "isShow": 0
+    },
+    "13_10008": {
+      "id": "13_10008",
+      "demand": {
+        "Star": 4
+      },
+      "reward": {
+        "2004": 1,
+        "Exp": 20,
+        "Adorn1024": 1
+      },
+      "buildDay": 2,
+      "isShow": 1
+    },
+    "13_10009": {
+      "id": "13_10009",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "Exp": 15,
+        "Adorn1023": 1,
+        "Coin": 75
+      },
+      "buildDay": 2,
+      "isShow": 0
+    },
+    "13_10010": {
+      "id": "13_10010",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "3005": 1,
+        "Exp": 10,
+        "Adorn1025": 1
+      },
+      "buildDay": 2,
+      "isShow": 1
+    },
+    "13_10011": {
+      "id": "13_10011",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "98801": 1,
+        "Exp": 15,
+        "Adorn1020": 1
+      },
+      "buildDay": 2,
+      "isShow": 0
+    },
+    "13_10012": {
+      "id": "13_10012",
+      "demand": {
+        "Star": 4
+      },
+      "reward": {
+        "98401": 1,
+        "Exp": 20,
+        "Adorn1021": 1
+      },
+      "buildDay": 2,
+      "isShow": 0
+    },
+    "13_10013": {
+      "id": "13_10013",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "Exp": 25,
+        "Adorn1022": 1,
+        "Diamond": 10
+      },
+      "buildDay": 2,
+      "isShow": 0
+    },
+    "13_10014": {
+      "id": "13_10014",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "98203": 1,
+        "Exp": 10,
+        "Adorn1019": 1
+      },
+      "buildDay": 3,
+      "isShow": 0
+    },
+    "13_10015": {
+      "id": "13_10015",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "98203": 1,
+        "Exp": 15,
+        "Adorn1004": 1
+      },
+      "buildDay": 3,
+      "isShow": 0
+    },
+    "13_10016": {
+      "id": "13_10016",
+      "demand": {
+        "Star": 4
+      },
+      "reward": {
+        "1007": 1,
+        "Exp": 20,
+        "Adorn1027": 1
+      },
+      "buildDay": 3,
+      "isShow": 1
+    },
+    "13_10017": {
+      "id": "13_10017",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "4004": 1,
+        "Exp": 25,
+        "Adorn1016": 1
+      },
+      "buildDay": 3,
+      "isShow": 1
+    },
+    "13_10018": {
+      "id": "13_10018",
+      "demand": {
+        "Star": 6
+      },
+      "reward": {
+        "Exp": 30,
+        "Adorn1017": 1,
+        "Diamond": 12
+      },
+      "buildDay": 3,
+      "isShow": 0
+    },
+    "13_10019": {
+      "id": "13_10019",
+      "demand": {
+        "Star": 1
+      },
+      "reward": {
+        "Exp": 5,
+        "Adorn1006": 1,
+        "Coin": 25
+      },
+      "buildDay": 3,
+      "isShow": 0
+    },
+    "13_10020": {
+      "id": "13_10020",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "9005": 1,
+        "Exp": 15,
+        "Adorn1008": 1
+      },
+      "buildDay": 4,
+      "isShow": 0
+    },
+    "13_10021": {
+      "id": "13_10021",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "9006": 1,
+        "Exp": 10,
+        "Adorn1007": 1
+      },
+      "buildDay": 4,
+      "isShow": 1
+    },
+    "13_10022": {
+      "id": "13_10022",
+      "demand": {
+        "Star": 4
+      },
+      "reward": {
+        "98203": 1,
+        "Exp": 20,
+        "Adorn1009": 1
+      },
+      "buildDay": 4,
+      "isShow": 0
+    },
+    "13_10023": {
+      "id": "13_10023",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "Exp": 25,
+        "Adorn1011": 1,
+        "Diamond": 10
+      },
+      "buildDay": 4,
+      "isShow": 0
+    },
+    "13_10024": {
+      "id": "13_10024",
+      "demand": {
+        "Star": 8
+      },
+      "reward": {
+        "5206": 1,
+        "Exp": 40,
+        "Adorn1028": 1
+      },
+      "buildDay": 4,
+      "isShow": 1
+    },
+    "13_10025": {
+      "id": "13_10025",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "5207": 1,
+        "Exp": 15,
+        "Adorn1010": 1
+      },
+      "buildDay": 4,
+      "isShow": 0
+    },
+    "13_10026": {
+      "id": "13_10026",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "Exp": 25,
+        "Adorn1015": 1,
+        "Diamond": 10
+      },
+      "buildDay": 4,
+      "isShow": 1
+    },
+    "13_10027": {
+      "id": "13_10027",
+      "demand": {
+        "Star": 6
+      },
+      "reward": {
+        "5004": 1,
+        "Exp": 30,
+        "Adorn1026": 1
+      },
+      "buildDay": 5,
+      "isShow": 0
+    },
+    "13_10028": {
+      "id": "13_10028",
+      "demand": {
+        "Star": 9
+      },
+      "reward": {
+        "Exp": 45,
+        "Adorn1014": 1,
+        "Diamond": 20
+      },
+      "buildDay": 5,
+      "isShow": 0
+    },
+    "13_99002": {
+      "id": "13_99002",
+      "demand": {
+        "Star": 12
+      },
+      "reward": {
+        "Exp": 60,
+        "Area2": 1,
+        "Energy": 100
+      },
+      "buildDay": 5,
+      "isShow": 0
+    },
+    "13_20001": {
+      "id": "13_20001",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "90101": 1,
+        "Exp": 25,
+        "Adorn2001": 1
+      },
+      "buildDay": 5,
+      "isShow": 1
+    },
+    "13_20002": {
+      "id": "13_20002",
+      "demand": {
+        "Star": 7
+      },
+      "reward": {
+        "90501": 1,
+        "Exp": 35,
+        "Adorn2002": 1
+      },
+      "buildDay": 6,
+      "isShow": 0
+    },
+    "13_20003": {
+      "id": "13_20003",
+      "demand": {
+        "Star": 11
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 55,
+        "Adorn2003": 1
+      },
+      "buildDay": 8,
+      "isShow": 0
+    },
+    "13_20004": {
+      "id": "13_20004",
+      "demand": {
+        "Star": 14
+      },
+      "reward": {
+        "90601": 1,
+        "Exp": 70,
+        "Adorn2004": 1
+      },
+      "buildDay": 6,
+      "isShow": 1
+    },
+    "13_20005": {
+      "id": "13_20005",
+      "demand": {
+        "Star": 10
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 50,
+        "Adorn2005": 1
+      },
+      "buildDay": 6,
+      "isShow": 0
+    },
+    "13_20006": {
+      "id": "13_20006",
+      "demand": {
+        "Star": 6
+      },
+      "reward": {
+        "90101": 1,
+        "Exp": 30,
+        "Adorn2006": 1
+      },
+      "buildDay": 6,
+      "isShow": 0
+    },
+    "13_20007": {
+      "id": "13_20007",
+      "demand": {
+        "Star": 2
+      },
+      "reward": {
+        "90501": 1,
+        "Exp": 10,
+        "Adorn2007": 1
+      },
+      "buildDay": 6,
+      "isShow": 1
+    },
+    "13_20008": {
+      "id": "13_20008",
+      "demand": {
+        "Star": 11
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 55,
+        "Adorn2008": 1
+      },
+      "buildDay": 6,
+      "isShow": 0
+    },
+    "13_20009": {
+      "id": "13_20009",
+      "demand": {
+        "Star": 3
+      },
+      "reward": {
+        "90601": 1,
+        "Exp": 15,
+        "Adorn2009": 1
+      },
+      "buildDay": 6,
+      "isShow": 1
+    },
+    "13_20010": {
+      "id": "13_20010",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 25,
+        "Adorn2010": 1
+      },
+      "buildDay": 7,
+      "isShow": 0
+    },
+    "13_20011": {
+      "id": "13_20011",
+      "demand": {
+        "Star": 7
+      },
+      "reward": {
+        "90101": 1,
+        "Exp": 35,
+        "Adorn2011": 1
+      },
+      "buildDay": 7,
+      "isShow": 0
+    },
+    "13_20012": {
+      "id": "13_20012",
+      "demand": {
+        "Star": 10
+      },
+      "reward": {
+        "90501": 1,
+        "Exp": 50,
+        "Adorn2012": 1
+      },
+      "buildDay": 7,
+      "isShow": 1
+    },
+    "13_20013": {
+      "id": "13_20013",
+      "demand": {
+        "Star": 12
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 60,
+        "Adorn2013": 1
+      },
+      "buildDay": 7,
+      "isShow": 0
+    },
+    "13_20014": {
+      "id": "13_20014",
+      "demand": {
+        "Star": 5
+      },
+      "reward": {
+        "90601": 1,
+        "Exp": 25,
+        "Adorn2014": 1
+      },
+      "buildDay": 7,
+      "isShow": 1
+    },
+    "13_20015": {
+      "id": "13_20015",
+      "demand": {
+        "Star": 8
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 40,
+        "Adorn2015": 1
+      },
+      "buildDay": 7,
+      "isShow": 0
+    },
+    "13_20016": {
+      "id": "13_20016",
+      "demand": {
+        "Star": 11
+      },
+      "reward": {
+        "90101": 1,
+        "Exp": 55,
+        "Adorn2016": 1
+      },
+      "buildDay": 7,
+      "isShow": 0
+    },
+    "13_20017": {
+      "id": "13_20017",
+      "demand": {
+        "Star": 12
+      },
+      "reward": {
+        "90501": 1,
+        "Exp": 60,
+        "Adorn2017": 1
+      },
+      "buildDay": 7,
+      "isShow": 1
+    },
+    "13_20018": {
+      "id": "13_20018",
+      "demand": {
+        "Star": 8
+      },
+      "reward": {
+        "90301": 1,
+        "Exp": 40,
+        "Adorn2018": 1
+      },
+      "buildDay": 8,
+      "isShow": 0
+    },
+    "13_20019": {
+      "id": "13_20019",
+      "demand": {
+        "Star": 9
+      },
+      "reward": {
+        "90601": 1,
+        "Exp": 45,
+        "Adorn2019": 1
+      },
+      "buildDay": 8,
+      "isShow": 1
+    }
+  }
+}

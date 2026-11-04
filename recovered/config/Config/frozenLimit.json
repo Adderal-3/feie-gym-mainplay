@@ -1,0 +1,16 @@
+{
+  "frozenBubble1": {
+    "101": {
+      "gropId": "101",
+      "energyDiomondBuy": 2,
+      "energyStock": 50,
+      "frozenBubbleCd": 28800
+    },
+    "102": {
+      "gropId": "102",
+      "energyDiomondBuy": 2,
+      "energyStock": 50,
+      "frozenBubbleCd": 28800
+    }
+  }
+}

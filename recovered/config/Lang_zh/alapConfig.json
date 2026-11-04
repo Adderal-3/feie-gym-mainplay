@@ -1,0 +1,82 @@
+{
+  "alap1": {
+    "id": "alap1",
+    "title": "深海珊瑚礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap2": {
+    "id": "alap2",
+    "title": "皇帝龙案礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap3": {
+    "id": "alap3",
+    "title": "饭团肥鹅礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap4": {
+    "id": "alap4",
+    "title": "玻璃飞船礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap5": {
+    "id": "alap5",
+    "title": "春日蝴蝶礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap6": {
+    "id": "alap6",
+    "title": "春日蝴蝶礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap7": {
+    "id": "alap7",
+    "title": "春日蝴蝶礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  },
+  "alap8": {
+    "id": "alap8",
+    "title": "幸福镜饼礼包",
+    "unBuyTips": "礼包持续至{0}，购买后登录领奖励！",
+    "buyTips": "记得在礼包消失前登录领取当日奖励哦！",
+    "allGetTips": "恭喜店长大人领完所有奖励！",
+    "entranceDesc": "登录礼包",
+    "unBuyToast": "购买礼包领取奖励吧",
+    "buyToast": "按时登录领取奖励吧"
+  }
+}

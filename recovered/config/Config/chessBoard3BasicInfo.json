@@ -1,0 +1,1183 @@
+{
+  "jewelry": {
+    "id": "jewelry",
+    "unlockEntrance": 15,
+    "board": 26,
+    "task": 1001,
+    "prepareDuration": 43200,
+    "eventCoin": "chessIIIPoint",
+    "eventCoinIcon": "icon_coin_act_2310",
+    "boardAnim": "guifueUI",
+    "eventEnergyName": "EventEnergyI",
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyRecoverNum": 1,
+    "eventEnergyMax": 50,
+    "eventEnergyITimes": [
+      5,
+      8,
+      9
+    ],
+    "eventEnergyIWeight": [
+      150,
+      500,
+      600
+    ],
+    "energyNum": 1,
+    "eventEnergyRate": 334,
+    "eventEnergyIInitTimes": [
+      10
+    ],
+    "noEnergySeries": [
+      "Chest_Coin",
+      "Chest_Energy",
+      "Chest_Energy1",
+      "Chest_1",
+      "Chest_2",
+      "Chest_Pig",
+      "Prop_7",
+      "Prop_8",
+      "Prop_11",
+      "Prop_10",
+      "Prop_12",
+      "Energy",
+      "Energy_Number",
+      "Energy_Farm_1",
+      "Energy_Farm_0",
+      "Chest_5",
+      "Monster_47"
+    ],
+    "entranceAnim": "baoshiqipanrukou",
+    "EntranceIcon": "231201",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      109
+    ],
+    "rankDesc": "",
+    "rankDirections": "",
+    "skipDialog": "75",
+    "progressBarStep": [
+      5,
+      15,
+      25,
+      45,
+      65,
+      95,
+      125,
+      165,
+      205,
+      255,
+      305,
+      365,
+      425,
+      495,
+      565,
+      635,
+      715,
+      795,
+      875,
+      965,
+      1055,
+      1145,
+      1245,
+      1345,
+      1445,
+      1565,
+      1725,
+      1905,
+      2105,
+      2330,
+      4330,
+      6330,
+      8330,
+      10330,
+      12330
+    ],
+    "progressReward": [
+      {
+        "73106": 1
+      },
+      {
+        "73302": 1
+      },
+      {
+        "9840113": 1
+      },
+      {
+        "73302": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "73304": 1
+      },
+      {
+        "CardBag30002": 1
+      },
+      {
+        "73107": 1
+      },
+      {
+        "73305": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "73306": 1
+      },
+      {
+        "CardBag30002": 1
+      },
+      {
+        "9840113": 1
+      },
+      {
+        "73108": 1
+      },
+      {
+        "73307": 1
+      },
+      {
+        "9840113": 1
+      },
+      {
+        "CardBag30002": 1
+      },
+      {
+        "73308": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "73109": 1
+      },
+      {
+        "73308": 1
+      },
+      {
+        "73309": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "73110": 1
+      },
+      {
+        "73309": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "91004": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "CardBag30003": 1
+      },
+      {
+        "CardBag30003": 1
+      },
+      {
+        "CardBag30003": 1
+      },
+      {
+        "CardBag30003": 1
+      },
+      {
+        "CardBag30003": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extraReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "picColor": [
+      "#C181CA",
+      "#1A8585",
+      "#C769B2",
+      "#A24B8F"
+    ],
+    "eventEnergyID": 36,
+    "waterId": "",
+    "rollingId": "",
+    "rankPointLine": 1500,
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      46,
+      12,
+      63
+    ]
+  },
+  "wood": {
+    "id": "wood",
+    "unlockEntrance": 15,
+    "board": 31,
+    "task": 2001,
+    "prepareDuration": 43200,
+    "eventCoin": "chessIIIPoint",
+    "eventCoinIcon": "icon_coin_act_2310",
+    "boardAnim": "doumaoeUI",
+    "eventEnergyName": "EventEnergyI",
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyRecoverNum": 1,
+    "eventEnergyMax": 50,
+    "eventEnergyITimes": [
+      5,
+      8,
+      9
+    ],
+    "eventEnergyIWeight": [
+      150,
+      500,
+      600
+    ],
+    "energyNum": 1,
+    "eventEnergyRate": 334,
+    "eventEnergyIInitTimes": [
+      10
+    ],
+    "noEnergySeries": [
+      "Chest_Coin",
+      "Chest_Energy",
+      "Chest_Energy1",
+      "Chest_1",
+      "Chest_2",
+      "Chest_Pig",
+      "Prop_7",
+      "Prop_8",
+      "Prop_11",
+      "Prop_10",
+      "Prop_12",
+      "Energy",
+      "Energy_Number",
+      "Energy_Farm_1",
+      "Energy_Farm_0",
+      "Chest_5",
+      "Monster_47"
+    ],
+    "entranceAnim": "mudiaoqipanrukou",
+    "EntranceIcon": "240201",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      114
+    ],
+    "rankDesc": "",
+    "rankDirections": "",
+    "skipDialog": "75",
+    "progressBarStep": [
+      5,
+      15,
+      25,
+      45,
+      65,
+      95,
+      125,
+      165,
+      205,
+      255,
+      305,
+      365,
+      425,
+      495,
+      565,
+      635,
+      715,
+      795,
+      875,
+      965,
+      1055,
+      1145,
+      1245,
+      1345,
+      1445,
+      1565,
+      1725,
+      1905,
+      2105,
+      2330,
+      4330,
+      6330,
+      8330,
+      10330,
+      12330
+    ],
+    "progressReward": [
+      {
+        "66302": 1
+      },
+      {
+        "66104": 1
+      },
+      {
+        "66302": 1
+      },
+      {
+        "66303": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "66304": 1
+      },
+      {
+        "CardBag30004": 1
+      },
+      {
+        "66105": 1
+      },
+      {
+        "66304": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "66305": 1
+      },
+      {
+        "CardBag30004": 1
+      },
+      {
+        "9830319": 1
+      },
+      {
+        "66106": 1
+      },
+      {
+        "66306": 1
+      },
+      {
+        "9830319": 1
+      },
+      {
+        "CardBag30004": 1
+      },
+      {
+        "66306": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "66107": 1
+      },
+      {
+        "9830319": 1
+      },
+      {
+        "66308": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "66108": 1
+      },
+      {
+        "66309": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "91004": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "CardBag30005": 1
+      },
+      {
+        "CardBag30005": 1
+      },
+      {
+        "CardBag30005": 1
+      },
+      {
+        "CardBag30005": 1
+      },
+      {
+        "CardBag30005": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extraReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "picColor": [
+      "#FFB47B",
+      "#B25C28",
+      "#6BBFA2",
+      "#62A790"
+    ],
+    "eventEnergyID": 43,
+    "waterId": "",
+    "rollingId": "",
+    "rankPointLine": 1500,
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      46,
+      43,
+      12,
+      63
+    ]
+  },
+  "cookie": {
+    "id": "cookie",
+    "unlockEntrance": 15,
+    "board": 43,
+    "task": 3001,
+    "prepareDuration": 43200,
+    "eventCoin": "chessIIIPoint",
+    "eventCoinIcon": "icon_coin_act_2405",
+    "boardAnim": "hushieUI",
+    "eventEnergyName": "EventEnergyI",
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyRecoverNum": 1,
+    "eventEnergyMax": 50,
+    "eventEnergyITimes": [
+      5,
+      8,
+      9
+    ],
+    "eventEnergyIWeight": [
+      150,
+      500,
+      600
+    ],
+    "energyNum": 1,
+    "eventEnergyRate": 334,
+    "eventEnergyIInitTimes": [
+      10
+    ],
+    "noEnergySeries": [
+      "Chest_Coin",
+      "Chest_Energy",
+      "Chest_Energy1",
+      "Chest_1",
+      "Chest_2",
+      "Chest_Pig",
+      "Prop_7",
+      "Prop_8",
+      "Prop_11",
+      "Prop_10",
+      "Prop_12",
+      "Energy",
+      "Energy_Number",
+      "Energy_Farm_1",
+      "Energy_Farm_0",
+      "Chest_5",
+      "Monster_47"
+    ],
+    "entranceAnim": "bingganrukou",
+    "EntranceIcon": "240501",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      143
+    ],
+    "rankDesc": "",
+    "rankDirections": "",
+    "skipDialog": "75",
+    "progressBarStep": [
+      5,
+      15,
+      27,
+      47,
+      72,
+      107,
+      147,
+      212,
+      282,
+      362,
+      447,
+      542,
+      642,
+      742,
+      842,
+      947,
+      1052,
+      1162,
+      1277,
+      1397,
+      1527,
+      1662,
+      1800,
+      1940,
+      2090,
+      2250,
+      2420,
+      2600,
+      2790,
+      3000,
+      5000,
+      7000,
+      9000,
+      11000,
+      13000
+    ],
+    "progressReward": [
+      {
+        "56104": 1
+      },
+      {
+        "56402": 1
+      },
+      {
+        "9920121": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "56105": 1
+      },
+      {
+        "56406": 1
+      },
+      {
+        "9920121": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "56104": 1
+      },
+      {
+        "56407": 1
+      },
+      {
+        "9920221": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "56105": 1
+      },
+      {
+        "56408": 1
+      },
+      {
+        "9920221": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "56105": 1
+      },
+      {
+        "56409": 1
+      },
+      {
+        "AdornSkin401308": 1
+      },
+      {
+        "9920221": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "Coin": 2000
+      },
+      {
+        "56105": 1
+      },
+      {
+        "9840131": 1
+      },
+      {
+        "CardBag30010": 1
+      },
+      {
+        "98731": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "CardBag30009": 1
+      },
+      {
+        "CardBag30009": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extraReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "picColor": [
+      "#a66656",
+      "#C76969",
+      "#934E2C",
+      "#C47F41"
+    ],
+    "eventEnergyID": 60,
+    "waterId": "",
+    "rollingId": "",
+    "rankPointLine": 1800,
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      46,
+      12,
+      63
+    ]
+  },
+  "banana": {
+    "id": "banana",
+    "unlockEntrance": 15,
+    "board": 54,
+    "task": 4001,
+    "prepareDuration": 43200,
+    "eventCoin": "chessIIIPoint",
+    "eventCoinIcon": "icon_coin_act_2409",
+    "boardAnim": "xiangjiaoeUI",
+    "eventEnergyName": "EventEnergyI",
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyRecoverNum": 1,
+    "eventEnergyMax": 50,
+    "eventEnergyITimes": [
+      5,
+      8,
+      9
+    ],
+    "eventEnergyIWeight": [
+      150,
+      500,
+      600
+    ],
+    "energyNum": 1,
+    "eventEnergyRate": 334,
+    "eventEnergyIInitTimes": [
+      10
+    ],
+    "noEnergySeries": [
+      "Chest_Coin",
+      "Chest_Energy",
+      "Chest_Energy1",
+      "Chest_1",
+      "Chest_2",
+      "Chest_Pig",
+      "Prop_7",
+      "Prop_8",
+      "Prop_11",
+      "Prop_10",
+      "Prop_12",
+      "Energy",
+      "Energy_Number",
+      "Energy_Farm_1",
+      "Energy_Farm_0",
+      "Chest_5",
+      "Monster_47"
+    ],
+    "entranceAnim": "xiangjiaoqipanrukou",
+    "EntranceIcon": "240901",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      173
+    ],
+    "rankDesc": "",
+    "rankDirections": "",
+    "skipDialog": "75",
+    "progressBarStep": [
+      5,
+      15,
+      25,
+      45,
+      65,
+      95,
+      125,
+      165,
+      205,
+      255,
+      305,
+      365,
+      425,
+      495,
+      565,
+      635,
+      715,
+      795,
+      875,
+      965,
+      1055,
+      1145,
+      1245,
+      1345,
+      1445,
+      1565,
+      1725,
+      1905,
+      2105,
+      2330,
+      4330,
+      6330,
+      8330,
+      10330,
+      12330
+    ],
+    "progressReward": [
+      {
+        "48302": 1
+      },
+      {
+        "48104": 1
+      },
+      {
+        "48302": 1
+      },
+      {
+        "48303": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "48304": 1
+      },
+      {
+        "CardBag30013": 1
+      },
+      {
+        "48105": 1
+      },
+      {
+        "48304": 1
+      },
+      {
+        "MhdIIBlindBox5": 1
+      },
+      {
+        "48305": 1
+      },
+      {
+        "CardBag30013": 1
+      },
+      {
+        "9830338": 1
+      },
+      {
+        "48106": 1
+      },
+      {
+        "48306": 1
+      },
+      {
+        "9830338": 1
+      },
+      {
+        "CardBag30013": 1
+      },
+      {
+        "48306": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "48107": 1
+      },
+      {
+        "9830338": 1
+      },
+      {
+        "48308": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "48108": 1
+      },
+      {
+        "48309": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "91004": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "CardBag30014": 1
+      },
+      {
+        "CardBag30014": 1
+      },
+      {
+        "CardBag30014": 1
+      },
+      {
+        "CardBag30014": 1
+      },
+      {
+        "CardBag30014": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extraReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "picColor": [
+      "#FFB47B",
+      "#B25C28",
+      "#6BBFA2",
+      "#62A790"
+    ],
+    "eventEnergyID": 72,
+    "waterId": "",
+    "rollingId": "",
+    "rankPointLine": 1500,
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      46,
+      12,
+      63
+    ]
+  }
+}

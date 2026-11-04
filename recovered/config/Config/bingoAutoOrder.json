@@ -1,0 +1,1966 @@
+{
+  "bingoAuto1_1": {
+    "101": {
+      "id": 101,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "102": {
+      "id": 102,
+      "belongTrain": "1",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "103": {
+      "id": 103,
+      "belongTrain": "1",
+      "orderDifficulty": 3,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        1.5,
+        4.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "104": {
+      "id": 104,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "105": {
+      "id": 105,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "106": {
+      "id": 106,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 102
+    },
+    "107": {
+      "id": 107,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "108": {
+      "id": 108,
+      "belongTrain": "1",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "109": {
+      "id": 109,
+      "belongTrain": "1",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "110": {
+      "id": 110,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 102
+    },
+    "111": {
+      "id": 111,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 108
+    },
+    "112": {
+      "id": 112,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 103
+    },
+    "113": {
+      "id": 113,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20009,
+      "copyId": 0
+    },
+    "114": {
+      "id": 114,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20005,
+      "copyId": 0
+    },
+    "115": {
+      "id": 115,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 113
+    },
+    "116": {
+      "id": 116,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 102
+    },
+    "117": {
+      "id": 117,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 108
+    },
+    "118": {
+      "id": 118,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20005,
+      "copyId": 0
+    },
+    "119": {
+      "id": 119,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 108
+    },
+    "120": {
+      "id": 120,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "121": {
+      "id": 121,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "122": {
+      "id": 122,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "123": {
+      "id": 123,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "124": {
+      "id": 124,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "125": {
+      "id": 125,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "126": {
+      "id": 126,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20009,
+      "copyId": 0
+    },
+    "127": {
+      "id": 127,
+      "belongTrain": "2",
+      "orderDifficulty": 19,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        9.5,
+        28.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "128": {
+      "id": 128,
+      "belongTrain": "2",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "129": {
+      "id": 129,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "130": {
+      "id": 130,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "131": {
+      "id": 131,
+      "belongTrain": "2",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "132": {
+      "id": 132,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "133": {
+      "id": 133,
+      "belongTrain": "2",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "134": {
+      "id": 134,
+      "belongTrain": "2",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "135": {
+      "id": 135,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "136": {
+      "id": 136,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "137": {
+      "id": 137,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 127
+    },
+    "138": {
+      "id": 138,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20010,
+      "copyId": 0
+    },
+    "139": {
+      "id": 139,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 133
+    },
+    "140": {
+      "id": 140,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "141": {
+      "id": 141,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 134
+    },
+    "142": {
+      "id": 142,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 133
+    },
+    "143": {
+      "id": 143,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20015,
+      "copyId": 0
+    },
+    "144": {
+      "id": 144,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "145": {
+      "id": 145,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 134
+    },
+    "146": {
+      "id": 146,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "147": {
+      "id": 147,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "148": {
+      "id": 148,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 133
+    },
+    "149": {
+      "id": 149,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 134
+    },
+    "150": {
+      "id": 150,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20009,
+      "copyId": 0
+    },
+    "151": {
+      "id": 151,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20010,
+      "copyId": 0
+    },
+    "152": {
+      "id": 152,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "153": {
+      "id": 153,
+      "belongTrain": "3",
+      "orderDifficulty": 19,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        9.5,
+        28.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "154": {
+      "id": 154,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20014,
+      "copyId": 0
+    },
+    "155": {
+      "id": 155,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20015,
+      "copyId": 0
+    },
+    "156": {
+      "id": 156,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "157": {
+      "id": 157,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20007,
+      "copyId": 0
+    },
+    "158": {
+      "id": 158,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "159": {
+      "id": 159,
+      "belongTrain": "3",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "160": {
+      "id": 160,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "161": {
+      "id": 161,
+      "belongTrain": "3",
+      "orderDifficulty": 7,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        3.5,
+        10.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "162": {
+      "id": 162,
+      "belongTrain": "3",
+      "orderDifficulty": 27,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13.5,
+        40.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "163": {
+      "id": 163,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20011,
+      "copyId": 0
+    },
+    "164": {
+      "id": 164,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20007,
+      "copyId": 0
+    },
+    "165": {
+      "id": 165,
+      "belongTrain": "3",
+      "orderDifficulty": 27,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13.5,
+        40.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "166": {
+      "id": 166,
+      "belongTrain": "3",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "167": {
+      "id": 167,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20006,
+      "copyId": 0
+    },
+    "168": {
+      "id": 168,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 166
+    },
+    "169": {
+      "id": 169,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 153
+    },
+    "170": {
+      "id": 170,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 159
+    },
+    "171": {
+      "id": 171,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20016,
+      "copyId": 0
+    },
+    "172": {
+      "id": 172,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 154
+    },
+    "173": {
+      "id": 173,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20008,
+      "copyId": 0
+    },
+    "174": {
+      "id": 174,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 154
+    },
+    "175": {
+      "id": 175,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 20010,
+      "copyId": 0
+    }
+  },
+  "bingoAuto1_2": {
+    "201": {
+      "id": 201,
+      "belongTrain": "1",
+      "orderDifficulty": 30,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        45
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "202": {
+      "id": 202,
+      "belongTrain": "1",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "203": {
+      "id": 203,
+      "belongTrain": "1",
+      "orderDifficulty": 3,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        1.5,
+        4.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "204": {
+      "id": 204,
+      "belongTrain": "1",
+      "orderDifficulty": 7,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        3.5,
+        10.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "205": {
+      "id": 205,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 201
+    },
+    "206": {
+      "id": 206,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 202
+    },
+    "207": {
+      "id": 207,
+      "belongTrain": "1",
+      "orderDifficulty": 20,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        30
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "208": {
+      "id": 208,
+      "belongTrain": "1",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "209": {
+      "id": 209,
+      "belongTrain": "1",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "210": {
+      "id": 210,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 202
+    },
+    "211": {
+      "id": 211,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 208
+    },
+    "212": {
+      "id": 212,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 203
+    },
+    "213": {
+      "id": 213,
+      "belongTrain": "1",
+      "orderDifficulty": 59,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        29.5,
+        88.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "214": {
+      "id": 214,
+      "belongTrain": "1",
+      "orderDifficulty": 4,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        2,
+        6
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "215": {
+      "id": 215,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 213
+    },
+    "216": {
+      "id": 216,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 202
+    },
+    "217": {
+      "id": 217,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 208
+    },
+    "218": {
+      "id": 218,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 214
+    },
+    "219": {
+      "id": 219,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 208
+    },
+    "220": {
+      "id": 220,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 204
+    },
+    "221": {
+      "id": 221,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 201
+    },
+    "222": {
+      "id": 222,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 214
+    },
+    "223": {
+      "id": 223,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 207
+    },
+    "224": {
+      "id": 224,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 202
+    },
+    "225": {
+      "id": 225,
+      "belongTrain": "1",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 201
+    },
+    "226": {
+      "id": 226,
+      "belongTrain": "2",
+      "orderDifficulty": 59,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        29.5,
+        88.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "227": {
+      "id": 227,
+      "belongTrain": "2",
+      "orderDifficulty": 19,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        9.5,
+        28.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "228": {
+      "id": 228,
+      "belongTrain": "2",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "229": {
+      "id": 229,
+      "belongTrain": "2",
+      "orderDifficulty": 7,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        3.5,
+        10.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "230": {
+      "id": 230,
+      "belongTrain": "2",
+      "orderDifficulty": 30,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        45
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "231": {
+      "id": 231,
+      "belongTrain": "2",
+      "orderDifficulty": 10,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        5,
+        15
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "232": {
+      "id": 232,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 229
+    },
+    "233": {
+      "id": 233,
+      "belongTrain": "2",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "234": {
+      "id": 234,
+      "belongTrain": "2",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "235": {
+      "id": 235,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 229
+    },
+    "236": {
+      "id": 236,
+      "belongTrain": "2",
+      "orderDifficulty": 20,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        30
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "237": {
+      "id": 237,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 227
+    },
+    "238": {
+      "id": 238,
+      "belongTrain": "2",
+      "orderDifficulty": 119,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        59.5,
+        178.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "239": {
+      "id": 239,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 233
+    },
+    "240": {
+      "id": 240,
+      "belongTrain": "2",
+      "orderDifficulty": 20,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        30
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "241": {
+      "id": 241,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 234
+    },
+    "242": {
+      "id": 242,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 233
+    },
+    "243": {
+      "id": 243,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 240
+    },
+    "244": {
+      "id": 244,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 229
+    },
+    "245": {
+      "id": 245,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 234
+    },
+    "246": {
+      "id": 246,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 230
+    },
+    "247": {
+      "id": 247,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 240
+    },
+    "248": {
+      "id": 248,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 233
+    },
+    "249": {
+      "id": 249,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 234
+    },
+    "250": {
+      "id": 250,
+      "belongTrain": "2",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 226
+    },
+    "251": {
+      "id": 251,
+      "belongTrain": "3",
+      "orderDifficulty": 119,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        59.5,
+        178.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "252": {
+      "id": 252,
+      "belongTrain": "3",
+      "orderDifficulty": 30,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        45
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "253": {
+      "id": 253,
+      "belongTrain": "3",
+      "orderDifficulty": 19,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        9.5,
+        28.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "254": {
+      "id": 254,
+      "belongTrain": "3",
+      "orderDifficulty": 20,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        30
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "255": {
+      "id": 255,
+      "belongTrain": "3",
+      "orderDifficulty": 40,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        60
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "256": {
+      "id": 256,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 252
+    },
+    "257": {
+      "id": 257,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 254
+    },
+    "258": {
+      "id": 258,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 252
+    },
+    "259": {
+      "id": 259,
+      "belongTrain": "3",
+      "orderDifficulty": 14,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        7,
+        21
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "260": {
+      "id": 260,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 252
+    },
+    "261": {
+      "id": 261,
+      "belongTrain": "3",
+      "orderDifficulty": 7,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        3.5,
+        10.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "262": {
+      "id": 262,
+      "belongTrain": "3",
+      "orderDifficulty": 27,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13.5,
+        40.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "263": {
+      "id": 263,
+      "belongTrain": "3",
+      "orderDifficulty": 237,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        118.5,
+        355.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "264": {
+      "id": 264,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 252
+    },
+    "265": {
+      "id": 265,
+      "belongTrain": "3",
+      "orderDifficulty": 27,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13.5,
+        40.5
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "266": {
+      "id": 266,
+      "belongTrain": "3",
+      "orderDifficulty": 38,
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        57
+      ],
+      "algorithm": [
+        [
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "copyId": 0
+    },
+    "267": {
+      "id": 267,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 252
+    },
+    "268": {
+      "id": 268,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 266
+    },
+    "269": {
+      "id": 269,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 253
+    },
+    "270": {
+      "id": 270,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 259
+    },
+    "271": {
+      "id": 271,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 255
+    },
+    "272": {
+      "id": 272,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 254
+    },
+    "273": {
+      "id": 273,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 261
+    },
+    "274": {
+      "id": 274,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 254
+    },
+    "275": {
+      "id": 275,
+      "belongTrain": "3",
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "actEleDemand": 0,
+      "copyId": 251
+    }
+  }
+}

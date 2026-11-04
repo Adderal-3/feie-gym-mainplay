@@ -1,0 +1,224 @@
+{
+  "100": {
+    "1000111": {
+      "goodsid": 1000111,
+      "nextId": 1000101,
+      "maintainTimes": 0,
+      "content": {
+        "98801": 1,
+        "Diamond": 6,
+        "Energy": 100
+      },
+      "price": {
+        "Cash": 300
+      },
+      "discountLabel": "299%"
+    }
+  },
+  "101": {
+    "1000101": {
+      "goodsid": 1000101,
+      "nextId": 1000102,
+      "maintainTimes": 0,
+      "content": {
+        "98803": 1,
+        "Diamond": 25,
+        "Energy": 200
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "249%"
+    },
+    "1000102": {
+      "goodsid": 1000102,
+      "nextId": 1000103,
+      "maintainTimes": 0,
+      "content": {
+        "98805": 1,
+        "Diamond": 80,
+        "Energy": 350
+      },
+      "price": {
+        "Cash": 1800
+      },
+      "discountLabel": "229%"
+    },
+    "1000103": {
+      "goodsid": 1000103,
+      "nextId": 1000104,
+      "maintainTimes": 0,
+      "content": {
+        "98809": 1,
+        "Diamond": 100,
+        "Energy": 420
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "219%"
+    },
+    "1000104": {
+      "goodsid": 1000104,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "98814": 1,
+        "Diamond": 150,
+        "Energy": 600
+      },
+      "price": {
+        "Cash": 4000
+      },
+      "discountLabel": "209%"
+    }
+  },
+  "201": {
+    "1000201": {
+      "goodsid": 1000201,
+      "nextId": 1000202,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyI": 40
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "169%"
+    },
+    "1000202": {
+      "goodsid": 1000202,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "Diamond": 80,
+        "EventEnergyI": 100
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "179%"
+    }
+  },
+  "301": {
+    "1000301": {
+      "goodsid": 1000301,
+      "nextId": 1000302,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyII": 20
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "169%"
+    },
+    "1000302": {
+      "goodsid": 1000302,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "Diamond": 30,
+        "EventEnergyII": 60
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "179%"
+    }
+  },
+  "401": {
+    "1000401": {
+      "goodsid": 1000401,
+      "nextId": 1000402,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyIII": 36
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "159%"
+    },
+    "1000402": {
+      "goodsid": 1000402,
+      "nextId": 1000403,
+      "maintainTimes": 0,
+      "content": {
+        "Diamond": 30,
+        "EventEnergyIII": 110
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "169%"
+    },
+    "1000403": {
+      "goodsid": 1000403,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "Diamond": 68,
+        "EventEnergyIII": 190
+      },
+      "price": {
+        "Cash": 4500
+      },
+      "discountLabel": "168%"
+    }
+  },
+  "501": {
+    "1000501": {
+      "goodsid": 1000501,
+      "nextId": 1000502,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyIV": 40
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "169%"
+    },
+    "1000502": {
+      "goodsid": 1000502,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "Diamond": 80,
+        "EventEnergyIV": 100
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "179%"
+    }
+  },
+  "601": {
+    "1000601": {
+      "goodsid": 1000601,
+      "nextId": 1000602,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyV": 18
+      },
+      "price": {
+        "Cash": 800
+      },
+      "discountLabel": "169%"
+    },
+    "1000602": {
+      "goodsid": 1000602,
+      "nextId": 0,
+      "maintainTimes": 0,
+      "content": {
+        "EventEnergyV": 50,
+        "Diamond": 25
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "discountLabel": "179%"
+    }
+  }
+}

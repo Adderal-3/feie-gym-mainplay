@@ -1,0 +1,1047 @@
+{
+  "1001": {
+    "id": 1001,
+    "typeId": 1,
+    "canBuyHere": 2,
+    "order": 1000,
+    "icon": "icon_pet_01",
+    "spine": "pet01",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass3",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1002": {
+    "id": 1002,
+    "typeId": 1,
+    "canBuyHere": 2,
+    "order": 999,
+    "icon": "icon_pet_02",
+    "spine": "pet02",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass3",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1003": {
+    "id": 1003,
+    "typeId": 1,
+    "canBuyHere": 2,
+    "order": 998,
+    "icon": "icon_pet_03",
+    "spine": "pet03",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass3",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1099": {
+    "id": 1099,
+    "typeId": 1,
+    "canBuyHere": 2,
+    "order": 1,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1100": {
+    "id": 1100,
+    "typeId": 2,
+    "canBuyHere": 2,
+    "order": 2,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1101": {
+    "id": 1101,
+    "typeId": 3,
+    "canBuyHere": 2,
+    "order": 3,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1102": {
+    "id": 1102,
+    "typeId": 4,
+    "canBuyHere": 2,
+    "order": 4,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1103": {
+    "id": 1103,
+    "typeId": 5,
+    "canBuyHere": 2,
+    "order": 5,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1104": {
+    "id": 1104,
+    "typeId": 6,
+    "canBuyHere": 2,
+    "order": 6,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1105": {
+    "id": 1105,
+    "typeId": 7,
+    "canBuyHere": 2,
+    "order": 7,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1106": {
+    "id": 1106,
+    "typeId": 8,
+    "canBuyHere": 2,
+    "order": 8,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1107": {
+    "id": 1107,
+    "typeId": 9,
+    "canBuyHere": 2,
+    "order": 9,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1108": {
+    "id": 1108,
+    "typeId": 10,
+    "canBuyHere": 2,
+    "order": 10,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "1109": {
+    "id": 1109,
+    "typeId": 11,
+    "canBuyHere": 2,
+    "order": 11,
+    "icon": "icon_pet_00",
+    "spine": "",
+    "adornPoint": 0,
+    "getWay": {},
+    "actType": "",
+    "clickAnimName": [],
+    "i18nType": [],
+    "renameCost": [],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "2001": {
+    "id": 2001,
+    "typeId": 2,
+    "canBuyHere": 2,
+    "order": 997,
+    "icon": "icon_pet_04",
+    "spine": "pet04",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass5",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "2002": {
+    "id": 2002,
+    "typeId": 2,
+    "canBuyHere": 2,
+    "order": 996,
+    "icon": "icon_pet_05",
+    "spine": "pet05",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass5",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "2003": {
+    "id": 2003,
+    "typeId": 2,
+    "canBuyHere": 2,
+    "order": 995,
+    "icon": "icon_pet_06",
+    "spine": "pet06",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass5",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "3001": {
+    "id": 3001,
+    "typeId": 3,
+    "canBuyHere": 2,
+    "order": 994,
+    "icon": "icon_pet_07",
+    "spine": "pet07",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass8",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "3002": {
+    "id": 3002,
+    "typeId": 3,
+    "canBuyHere": 2,
+    "order": 993,
+    "icon": "icon_pet_08",
+    "spine": "pet08",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass8",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "3003": {
+    "id": 3003,
+    "typeId": 3,
+    "canBuyHere": 2,
+    "order": 992,
+    "icon": "icon_pet_09",
+    "spine": "pet09",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass8",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": 0,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "4001": {
+    "id": 4001,
+    "typeId": 4,
+    "canBuyHere": 2,
+    "order": 991,
+    "icon": "icon_pet_10",
+    "spine": "pet10",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass11",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -70,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "4002": {
+    "id": 4002,
+    "typeId": 4,
+    "canBuyHere": 2,
+    "order": 990,
+    "icon": "icon_pet_11",
+    "spine": "pet11",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass11",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -70,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "4003": {
+    "id": 4003,
+    "typeId": 4,
+    "canBuyHere": 2,
+    "order": 989,
+    "icon": "icon_pet_12",
+    "spine": "pet12",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass11",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -70,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "5001": {
+    "id": 5001,
+    "typeId": 5,
+    "canBuyHere": 2,
+    "order": 988,
+    "icon": "icon_pet_13",
+    "spine": "pet13",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass13",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 1.3
+  },
+  "5002": {
+    "id": 5002,
+    "typeId": 5,
+    "canBuyHere": 2,
+    "order": 987,
+    "icon": "icon_pet_14",
+    "spine": "pet14",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass13",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 1.3
+  },
+  "5003": {
+    "id": 5003,
+    "typeId": 5,
+    "canBuyHere": 2,
+    "order": 986,
+    "icon": "icon_pet_15",
+    "spine": "pet15",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass13",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 1.3
+  },
+  "6001": {
+    "id": 6001,
+    "typeId": 6,
+    "canBuyHere": 2,
+    "order": 985,
+    "icon": "icon_pet_16",
+    "spine": "pet16",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass15",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.6,
+    "roomScaleFix": 1.3
+  },
+  "6002": {
+    "id": 6002,
+    "typeId": 6,
+    "canBuyHere": 2,
+    "order": 984,
+    "icon": "icon_pet_17",
+    "spine": "pet17",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass15",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.6,
+    "roomScaleFix": 1.3
+  },
+  "6003": {
+    "id": 6003,
+    "typeId": 6,
+    "canBuyHere": 2,
+    "order": 983,
+    "icon": "icon_pet_18",
+    "spine": "pet18",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass15",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.6,
+    "roomScaleFix": 1.3
+  },
+  "7001": {
+    "id": 7001,
+    "typeId": 7,
+    "canBuyHere": 2,
+    "order": 982,
+    "icon": "icon_pet_19",
+    "spine": "pet19",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass17",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -80,
+    "scaleFix": 0.9,
+    "roomScaleFix": 1.3
+  },
+  "7002": {
+    "id": 7002,
+    "typeId": 7,
+    "canBuyHere": 2,
+    "order": 981,
+    "icon": "icon_pet_20",
+    "spine": "pet20",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass17",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -80,
+    "scaleFix": 0.9,
+    "roomScaleFix": 1.3
+  },
+  "7003": {
+    "id": 7003,
+    "typeId": 7,
+    "canBuyHere": 2,
+    "order": 980,
+    "icon": "icon_pet_21",
+    "spine": "pet21",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass17",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -80,
+    "scaleFix": 0.9,
+    "roomScaleFix": 1.3
+  },
+  "8001": {
+    "id": 8001,
+    "typeId": 8,
+    "canBuyHere": 2,
+    "order": 979,
+    "icon": "icon_pet_22",
+    "spine": "pet22",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass20",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "8002": {
+    "id": 8002,
+    "typeId": 8,
+    "canBuyHere": 2,
+    "order": 978,
+    "icon": "icon_pet_23",
+    "spine": "pet23",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass20",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "8003": {
+    "id": 8003,
+    "typeId": 8,
+    "canBuyHere": 2,
+    "order": 977,
+    "icon": "icon_pet_24",
+    "spine": "pet24",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass20",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.95,
+    "roomScaleFix": 0
+  },
+  "9001": {
+    "id": 9001,
+    "typeId": 9,
+    "canBuyHere": 2,
+    "order": 976,
+    "icon": "icon_pet_25",
+    "spine": "pet25",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass24",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "9002": {
+    "id": 9002,
+    "typeId": 9,
+    "canBuyHere": 2,
+    "order": 975,
+    "icon": "icon_pet_26",
+    "spine": "pet26",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass24",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "9003": {
+    "id": 9003,
+    "typeId": 9,
+    "canBuyHere": 2,
+    "order": 974,
+    "icon": "icon_pet_27",
+    "spine": "pet27",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass24",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0,
+    "roomScaleFix": 0
+  },
+  "10001": {
+    "id": 10001,
+    "typeId": 10,
+    "canBuyHere": 2,
+    "order": 973,
+    "icon": "icon_pet_28",
+    "spine": "pet28",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass28",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.95,
+    "roomScaleFix": 0
+  },
+  "10002": {
+    "id": 10002,
+    "typeId": 10,
+    "canBuyHere": 2,
+    "order": 972,
+    "icon": "icon_pet_29",
+    "spine": "pet29",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass28",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.95,
+    "roomScaleFix": 0
+  },
+  "10003": {
+    "id": 10003,
+    "typeId": 10,
+    "canBuyHere": 2,
+    "order": 971,
+    "icon": "icon_pet_30",
+    "spine": "pet30",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass28",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.95,
+    "roomScaleFix": 0
+  },
+  "11001": {
+    "id": 11001,
+    "typeId": 11,
+    "canBuyHere": 2,
+    "order": 970,
+    "icon": "icon_pet_31",
+    "spine": "pet31",
+    "adornPoint": 600,
+    "getWay": {},
+    "actType": "passNew_eventpass32",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.9,
+    "roomScaleFix": 0
+  },
+  "11002": {
+    "id": 11002,
+    "typeId": 11,
+    "canBuyHere": 2,
+    "order": 969,
+    "icon": "icon_pet_32",
+    "spine": "pet32",
+    "adornPoint": 700,
+    "getWay": {},
+    "actType": "passNew_eventpass32",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.9,
+    "roomScaleFix": 0
+  },
+  "11003": {
+    "id": 11003,
+    "typeId": 11,
+    "canBuyHere": 2,
+    "order": 968,
+    "icon": "icon_pet_33",
+    "spine": "pet33",
+    "adornPoint": 800,
+    "getWay": {},
+    "actType": "passNew_eventpass32",
+    "clickAnimName": [
+      "appear"
+    ],
+    "i18nType": [],
+    "renameCost": [
+      {
+        "Diamond": 50
+      },
+      {
+        "AdornCoupon": 1000
+      }
+    ],
+    "posFix": -30,
+    "scaleFix": 0.9,
+    "roomScaleFix": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "initAdScore": 25,
+  "adScoreRange": [
+    0,
+    1000
+  ],
+  "payDuaration": 30,
+  "adBubbleChange": 99103
+}

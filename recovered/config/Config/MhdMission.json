@@ -1,0 +1,150 @@
+{
+  "1": {
+    "1": {
+      "Id": 1,
+      "EnergyCostNum": 200,
+      "CoinGetNum": 50,
+      "extraMission": 0
+    },
+    "2": {
+      "Id": 2,
+      "EnergyCostNum": 400,
+      "CoinGetNum": 100,
+      "extraMission": 0
+    },
+    "3": {
+      "Id": 3,
+      "EnergyCostNum": 600,
+      "CoinGetNum": 150,
+      "extraMission": 0
+    },
+    "4": {
+      "Id": 4,
+      "EnergyCostNum": 800,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "5": {
+      "Id": 5,
+      "EnergyCostNum": 1200,
+      "CoinGetNum": 400,
+      "extraMission": 0
+    },
+    "6": {
+      "Id": 6,
+      "EnergyCostNum": 1700,
+      "CoinGetNum": 500,
+      "extraMission": 0
+    },
+    "7": {
+      "Id": 7,
+      "EnergyCostNum": 2300,
+      "CoinGetNum": 600,
+      "extraMission": 0
+    },
+    "8": {
+      "Id": 8,
+      "EnergyCostNum": 3000,
+      "CoinGetNum": 700,
+      "extraMission": 1
+    },
+    "9": {
+      "Id": 9,
+      "EnergyCostNum": 4000,
+      "CoinGetNum": 1000,
+      "extraMission": 1
+    }
+  },
+  "2": {
+    "101": {
+      "Id": 101,
+      "EnergyCostNum": 100,
+      "CoinGetNum": 20,
+      "extraMission": 0
+    },
+    "102": {
+      "Id": 102,
+      "EnergyCostNum": 200,
+      "CoinGetNum": 30,
+      "extraMission": 0
+    },
+    "103": {
+      "Id": 103,
+      "EnergyCostNum": 400,
+      "CoinGetNum": 100,
+      "extraMission": 0
+    },
+    "104": {
+      "Id": 104,
+      "EnergyCostNum": 600,
+      "CoinGetNum": 150,
+      "extraMission": 0
+    },
+    "105": {
+      "Id": 105,
+      "EnergyCostNum": 800,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "106": {
+      "Id": 106,
+      "EnergyCostNum": 1000,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "107": {
+      "Id": 107,
+      "EnergyCostNum": 1200,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "108": {
+      "Id": 108,
+      "EnergyCostNum": 1400,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "109": {
+      "Id": 109,
+      "EnergyCostNum": 1600,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "110": {
+      "Id": 110,
+      "EnergyCostNum": 1800,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "111": {
+      "Id": 111,
+      "EnergyCostNum": 2000,
+      "CoinGetNum": 200,
+      "extraMission": 0
+    },
+    "112": {
+      "Id": 112,
+      "EnergyCostNum": 2300,
+      "CoinGetNum": 300,
+      "extraMission": 0
+    },
+    "113": {
+      "Id": 113,
+      "EnergyCostNum": 3000,
+      "CoinGetNum": 350,
+      "extraMission": 1
+    },
+    "114": {
+      "Id": 114,
+      "EnergyCostNum": 5000,
+      "CoinGetNum": 500,
+      "extraMission": 1
+    },
+    "115": {
+      "Id": 115,
+      "EnergyCostNum": 7000,
+      "CoinGetNum": 500,
+      "extraMission": 1
+    }
+  }
+}

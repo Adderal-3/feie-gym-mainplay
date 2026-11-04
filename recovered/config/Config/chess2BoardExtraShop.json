@@ -1,0 +1,1382 @@
+{
+  "27": {
+    "Id": 27,
+    "shopReward": {
+      "Uniform1011": 1
+    },
+    "beginPrice": 4000,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "28": {
+    "Id": 28,
+    "shopReward": {
+      "Uniform2011": 1
+    },
+    "beginPrice": 4000,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "29": {
+    "Id": 29,
+    "shopReward": {
+      "AdornSkin500204": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "30": {
+    "Id": 30,
+    "shopReward": {
+      "AdornSkin500604": 1
+    },
+    "beginPrice": 600,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "31": {
+    "Id": 31,
+    "shopReward": {
+      "AdornSkin500804": 1
+    },
+    "beginPrice": 900,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "32": {
+    "Id": 32,
+    "shopReward": {
+      "AdornSkin501004": 1
+    },
+    "beginPrice": 1100,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "33": {
+    "Id": 33,
+    "shopReward": {
+      "AdornSkin502104": 1
+    },
+    "beginPrice": 1100,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "34": {
+    "Id": 34,
+    "shopReward": {
+      "AdornSkin501604": 1
+    },
+    "beginPrice": 1300,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "35": {
+    "Id": 35,
+    "shopReward": {
+      "AdornSkin502004": 1
+    },
+    "beginPrice": 1300,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "36": {
+    "Id": 36,
+    "shopReward": {
+      "AdornSkin300905": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "37": {
+    "Id": 37,
+    "shopReward": {
+      "AdornSkin300205": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "38": {
+    "Id": 38,
+    "shopReward": {
+      "AdornSkin500106": 1
+    },
+    "beginPrice": 4000,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "39": {
+    "Id": 39,
+    "shopReward": {
+      "9840114": 1
+    },
+    "beginPrice": 100,
+    "addPrice": 20,
+    "belongEvent": "misty",
+    "limitBuyTimes": 10
+  },
+  "40": {
+    "Id": 40,
+    "shopReward": {
+      "9880132": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 10,
+    "belongEvent": "misty",
+    "limitBuyTimes": 20
+  },
+  "41": {
+    "Id": 41,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "misty",
+    "limitBuyTimes": 2
+  },
+  "42": {
+    "Id": 42,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 500,
+    "addPrice": 250,
+    "belongEvent": "misty",
+    "limitBuyTimes": 2
+  },
+  "43": {
+    "Id": 43,
+    "shopReward": {
+      "98901": 1
+    },
+    "beginPrice": 3000,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": 1
+  },
+  "44": {
+    "Id": 44,
+    "shopReward": {
+      "ADCard": 1
+    },
+    "beginPrice": 120,
+    "addPrice": 20,
+    "belongEvent": "misty",
+    "limitBuyTimes": 10
+  },
+  "45": {
+    "Id": 45,
+    "shopReward": {
+      "CardPoint": 100
+    },
+    "beginPrice": 120,
+    "addPrice": 60,
+    "belongEvent": "misty",
+    "limitBuyTimes": 20
+  },
+  "46": {
+    "Id": 46,
+    "shopReward": {
+      "AdornCoupon": 110
+    },
+    "beginPrice": 80,
+    "addPrice": 40,
+    "belongEvent": "misty",
+    "limitBuyTimes": 10
+  },
+  "47": {
+    "Id": 47,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 20,
+    "addPrice": 0,
+    "belongEvent": "misty",
+    "limitBuyTimes": -1
+  },
+  "48": {
+    "Id": 48,
+    "shopReward": {
+      "goose2031": 1
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "49": {
+    "Id": 49,
+    "shopReward": {
+      "AdornSkin401705": 1
+    },
+    "beginPrice": 480,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "50": {
+    "Id": 50,
+    "shopReward": {
+      "AdornSkin400805": 1
+    },
+    "beginPrice": 480,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "51": {
+    "Id": 51,
+    "shopReward": {
+      "AdornSkin401504": 1
+    },
+    "beginPrice": 680,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "52": {
+    "Id": 52,
+    "shopReward": {
+      "AdornSkin5100104": 1
+    },
+    "beginPrice": 900,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "53": {
+    "Id": 53,
+    "shopReward": {
+      "AdornSkin5100204": 1
+    },
+    "beginPrice": 800,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "54": {
+    "Id": 54,
+    "shopReward": {
+      "AdornSkin5100304": 1
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "55": {
+    "Id": 55,
+    "shopReward": {
+      "AdornSkin5100404": 1
+    },
+    "beginPrice": 880,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "56": {
+    "Id": 56,
+    "shopReward": {
+      "AdornSkin5100504": 1
+    },
+    "beginPrice": 880,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "57": {
+    "Id": 57,
+    "shopReward": {
+      "AdornSkin400506": 1
+    },
+    "beginPrice": 800,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "58": {
+    "Id": 58,
+    "shopReward": {
+      "AdornSkin400605": 1
+    },
+    "beginPrice": 280,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "59": {
+    "Id": 59,
+    "shopReward": {
+      "AdornSkin401306": 1
+    },
+    "beginPrice": 800,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "60": {
+    "Id": 60,
+    "shopReward": {
+      "AdornSkin401405": 1
+    },
+    "beginPrice": 280,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": 1
+  },
+  "61": {
+    "Id": 61,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 800,
+    "addPrice": 400,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "62": {
+    "Id": 62,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 600,
+    "addPrice": 300,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "63": {
+    "Id": 63,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1000,
+    "addPrice": 500,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "64": {
+    "Id": 64,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 1600,
+    "addPrice": 800,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "65": {
+    "Id": 65,
+    "shopReward": {
+      "CardPoint": 100
+    },
+    "beginPrice": 100,
+    "addPrice": 50,
+    "belongEvent": "spring",
+    "limitBuyTimes": -1
+  },
+  "66": {
+    "Id": 66,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 1000,
+    "addPrice": 500,
+    "belongEvent": "spring",
+    "limitBuyTimes": -1
+  },
+  "67": {
+    "Id": 67,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "68": {
+    "Id": 68,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "spring",
+    "limitBuyTimes": 3
+  },
+  "69": {
+    "Id": 69,
+    "shopReward": {
+      "ADCard": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 10,
+    "belongEvent": "spring",
+    "limitBuyTimes": -1
+  },
+  "70": {
+    "Id": 70,
+    "shopReward": {
+      "98901": 1
+    },
+    "beginPrice": 1800,
+    "addPrice": 1200,
+    "belongEvent": "spring",
+    "limitBuyTimes": 2
+  },
+  "71": {
+    "Id": 71,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "spring",
+    "limitBuyTimes": -1
+  },
+  "72": {
+    "Id": 72,
+    "shopReward": {
+      "AdornSkin5100106": 1
+    },
+    "beginPrice": 3200,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "73": {
+    "Id": 73,
+    "shopReward": {
+      "AdornSkin5100206": 1
+    },
+    "beginPrice": 1100,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "74": {
+    "Id": 74,
+    "shopReward": {
+      "AdornSkin5100306": 1
+    },
+    "beginPrice": 3800,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "75": {
+    "Id": 75,
+    "shopReward": {
+      "AdornSkin5100406": 1
+    },
+    "beginPrice": 5200,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "76": {
+    "Id": 76,
+    "shopReward": {
+      "AdornSkin5100506": 1
+    },
+    "beginPrice": 1800,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "84": {
+    "Id": 84,
+    "shopReward": {
+      "9840134": 1
+    },
+    "beginPrice": 100,
+    "addPrice": 20,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 10
+  },
+  "85": {
+    "Id": 85,
+    "shopReward": {
+      "9880191": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 10,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 20
+  },
+  "86": {
+    "Id": 86,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 2
+  },
+  "87": {
+    "Id": 87,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 500,
+    "addPrice": 250,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 2
+  },
+  "88": {
+    "Id": 88,
+    "shopReward": {
+      "98901": 1
+    },
+    "beginPrice": 3000,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 1
+  },
+  "89": {
+    "Id": 89,
+    "shopReward": {
+      "ADCard": 1
+    },
+    "beginPrice": 120,
+    "addPrice": 20,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 10
+  },
+  "90": {
+    "Id": 90,
+    "shopReward": {
+      "CardPoint": 100
+    },
+    "beginPrice": 120,
+    "addPrice": 60,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 20
+  },
+  "91": {
+    "Id": 91,
+    "shopReward": {
+      "AdornCoupon": 110
+    },
+    "beginPrice": 80,
+    "addPrice": 40,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": 10
+  },
+  "92": {
+    "Id": 92,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 20,
+    "addPrice": 0,
+    "belongEvent": "battleroyal",
+    "limitBuyTimes": -1
+  },
+  "93": {
+    "Id": 93,
+    "shopReward": {
+      "AdornSkin800105": 1
+    },
+    "beginPrice": 1800,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "94": {
+    "Id": 94,
+    "shopReward": {
+      "AdornSkin800505": 1
+    },
+    "beginPrice": 1200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "95": {
+    "Id": 95,
+    "shopReward": {
+      "AdornSkin800605": 1
+    },
+    "beginPrice": 1200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "96": {
+    "Id": 96,
+    "shopReward": {
+      "AdornSkin800804": 1
+    },
+    "beginPrice": 800,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "97": {
+    "Id": 97,
+    "shopReward": {
+      "AdornSkin801104": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "98": {
+    "Id": 98,
+    "shopReward": {
+      "AdornSkin801204": 1
+    },
+    "beginPrice": 1200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "99": {
+    "Id": 99,
+    "shopReward": {
+      "AdornSkin801304": 1
+    },
+    "beginPrice": 1300,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "100": {
+    "Id": 100,
+    "shopReward": {
+      "AdornSkin801604": 1
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "101": {
+    "Id": 101,
+    "shopReward": {
+      "AdornSkin801704": 1
+    },
+    "beginPrice": 1200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "102": {
+    "Id": 102,
+    "shopReward": {
+      "AdornSkin802404": 1
+    },
+    "beginPrice": 1300,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "103": {
+    "Id": 103,
+    "shopReward": {
+      "AdornSkin802504": 1
+    },
+    "beginPrice": 1200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "104": {
+    "Id": 104,
+    "shopReward": {
+      "Goose2040": 1
+    },
+    "beginPrice": 2200,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "105": {
+    "Id": 105,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 2
+  },
+  "106": {
+    "Id": 106,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 2
+  },
+  "107": {
+    "Id": 107,
+    "shopReward": {
+      "98901": 1
+    },
+    "beginPrice": 2800,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 1
+  },
+  "108": {
+    "Id": 108,
+    "shopReward": {
+      "CardPoint": 100
+    },
+    "beginPrice": 100,
+    "addPrice": 50,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 20
+  },
+  "109": {
+    "Id": 109,
+    "shopReward": {
+      "AdornCoupon": 100
+    },
+    "beginPrice": 80,
+    "addPrice": 40,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": 10
+  },
+  "110": {
+    "Id": 110,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "moon2024",
+    "limitBuyTimes": -1
+  },
+  "111": {
+    "Id": 111,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 2
+  },
+  "112": {
+    "Id": 112,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 2
+  },
+  "113": {
+    "Id": 113,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 2000,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 1
+  },
+  "114": {
+    "Id": 114,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 1
+  },
+  "115": {
+    "Id": 115,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 1
+  },
+  "116": {
+    "Id": 116,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 1
+  },
+  "117": {
+    "Id": 117,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 500,
+    "addPrice": 100,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 5
+  },
+  "118": {
+    "Id": 118,
+    "shopReward": {
+      "CardPoint": 100
+    },
+    "beginPrice": 100,
+    "addPrice": 50,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 20
+  },
+  "119": {
+    "Id": 119,
+    "shopReward": {
+      "AdornCoupon": 100
+    },
+    "beginPrice": 80,
+    "addPrice": 40,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": 10
+  },
+  "120": {
+    "Id": 120,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": -1
+  },
+  "121": {
+    "Id": 121,
+    "shopReward": {
+      "Coin": 1000
+    },
+    "beginPrice": 100,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": -1
+  },
+  "122": {
+    "Id": 122,
+    "shopReward": {
+      "Coin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "snowwhite",
+    "limitBuyTimes": -1
+  },
+  "123": {
+    "Id": 123,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 2
+  },
+  "124": {
+    "Id": 124,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 2
+  },
+  "125": {
+    "Id": 125,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 1600,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 1
+  },
+  "126": {
+    "Id": 126,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 600,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 1
+  },
+  "127": {
+    "Id": 127,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 1
+  },
+  "128": {
+    "Id": 128,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 1
+  },
+  "129": {
+    "Id": 129,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 500,
+    "addPrice": 100,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 5
+  },
+  "130": {
+    "Id": 130,
+    "shopReward": {
+      "Film1": 1
+    },
+    "beginPrice": 10,
+    "addPrice": 5,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 10
+  },
+  "131": {
+    "Id": 131,
+    "shopReward": {
+      "Film2": 1
+    },
+    "beginPrice": 20,
+    "addPrice": 10,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 10
+  },
+  "132": {
+    "Id": 132,
+    "shopReward": {
+      "Film3": 1
+    },
+    "beginPrice": 30,
+    "addPrice": 20,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 8
+  },
+  "133": {
+    "Id": 133,
+    "shopReward": {
+      "Film4": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 30,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 5
+  },
+  "134": {
+    "Id": 134,
+    "shopReward": {
+      "Film5": 1
+    },
+    "beginPrice": 80,
+    "addPrice": 40,
+    "belongEvent": "theatre",
+    "limitBuyTimes": 3
+  },
+  "135": {
+    "Id": 135,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": -1
+  },
+  "136": {
+    "Id": 136,
+    "shopReward": {
+      "Coin": 1000
+    },
+    "beginPrice": 100,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": -1
+  },
+  "137": {
+    "Id": 137,
+    "shopReward": {
+      "Coin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "theatre",
+    "limitBuyTimes": -1
+  },
+  "138": {
+    "Id": 138,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 2
+  },
+  "139": {
+    "Id": 139,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 2
+  },
+  "140": {
+    "Id": 140,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 2000,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 1
+  },
+  "141": {
+    "Id": 141,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 1
+  },
+  "142": {
+    "Id": 142,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 1
+  },
+  "143": {
+    "Id": 143,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 1
+  },
+  "144": {
+    "Id": 144,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 500,
+    "addPrice": 100,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 5
+  },
+  "145": {
+    "Id": 145,
+    "shopReward": {
+      "mhdCoin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 50,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 1
+  },
+  "146": {
+    "Id": 146,
+    "shopReward": {
+      "mhdCoin": 500
+    },
+    "beginPrice": 50,
+    "addPrice": 40,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": 2
+  },
+  "147": {
+    "Id": 147,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": -1
+  },
+  "148": {
+    "Id": 148,
+    "shopReward": {
+      "Coin": 1000
+    },
+    "beginPrice": 100,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": -1
+  },
+  "149": {
+    "Id": 149,
+    "shopReward": {
+      "Coin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "castlesky",
+    "limitBuyTimes": -1
+  },
+  "150": {
+    "Id": 150,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 2
+  },
+  "151": {
+    "Id": 151,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 2
+  },
+  "152": {
+    "Id": 152,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 2000,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 1
+  },
+  "153": {
+    "Id": 153,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 1
+  },
+  "154": {
+    "Id": 154,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 1
+  },
+  "155": {
+    "Id": 155,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 1
+  },
+  "156": {
+    "Id": 156,
+    "shopReward": {
+      "MhdIIBlindBox1": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 40,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 10
+  },
+  "157": {
+    "Id": 157,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 500,
+    "addPrice": 100,
+    "belongEvent": "fashion",
+    "limitBuyTimes": 5
+  },
+  "158": {
+    "Id": 158,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": -1
+  },
+  "159": {
+    "Id": 159,
+    "shopReward": {
+      "Coin": 1000
+    },
+    "beginPrice": 100,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": -1
+  },
+  "160": {
+    "Id": 160,
+    "shopReward": {
+      "Coin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "fashion",
+    "limitBuyTimes": -1
+  },
+  "161": {
+    "Id": 161,
+    "shopReward": {
+      "90501": 1
+    },
+    "beginPrice": 300,
+    "addPrice": 150,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 2
+  },
+  "162": {
+    "Id": 162,
+    "shopReward": {
+      "90601": 1
+    },
+    "beginPrice": 400,
+    "addPrice": 200,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 2
+  },
+  "163": {
+    "Id": 163,
+    "shopReward": {
+      "98731": 1
+    },
+    "beginPrice": 2000,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 1
+  },
+  "164": {
+    "Id": 164,
+    "shopReward": {
+      "98701": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 1
+  },
+  "165": {
+    "Id": 165,
+    "shopReward": {
+      "98711": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 1
+  },
+  "166": {
+    "Id": 166,
+    "shopReward": {
+      "98721": 1
+    },
+    "beginPrice": 1500,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 1
+  },
+  "167": {
+    "Id": 167,
+    "shopReward": {
+      "MhdIIBlindBox1": 1
+    },
+    "beginPrice": 50,
+    "addPrice": 40,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 10
+  },
+  "168": {
+    "Id": 168,
+    "shopReward": {
+      "Star": 10
+    },
+    "beginPrice": 500,
+    "addPrice": 100,
+    "belongEvent": "cheese",
+    "limitBuyTimes": 5
+  },
+  "169": {
+    "Id": 169,
+    "shopReward": {
+      "Coin": 100
+    },
+    "beginPrice": 10,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": -1
+  },
+  "170": {
+    "Id": 170,
+    "shopReward": {
+      "Coin": 1000
+    },
+    "beginPrice": 100,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": -1
+  },
+  "171": {
+    "Id": 171,
+    "shopReward": {
+      "Coin": 10000
+    },
+    "beginPrice": 1000,
+    "addPrice": 0,
+    "belongEvent": "cheese",
+    "limitBuyTimes": -1
+  }
+}

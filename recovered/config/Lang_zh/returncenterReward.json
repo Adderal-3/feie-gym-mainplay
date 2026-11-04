@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": 1,
+    "signintaskName": "累计登录1天",
+    "dailytaskName": "完成1次抽卡"
+  },
+  "2": {
+    "id": 2,
+    "signintaskName": "累计登录2天",
+    "dailytaskName": "完成1次购买"
+  },
+  "3": {
+    "id": 3,
+    "signintaskName": "累计登录3天",
+    "dailytaskName": "合成50次"
+  },
+  "4": {
+    "id": 4,
+    "signintaskName": "累计登录4天",
+    "dailytaskName": "消耗100能量"
+  },
+  "5": {
+    "id": 5,
+    "signintaskName": "累计登录5天",
+    "dailytaskName": "合成80次"
+  },
+  "6": {
+    "id": 6,
+    "signintaskName": "累计登录6天",
+    "dailytaskName": "消耗100能量"
+  },
+  "7": {
+    "id": 7,
+    "signintaskName": "累计登录7天",
+    "dailytaskName": "合成100次"
+  }
+}

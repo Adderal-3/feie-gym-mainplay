@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": 1,
+    "type": "floatRace",
+    "name": "云端茶会",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "2": {
+    "id": 2,
+    "type": "fireRank",
+    "name": "毅力特训",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "3": {
+    "id": 3,
+    "type": "chessBoard7",
+    "name": "进度棋盘",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "4": {
+    "id": 4,
+    "type": "cardSeason",
+    "name": "赛季相册",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "5": {
+    "id": 5,
+    "type": "mhd2",
+    "name": "赛季盲盒",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "6": {
+    "id": 6,
+    "type": "medalChallenge",
+    "name": "集章挑战",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  },
+  "7": {
+    "id": 7,
+    "type": "partnerEvent",
+    "name": "森林音乐会",
+    "tip1": 30,
+    "tip2": 10800,
+    "tip3": 86400
+  }
+}

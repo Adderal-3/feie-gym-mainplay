@@ -1,0 +1,1982 @@
+{
+  "mp001": {
+    "mpID": "mp001",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110001,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2303",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_brown",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_brown",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_brown",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_brown",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_brown",
+    "mpTipRgb": [
+      155,
+      70,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_brown",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_brown",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_brown",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_brown",
+    "vipMiddleTextRgb": [
+      187,
+      121,
+      21
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      250,
+      235,
+      210
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      135,
+      65,
+      65
+    ],
+    "mpbagSkinIcon": "icon_bag_03",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp002": {
+    "mpID": "mp002",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110002,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2302",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_red",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_red",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_red",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_red",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_red",
+    "mpTipRgb": [
+      155,
+      25,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_red",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_red",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_red",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_red",
+    "vipMiddleTextRgb": [
+      192,
+      73,
+      73
+    ],
+    "vipMiddlePaddingTextRgb": [
+      254,
+      255,
+      173
+    ],
+    "vipSpecialTextRgb": [
+      247,
+      230,
+      141
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      143,
+      26,
+      77
+    ],
+    "mpbagSkinIcon": "icon_bag_04",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp003": {
+    "mpID": "mp003",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110003,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2302",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_pink",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_pink",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_pink",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_pink",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_pink",
+    "mpTipRgb": [
+      155,
+      25,
+      90
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_pink",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_pink",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_pink",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_pink",
+    "vipMiddleTextRgb": [
+      180,
+      50,
+      80
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      235,
+      230
+    ],
+    "vipSpecialTextRgb": [
+      255,
+      235,
+      180
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      170,
+      60,
+      180
+    ],
+    "mpbagSkinIcon": "icon_bag_05",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp004": {
+    "mpID": "mp004",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110004,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2303",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_brown",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_brown",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_brown",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_brown",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_brown",
+    "mpTipRgb": [
+      155,
+      70,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_brown",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_brown",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_brown",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_brown",
+    "vipMiddleTextRgb": [
+      187,
+      121,
+      21
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      250,
+      235,
+      210
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      135,
+      65,
+      65
+    ],
+    "mpbagSkinIcon": "icon_bag_06",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp005": {
+    "mpID": "mp005",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110005,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2304",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      19,
+      167,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_07",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp006": {
+    "mpID": "mp006",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110006,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2305",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_purple",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_purple",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_purple",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_purple",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_purple",
+    "mpTipRgb": [
+      58,
+      32,
+      124
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_purple",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_purple",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_purple",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_purple",
+    "vipMiddleTextRgb": [
+      17,
+      99,
+      175
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      210,
+      240,
+      250
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      68,
+      71,
+      217
+    ],
+    "mpbagSkinIcon": "icon_bag_08",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_purple"
+  },
+  "mp007": {
+    "mpID": "mp007",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110007,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2306",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      19,
+      160,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_09",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp008": {
+    "mpID": "mp008",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110008,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2307",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_blue",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_blue",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_10",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp009": {
+    "mpID": "mp009",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110009,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2308",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      19,
+      160,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_11",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp010": {
+    "mpID": "mp010",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110010,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2309",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_yellow",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_yellow",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_yellow",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_yellow",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_yellow",
+    "mpTipRgb": [
+      210,
+      130,
+      0
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_yellow",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_yellow",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_yellow",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_yellow",
+    "vipMiddleTextRgb": [
+      4,
+      150,
+      124
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      209,
+      255,
+      227
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      24,
+      117,
+      113
+    ],
+    "mpbagSkinIcon": "icon_bag_12",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp011": {
+    "mpID": "mp011",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110011,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2310",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_brown",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_brown",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_brown",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_brown",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_brown",
+    "mpTipRgb": [
+      155,
+      70,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_brown",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_brown",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_brown",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_brown",
+    "vipMiddleTextRgb": [
+      187,
+      121,
+      21
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      250,
+      235,
+      210
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      135,
+      65,
+      65
+    ],
+    "mpbagSkinIcon": "icon_bag_13",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_brown"
+  },
+  "mp012": {
+    "mpID": "mp012",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110012,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2311",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_red",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_red",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_red",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_brown",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_red",
+    "mpTipRgb": [
+      155,
+      25,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_red",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_red",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_red",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_red",
+    "vipMiddleTextRgb": [
+      192,
+      73,
+      73
+    ],
+    "vipMiddlePaddingTextRgb": [
+      254,
+      255,
+      173
+    ],
+    "vipSpecialTextRgb": [
+      247,
+      230,
+      141
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      143,
+      26,
+      77
+    ],
+    "mpbagSkinIcon": "icon_bag_14",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp013": {
+    "mpID": "mp013",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110013,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2312",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_2312",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_2312",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_2312",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_2312",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_2312",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_15",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp014": {
+    "mpID": "mp014",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110014,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2401",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      19,
+      160,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_16",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp015": {
+    "mpID": "mp015",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110015,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2402",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_red",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_red",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_red",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_red",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_red",
+    "mpTipRgb": [
+      134,
+      39,
+      39
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_red",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_red",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_red",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_red",
+    "vipMiddleTextRgb": [
+      192,
+      73,
+      73
+    ],
+    "vipMiddlePaddingTextRgb": [
+      254,
+      255,
+      173
+    ],
+    "vipSpecialTextRgb": [
+      247,
+      230,
+      141
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      143,
+      26,
+      77
+    ],
+    "mpbagSkinIcon": "icon_bag_17",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_brown"
+  },
+  "mp016": {
+    "mpID": "mp016",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110016,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2403",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      19,
+      160,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_18",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp017": {
+    "mpID": "mp017",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110017,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2404",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_blue",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_blue",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_19",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp018": {
+    "mpID": "mp018",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110018,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2405",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_purple",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue2",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_purple",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_20",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp019": {
+    "mpID": "mp019",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110019,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2406",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_2312",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_yellow",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green2",
+    "mpTipRgb": [
+      19,
+      104,
+      50
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_yellow",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_yellow",
+    "vipMiddleTextRgb": [
+      19,
+      160,
+      13
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      240,
+      255,
+      220
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      15,
+      142,
+      135
+    ],
+    "mpbagSkinIcon": "icon_bag_21",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp020": {
+    "mpID": "mp020",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110020,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2309",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_yellow",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_yellow",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_yellow",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_yellow",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_yellow",
+    "mpTipRgb": [
+      210,
+      130,
+      0
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_yellow",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_yellow",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_yellow",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_yellow",
+    "vipMiddleTextRgb": [
+      4,
+      150,
+      124
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      209,
+      255,
+      227
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      24,
+      117,
+      113
+    ],
+    "mpbagSkinIcon": "icon_bag_22",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp021": {
+    "mpID": "mp021",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110021,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2408",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_green",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_green",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_green",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_green",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_green",
+    "mpTipRgb": [
+      210,
+      130,
+      0
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_green",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_green",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_green",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_green",
+    "vipMiddleTextRgb": [
+      4,
+      150,
+      124
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      209,
+      255,
+      227
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      24,
+      117,
+      113
+    ],
+    "mpbagSkinIcon": "icon_bag_23",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_green"
+  },
+  "mp022": {
+    "mpID": "mp022",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110022,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2409",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_2409",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_2409",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_purple",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_purple",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_2409",
+    "mpTipRgb": [
+      79,
+      159,
+      161
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_purple",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_purple",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_purple",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_purple",
+    "vipMiddleTextRgb": [
+      17,
+      99,
+      175
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      210,
+      240,
+      250
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      68,
+      71,
+      217
+    ],
+    "mpbagSkinIcon": "icon_bag_24",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_purple"
+  },
+  "mp023": {
+    "mpID": "mp023",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110023,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2410",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_purple",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_purple",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_purple",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_purple",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_purple",
+    "mpTipRgb": [
+      93,
+      100,
+      198
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_purple",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_purple",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_purple",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_purple",
+    "vipMiddleTextRgb": [
+      17,
+      99,
+      175
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      210,
+      240,
+      250
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      68,
+      71,
+      217
+    ],
+    "mpbagSkinIcon": "icon_bag_25",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_purple"
+  },
+  "mp024": {
+    "mpID": "mp024",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110024,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2411",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_blue",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_2411",
+    "mpTipRgb": [
+      104,
+      151,
+      202
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      17,
+      99,
+      175
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      210,
+      240,
+      250
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      68,
+      71,
+      217
+    ],
+    "mpbagSkinIcon": "icon_bag_26",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp025": {
+    "mpID": "mp025",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110025,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2412",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_purple",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_purple",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_purple",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_purple",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_purple",
+    "mpTipRgb": [
+      93,
+      100,
+      198
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_purple",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_purple",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_purple",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_purple",
+    "vipMiddleTextRgb": [
+      17,
+      99,
+      175
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      210,
+      240,
+      250
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      68,
+      71,
+      217
+    ],
+    "mpbagSkinIcon": "icon_bag_27",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_purple"
+  },
+  "mp026": {
+    "mpID": "mp026",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110026,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2501",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_yellow",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_yellow",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_yellow",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_yellow",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_yellow",
+    "mpTipRgb": [
+      210,
+      130,
+      0
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_yellow",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_yellow",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_yellow",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_yellow",
+    "vipMiddleTextRgb": [
+      4,
+      150,
+      124
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      209,
+      255,
+      227
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      24,
+      117,
+      113
+    ],
+    "mpbagSkinIcon": "icon_bag_28",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp027": {
+    "mpID": "mp027",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110027,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2502",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_pink",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_pink",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_pink",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_pink",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_pink",
+    "mpTipRgb": [
+      155,
+      25,
+      90
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_pink",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_pink",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_pink",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_pink",
+    "vipMiddleTextRgb": [
+      180,
+      50,
+      80
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      235,
+      230
+    ],
+    "vipSpecialTextRgb": [
+      255,
+      235,
+      180
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      170,
+      60,
+      180
+    ],
+    "mpbagSkinIcon": "icon_bag_29",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp028": {
+    "mpID": "mp028",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110028,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2503",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_yellow",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_yellow",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_yellow",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_yellow",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_yellow",
+    "mpTipRgb": [
+      210,
+      130,
+      0
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_yellow",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_yellow",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_yellow",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_yellow",
+    "vipMiddleTextRgb": [
+      4,
+      150,
+      124
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      209,
+      255,
+      227
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      24,
+      117,
+      113
+    ],
+    "mpbagSkinIcon": "icon_bag_30",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_yellow"
+  },
+  "mp029": {
+    "mpID": "mp029",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110029,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2504",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_blue",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_blue",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_31",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp030": {
+    "mpID": "mp030",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110030,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2505",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_red",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_red",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_red",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_red",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_red",
+    "mpTipRgb": [
+      134,
+      39,
+      39
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_red",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_red",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_red",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_red",
+    "vipMiddleTextRgb": [
+      192,
+      73,
+      73
+    ],
+    "vipMiddlePaddingTextRgb": [
+      254,
+      255,
+      173
+    ],
+    "vipSpecialTextRgb": [
+      247,
+      230,
+      141
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      143,
+      26,
+      77
+    ],
+    "mpbagSkinIcon": "icon_bag_32",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_brown"
+  },
+  "mp031": {
+    "mpID": "mp031",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110031,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2506",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_blue",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_blue",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_blue",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_blue",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_blue",
+    "mpTipRgb": [
+      17,
+      108,
+      143
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_blue",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_blue",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_blue",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_blue",
+    "vipMiddleTextRgb": [
+      51,
+      104,
+      182
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      233,
+      247,
+      255
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      16,
+      107,
+      181
+    ],
+    "mpbagSkinIcon": "icon_bag_33",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_blue"
+  },
+  "mp032": {
+    "mpID": "mp032",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110032,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2507",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_red",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_red",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_red",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_red",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_red",
+    "mpTipRgb": [
+      134,
+      39,
+      39
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_red",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_red",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_red",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_red",
+    "vipMiddleTextRgb": [
+      192,
+      73,
+      73
+    ],
+    "vipMiddlePaddingTextRgb": [
+      254,
+      255,
+      173
+    ],
+    "vipSpecialTextRgb": [
+      247,
+      230,
+      141
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      143,
+      26,
+      77
+    ],
+    "mpbagSkinIcon": "icon_bag_34",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_brown"
+  },
+  "mp033": {
+    "mpID": "mp033",
+    "mpDuration": 0,
+    "initMergePassPoint": 0,
+    "energyToPoint": 1,
+    "DiamondToPoint": 5,
+    "vipEnergyToPoint": 2,
+    "mpMailID": 0,
+    "mpVIPID": 110033,
+    "mpPrice": 9800,
+    "originalPrice": 32800,
+    "mpExplainPic": "Texture/UI/MergePass/MergePass_pic_tips",
+    "mpBg": "Texture/UI/MergePass/color/pic_MPbg_2508",
+    "mpTop": "Texture/UI/MergePass/color/img_MPtop_brown",
+    "mpBgAnim": "Texture/UI/MergePass/color/img_MPbg_brown",
+    "mpFreeBubble": "Texture/UI/MergePass/color/MP_bg_free_brown",
+    "mpFreeTitle": "Texture/UI/MergePass/color/icon_MP_free_brown",
+    "mpProgress": "Texture/UI/MergePass/color/icon_MP_progress_brown",
+    "mpTipRgb": [
+      155,
+      70,
+      25
+    ],
+    "vipBigBg": "Texture/UI/MergePass/color/bg_MP_common_brown",
+    "vipSmallBg": "Texture/UI/MergePass/color/bg_MP_common_01_brown",
+    "vipTitle": "Texture/UI/MergePass/color/bg_MP_title_brown",
+    "vipMiddleBg": "Texture/UI/MergePass/color/bg_MP_title_01_brown",
+    "vipMiddleTextRgb": [
+      187,
+      121,
+      21
+    ],
+    "vipMiddlePaddingTextRgb": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextRgb": [
+      250,
+      235,
+      210
+    ],
+    "vipSpecialTextChange": [
+      255,
+      255,
+      255
+    ],
+    "vipSpecialTextBordChange": [
+      245,
+      186,
+      0
+    ],
+    "vipHorizontalLineRgb": [
+      135,
+      65,
+      65
+    ],
+    "mpbagSkinIcon": "icon_bag_35",
+    "mpVIPTitle": "Texture/UI/MergePass/color/icon_MP_pass_brown"
+  }
+}

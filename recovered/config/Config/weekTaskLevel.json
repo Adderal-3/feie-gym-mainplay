@@ -1,0 +1,74 @@
+{
+  "1": {
+    "id": 1,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 1
+  },
+  "2": {
+    "id": 2,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 2
+  },
+  "3": {
+    "id": 3,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 3
+  },
+  "4": {
+    "id": 4,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 4
+  },
+  "5": {
+    "id": 5,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 5
+  },
+  "6": {
+    "id": 6,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 6
+  },
+  "7": {
+    "id": 7,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 7
+  },
+  "8": {
+    "id": 8,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 8
+  },
+  "9": {
+    "id": 9,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 9
+  },
+  "10": {
+    "id": 10,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 10
+  },
+  "11": {
+    "id": 11,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 11
+  },
+  "12": {
+    "id": 12,
+    "maintainTimes": 2,
+    "percent": 0.75,
+    "taskGroup": 12
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "monopoly1": {
+    "1": {
+      "Id": 1,
+      "shopReward": {
+        "Coin": 100
+      },
+      "beginPrice": 100,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 1,
+      "shopProgress": 1
+    },
+    "2": {
+      "Id": 2,
+      "shopReward": {
+        "98801": 1
+      },
+      "beginPrice": 300,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 1,
+      "shopProgress": 1
+    },
+    "3": {
+      "Id": 3,
+      "shopReward": {
+        "98201": 1
+      },
+      "beginPrice": 600,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 1,
+      "shopProgress": 1
+    },
+    "4": {
+      "Id": 4,
+      "shopReward": {
+        "Coin": 1000
+      },
+      "beginPrice": 600,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 2,
+      "shopProgress": 1
+    },
+    "5": {
+      "Id": 5,
+      "shopReward": {
+        "98803": 1
+      },
+      "beginPrice": 800,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 2,
+      "shopProgress": 1
+    },
+    "6": {
+      "Id": 6,
+      "shopReward": {
+        "98202": 1
+      },
+      "beginPrice": 1200,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 2,
+      "shopProgress": 1
+    },
+    "7": {
+      "Id": 7,
+      "shopReward": {
+        "98301": 1
+      },
+      "beginPrice": 1200,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 3,
+      "shopProgress": 1
+    },
+    "8": {
+      "Id": 8,
+      "shopReward": {
+        "98203": 1
+      },
+      "beginPrice": 2000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 3,
+      "shopProgress": 1
+    },
+    "9": {
+      "Id": 9,
+      "shopReward": {
+        "AdornSkin501806": 1
+      },
+      "beginPrice": 4000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 3,
+      "shopProgress": 1
+    },
+    "10": {
+      "Id": 10,
+      "shopReward": {
+        "98102": 1
+      },
+      "beginPrice": 4000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 4,
+      "shopProgress": 1
+    },
+    "11": {
+      "Id": 11,
+      "shopReward": {
+        "98401": 1
+      },
+      "beginPrice": 8000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 4,
+      "shopProgress": 1
+    },
+    "12": {
+      "Id": 12,
+      "shopReward": {
+        "AdornSkin501906": 1
+      },
+      "beginPrice": 12000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 4,
+      "shopProgress": 1
+    },
+    "13": {
+      "Id": 13,
+      "shopReward": {
+        "98402": 1
+      },
+      "beginPrice": 12000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 5,
+      "shopProgress": 1
+    },
+    "14": {
+      "Id": 14,
+      "shopReward": {
+        "98805": 1
+      },
+      "beginPrice": 15000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 5,
+      "shopProgress": 1
+    },
+    "15": {
+      "Id": 15,
+      "shopReward": {
+        "AdornSkin500905": 1
+      },
+      "beginPrice": 18000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 5,
+      "shopProgress": 1
+    },
+    "16": {
+      "Id": 16,
+      "shopReward": {
+        "AdornSkin500705": 1
+      },
+      "beginPrice": 18000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 6,
+      "shopProgress": 1
+    },
+    "17": {
+      "Id": 17,
+      "shopReward": {
+        "90502": 1
+      },
+      "beginPrice": 24000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 6,
+      "shopProgress": 1
+    },
+    "18": {
+      "Id": 18,
+      "shopReward": {
+        "AdornSkin501205": 1
+      },
+      "beginPrice": 30000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 6,
+      "shopProgress": 1
+    },
+    "19": {
+      "Id": 19,
+      "shopReward": {
+        "AdornSkin500806": 1
+      },
+      "beginPrice": 30000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 7,
+      "shopProgress": 1
+    },
+    "20": {
+      "Id": 20,
+      "shopReward": {
+        "98303": 3
+      },
+      "beginPrice": 50000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 7,
+      "shopProgress": 1
+    },
+    "21": {
+      "Id": 21,
+      "shopReward": {
+        "AdornSkin500205": 1
+      },
+      "beginPrice": 60000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 7,
+      "shopProgress": 1
+    },
+    "22": {
+      "Id": 22,
+      "shopReward": {
+        "90602": 1
+      },
+      "beginPrice": 60000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 8,
+      "shopProgress": 1
+    },
+    "23": {
+      "Id": 23,
+      "shopReward": {
+        "98701": 1
+      },
+      "beginPrice": 70000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 8,
+      "shopProgress": 1
+    },
+    "24": {
+      "Id": 24,
+      "shopReward": {
+        "AdornSkin501605": 1
+      },
+      "beginPrice": 80000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 8,
+      "shopProgress": 1
+    },
+    "25": {
+      "Id": 25,
+      "shopReward": {
+        "98731": 1
+      },
+      "beginPrice": 80000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 9,
+      "shopProgress": 1
+    },
+    "26": {
+      "Id": 26,
+      "shopReward": {
+        "98901": 1
+      },
+      "beginPrice": 90000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 9,
+      "shopProgress": 1
+    },
+    "27": {
+      "Id": 27,
+      "shopReward": {
+        "AdornSkin502005": 1
+      },
+      "beginPrice": 100000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 9,
+      "shopProgress": 1
+    },
+    "28": {
+      "Id": 28,
+      "shopReward": {
+        "Coin": 10
+      },
+      "beginPrice": 100,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 10,
+      "shopProgress": 0
+    },
+    "29": {
+      "Id": 29,
+      "shopReward": {
+        "Coin": 100
+      },
+      "beginPrice": 1000,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 10,
+      "shopProgress": 0
+    },
+    "30": {
+      "Id": 30,
+      "shopReward": {
+        "Coin": 1000
+      },
+      "beginPrice": 10000,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 10,
+      "shopProgress": 0
+    }
+  },
+  "monopoly2": {
+    "101": {
+      "Id": 101,
+      "shopReward": {
+        "Coin": 100
+      },
+      "beginPrice": 100,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 101,
+      "shopProgress": 1
+    },
+    "102": {
+      "Id": 102,
+      "shopReward": {
+        "98801": 1
+      },
+      "beginPrice": 200,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 101,
+      "shopProgress": 1
+    },
+    "103": {
+      "Id": 103,
+      "shopReward": {
+        "Film9": 1
+      },
+      "beginPrice": 300,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 101,
+      "shopProgress": 1
+    },
+    "104": {
+      "Id": 104,
+      "shopReward": {
+        "Film9": 1
+      },
+      "beginPrice": 300,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 102,
+      "shopProgress": 1
+    },
+    "105": {
+      "Id": 105,
+      "shopReward": {
+        "98201": 1
+      },
+      "beginPrice": 400,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 102,
+      "shopProgress": 1
+    },
+    "106": {
+      "Id": 106,
+      "shopReward": {
+        "Film12": 1
+      },
+      "beginPrice": 500,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 102,
+      "shopProgress": 1
+    },
+    "107": {
+      "Id": 107,
+      "shopReward": {
+        "Film12": 1
+      },
+      "beginPrice": 500,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 103,
+      "shopProgress": 1
+    },
+    "108": {
+      "Id": 108,
+      "shopReward": {
+        "Adornskin800405": 1
+      },
+      "beginPrice": 1000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 103,
+      "shopProgress": 1
+    },
+    "109": {
+      "Id": 109,
+      "shopReward": {
+        "Film10": 1
+      },
+      "beginPrice": 1500,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 103,
+      "shopProgress": 1
+    },
+    "110": {
+      "Id": 110,
+      "shopReward": {
+        "Film10": 1
+      },
+      "beginPrice": 1500,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 104,
+      "shopProgress": 1
+    },
+    "111": {
+      "Id": 111,
+      "shopReward": {
+        "98402": 1
+      },
+      "beginPrice": 3000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 104,
+      "shopProgress": 1
+    },
+    "112": {
+      "Id": 112,
+      "shopReward": {
+        "Film13": 1
+      },
+      "beginPrice": 5000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 104,
+      "shopProgress": 1
+    },
+    "113": {
+      "Id": 113,
+      "shopReward": {
+        "Film13": 1
+      },
+      "beginPrice": 5000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 105,
+      "shopProgress": 1
+    },
+    "114": {
+      "Id": 114,
+      "shopReward": {
+        "Adornskin801505": 1
+      },
+      "beginPrice": 7000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 105,
+      "shopProgress": 1
+    },
+    "115": {
+      "Id": 115,
+      "shopReward": {
+        "Film11": 1
+      },
+      "beginPrice": 10000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 105,
+      "shopProgress": 1
+    },
+    "116": {
+      "Id": 116,
+      "shopReward": {
+        "Film11": 1
+      },
+      "beginPrice": 10000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 106,
+      "shopProgress": 1
+    },
+    "117": {
+      "Id": 117,
+      "shopReward": {
+        "Adornskin802605": 1
+      },
+      "beginPrice": 15000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 106,
+      "shopProgress": 1
+    },
+    "118": {
+      "Id": 118,
+      "shopReward": {
+        "Film14": 1
+      },
+      "beginPrice": 20000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 106,
+      "shopProgress": 1
+    },
+    "119": {
+      "Id": 119,
+      "shopReward": {
+        "Film14": 1
+      },
+      "beginPrice": 20000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 107,
+      "shopProgress": 1
+    },
+    "120": {
+      "Id": 120,
+      "shopReward": {
+        "98303": 2
+      },
+      "beginPrice": 30000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 107,
+      "shopProgress": 1
+    },
+    "121": {
+      "Id": 121,
+      "shopReward": {
+        "Adornskin802505": 1
+      },
+      "beginPrice": 50000,
+      "addPrice": 0,
+      "limitBuyTimes": 1,
+      "group": 107,
+      "shopProgress": 1
+    },
+    "122": {
+      "Id": 122,
+      "shopReward": {
+        "Coin": 10
+      },
+      "beginPrice": 100,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 108,
+      "shopProgress": 0
+    },
+    "123": {
+      "Id": 123,
+      "shopReward": {
+        "Coin": 100
+      },
+      "beginPrice": 1000,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 108,
+      "shopProgress": 0
+    },
+    "124": {
+      "Id": 124,
+      "shopReward": {
+        "Coin": 1000
+      },
+      "beginPrice": 10000,
+      "addPrice": 0,
+      "limitBuyTimes": 9999,
+      "group": 108,
+      "shopProgress": 0
+    }
+  }
+}

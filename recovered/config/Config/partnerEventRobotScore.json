@@ -1,0 +1,188 @@
+{
+  "1": {
+    "id": 1,
+    "configId": "partnerRobot1A",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.85,
+      1.15
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent1",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 5,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 600,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      3000
+    ],
+    "finishLineTimeRange": [
+      0,
+      0
+    ],
+    "finishLineScoreRange": [
+      0,
+      0
+    ]
+  },
+  "2": {
+    "id": 2,
+    "configId": "partnerRobot1A",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.85,
+      1.15
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent2",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 8,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 1200,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      2000
+    ],
+    "finishLineTimeRange": [
+      0,
+      0
+    ],
+    "finishLineScoreRange": [
+      0,
+      0
+    ]
+  },
+  "3": {
+    "id": 3,
+    "configId": "partnerRobot1A",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.9,
+      1.1
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent3",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 7,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 1800,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      2500
+    ],
+    "finishLineTimeRange": [
+      0,
+      0
+    ],
+    "finishLineScoreRange": [
+      0,
+      0
+    ]
+  },
+  "101": {
+    "id": 101,
+    "configId": "partnerRobot1B",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.85,
+      1.15
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent1",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 5,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 600,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      3000
+    ],
+    "finishLineTimeRange": [
+      57600,
+      86400
+    ],
+    "finishLineScoreRange": [
+      400,
+      600
+    ]
+  },
+  "102": {
+    "id": 102,
+    "configId": "partnerRobot1B",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.85,
+      1.15
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent2",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 8,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 1200,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      2000
+    ],
+    "finishLineTimeRange": [
+      57600,
+      129600
+    ],
+    "finishLineScoreRange": [
+      400,
+      800
+    ]
+  },
+  "103": {
+    "id": 103,
+    "configId": "partnerRobot1B",
+    "expectedContribution": 6000,
+    "randomRange": [
+      0.9,
+      1.1
+    ],
+    "guaranteedScore": [
+      3000,
+      9000
+    ],
+    "robotRankName": "partnerEvent3",
+    "dailyRefreshLimit": 10,
+    "refreshStartHour": 7,
+    "refreshEndHour": 23,
+    "minStageFinishInterval": 1800,
+    "playerExpectRank": 2,
+    "robotLeadingMargin": [
+      500,
+      2500
+    ],
+    "finishLineTimeRange": [
+      57600,
+      86400
+    ],
+    "finishLineScoreRange": [
+      400,
+      600
+    ]
+  }
+}

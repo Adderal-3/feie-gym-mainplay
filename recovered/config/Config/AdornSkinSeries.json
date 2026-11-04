@@ -1,0 +1,1354 @@
+{
+  "Main": {
+    "101": {
+      "id": 101,
+      "adornSkinSeriesColumnId": 1,
+      "order": 20000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "102": {
+      "id": 102,
+      "adornSkinSeriesColumnId": 1,
+      "order": 19900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "103": {
+      "id": 103,
+      "adornSkinSeriesColumnId": 1,
+      "order": 19800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "104": {
+      "id": 104,
+      "adornSkinSeriesColumnId": 97,
+      "order": 100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "190": {
+      "id": 190,
+      "adornSkinSeriesColumnId": 1,
+      "order": 19600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "191": {
+      "id": 191,
+      "adornSkinSeriesColumnId": 1,
+      "order": 19500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "192": {
+      "id": 192,
+      "adornSkinSeriesColumnId": 1,
+      "order": 19400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "201": {
+      "id": 201,
+      "adornSkinSeriesColumnId": 2,
+      "order": 19300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "202": {
+      "id": 202,
+      "adornSkinSeriesColumnId": 2,
+      "order": 19200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "203": {
+      "id": 203,
+      "adornSkinSeriesColumnId": 2,
+      "order": 19100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "290": {
+      "id": 290,
+      "adornSkinSeriesColumnId": 2,
+      "order": 19000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "291": {
+      "id": 291,
+      "adornSkinSeriesColumnId": 2,
+      "order": 18900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "301": {
+      "id": 301,
+      "adornSkinSeriesColumnId": 3,
+      "order": 18800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "302": {
+      "id": 302,
+      "adornSkinSeriesColumnId": 3,
+      "order": 18700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "303": {
+      "id": 303,
+      "adornSkinSeriesColumnId": 3,
+      "order": 18600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "390": {
+      "id": 390,
+      "adornSkinSeriesColumnId": 3,
+      "order": 18500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "391": {
+      "id": 391,
+      "adornSkinSeriesColumnId": 3,
+      "order": 18400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "401": {
+      "id": 401,
+      "adornSkinSeriesColumnId": 4,
+      "order": 18200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "402": {
+      "id": 402,
+      "adornSkinSeriesColumnId": 4,
+      "order": 18100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "403": {
+      "id": 403,
+      "adornSkinSeriesColumnId": 4,
+      "order": 18000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "490": {
+      "id": 490,
+      "adornSkinSeriesColumnId": 4,
+      "order": 17900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "501": {
+      "id": 501,
+      "adornSkinSeriesColumnId": 5,
+      "order": 17800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "502": {
+      "id": 502,
+      "adornSkinSeriesColumnId": 5,
+      "order": 17700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "503": {
+      "id": 503,
+      "adornSkinSeriesColumnId": 5,
+      "order": 17600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "590": {
+      "id": 590,
+      "adornSkinSeriesColumnId": 5,
+      "order": 17500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "591": {
+      "id": 591,
+      "adornSkinSeriesColumnId": 5,
+      "order": 17400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "601": {
+      "id": 601,
+      "adornSkinSeriesColumnId": 6,
+      "order": 17300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "602": {
+      "id": 602,
+      "adornSkinSeriesColumnId": 6,
+      "order": 17200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "603": {
+      "id": 603,
+      "adornSkinSeriesColumnId": 6,
+      "order": 17100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "690": {
+      "id": 690,
+      "adornSkinSeriesColumnId": 6,
+      "order": 17000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "701": {
+      "id": 701,
+      "adornSkinSeriesColumnId": 7,
+      "order": 16900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "702": {
+      "id": 702,
+      "adornSkinSeriesColumnId": 7,
+      "order": 16800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "703": {
+      "id": 703,
+      "adornSkinSeriesColumnId": 7,
+      "order": 16700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "790": {
+      "id": 790,
+      "adornSkinSeriesColumnId": 7,
+      "order": 16600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "791": {
+      "id": 791,
+      "adornSkinSeriesColumnId": 7,
+      "order": 16500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "801": {
+      "id": 801,
+      "adornSkinSeriesColumnId": 8,
+      "order": 16400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "802": {
+      "id": 802,
+      "adornSkinSeriesColumnId": 8,
+      "order": 16300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "803": {
+      "id": 803,
+      "adornSkinSeriesColumnId": 8,
+      "order": 16200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "804": {
+      "id": 804,
+      "adornSkinSeriesColumnId": 8,
+      "order": 16100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "890": {
+      "id": 890,
+      "adornSkinSeriesColumnId": 8,
+      "order": 16000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "891": {
+      "id": 891,
+      "adornSkinSeriesColumnId": 8,
+      "order": 15900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "901": {
+      "id": 901,
+      "adornSkinSeriesColumnId": 9,
+      "order": 15800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "990": {
+      "id": 990,
+      "adornSkinSeriesColumnId": 9,
+      "order": 15700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "991": {
+      "id": 991,
+      "adornSkinSeriesColumnId": 9,
+      "order": 15600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1001": {
+      "id": 1001,
+      "adornSkinSeriesColumnId": 10,
+      "order": 15500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1090": {
+      "id": 1090,
+      "adornSkinSeriesColumnId": 10,
+      "order": 15400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1101": {
+      "id": 1101,
+      "adornSkinSeriesColumnId": 11,
+      "order": 15300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1102": {
+      "id": 1102,
+      "adornSkinSeriesColumnId": 11,
+      "order": 15200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1190": {
+      "id": 1190,
+      "adornSkinSeriesColumnId": 11,
+      "order": 15100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1191": {
+      "id": 1191,
+      "adornSkinSeriesColumnId": 11,
+      "order": 15000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1201": {
+      "id": 1201,
+      "adornSkinSeriesColumnId": 12,
+      "order": 14900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1202": {
+      "id": 1202,
+      "adornSkinSeriesColumnId": 12,
+      "order": 14800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1290": {
+      "id": 1290,
+      "adornSkinSeriesColumnId": 12,
+      "order": 14700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1301": {
+      "id": 1301,
+      "adornSkinSeriesColumnId": 13,
+      "order": 14600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1302": {
+      "id": 1302,
+      "adornSkinSeriesColumnId": 13,
+      "order": 14500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1390": {
+      "id": 1390,
+      "adornSkinSeriesColumnId": 13,
+      "order": 14400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1401": {
+      "id": 1401,
+      "adornSkinSeriesColumnId": 14,
+      "order": 14300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1402": {
+      "id": 1402,
+      "adornSkinSeriesColumnId": 14,
+      "order": 14200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1501": {
+      "id": 1501,
+      "adornSkinSeriesColumnId": 15,
+      "order": 14100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1590": {
+      "id": 1590,
+      "adornSkinSeriesColumnId": 15,
+      "order": 14000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1591": {
+      "id": 1591,
+      "adornSkinSeriesColumnId": 15,
+      "order": 13900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1601": {
+      "id": 1601,
+      "adornSkinSeriesColumnId": 16,
+      "order": 13800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1690": {
+      "id": 1690,
+      "adornSkinSeriesColumnId": 16,
+      "order": 13700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1701": {
+      "id": 1701,
+      "adornSkinSeriesColumnId": 17,
+      "order": 13600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1790": {
+      "id": 1790,
+      "adornSkinSeriesColumnId": 17,
+      "order": 13500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1801": {
+      "id": 1801,
+      "adornSkinSeriesColumnId": 18,
+      "order": 13400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1890": {
+      "id": 1890,
+      "adornSkinSeriesColumnId": 18,
+      "order": 13300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1891": {
+      "id": 1891,
+      "adornSkinSeriesColumnId": 18,
+      "order": 13200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1901": {
+      "id": 1901,
+      "adornSkinSeriesColumnId": 19,
+      "order": 13100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "1990": {
+      "id": 1990,
+      "adornSkinSeriesColumnId": 19,
+      "order": 13000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2001": {
+      "id": 2001,
+      "adornSkinSeriesColumnId": 20,
+      "order": 12900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2090": {
+      "id": 2090,
+      "adornSkinSeriesColumnId": 20,
+      "order": 12800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2101": {
+      "id": 2101,
+      "adornSkinSeriesColumnId": 21,
+      "order": 12700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2190": {
+      "id": 2190,
+      "adornSkinSeriesColumnId": 21,
+      "order": 12600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2201": {
+      "id": 2201,
+      "adornSkinSeriesColumnId": 22,
+      "order": 12500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2290": {
+      "id": 2290,
+      "adornSkinSeriesColumnId": 22,
+      "order": 12400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2801": {
+      "id": 2801,
+      "adornSkinSeriesColumnId": 28,
+      "order": 12300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2890": {
+      "id": 2890,
+      "adornSkinSeriesColumnId": 28,
+      "order": 12200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2891": {
+      "id": 2891,
+      "adornSkinSeriesColumnId": 28,
+      "order": 12100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2901": {
+      "id": 2901,
+      "adornSkinSeriesColumnId": 29,
+      "order": 12000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "2990": {
+      "id": 2990,
+      "adornSkinSeriesColumnId": 29,
+      "order": 11900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "5001": {
+      "id": 5001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "5101": {
+      "id": 5101,
+      "adornSkinSeriesColumnId": 51,
+      "order": 18300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "5997": {
+      "id": 5997,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "5998": {
+      "id": 5998,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "5999": {
+      "id": 5999,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6000": {
+      "id": 6000,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6001": {
+      "id": 6001,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6002": {
+      "id": 6002,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6003": {
+      "id": 6003,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6004": {
+      "id": 6004,
+      "adornSkinSeriesColumnId": 97,
+      "order": 6900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6005": {
+      "id": 6005,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6006": {
+      "id": 6006,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6007": {
+      "id": 6007,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6008": {
+      "id": 6008,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6009": {
+      "id": 6009,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6010": {
+      "id": 6010,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6011": {
+      "id": 6011,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6012": {
+      "id": 6012,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6013": {
+      "id": 6013,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "6014": {
+      "id": 6014,
+      "adornSkinSeriesColumnId": 97,
+      "order": 7900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "6015": {
+      "id": 6015,
+      "adornSkinSeriesColumnId": 97,
+      "order": 8000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "7001": {
+      "id": 7001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "8001": {
+      "id": 8001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8300,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "9001": {
+      "id": 9001,
+      "adornSkinSeriesColumnId": 99,
+      "order": 6100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "10001": {
+      "id": 10001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8400,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "11001": {
+      "id": 11001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8500,
+      "upPic": "2210",
+      "wallAndFloorID": [
+        300205,
+        300905,
+        500106,
+        500204,
+        500604,
+        500704,
+        500804,
+        500904,
+        501004,
+        501204,
+        501604,
+        502004,
+        502104
+      ],
+      "canSeriesShow": 0
+    },
+    "12001": {
+      "id": 12001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "12002": {
+      "id": 12002,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8600,
+      "upPic": "2211",
+      "wallAndFloorID": [
+        200301,
+        200401,
+        300304,
+        300404,
+        500303,
+        500403,
+        700303,
+        700403
+      ],
+      "canSeriesShow": 0
+    },
+    "13001": {
+      "id": 13001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "14001": {
+      "id": 14001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 8900,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "15001": {
+      "id": 15001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9000,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "16001": {
+      "id": 16001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9100,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 1
+    },
+    "17001": {
+      "id": 17001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9200,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "18001": {
+      "id": 18001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9300,
+      "upPic": "moon2_upPic",
+      "wallAndFloorID": [
+        700406,
+        700302
+      ],
+      "canSeriesShow": 1
+    },
+    "19001": {
+      "id": 19001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9400,
+      "upPic": "2311",
+      "wallAndFloorID": [
+        1100317,
+        1100413
+      ],
+      "canSeriesShow": 1
+    },
+    "20001": {
+      "id": 20001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9500,
+      "upPic": "2312",
+      "wallAndFloorID": [
+        300403,
+        300314
+      ],
+      "canSeriesShow": 0
+    },
+    "21001": {
+      "id": 21001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9600,
+      "upPic": "2401",
+      "wallAndFloorID": [
+        100319,
+        100414,
+        100514,
+        200319,
+        200414
+      ],
+      "canSeriesShow": 0
+    },
+    "22001": {
+      "id": 22001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9700,
+      "upPic": "2402",
+      "wallAndFloorID": [
+        1300302
+      ],
+      "canSeriesShow": 0
+    },
+    "23001": {
+      "id": 23001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9800,
+      "upPic": "2404",
+      "wallAndFloorID": [
+        900315,
+        900412
+      ],
+      "canSeriesShow": 0
+    },
+    "24001": {
+      "id": 24001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 9900,
+      "upPic": "2404",
+      "wallAndFloorID": [
+        900322,
+        900416
+      ],
+      "canSeriesShow": 0
+    },
+    "25001": {
+      "id": 25001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10000,
+      "upPic": "2406",
+      "wallAndFloorID": [
+        900322,
+        900416
+      ],
+      "canSeriesShow": 0
+    },
+    "26001": {
+      "id": 26001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10100,
+      "upPic": "2406",
+      "wallAndFloorID": [
+        1400301
+      ],
+      "canSeriesShow": 0
+    },
+    "27001": {
+      "id": 27001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10200,
+      "upPic": "2407",
+      "wallAndFloorID": [
+        1000301
+      ],
+      "canSeriesShow": 0
+    },
+    "28001": {
+      "id": 28001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10300,
+      "upPic": "240927",
+      "wallAndFloorID": [
+        1200324
+      ],
+      "canSeriesShow": 0
+    },
+    "29001": {
+      "id": 29001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10400,
+      "upPic": "241206",
+      "wallAndFloorID": [
+        500327,
+        500417
+      ],
+      "canSeriesShow": 0
+    },
+    "30001": {
+      "id": 30001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10500,
+      "upPic": "250126",
+      "wallAndFloorID": [
+        800303
+      ],
+      "canSeriesShow": 0
+    },
+    "31001": {
+      "id": 31001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10600,
+      "upPic": "250402",
+      "wallAndFloorID": [
+        600329
+      ],
+      "canSeriesShow": 0
+    },
+    "32001": {
+      "id": 32001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10700,
+      "upPic": "250527",
+      "wallAndFloorID": [
+        1200317
+      ],
+      "canSeriesShow": 0
+    },
+    "33001": {
+      "id": 33001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10800,
+      "upPic": "250806",
+      "wallAndFloorID": [
+        700401,
+        700321
+      ],
+      "canSeriesShow": 0
+    },
+    "34001": {
+      "id": 34001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 10900,
+      "upPic": "250918",
+      "wallAndFloorID": [
+        100331,
+        100419,
+        100519
+      ],
+      "canSeriesShow": 0
+    },
+    "35001": {
+      "id": 35001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11000,
+      "upPic": "251104",
+      "wallAndFloorID": [
+        300333,
+        300421
+      ],
+      "canSeriesShow": 0
+    },
+    "36001": {
+      "id": 36001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11100,
+      "upPic": "251225",
+      "wallAndFloorID": [
+        1300334
+      ],
+      "canSeriesShow": 0
+    },
+    "37001": {
+      "id": 37001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11200,
+      "upPic": "260205",
+      "wallAndFloorID": [
+        600312
+      ],
+      "canSeriesShow": 0
+    },
+    "38001": {
+      "id": 38001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11300,
+      "upPic": "260319",
+      "wallAndFloorID": [
+        1100336,
+        1100423
+      ],
+      "canSeriesShow": 0
+    },
+    "39001": {
+      "id": 39001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11400,
+      "upPic": "260424",
+      "wallAndFloorID": [
+        900337,
+        900424
+      ],
+      "canSeriesShow": 0
+    },
+    "40001": {
+      "id": 40001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11500,
+      "upPic": "260610",
+      "wallAndFloorID": [
+        1400301
+      ],
+      "canSeriesShow": 0
+    },
+    "41001": {
+      "id": 41001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11600,
+      "upPic": "260723",
+      "wallAndFloorID": [
+        1800339,
+        1800425
+      ],
+      "canSeriesShow": 0
+    },
+    "42001": {
+      "id": 42001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11700,
+      "upPic": "260826",
+      "wallAndFloorID": [
+        1200301
+      ],
+      "canSeriesShow": 0
+    },
+    "43001": {
+      "id": 43001,
+      "adornSkinSeriesColumnId": 98,
+      "order": 11800,
+      "upPic": "261019",
+      "wallAndFloorID": [
+        1100317,
+        1100413
+      ],
+      "canSeriesShow": 0
+    }
+  },
+  "Room1": {
+    "9990001": {
+      "id": 9990001,
+      "adornSkinSeriesColumnId": 999001,
+      "order": 7800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990002": {
+      "id": 9990002,
+      "adornSkinSeriesColumnId": 999001,
+      "order": 7700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990003": {
+      "id": 9990003,
+      "adornSkinSeriesColumnId": 999001,
+      "order": 7600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990004": {
+      "id": 9990004,
+      "adornSkinSeriesColumnId": 999001,
+      "order": 7500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    }
+  },
+  "Room2": {
+    "9990005": {
+      "id": 9990005,
+      "adornSkinSeriesColumnId": 999002,
+      "order": 7800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990006": {
+      "id": 9990006,
+      "adornSkinSeriesColumnId": 999002,
+      "order": 7700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990007": {
+      "id": 9990007,
+      "adornSkinSeriesColumnId": 999002,
+      "order": 7600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990008": {
+      "id": 9990008,
+      "adornSkinSeriesColumnId": 999002,
+      "order": 7500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    }
+  },
+  "Room3": {
+    "9990009": {
+      "id": 9990009,
+      "adornSkinSeriesColumnId": 999003,
+      "order": 7800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990010": {
+      "id": 9990010,
+      "adornSkinSeriesColumnId": 999003,
+      "order": 7700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990011": {
+      "id": 9990011,
+      "adornSkinSeriesColumnId": 999003,
+      "order": 7600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990012": {
+      "id": 9990012,
+      "adornSkinSeriesColumnId": 999003,
+      "order": 7500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    }
+  },
+  "Room4": {
+    "9990013": {
+      "id": 9990013,
+      "adornSkinSeriesColumnId": 999004,
+      "order": 7800,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990014": {
+      "id": 9990014,
+      "adornSkinSeriesColumnId": 999004,
+      "order": 7700,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990015": {
+      "id": 9990015,
+      "adornSkinSeriesColumnId": 999004,
+      "order": 7600,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    },
+    "9990016": {
+      "id": 9990016,
+      "adornSkinSeriesColumnId": 999004,
+      "order": 7500,
+      "upPic": "",
+      "wallAndFloorID": [],
+      "canSeriesShow": 0
+    }
+  }
+}

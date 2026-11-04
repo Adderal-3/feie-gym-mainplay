@@ -1,0 +1,638 @@
+{
+  "frozenBubble1": {
+    "1110": {
+      "id": 1110,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1105,
+          1109
+        ],
+        "8": [
+          1109
+        ]
+      },
+      "tagId": 6,
+      "relatedSeries": ""
+    },
+    "1111": {
+      "id": 1111,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1105,
+          1107,
+          1110
+        ],
+        "8": [
+          1106,
+          1110
+        ],
+        "10": [
+          1105,
+          1110
+        ]
+      },
+      "tagId": 5,
+      "relatedSeries": ""
+    },
+    "1112": {
+      "id": 1112,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1107,
+          1109,
+          1111
+        ],
+        "8": [
+          1108,
+          1111
+        ],
+        "10": [
+          1107,
+          1111
+        ]
+      },
+      "tagId": 4,
+      "relatedSeries": ""
+    },
+    "1113": {
+      "id": 1113,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1108,
+          1110,
+          1112
+        ],
+        "8": [
+          1109,
+          1112
+        ],
+        "10": [
+          1108,
+          1112
+        ]
+      },
+      "tagId": 3,
+      "relatedSeries": ""
+    },
+    "1114": {
+      "id": 1114,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1107,
+          1109,
+          1111,
+          1113
+        ],
+        "8": [
+          1107,
+          1110,
+          1113
+        ],
+        "10": [
+          1109,
+          1113
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "1115": {
+      "id": 1115,
+      "series": "A_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          1108,
+          1110,
+          1112,
+          1114
+        ],
+        "8": [
+          1108,
+          1111,
+          1114
+        ],
+        "10": [
+          1110,
+          1114
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "2110": {
+      "id": 2110,
+      "series": "B_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          2105,
+          2109
+        ],
+        "8": [
+          2109
+        ]
+      },
+      "tagId": 5,
+      "relatedSeries": ""
+    },
+    "2111": {
+      "id": 2111,
+      "series": "B_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          2105,
+          2107,
+          2110
+        ],
+        "8": [
+          2106,
+          2110
+        ],
+        "10": [
+          2105,
+          2110
+        ]
+      },
+      "tagId": 4,
+      "relatedSeries": ""
+    },
+    "2112": {
+      "id": 2112,
+      "series": "B_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          2107,
+          2109,
+          2111
+        ],
+        "8": [
+          2108,
+          2111
+        ],
+        "10": [
+          2107,
+          2111
+        ]
+      },
+      "tagId": 3,
+      "relatedSeries": ""
+    },
+    "2113": {
+      "id": 2113,
+      "series": "B_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          2108,
+          2110,
+          2112
+        ],
+        "8": [
+          2109,
+          2112
+        ],
+        "10": [
+          2108,
+          2112
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "2114": {
+      "id": 2114,
+      "series": "B_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          2109,
+          2111,
+          2113
+        ],
+        "8": [
+          2110,
+          2113
+        ],
+        "10": [
+          2109,
+          2113
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "3110": {
+      "id": 3110,
+      "series": "C_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          3105,
+          3109
+        ],
+        "8": [
+          3109
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "3111": {
+      "id": 3111,
+      "series": "C_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          3105,
+          3107,
+          3110
+        ],
+        "8": [
+          3106,
+          3110
+        ],
+        "10": [
+          3105,
+          3110
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "4207": {
+      "id": 4207,
+      "series": "D_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          4204,
+          4206
+        ],
+        "7": [
+          4206
+        ]
+      },
+      "tagId": 3,
+      "relatedSeries": "D_1"
+    },
+    "4208": {
+      "id": 4208,
+      "series": "D_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          4204,
+          4207
+        ],
+        "7": [
+          4207
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": "D_1"
+    },
+    "4209": {
+      "id": 4209,
+      "series": "D_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          4205,
+          4208
+        ],
+        "7": [
+          4208
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": "D_1"
+    },
+    "5110": {
+      "id": 5110,
+      "series": "E_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          5106,
+          5109
+        ],
+        "7": [
+          5105,
+          5109
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "5111": {
+      "id": 5111,
+      "series": "E_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          5105,
+          5107,
+          5110
+        ],
+        "7": [
+          5106,
+          5110
+        ],
+        "10": [
+          5105,
+          5110
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "9110": {
+      "id": 9110,
+      "series": "I_0",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          9106,
+          9109
+        ],
+        "8": [
+          9105,
+          9109
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "11018": {
+      "id": 11018,
+      "series": "Scene_1",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          11015,
+          11017
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "11019": {
+      "id": 11019,
+      "series": "Scene_1",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          11014,
+          11016,
+          11018
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "70830": {
+      "id": 70830,
+      "series": "Dlc_20",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          70826,
+          70829
+        ],
+        "7": [
+          70825,
+          70829
+        ],
+        "9": [
+          70829
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    },
+    "70930": {
+      "id": 70930,
+      "series": "Dlc_23",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          70924,
+          70926,
+          70929
+        ],
+        "8": [
+          70925,
+          70929
+        ],
+        "10": [
+          70924,
+          70929
+        ]
+      },
+      "tagId": 3,
+      "relatedSeries": ""
+    },
+    "70931": {
+      "id": 70931,
+      "series": "Dlc_23",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          70926,
+          70928,
+          70930
+        ],
+        "8": [
+          70927,
+          70930
+        ],
+        "10": [
+          70926,
+          70930
+        ]
+      },
+      "tagId": 2,
+      "relatedSeries": ""
+    },
+    "70932": {
+      "id": 70932,
+      "series": "Dlc_23",
+      "ownedElement": 0.25,
+      "frozenElementLevel": {
+        "1": [
+          5,
+          2
+        ]
+      },
+      "frozenElement": {
+        "1": [
+          70927,
+          70931
+        ],
+        "8": [
+          70928,
+          70931
+        ]
+      },
+      "tagId": 1,
+      "relatedSeries": ""
+    }
+  }
+}

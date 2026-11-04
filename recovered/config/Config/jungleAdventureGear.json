@@ -1,0 +1,53 @@
+{
+  "gear1": {
+    "id": "gear1",
+    "configId": "jungleGear1",
+    "condition": "rAvgEnergy15<800",
+    "nextPassGear": 2,
+    "maxGear": 3,
+    "rewardRatioMin": [
+      192,
+      165,
+      140
+    ],
+    "rewardRatioMax": [
+      240,
+      220,
+      190
+    ]
+  },
+  "gear2": {
+    "id": "gear2",
+    "configId": "jungleGear1",
+    "condition": "rAvgEnergy15>=800&&rAvgEnergy15<1400",
+    "nextPassGear": 3,
+    "maxGear": 3,
+    "rewardRatioMin": [
+      192,
+      165,
+      140
+    ],
+    "rewardRatioMax": [
+      240,
+      220,
+      190
+    ]
+  },
+  "gear3": {
+    "id": "gear3",
+    "configId": "jungleGear1",
+    "condition": "rAvgEnergy15>=1400",
+    "nextPassGear": 3,
+    "maxGear": 3,
+    "rewardRatioMin": [
+      192,
+      165,
+      140
+    ],
+    "rewardRatioMax": [
+      240,
+      220,
+      190
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "1": {
+    "id": 1,
+    "type": "Number",
+    "unlock": [
+      "GetOrder30015"
+    ],
+    "finish": [
+      "FinishOrder30015"
+    ],
+    "recycleElementSeries": [
+      "H_1",
+      "Number_9",
+      "Number_10"
+    ],
+    "replaceElementSeries": [
+      "Number_10"
+    ],
+    "replaceElementId": 80906,
+    "unlockHandbookElementId": [
+      8101,
+      8102,
+      8103,
+      8104,
+      8105,
+      8106,
+      8107,
+      8108,
+      8109,
+      8110,
+      8111,
+      8112,
+      8113,
+      80901,
+      80902,
+      80903,
+      80904,
+      80905,
+      80906
+    ],
+    "duration": 21600,
+    "img": "ui_bg_event_01",
+    "imgStart": "ui_bg_event_01_start",
+    "imgEnter": "ui_event_enter_01",
+    "progressBar": "ui_bg_board_01",
+    "displayId": 8113,
+    "propBubbleTypeAndWeight": {
+      "981011": 100,
+      "982011": 100,
+      "983011": 50,
+      "984011": 100
+    },
+    "endDialog": 9209,
+    "newOrderId": 30000,
+    "oldOrderId": 30015,
+    "elementId": 80906
+  },
+  "2": {
+    "id": 2,
+    "type": "Beach",
+    "unlock": [
+      "GetOrder170001"
+    ],
+    "finish": [
+      "FinishOrder170001"
+    ],
+    "recycleElementSeries": [
+      "Beach_9",
+      "Order_PoolToy",
+      "Order_PoolToy2"
+    ],
+    "replaceElementSeries": [
+      "Order_PoolToy2"
+    ],
+    "replaceElementId": 82006,
+    "unlockHandbookElementId": [
+      82901,
+      82902,
+      82903,
+      82904,
+      82905,
+      82906,
+      82907,
+      82908,
+      82909,
+      82910,
+      82911,
+      82912,
+      82001,
+      82002,
+      82003,
+      82004,
+      82005,
+      82006
+    ],
+    "duration": 259200,
+    "img": "ui_bg_event_02",
+    "imgStart": "ui_bg_event_02_start",
+    "imgEnter": "ui_event_enter_02",
+    "progressBar": "ui_bg_board_02",
+    "displayId": 82912,
+    "propBubbleTypeAndWeight": {
+      "981012": 100,
+      "982012": 100,
+      "983012": 50,
+      "984012": 100
+    },
+    "endDialog": 9210,
+    "newOrderId": 170000,
+    "oldOrderId": 170001,
+    "elementId": 82006
+  },
+  "3": {
+    "id": 3,
+    "type": "Ornament",
+    "unlock": [
+      "GetOrder210001"
+    ],
+    "finish": [
+      "FinishOrder210001"
+    ],
+    "recycleElementSeries": [
+      "Ornament_8",
+      "Ornament_9",
+      "Ornament_10"
+    ],
+    "replaceElementSeries": [
+      "Ornament_10"
+    ],
+    "replaceElementId": 83805,
+    "unlockHandbookElementId": [
+      83801,
+      83802,
+      83803,
+      83804,
+      83805,
+      83901,
+      83902,
+      83903,
+      83904,
+      83905,
+      83906,
+      83907,
+      83908,
+      83909,
+      83910,
+      83911,
+      83912
+    ],
+    "duration": 259200,
+    "img": "ui_bg_event_03",
+    "imgStart": "ui_bg_event_03_start",
+    "imgEnter": "ui_event_enter_03",
+    "progressBar": "ui_bg_board_03",
+    "displayId": 83912,
+    "propBubbleTypeAndWeight": {
+      "981013": 100,
+      "982013": 100,
+      "983013": 50,
+      "984013": 100,
+      "986013": 100,
+      "986023": 50
+    },
+    "endDialog": 9211,
+    "newOrderId": 210000,
+    "oldOrderId": 210001,
+    "elementId": 83805
+  }
+}

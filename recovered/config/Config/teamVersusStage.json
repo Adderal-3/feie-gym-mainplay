@@ -1,0 +1,634 @@
+{
+  "101": {
+    "id": 101,
+    "nextmatchId": 102,
+    "robotRankName": "teamVersus1",
+    "playerExpectConsume": 200,
+    "expectCost": 200,
+    "rank1Reward": {
+      "Energy": 20,
+      "BuffProp2": 1
+    },
+    "rank2Reward": {
+      "Energy": 5,
+      "BuffProp2": 1
+    },
+    "enemyPool": [
+      [
+        2,
+        14400
+      ],
+      [
+        2,
+        21600
+      ],
+      [
+        2,
+        18000
+      ]
+    ],
+    "matePool": [
+      [
+        1,
+        7200
+      ],
+      [
+        2,
+        900
+      ]
+    ],
+    "levelGoal": 200,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 140
+  },
+  "102": {
+    "id": 102,
+    "nextmatchId": 103,
+    "robotRankName": "teamVersus1",
+    "playerExpectConsume": 300,
+    "expectCost": 300,
+    "rank1Reward": {
+      "Energy": 20,
+      "BuffProp3": 1
+    },
+    "rank2Reward": {
+      "Energy": 5,
+      "BuffProp3": 1
+    },
+    "enemyPool": [
+      [
+        2,
+        14400
+      ],
+      [
+        2,
+        21600
+      ],
+      [
+        2,
+        18000
+      ]
+    ],
+    "matePool": [
+      [
+        1,
+        7200
+      ],
+      [
+        2,
+        900
+      ]
+    ],
+    "levelGoal": 300,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 210
+  },
+  "103": {
+    "id": 103,
+    "nextmatchId": 104,
+    "robotRankName": "teamVersus2",
+    "playerExpectConsume": 350,
+    "expectCost": 350,
+    "rank1Reward": {
+      "Energy": 25,
+      "BuffProp4": 1
+    },
+    "rank2Reward": {
+      "Energy": 10,
+      "BuffProp4": 1
+    },
+    "enemyPool": [
+      [
+        2,
+        11520
+      ],
+      [
+        2,
+        17280
+      ],
+      [
+        2,
+        14400
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        18000
+      ],
+      [
+        1,
+        10800
+      ],
+      [
+        2,
+        1080
+      ],
+      [
+        2,
+        1800
+      ]
+    ],
+    "levelGoal": 350,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 245
+  },
+  "104": {
+    "id": 104,
+    "nextmatchId": 105,
+    "robotRankName": "teamVersus2",
+    "playerExpectConsume": 400,
+    "expectCost": 400,
+    "rank1Reward": {
+      "Energy": 25,
+      "BuffProp4": 1
+    },
+    "rank2Reward": {
+      "Energy": 10,
+      "BuffProp4": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        11520
+      ],
+      [
+        1,
+        17280
+      ],
+      [
+        1,
+        14400
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        20160
+      ],
+      [
+        1,
+        10800
+      ],
+      [
+        2,
+        1080
+      ],
+      [
+        2,
+        2160
+      ]
+    ],
+    "levelGoal": 400,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 260
+  },
+  "105": {
+    "id": 105,
+    "nextmatchId": 106,
+    "robotRankName": "teamVersus3",
+    "playerExpectConsume": 450,
+    "expectCost": 450,
+    "rank1Reward": {
+      "Energy": 35,
+      "BuffProp4": 1
+    },
+    "rank2Reward": {
+      "Energy": 10,
+      "BuffProp4": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        11520
+      ],
+      [
+        1,
+        17280
+      ],
+      [
+        1,
+        14400
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        19800
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1080
+      ],
+      [
+        2,
+        2160
+      ]
+    ],
+    "levelGoal": 450,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 293
+  },
+  "106": {
+    "id": 106,
+    "nextmatchId": 107,
+    "robotRankName": "teamVersus3",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        17640
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 325
+  },
+  "107": {
+    "id": 107,
+    "nextmatchId": 108,
+    "robotRankName": "teamVersus4",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        15120
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 325
+  },
+  "108": {
+    "id": 108,
+    "nextmatchId": 109,
+    "robotRankName": "teamVersus4",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        16200
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 350
+  },
+  "109": {
+    "id": 109,
+    "nextmatchId": 110,
+    "robotRankName": "teamVersus4",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        17280
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 300
+  },
+  "110": {
+    "id": 110,
+    "nextmatchId": 111,
+    "robotRankName": "teamVersus5",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        15840
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 300
+  },
+  "111": {
+    "id": 111,
+    "nextmatchId": 112,
+    "robotRankName": "teamVersus5",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        14400
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      50,
+      150
+    ],
+    "partnerPoint": 300
+  },
+  "112": {
+    "id": 112,
+    "nextmatchId": 112,
+    "robotRankName": "teamVersus5",
+    "playerExpectConsume": 500,
+    "expectCost": 500,
+    "rank1Reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "rank2Reward": {
+      "Energy": 15,
+      "BuffProp5": 1
+    },
+    "enemyPool": [
+      [
+        1,
+        8640
+      ],
+      [
+        1,
+        12960
+      ],
+      [
+        1,
+        10800
+      ]
+    ],
+    "matePool": [
+      [
+        2,
+        16560
+      ],
+      [
+        1,
+        14400
+      ],
+      [
+        2,
+        1800
+      ],
+      [
+        2,
+        2700
+      ]
+    ],
+    "levelGoal": 500,
+    "mateRobotId": 3002,
+    "partneLegalRange": [
+      75,
+      125
+    ],
+    "partnerPoint": 300
+  }
+}

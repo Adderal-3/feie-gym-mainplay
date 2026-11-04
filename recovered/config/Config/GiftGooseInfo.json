@@ -1,0 +1,102 @@
+{
+  "1111111": {
+    "goodsIds": 1111111,
+    "prices": 800,
+    "progresses": [
+      100,
+      300
+    ],
+    "multiplyNumber": 1,
+    "tagText": "500%"
+  },
+  "1111112": {
+    "goodsIds": 1111112,
+    "prices": 3000,
+    "progresses": [
+      600,
+      1000
+    ],
+    "multiplyNumber": 1,
+    "tagText": "400%"
+  },
+  "1111113": {
+    "goodsIds": 1111113,
+    "prices": 600,
+    "progresses": [
+      50,
+      100
+    ],
+    "multiplyNumber": 10,
+    "tagText": ""
+  },
+  "1111114": {
+    "goodsIds": 1111114,
+    "prices": 6800,
+    "progresses": [
+      500,
+      800
+    ],
+    "multiplyNumber": 80,
+    "tagText": ""
+  },
+  "1111117": {
+    "goodsIds": 1111117,
+    "prices": 1800,
+    "progresses": [
+      300,
+      600
+    ],
+    "multiplyNumber": 1,
+    "tagText": "500%"
+  },
+  "1111118": {
+    "goodsIds": 1111118,
+    "prices": 64800,
+    "progresses": [
+      7000,
+      9000
+    ],
+    "multiplyNumber": 1000,
+    "tagText": ""
+  },
+  "1111120": {
+    "goodsIds": 1111120,
+    "prices": 6800,
+    "progresses": [
+      1000,
+      2000
+    ],
+    "multiplyNumber": 1,
+    "tagText": "400%"
+  },
+  "1111121": {
+    "goodsIds": 1111121,
+    "prices": 3000,
+    "progresses": [
+      200,
+      350
+    ],
+    "multiplyNumber": 50,
+    "tagText": ""
+  },
+  "1111122": {
+    "goodsIds": 1111122,
+    "prices": 12800,
+    "progresses": [
+      750,
+      1500
+    ],
+    "multiplyNumber": 150,
+    "tagText": ""
+  },
+  "1111123": {
+    "goodsIds": 1111123,
+    "prices": 32800,
+    "progresses": [
+      2000,
+      4000
+    ],
+    "multiplyNumber": 400,
+    "tagText": ""
+  }
+}

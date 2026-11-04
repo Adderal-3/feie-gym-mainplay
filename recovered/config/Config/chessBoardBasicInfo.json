@@ -1,0 +1,1330 @@
+{
+  "food": {
+    "id": "food",
+    "unlockEntrance": 25,
+    "board": 14,
+    "task": 1001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      8,
+      10,
+      10
+    ],
+    "progressReward": [
+      {
+        "85811": 1,
+        "Star": 2
+      },
+      {
+        "85812": 1,
+        "Star": 2
+      },
+      {
+        "85813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin100106:1",
+      "AdornSkin100205:1",
+      "AdornSkin101205:1",
+      "AdornSkin102404:1",
+      "AdornSkin200204:1",
+      "AdornSkin201004:1",
+      "AdornSkin201104:1",
+      "AdornSkin201604:1",
+      "AdornSkin301704:1",
+      "AdornSkin400404:1",
+      "AdornSkin401204:1",
+      "AdornSkin400804:1",
+      "AdornSkin300504:1"
+    ],
+    "shopPrice": [
+      240,
+      950,
+      320,
+      400,
+      480,
+      560,
+      560,
+      340,
+      380,
+      460,
+      460,
+      480,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      4,
+      4,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "85812": 1
+      },
+      {
+        "85814": 1
+      },
+      {
+        "AdornSkin300504": 1
+      },
+      {
+        "91501": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "wanouUI",
+    "EntranceIcon": "2207",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 0,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 0,
+    "unlockHappyEnd": [],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [],
+    "giftIcon": [],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 1,
+    "rankBg": "",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "kungfu": {
+    "id": "kungfu",
+    "unlockEntrance": 25,
+    "board": 15,
+    "task": 2001,
+    "initCoin": 0,
+    "prepareDuration": 1,
+    "progressBarStep": [
+      16,
+      17,
+      17
+    ],
+    "progressReward": [
+      {
+        "86811": 1,
+        "Star": 2
+      },
+      {
+        "86812": 1,
+        "Star": 2
+      },
+      {
+        "86813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin100606:1",
+      "AdornSkin101106:1",
+      "AdornSkin101605:1",
+      "AdornSkin200104:1",
+      "AdornSkin200905:1",
+      "AdornSkin300204:1",
+      "AdornSkin300904:1",
+      "AdornSkin301504:1",
+      "AdornSkin400104:1",
+      "AdornSkin501104:1",
+      "AdornSkin601004:1",
+      "AdornSkin701604:1",
+      "AdornSkin500105:1"
+    ],
+    "shopPrice": [
+      90,
+      195,
+      950,
+      515,
+      470,
+      465,
+      480,
+      520,
+      535,
+      390,
+      385,
+      405,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      4,
+      4,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "86812": 1
+      },
+      {
+        "86814": 1
+      },
+      {
+        "AdornSkin500105": 1
+      },
+      {
+        "91502": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "shixiongeUI",
+    "EntranceIcon": "2208",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 0,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 0,
+    "unlockHappyEnd": [],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [],
+    "giftIcon": [],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 1,
+    "rankBg": "",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "moon": {
+    "id": "moon",
+    "unlockEntrance": 25,
+    "board": 16,
+    "task": 3001,
+    "initCoin": 0,
+    "prepareDuration": 1,
+    "progressBarStep": [
+      14,
+      14,
+      15
+    ],
+    "progressReward": [
+      {
+        "87811": 1,
+        "Star": 2
+      },
+      {
+        "87812": 1,
+        "Star": 2
+      },
+      {
+        "87813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin301004:1",
+      "AdornSkin5100402:1",
+      "AdornSkin5100202:1",
+      "Uniform2009:1",
+      "Uniform1009:1",
+      "AdornSkin5100102:1",
+      "AdornSkin5100302:1",
+      "AdornSkin5100502:1",
+      "AdornSkin501304:1",
+      "AdornSkin100107:1"
+    ],
+    "shopPrice": [
+      70,
+      200,
+      200,
+      270,
+      270,
+      400,
+      400,
+      400,
+      580,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "shopProgressReward": [
+      {
+        "87811": 1
+      },
+      {
+        "87812": 1
+      },
+      {
+        "98901": 1
+      },
+      {
+        "AdornSkin100107": 1
+      },
+      {
+        "98901": 2
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "huangtuUI",
+    "EntranceIcon": "2209",
+    "specialReward": {
+      "Goose1031": 1
+    },
+    "recordElementId": [
+      87904
+    ],
+    "numberPaiHang": 100,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 10000000,
+    "unlockHappyEnd": [],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [],
+    "giftIcon": [],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 1,
+    "rankBg": "",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "dream": {
+    "id": "dream",
+    "unlockEntrance": 25,
+    "board": 17,
+    "task": 4001,
+    "initCoin": 0,
+    "prepareDuration": 1,
+    "progressBarStep": [
+      20,
+      20,
+      20
+    ],
+    "progressReward": [
+      {
+        "88811": 1,
+        "Star": 2
+      },
+      {
+        "88812": 1,
+        "Star": 2
+      },
+      {
+        "88813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin500204:1",
+      "AdornSkin500604:1",
+      "AdornSkin500804:1",
+      "AdornSkin501004:1",
+      "AdornSkin502104:1",
+      "AdornSkin501604:1",
+      "AdornSkin502004:1",
+      "AdornSkin300905:1",
+      "AdornSkin300205:1",
+      "AdornSkin500106:1"
+    ],
+    "shopPrice": [
+      120,
+      200,
+      300,
+      360,
+      360,
+      420,
+      420,
+      475,
+      475,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "88812": 1
+      },
+      {
+        "88813": 1
+      },
+      {
+        "98901": 1
+      },
+      {
+        "AdornSkin500106": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "fengmaozieUI",
+    "EntranceIcon": "2210",
+    "specialReward": {
+      "Frame3018": 1
+    },
+    "recordElementId": [
+      88416
+    ],
+    "numberPaiHang": 100,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 10000000,
+    "unlockHappyEnd": [
+      "GetGoose1033"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [],
+    "giftIcon": [],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 1,
+    "rankBg": "ui_timeorder_rankworld",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "998010",
+    "switchMp3": ""
+  },
+  "unicorn": {
+    "id": "unicorn",
+    "unlockEntrance": 25,
+    "board": 18,
+    "task": 5001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      20,
+      20,
+      20
+    ],
+    "progressReward": [
+      {
+        "89901": 1,
+        "Star": 3
+      },
+      {
+        "89902": 1,
+        "Star": 4
+      },
+      {
+        "89903": 1,
+        "Star": 5
+      }
+    ],
+    "shop": [
+      "AdornSkin300704:1",
+      "AdornSkin301204:1",
+      "AdornSkin5100203:1",
+      "AdornSkin5100403:1",
+      "AdornSkin200105:1",
+      "AdornSkin200805:1",
+      "AdornSkin200605:1",
+      "AdornSkin201405:1",
+      "AdornSkin5100103:1",
+      "AdornSkin5100503:1",
+      "AdornSkin701404:1",
+      "AdornSkin301705:1",
+      "AdornSkin5100303:1",
+      "Frame3019:1",
+      "Goose2028:1"
+    ],
+    "shopPrice": [
+      180,
+      180,
+      300,
+      300,
+      500,
+      500,
+      500,
+      500,
+      700,
+      700,
+      700,
+      700,
+      800,
+      80,
+      0
+    ],
+    "shopProgressBarStep": [
+      1,
+      3,
+      3,
+      3,
+      4
+    ],
+    "shopProgressReward": [
+      {
+        "89901": 1
+      },
+      {
+        "89901": 1
+      },
+      {
+        "89902": 1
+      },
+      {
+        "89903": 1
+      },
+      {
+        "Goose2028": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "dujiaoshouUI",
+    "EntranceIcon": "2211",
+    "specialReward": {
+      "9811019": 1,
+      "Frame3019": 1
+    },
+    "recordElementId": [
+      89508
+    ],
+    "numberPaiHang": 100,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 10000000,
+    "unlockHappyEnd": [
+      "GetGoose1031"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 5,
+    "giveLikeReward": {
+      "Energy": 5
+    },
+    "giftSeriesId": [
+      67
+    ],
+    "giftIcon": [
+      "unicorn_icon2"
+    ],
+    "extraShopOpen": 0,
+    "worldGoalOpen": 0,
+    "rankBg": "ui_timeorder_rankworld",
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      107
+    ],
+    "txtColor": "#E60454",
+    "buttonColor": "#E60454",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "newyear": {
+    "id": "newyear",
+    "unlockEntrance": 25,
+    "board": 19,
+    "task": 6001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      20,
+      20,
+      20
+    ],
+    "progressReward": [
+      {
+        "81111": 1,
+        "Star": 3
+      },
+      {
+        "81112": 1,
+        "Star": 4
+      },
+      {
+        "81113": 1,
+        "Star": 5
+      }
+    ],
+    "shop": [
+      "AdornSkin400605:1",
+      "AdornSkin401405:1",
+      "AdornSkin401705:1",
+      "AdornSkin400805:1",
+      "AdornSkin401504:1",
+      "AdornSkin400506:1",
+      "AdornSkin401306:1",
+      "AdornSkin5100204:1",
+      "AdornSkin5100404:1",
+      "AdornSkin5100504:1",
+      "AdornSkin5100104:1",
+      "AdornSkin5100304:1"
+    ],
+    "shopPrice": [
+      280,
+      280,
+      480,
+      480,
+      680,
+      800,
+      800,
+      800,
+      880,
+      880,
+      900,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "CardPack6002": 1
+      },
+      {
+        "CardPack6002": 2
+      },
+      {
+        "CardPack6002": 3
+      },
+      {
+        "AdornSkin5100304": 1
+      },
+      {
+        "98741": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "aningUI",
+    "EntranceIcon": "2212",
+    "specialReward": {
+      "81801": 1,
+      "Frame3024": 1
+    },
+    "recordElementId": [
+      81411
+    ],
+    "numberPaiHang": 100,
+    "channerWorld": [
+      1,
+      2,
+      3,
+      999
+    ],
+    "numberElement": 10000000,
+    "unlockHappyEnd": [
+      "GetGoose2031"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 5,
+    "giveLikeReward": {
+      "Energy": 5
+    },
+    "giftSeriesId": [
+      75,
+      76
+    ],
+    "giftIcon": [
+      "newyear_icon2",
+      "newyear1_icon2"
+    ],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 1,
+    "rankBg": "",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "hoggoose": {
+    "id": "hoggoose",
+    "unlockEntrance": 25,
+    "board": 20,
+    "task": 7001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      20,
+      20,
+      20
+    ],
+    "progressReward": [
+      {
+        "78811": 1,
+        "Star": 2
+      },
+      {
+        "78812": 1,
+        "Star": 2
+      },
+      {
+        "78813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin301005:1",
+      "AdornSkin100411:1",
+      "AdornSkin100511:1",
+      "AdornSkin100314:1",
+      "AdornSkin102505:1",
+      "AdornSkin102304:1",
+      "AdornSkin200506:1",
+      "AdornSkin5100205:1",
+      "AdornSkin5100405:1",
+      "AdornSkin5100305:1",
+      "AdornSkin5100105:1",
+      "AdornSkin5100505:1"
+    ],
+    "shopPrice": [
+      270,
+      300,
+      300,
+      400,
+      300,
+      450,
+      600,
+      560,
+      560,
+      930,
+      960,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "78811": 1
+      },
+      {
+        "78812": 1
+      },
+      {
+        "78813": 1
+      },
+      {
+        "78814": 1
+      },
+      {
+        "AdornSkin5100505": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "baipaomfeUI",
+    "EntranceIcon": "2304",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 100,
+    "channerWorld": [],
+    "numberElement": 0,
+    "unlockHappyEnd": [
+      "GetGoose1041"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [
+      83,
+      85
+    ],
+    "giftIcon": [
+      "Hoggoose01_icon",
+      "Hoggoose02_icon"
+    ],
+    "extraShopOpen": 0,
+    "worldGoalOpen": 0,
+    "rankBg": "",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "999003",
+    "rollingId": "",
+    "switchMp3": ""
+  },
+  "blovers": {
+    "id": "blovers",
+    "unlockEntrance": 25,
+    "board": 22,
+    "task": 8001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      10,
+      14,
+      18
+    ],
+    "progressReward": [
+      {
+        "77401": 1,
+        "Star": 1
+      },
+      {
+        "77402": 1,
+        "Star": 2
+      },
+      {
+        "77403": 1,
+        "Star": 3
+      }
+    ],
+    "shop": [
+      "AdornSkin602204:1",
+      "AdornSkin602104:1",
+      "AdornSkin600704:1",
+      "AdornSkin600604:1",
+      "AdornSkin601404:1",
+      "AdornSkin600504:1",
+      "AdornSkin602004:1",
+      "AdornSkin600904:1",
+      "AdornSkin600804:1",
+      "AdornSkin601304:1",
+      "AdornSkin600104:1",
+      "AdornSkin600204:1"
+    ],
+    "shopPrice": [
+      200,
+      240,
+      460,
+      460,
+      520,
+      660,
+      660,
+      800,
+      800,
+      840,
+      1160,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "77401": 1
+      },
+      {
+        "77402": 1
+      },
+      {
+        "77403": 1
+      },
+      {
+        "77404": 1
+      },
+      {
+        "AdornSkin600204": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "liangshanboUI",
+    "EntranceIcon": "2306",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 100,
+    "channerWorld": [],
+    "numberElement": 0,
+    "unlockHappyEnd": [
+      "GetGoose1047"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [
+      87
+    ],
+    "giftIcon": [
+      "Blovers_icon"
+    ],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 0,
+    "rankBg": "ui_timeorder_rankworld_2306",
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "999005",
+    "rollingId": "998001",
+    "switchMp3": ""
+  },
+  "moon2": {
+    "id": "moon2",
+    "unlockEntrance": 25,
+    "board": 25,
+    "task": 9001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      30,
+      50,
+      74
+    ],
+    "progressReward": [
+      {
+        "74921": 1,
+        "Star": 1
+      },
+      {
+        "74922": 1,
+        "Star": 2
+      },
+      {
+        "74923": 1,
+        "Star": 3
+      }
+    ],
+    "shop": [
+      "AdornSkin701804:1",
+      "AdornSkin700504:1",
+      "AdornSkin701104:1",
+      "AdornSkin700804:1",
+      "AdornSkin701304:1",
+      "AdornSkin700604:1",
+      "AdornSkin701204:1",
+      "AdornSkin701505:1",
+      "AdornSkin702105:1",
+      "AdornSkin700905:1",
+      "AdornSkin702306:1",
+      "AdornSkin700104:1"
+    ],
+    "shopPrice": [
+      350,
+      480,
+      480,
+      680,
+      680,
+      800,
+      800,
+      1000,
+      1000,
+      1240,
+      1240,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shopProgressReward": [
+      {
+        "74921": 1
+      },
+      {
+        "74922": 1
+      },
+      {
+        "74923": 1
+      },
+      {
+        "74924": 1
+      },
+      {
+        "AdornSkin700104": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "libaieUI",
+    "EntranceIcon": "2309",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 100,
+    "channerWorld": [],
+    "numberElement": 0,
+    "unlockHappyEnd": [
+      "GetGoose1052"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [
+      96
+    ],
+    "giftIcon": [
+      "Moon2_icon"
+    ],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 0,
+    "rankBg": "ui_timeorder_rankworld_2309",
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      102
+    ],
+    "txtColor": "",
+    "buttonColor": "",
+    "worldRankScore": 0,
+    "waterId": "999008",
+    "rollingId": "998004",
+    "switchMp3": ""
+  },
+  "snow": {
+    "id": "snow",
+    "unlockEntrance": 25,
+    "board": 29,
+    "task": 10001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      20,
+      20,
+      20
+    ],
+    "progressReward": [
+      {
+        "68811": 1,
+        "Star": 2
+      },
+      {
+        "68812": 1,
+        "Star": 2
+      },
+      {
+        "68813": 1,
+        "Star": 2
+      }
+    ],
+    "shop": [
+      "AdornSkin301905:1",
+      "AdornSkin300705:1",
+      "AdornSkin302105:1",
+      "AdornSkin301505:1",
+      "AdornSkin300206:1",
+      "AdornSkin301804:1",
+      "AdornSkin300604:1",
+      "AdornSkin300906:1",
+      "AdornSkin302005:1",
+      "AdornSkin300806:1",
+      "AdornSkin301406:1",
+      "AdornSkin300505:1",
+      "AdornSkin301605:1"
+    ],
+    "shopPrice": [
+      60,
+      120,
+      130,
+      150,
+      150,
+      260,
+      260,
+      350,
+      350,
+      400,
+      400,
+      500,
+      0
+    ],
+    "shopProgressBarStep": [
+      2,
+      3,
+      4,
+      3
+    ],
+    "shopProgressReward": [
+      {
+        "68812": 1
+      },
+      {
+        "68813": 1
+      },
+      {
+        "98901": 1
+      },
+      {
+        "AdornSkin301605": 1
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "yunyoushirenUI",
+    "EntranceIcon": "2312",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 100,
+    "channerWorld": [],
+    "numberElement": 0,
+    "unlockHappyEnd": [
+      "GetGoose1055"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [
+      108
+    ],
+    "giftIcon": [
+      "Snow_icon"
+    ],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 0,
+    "rankBg": "ui_timeorder_rankworld_2312",
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      104
+    ],
+    "txtColor": "#6F9CA7",
+    "buttonColor": "#D25A50",
+    "worldRankScore": 0,
+    "waterId": "999010",
+    "rollingId": "998006",
+    "switchMp3": ""
+  },
+  "pirate": {
+    "id": "pirate",
+    "unlockEntrance": 25,
+    "board": 38,
+    "task": 11001,
+    "initCoin": 0,
+    "prepareDuration": 2,
+    "progressBarStep": [
+      10,
+      14,
+      18
+    ],
+    "progressReward": [
+      {
+        "59401": 1,
+        "Star": 1
+      },
+      {
+        "59402": 1,
+        "Star": 2
+      },
+      {
+        "59403": 1,
+        "Star": 3
+      }
+    ],
+    "shop": [
+      "AdornSkin901603:1",
+      "AdornSkin900803:1",
+      "AdornSkin901003:1",
+      "AdornSkin901103:1",
+      "AdornSkin901903:1",
+      "AdornSkin900703:1",
+      "AdornSkin901403:1",
+      "AdornSkin901203:1",
+      "AdornSkin900503:1",
+      "AdornSkin900603:1",
+      "AdornSkin900103:1",
+      "AdornSkin900903:1"
+    ],
+    "shopPrice": [
+      220,
+      300,
+      360,
+      360,
+      460,
+      460,
+      660,
+      800,
+      800,
+      880,
+      1500,
+      0
+    ],
+    "shopProgressBarStep": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "shopProgressReward": [
+      {
+        "9880523": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "9880523": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 30,
+        "Star": 1
+      },
+      {
+        "9880523": 1,
+        "Star": 1
+      },
+      {
+        "9810123": 1,
+        "Star": 1
+      },
+      {
+        "9880523": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "9880523": 1,
+        "Star": 2
+      },
+      {
+        "9810323": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin900903": 1,
+        "Star": 3
+      }
+    ],
+    "propBubbleRate": 0,
+    "eventCoin": "eventCoinB",
+    "eventCoinToCoin": 1,
+    "PayExtendTime": 0,
+    "TaskGoose": "nvshuishoueUI",
+    "EntranceIcon": "2404",
+    "specialReward": {},
+    "recordElementId": [],
+    "numberPaiHang": 100,
+    "channerWorld": [],
+    "numberElement": 0,
+    "unlockHappyEnd": [
+      "GetGoose2066"
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "giftSeriesId": [
+      131
+    ],
+    "giftIcon": [
+      "Pirate_icon"
+    ],
+    "extraShopOpen": 1,
+    "worldGoalOpen": 0,
+    "rankBg": "ui_timeorder_rankworld_2404",
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      109
+    ],
+    "txtColor": "#91ADEE",
+    "buttonColor": "#7864BE",
+    "worldRankScore": 6800,
+    "waterId": "999017",
+    "rollingId": "998009",
+    "switchMp3": ""
+  }
+}

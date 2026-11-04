@@ -1,0 +1,47 @@
+{
+  "unlock": [
+    "PlayerLevel15"
+  ],
+  "graphID": "raceOrder1",
+  "beginDialog": 7021,
+  "endDialogWin": 7023,
+  "endDialogLose": 7022,
+  "loseDialog": 7024,
+  "festivalGiftId": 267,
+  "rollingGiftid": 998026,
+  "consumeUpgradeTime": [
+    5,
+    11,
+    20,
+    29
+  ],
+  "consumeWeight": [
+    0,
+    100,
+    300,
+    500,
+    1000
+  ],
+  "consumePointNum": {
+    "1": 7,
+    "2": 5
+  },
+  "shopDiamondCoef": 0.2,
+  "shopCoinCoef": 0.01,
+  "availableShop": [
+    2,
+    7
+  ],
+  "bubbleCoef": [
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "bubbleCoefWeight": [
+    10,
+    8,
+    5,
+    3
+  ]
+}

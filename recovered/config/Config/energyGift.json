@@ -1,0 +1,44 @@
+{
+  "100": {
+    "id": 100,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 4
+  },
+  "101": {
+    "id": 101,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 4
+  },
+  "201": {
+    "id": 201,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 3
+  },
+  "301": {
+    "id": 301,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 3
+  },
+  "401": {
+    "id": 401,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 3
+  },
+  "501": {
+    "id": 501,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 3
+  },
+  "601": {
+    "id": 601,
+    "duration": 600,
+    "cd": 14400,
+    "maxDailyTime": 3
+  }
+}

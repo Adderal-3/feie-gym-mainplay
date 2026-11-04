@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "theme": "normal",
+    "taskGroup": 1,
+    "reward": {
+      "98201": 1,
+      "MhdIIBlindBox2": 1
+    }
+  },
+  "2": {
+    "id": 2,
+    "theme": "normal",
+    "taskGroup": 2,
+    "reward": {
+      "98201": 1,
+      "MhdIIBlindBox2": 1
+    }
+  },
+  "3": {
+    "id": 3,
+    "theme": "normal",
+    "taskGroup": 3,
+    "reward": {
+      "98201": 1,
+      "MhdIIBlindBox2": 1
+    }
+  },
+  "4": {
+    "id": 4,
+    "theme": "normal",
+    "taskGroup": 4,
+    "reward": {
+      "98201": 1,
+      "MhdIIBlindBox2": 1
+    }
+  }
+}

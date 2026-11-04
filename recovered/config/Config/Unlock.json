@@ -1,0 +1,142 @@
+{
+  "goldgod": {
+    "id": "goldgod",
+    "level": 12
+  },
+  "adEnergy": {
+    "id": "adEnergy",
+    "level": 8
+  },
+  "adConpon": {
+    "id": "adConpon",
+    "level": 5
+  },
+  "adCard": {
+    "id": "adCard",
+    "level": 3
+  },
+  "aBao": {
+    "id": "aBao",
+    "level": 11
+  },
+  "adABao": {
+    "id": "adABao",
+    "level": 11
+  },
+  "adShop": {
+    "id": "adShop",
+    "level": 3
+  },
+  "adShopBonus": {
+    "id": "adShopBonus",
+    "level": 3
+  },
+  "rank": {
+    "id": "rank",
+    "level": 7
+  },
+  "shopShowProp": {
+    "id": "shopShowProp",
+    "level": 5
+  },
+  "limitOffer": {
+    "id": "limitOffer",
+    "level": 12
+  },
+  "adRes": {
+    "id": "adRes",
+    "level": 5
+  },
+  "fund_1000": {
+    "id": "fund_1000",
+    "level": 10
+  },
+  "privilege": {
+    "id": "privilege",
+    "level": 11
+  },
+  "bigcardtrial": {
+    "id": "bigcardtrial",
+    "level": 11
+  },
+  "benefitsCenter": {
+    "id": "benefitsCenter",
+    "level": 5
+  },
+  "shopShowItem": {
+    "id": "shopShowItem",
+    "level": 3
+  },
+  "shopShowBox": {
+    "id": "shopShowBox",
+    "level": 3
+  },
+  "shopShowPig": {
+    "id": "shopShowPig",
+    "level": 3
+  },
+  "unlockATai": {
+    "id": "unlockATai",
+    "level": 2
+  },
+  "unlockSpecialOffer": {
+    "id": "unlockSpecialOffer",
+    "level": 8
+  },
+  "fund_2000": {
+    "id": "fund_2000",
+    "level": 60
+  },
+  "unlockBadge": {
+    "id": "unlockBadge",
+    "level": 8
+  },
+  "unlockDiamondBag": {
+    "id": "unlockDiamondBag",
+    "level": 12
+  },
+  "unlockSellGenerator": {
+    "id": "unlockSellGenerator",
+    "level": 20
+  },
+  "eventShow": {
+    "id": "eventShow",
+    "level": 6
+  },
+  "eventUnlock": {
+    "id": "eventUnlock",
+    "level": 8
+  },
+  "pet": {
+    "id": "pet",
+    "level": 8
+  },
+  "recommendOffer": {
+    "id": "recommendOffer",
+    "level": 6
+  },
+  "house": {
+    "id": "house",
+    "level": 154
+  },
+  "jobBadge": {
+    "id": "jobBadge",
+    "level": 1
+  },
+  "wechatdescription": {
+    "id": "wechatdescription",
+    "level": 1
+  },
+  "medalUnlock": {
+    "id": "medalUnlock",
+    "level": 20
+  },
+  "medalShowEntrance": {
+    "id": "medalShowEntrance",
+    "level": 15
+  },
+  "newbieGift": {
+    "id": "newbieGift",
+    "level": 9999
+  }
+}

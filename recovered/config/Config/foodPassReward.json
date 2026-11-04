@@ -1,0 +1,4818 @@
+{
+  "healthy1": {
+    "101": {
+      "Id": 101,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880101": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "102": {
+      "Id": 102,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "Energy": 5
+      },
+      "SpecialReward": {
+        "Energy": 50
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "103": {
+      "Id": 103,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879301": 1
+      },
+      "SpecialReward": {
+        "9880101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "104": {
+      "Id": 104,
+      "NeedFoodPoint": 90,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "79003": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "105": {
+      "Id": 105,
+      "NeedFoodPoint": 120,
+      "NormalReward": {
+        "9810101": 1
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "106": {
+      "Id": 106,
+      "NeedFoodPoint": 150,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "107": {
+      "Id": 107,
+      "NeedFoodPoint": 180,
+      "NormalReward": {
+        "Energy": 5
+      },
+      "SpecialReward": {
+        "Energy": 50
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "108": {
+      "Id": 108,
+      "NeedFoodPoint": 230,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "109": {
+      "Id": 109,
+      "NeedFoodPoint": 270,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 10
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "110": {
+      "Id": 110,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "9840101": 1
+      },
+      "SpecialReward": {
+        "9880101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "111": {
+      "Id": 111,
+      "NeedFoodPoint": 350,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9830101": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "112": {
+      "Id": 112,
+      "NeedFoodPoint": 420,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "113": {
+      "Id": 113,
+      "NeedFoodPoint": 470,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "114": {
+      "Id": 114,
+      "NeedFoodPoint": 520,
+      "NormalReward": {
+        "9830101": 1
+      },
+      "SpecialReward": {
+        "9873101": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "115": {
+      "Id": 115,
+      "NeedFoodPoint": 570,
+      "NormalReward": {
+        "9880101": 1
+      },
+      "SpecialReward": {
+        "9880101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "116": {
+      "Id": 116,
+      "NeedFoodPoint": 660,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "117": {
+      "Id": 117,
+      "NeedFoodPoint": 720,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "118": {
+      "Id": 118,
+      "NeedFoodPoint": 780,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "CardBag20003": 2
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "119": {
+      "Id": 119,
+      "NeedFoodPoint": 840,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "120": {
+      "Id": 120,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "9830101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "121": {
+      "Id": 121,
+      "NeedFoodPoint": 1060,
+      "NormalReward": {
+        "Energy": 20
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "122": {
+      "Id": 122,
+      "NeedFoodPoint": 1160,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "123": {
+      "Id": 123,
+      "NeedFoodPoint": 1260,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 40
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "124": {
+      "Id": 124,
+      "NeedFoodPoint": 1410,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "125": {
+      "Id": 125,
+      "NeedFoodPoint": 1610,
+      "NormalReward": {
+        "9873101": 1
+      },
+      "SpecialReward": {
+        "9873101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "126": {
+      "Id": 126,
+      "NeedFoodPoint": 1810,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "127": {
+      "Id": 127,
+      "NeedFoodPoint": 2010,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20003": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "128": {
+      "Id": 128,
+      "NeedFoodPoint": 2280,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "129": {
+      "Id": 129,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Diamond": 10
+      },
+      "SpecialReward": {
+        "Diamond": 40
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "130": {
+      "Id": 130,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "131": {
+      "Id": 131,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "132": {
+      "Id": 132,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "79202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "133": {
+      "Id": 133,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "134": {
+      "Id": 134,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "135": {
+      "Id": 135,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "136": {
+      "Id": 136,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "79202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "137": {
+      "Id": 137,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "138": {
+      "Id": 138,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "139": {
+      "Id": 139,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "140": {
+      "Id": 140,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "79202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "141": {
+      "Id": 141,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "142": {
+      "Id": 142,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "143": {
+      "Id": 143,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "144": {
+      "Id": 144,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "79202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "145": {
+      "Id": 145,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "146": {
+      "Id": 146,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "147": {
+      "Id": 147,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "148": {
+      "Id": 148,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "79202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "149": {
+      "Id": 149,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "150": {
+      "Id": 150,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20003": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "healthy2": {
+    "201": {
+      "Id": 201,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Energy": 5
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "202": {
+      "Id": 202,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "9820001": 1
+      },
+      "SpecialReward": {
+        "9820001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "203": {
+      "Id": 203,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879302": 1
+      },
+      "SpecialReward": {
+        "69003": 1
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "204": {
+      "Id": 204,
+      "NeedFoodPoint": 80,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "205": {
+      "Id": 205,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9840105": 1
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "206": {
+      "Id": 206,
+      "NeedFoodPoint": 150,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "207": {
+      "Id": 207,
+      "NeedFoodPoint": 190,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "208": {
+      "Id": 208,
+      "NeedFoodPoint": 240,
+      "NormalReward": {
+        "9820001": 1
+      },
+      "SpecialReward": {
+        "9820001": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "209": {
+      "Id": 209,
+      "NeedFoodPoint": 290,
+      "NormalReward": {
+        "9810105": 1
+      },
+      "SpecialReward": {
+        "98803": 1
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "210": {
+      "Id": 210,
+      "NeedFoodPoint": 350,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "211": {
+      "Id": 211,
+      "NeedFoodPoint": 420,
+      "NormalReward": {
+        "Energy": 20
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "212": {
+      "Id": 212,
+      "NeedFoodPoint": 500,
+      "NormalReward": {
+        "9840105": 1
+      },
+      "SpecialReward": {
+        "98805": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "213": {
+      "Id": 213,
+      "NeedFoodPoint": 590,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "214": {
+      "Id": 214,
+      "NeedFoodPoint": 690,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "215": {
+      "Id": 215,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "9820002": 1
+      },
+      "SpecialReward": {
+        "9820002": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "216": {
+      "Id": 216,
+      "NeedFoodPoint": 920,
+      "NormalReward": {
+        "9880105": 1
+      },
+      "SpecialReward": {
+        "CardBag20004": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "217": {
+      "Id": 217,
+      "NeedFoodPoint": 1050,
+      "NormalReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "218": {
+      "Id": 218,
+      "NeedFoodPoint": 1190,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "219": {
+      "Id": 219,
+      "NeedFoodPoint": 1350,
+      "NormalReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "220": {
+      "Id": 220,
+      "NeedFoodPoint": 1530,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "221": {
+      "Id": 221,
+      "NeedFoodPoint": 1730,
+      "NormalReward": {
+        "9830105": 1
+      },
+      "SpecialReward": {
+        "Energy": 100
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "222": {
+      "Id": 222,
+      "NeedFoodPoint": 1950,
+      "NormalReward": {
+        "MhdIIBlindBox3": 1
+      },
+      "SpecialReward": {
+        "MhdIIBlindBox3": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "223": {
+      "Id": 223,
+      "NeedFoodPoint": 2190,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "224": {
+      "Id": 224,
+      "NeedFoodPoint": 2450,
+      "NormalReward": {
+        "9820003": 1
+      },
+      "SpecialReward": {
+        "9820003": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "225": {
+      "Id": 225,
+      "NeedFoodPoint": 2730,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "226": {
+      "Id": 226,
+      "NeedFoodPoint": 3030,
+      "NormalReward": {
+        "9873105": 1
+      },
+      "SpecialReward": {
+        "CardBag20004": 4
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "227": {
+      "Id": 227,
+      "NeedFoodPoint": 3350,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "228": {
+      "Id": 228,
+      "NeedFoodPoint": 3690,
+      "NormalReward": {
+        "Film13": 1
+      },
+      "SpecialReward": {
+        "Film13": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "229": {
+      "Id": 229,
+      "NeedFoodPoint": 4050,
+      "NormalReward": {
+        "Film5": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "230": {
+      "Id": 230,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Diamond": 200
+      },
+      "SpecialReward": {
+        "Diamond": 200
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "231": {
+      "Id": 231,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 19,
+      "belongStageTwo": 1
+    },
+    "232": {
+      "Id": 232,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "69202": 1
+      },
+      "RewardPriority": 18,
+      "belongStageTwo": 1
+    },
+    "233": {
+      "Id": 233,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "234": {
+      "Id": 234,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "235": {
+      "Id": 235,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "236": {
+      "Id": 236,
+      "NeedFoodPoint": 5100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "69202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "237": {
+      "Id": 237,
+      "NeedFoodPoint": 5200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "238": {
+      "Id": 238,
+      "NeedFoodPoint": 5300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "239": {
+      "Id": 239,
+      "NeedFoodPoint": 5400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "240": {
+      "Id": 240,
+      "NeedFoodPoint": 5500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "69202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "241": {
+      "Id": 241,
+      "NeedFoodPoint": 5600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "242": {
+      "Id": 242,
+      "NeedFoodPoint": 5700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "243": {
+      "Id": 243,
+      "NeedFoodPoint": 5800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "244": {
+      "Id": 244,
+      "NeedFoodPoint": 5900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "69202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "245": {
+      "Id": 245,
+      "NeedFoodPoint": 6000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "246": {
+      "Id": 246,
+      "NeedFoodPoint": 6100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "247": {
+      "Id": 247,
+      "NeedFoodPoint": 6200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "248": {
+      "Id": 248,
+      "NeedFoodPoint": 6300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "69202": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "249": {
+      "Id": 249,
+      "NeedFoodPoint": 6400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "250": {
+      "Id": 250,
+      "NeedFoodPoint": 6500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20004": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "travel1": {
+    "301": {
+      "Id": 301,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "302": {
+      "Id": 302,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "62021": 1
+      },
+      "SpecialReward": {
+        "62022": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "303": {
+      "Id": 303,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879322": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "304": {
+      "Id": 304,
+      "NeedFoodPoint": 70,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "305": {
+      "Id": 305,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9880160": 1
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "306": {
+      "Id": 306,
+      "NeedFoodPoint": 140,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62231": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "307": {
+      "Id": 307,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "308": {
+      "Id": 308,
+      "NeedFoodPoint": 200,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "309": {
+      "Id": 309,
+      "NeedFoodPoint": 260,
+      "NormalReward": {
+        "62030": 1
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "310": {
+      "Id": 310,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "311": {
+      "Id": 311,
+      "NeedFoodPoint": 360,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62232": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "312": {
+      "Id": 312,
+      "NeedFoodPoint": 410,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "313": {
+      "Id": 313,
+      "NeedFoodPoint": 460,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "314": {
+      "Id": 314,
+      "NeedFoodPoint": 510,
+      "NormalReward": {
+        "9830122": 1
+      },
+      "SpecialReward": {
+        "9873122": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "315": {
+      "Id": 315,
+      "NeedFoodPoint": 600,
+      "NormalReward": {
+        "62041": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "316": {
+      "Id": 316,
+      "NeedFoodPoint": 650,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "317": {
+      "Id": 317,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "318": {
+      "Id": 318,
+      "NeedFoodPoint": 750,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62501": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "319": {
+      "Id": 319,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "320": {
+      "Id": 320,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "321": {
+      "Id": 321,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "62050": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "322": {
+      "Id": 322,
+      "NeedFoodPoint": 1080,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 30
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "323": {
+      "Id": 323,
+      "NeedFoodPoint": 1220,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62502": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "324": {
+      "Id": 324,
+      "NeedFoodPoint": 1380,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "325": {
+      "Id": 325,
+      "NeedFoodPoint": 1580,
+      "NormalReward": {
+        "62012": 1
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "326": {
+      "Id": 326,
+      "NeedFoodPoint": 1800,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "327": {
+      "Id": 327,
+      "NeedFoodPoint": 2040,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 4
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "328": {
+      "Id": 328,
+      "NeedFoodPoint": 2300,
+      "NormalReward": {
+        "Diamond": 20
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "329": {
+      "Id": 329,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "330": {
+      "Id": 330,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "331": {
+      "Id": 331,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "332": {
+      "Id": 332,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "333": {
+      "Id": 333,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "334": {
+      "Id": 334,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "335": {
+      "Id": 335,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "336": {
+      "Id": 336,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "337": {
+      "Id": 337,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "338": {
+      "Id": 338,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "339": {
+      "Id": 339,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "340": {
+      "Id": 340,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "341": {
+      "Id": 341,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "342": {
+      "Id": 342,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "343": {
+      "Id": 343,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "344": {
+      "Id": 344,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "345": {
+      "Id": 345,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "346": {
+      "Id": 346,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "347": {
+      "Id": 347,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "348": {
+      "Id": 348,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "349": {
+      "Id": 349,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "350": {
+      "Id": 350,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "travel2": {
+    "401": {
+      "Id": 401,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "402": {
+      "Id": 402,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "62021": 1
+      },
+      "SpecialReward": {
+        "62032": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "403": {
+      "Id": 403,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879322": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "404": {
+      "Id": 404,
+      "NeedFoodPoint": 70,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "405": {
+      "Id": 405,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9880160": 1
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "406": {
+      "Id": 406,
+      "NeedFoodPoint": 140,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62231": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "407": {
+      "Id": 407,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "408": {
+      "Id": 408,
+      "NeedFoodPoint": 200,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "409": {
+      "Id": 409,
+      "NeedFoodPoint": 260,
+      "NormalReward": {
+        "62030": 1
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "410": {
+      "Id": 410,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "411": {
+      "Id": 411,
+      "NeedFoodPoint": 360,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62232": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "412": {
+      "Id": 412,
+      "NeedFoodPoint": 410,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "413": {
+      "Id": 413,
+      "NeedFoodPoint": 460,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "414": {
+      "Id": 414,
+      "NeedFoodPoint": 510,
+      "NormalReward": {
+        "9830122": 1
+      },
+      "SpecialReward": {
+        "9873122": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "415": {
+      "Id": 415,
+      "NeedFoodPoint": 600,
+      "NormalReward": {
+        "62041": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "416": {
+      "Id": 416,
+      "NeedFoodPoint": 650,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "417": {
+      "Id": 417,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "418": {
+      "Id": 418,
+      "NeedFoodPoint": 750,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62501": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "419": {
+      "Id": 419,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "420": {
+      "Id": 420,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "421": {
+      "Id": 421,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "62050": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "422": {
+      "Id": 422,
+      "NeedFoodPoint": 1080,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 30
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "423": {
+      "Id": 423,
+      "NeedFoodPoint": 1220,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62502": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "424": {
+      "Id": 424,
+      "NeedFoodPoint": 1380,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "425": {
+      "Id": 425,
+      "NeedFoodPoint": 1580,
+      "NormalReward": {
+        "62022": 1
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "426": {
+      "Id": 426,
+      "NeedFoodPoint": 1800,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "427": {
+      "Id": 427,
+      "NeedFoodPoint": 2040,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 4
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "428": {
+      "Id": 428,
+      "NeedFoodPoint": 2300,
+      "NormalReward": {
+        "Diamond": 20
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "429": {
+      "Id": 429,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "430": {
+      "Id": 430,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "431": {
+      "Id": 431,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "432": {
+      "Id": 432,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "433": {
+      "Id": 433,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "434": {
+      "Id": 434,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "435": {
+      "Id": 435,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "436": {
+      "Id": 436,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "437": {
+      "Id": 437,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "438": {
+      "Id": 438,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "439": {
+      "Id": 439,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "440": {
+      "Id": 440,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "441": {
+      "Id": 441,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "442": {
+      "Id": 442,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "443": {
+      "Id": 443,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "444": {
+      "Id": 444,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "445": {
+      "Id": 445,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "446": {
+      "Id": 446,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "447": {
+      "Id": 447,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "448": {
+      "Id": 448,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "449": {
+      "Id": 449,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "450": {
+      "Id": 450,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "travel3": {
+    "501": {
+      "Id": 501,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "502": {
+      "Id": 502,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "62021": 1
+      },
+      "SpecialReward": {
+        "62042": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "503": {
+      "Id": 503,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879322": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "504": {
+      "Id": 504,
+      "NeedFoodPoint": 70,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "505": {
+      "Id": 505,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9880160": 1
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "506": {
+      "Id": 506,
+      "NeedFoodPoint": 140,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62231": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "507": {
+      "Id": 507,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "508": {
+      "Id": 508,
+      "NeedFoodPoint": 200,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "509": {
+      "Id": 509,
+      "NeedFoodPoint": 260,
+      "NormalReward": {
+        "62030": 1
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "510": {
+      "Id": 510,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "511": {
+      "Id": 511,
+      "NeedFoodPoint": 360,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62232": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "512": {
+      "Id": 512,
+      "NeedFoodPoint": 410,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "513": {
+      "Id": 513,
+      "NeedFoodPoint": 460,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "514": {
+      "Id": 514,
+      "NeedFoodPoint": 510,
+      "NormalReward": {
+        "9830122": 1
+      },
+      "SpecialReward": {
+        "9873122": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "515": {
+      "Id": 515,
+      "NeedFoodPoint": 600,
+      "NormalReward": {
+        "62041": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "516": {
+      "Id": 516,
+      "NeedFoodPoint": 650,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "517": {
+      "Id": 517,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "518": {
+      "Id": 518,
+      "NeedFoodPoint": 750,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62501": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "519": {
+      "Id": 519,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "520": {
+      "Id": 520,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "521": {
+      "Id": 521,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "62050": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "522": {
+      "Id": 522,
+      "NeedFoodPoint": 1080,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 30
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "523": {
+      "Id": 523,
+      "NeedFoodPoint": 1220,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62502": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "524": {
+      "Id": 524,
+      "NeedFoodPoint": 1380,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "525": {
+      "Id": 525,
+      "NeedFoodPoint": 1580,
+      "NormalReward": {
+        "62032": 1
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "526": {
+      "Id": 526,
+      "NeedFoodPoint": 1800,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "527": {
+      "Id": 527,
+      "NeedFoodPoint": 2040,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 4
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "528": {
+      "Id": 528,
+      "NeedFoodPoint": 2300,
+      "NormalReward": {
+        "Diamond": 20
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "529": {
+      "Id": 529,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "530": {
+      "Id": 530,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "531": {
+      "Id": 531,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "532": {
+      "Id": 532,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "533": {
+      "Id": 533,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "534": {
+      "Id": 534,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "535": {
+      "Id": 535,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "536": {
+      "Id": 536,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "537": {
+      "Id": 537,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "538": {
+      "Id": 538,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "539": {
+      "Id": 539,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "540": {
+      "Id": 540,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "541": {
+      "Id": 541,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "542": {
+      "Id": 542,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "543": {
+      "Id": 543,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "544": {
+      "Id": 544,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "545": {
+      "Id": 545,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "546": {
+      "Id": 546,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "547": {
+      "Id": 547,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "548": {
+      "Id": 548,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "549": {
+      "Id": 549,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "550": {
+      "Id": 550,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "travel4": {
+    "601": {
+      "Id": 601,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "602": {
+      "Id": 602,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "62021": 1
+      },
+      "SpecialReward": {
+        "62052": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "603": {
+      "Id": 603,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879322": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "604": {
+      "Id": 604,
+      "NeedFoodPoint": 70,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "605": {
+      "Id": 605,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9880160": 1
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "606": {
+      "Id": 606,
+      "NeedFoodPoint": 140,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62231": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "607": {
+      "Id": 607,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "608": {
+      "Id": 608,
+      "NeedFoodPoint": 200,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "609": {
+      "Id": 609,
+      "NeedFoodPoint": 260,
+      "NormalReward": {
+        "62030": 1
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "610": {
+      "Id": 610,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "611": {
+      "Id": 611,
+      "NeedFoodPoint": 360,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62232": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "612": {
+      "Id": 612,
+      "NeedFoodPoint": 410,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "613": {
+      "Id": 613,
+      "NeedFoodPoint": 460,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "614": {
+      "Id": 614,
+      "NeedFoodPoint": 510,
+      "NormalReward": {
+        "9830122": 1
+      },
+      "SpecialReward": {
+        "9873122": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "615": {
+      "Id": 615,
+      "NeedFoodPoint": 600,
+      "NormalReward": {
+        "62041": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "616": {
+      "Id": 616,
+      "NeedFoodPoint": 650,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "617": {
+      "Id": 617,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "618": {
+      "Id": 618,
+      "NeedFoodPoint": 750,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62501": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "619": {
+      "Id": 619,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "620": {
+      "Id": 620,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "621": {
+      "Id": 621,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "62050": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "622": {
+      "Id": 622,
+      "NeedFoodPoint": 1080,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 30
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "623": {
+      "Id": 623,
+      "NeedFoodPoint": 1220,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62502": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "624": {
+      "Id": 624,
+      "NeedFoodPoint": 1380,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "625": {
+      "Id": 625,
+      "NeedFoodPoint": 1580,
+      "NormalReward": {
+        "62042": 1
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "626": {
+      "Id": 626,
+      "NeedFoodPoint": 1800,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "627": {
+      "Id": 627,
+      "NeedFoodPoint": 2040,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 4
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "628": {
+      "Id": 628,
+      "NeedFoodPoint": 2300,
+      "NormalReward": {
+        "Diamond": 20
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "629": {
+      "Id": 629,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "630": {
+      "Id": 630,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "631": {
+      "Id": 631,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "632": {
+      "Id": 632,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "633": {
+      "Id": 633,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "634": {
+      "Id": 634,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "635": {
+      "Id": 635,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "636": {
+      "Id": 636,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "637": {
+      "Id": 637,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "638": {
+      "Id": 638,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "639": {
+      "Id": 639,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "640": {
+      "Id": 640,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "641": {
+      "Id": 641,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "642": {
+      "Id": 642,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "643": {
+      "Id": 643,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "644": {
+      "Id": 644,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "645": {
+      "Id": 645,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "646": {
+      "Id": 646,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "647": {
+      "Id": 647,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "648": {
+      "Id": 648,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "649": {
+      "Id": 649,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "650": {
+      "Id": 650,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "travel5": {
+    "701": {
+      "Id": 701,
+      "NeedFoodPoint": 10,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "702": {
+      "Id": 702,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "62021": 1
+      },
+      "SpecialReward": {
+        "62012": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "703": {
+      "Id": 703,
+      "NeedFoodPoint": 50,
+      "NormalReward": {
+        "9879322": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "704": {
+      "Id": 704,
+      "NeedFoodPoint": 70,
+      "NormalReward": {
+        "Star": 2
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "705": {
+      "Id": 705,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "9880160": 1
+      },
+      "SpecialReward": {
+        "9880160": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "706": {
+      "Id": 706,
+      "NeedFoodPoint": 140,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62231": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "707": {
+      "Id": 707,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "Diamond": 5
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "708": {
+      "Id": 708,
+      "NeedFoodPoint": 200,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "709": {
+      "Id": 709,
+      "NeedFoodPoint": 260,
+      "NormalReward": {
+        "62030": 1
+      },
+      "SpecialReward": {
+        "Diamond": 5
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "710": {
+      "Id": 710,
+      "NeedFoodPoint": 310,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "711": {
+      "Id": 711,
+      "NeedFoodPoint": 360,
+      "NormalReward": {
+        "62231": 1
+      },
+      "SpecialReward": {
+        "62232": 1
+      },
+      "RewardPriority": 9,
+      "belongStageTwo": 0
+    },
+    "712": {
+      "Id": 712,
+      "NeedFoodPoint": 410,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "713": {
+      "Id": 713,
+      "NeedFoodPoint": 460,
+      "NormalReward": {
+        "Star": 10
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "714": {
+      "Id": 714,
+      "NeedFoodPoint": 510,
+      "NormalReward": {
+        "9830122": 1
+      },
+      "SpecialReward": {
+        "9873122": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "715": {
+      "Id": 715,
+      "NeedFoodPoint": 600,
+      "NormalReward": {
+        "62041": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "716": {
+      "Id": 716,
+      "NeedFoodPoint": 650,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {
+        "Film1": 1
+      },
+      "RewardPriority": 17,
+      "belongStageTwo": 0
+    },
+    "717": {
+      "Id": 717,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "Star": 15
+      },
+      "SpecialReward": {
+        "Star": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "718": {
+      "Id": 718,
+      "NeedFoodPoint": 750,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62501": 1
+      },
+      "RewardPriority": 10,
+      "belongStageTwo": 0
+    },
+    "719": {
+      "Id": 719,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "Energy": 10
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "720": {
+      "Id": 720,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film2": 1
+      },
+      "RewardPriority": 16,
+      "belongStageTwo": 0
+    },
+    "721": {
+      "Id": 721,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "62050": 1
+      },
+      "SpecialReward": {
+        "Energy": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "722": {
+      "Id": 722,
+      "NeedFoodPoint": 1080,
+      "NormalReward": {
+        "Star": 25
+      },
+      "SpecialReward": {
+        "Star": 30
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "723": {
+      "Id": 723,
+      "NeedFoodPoint": 1220,
+      "NormalReward": {
+        "62501": 1
+      },
+      "SpecialReward": {
+        "62502": 1
+      },
+      "RewardPriority": 11,
+      "belongStageTwo": 0
+    },
+    "724": {
+      "Id": 724,
+      "NeedFoodPoint": 1380,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {
+        "Film3": 1
+      },
+      "RewardPriority": 15,
+      "belongStageTwo": 0
+    },
+    "725": {
+      "Id": 725,
+      "NeedFoodPoint": 1580,
+      "NormalReward": {
+        "62052": 1
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "726": {
+      "Id": 726,
+      "NeedFoodPoint": 1800,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {
+        "Energy": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "727": {
+      "Id": 727,
+      "NeedFoodPoint": 2040,
+      "NormalReward": {
+        "Film12": 1
+      },
+      "SpecialReward": {
+        "CardBag20005": 4
+      },
+      "RewardPriority": 12,
+      "belongStageTwo": 0
+    },
+    "728": {
+      "Id": 728,
+      "NeedFoodPoint": 2300,
+      "NormalReward": {
+        "Diamond": 20
+      },
+      "SpecialReward": {
+        "Diamond": 20
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "729": {
+      "Id": 729,
+      "NeedFoodPoint": 2600,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {
+        "Film4": 1
+      },
+      "RewardPriority": 14,
+      "belongStageTwo": 0
+    },
+    "730": {
+      "Id": 730,
+      "NeedFoodPoint": 3000,
+      "NormalReward": {
+        "Film6": 1
+      },
+      "SpecialReward": {
+        "Film5": 1
+      },
+      "RewardPriority": 13,
+      "belongStageTwo": 0
+    },
+    "731": {
+      "Id": 731,
+      "NeedFoodPoint": 3100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "732": {
+      "Id": 732,
+      "NeedFoodPoint": 3200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "733": {
+      "Id": 733,
+      "NeedFoodPoint": 3300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "734": {
+      "Id": 734,
+      "NeedFoodPoint": 3400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "735": {
+      "Id": 735,
+      "NeedFoodPoint": 3500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "736": {
+      "Id": 736,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "737": {
+      "Id": 737,
+      "NeedFoodPoint": 3700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "738": {
+      "Id": 738,
+      "NeedFoodPoint": 3800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "739": {
+      "Id": 739,
+      "NeedFoodPoint": 3900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "740": {
+      "Id": 740,
+      "NeedFoodPoint": 4000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "741": {
+      "Id": 741,
+      "NeedFoodPoint": 4100,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "742": {
+      "Id": 742,
+      "NeedFoodPoint": 4200,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "743": {
+      "Id": 743,
+      "NeedFoodPoint": 4300,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "744": {
+      "Id": 744,
+      "NeedFoodPoint": 4400,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "745": {
+      "Id": 745,
+      "NeedFoodPoint": 4500,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "746": {
+      "Id": 746,
+      "NeedFoodPoint": 4600,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "747": {
+      "Id": 747,
+      "NeedFoodPoint": 4700,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "748": {
+      "Id": 748,
+      "NeedFoodPoint": 4800,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "627001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "749": {
+      "Id": 749,
+      "NeedFoodPoint": 4900,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "750": {
+      "Id": 750,
+      "NeedFoodPoint": 5000,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {
+        "CardBag20005": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  },
+  "arch": {
+    "801": {
+      "Id": 801,
+      "NeedFoodPoint": 20,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "802": {
+      "Id": 802,
+      "NeedFoodPoint": 60,
+      "NormalReward": {
+        "Energy": 5
+      },
+      "SpecialReward": {
+        "98801101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "803": {
+      "Id": 803,
+      "NeedFoodPoint": 110,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Energy": 50
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "804": {
+      "Id": 804,
+      "NeedFoodPoint": 170,
+      "NormalReward": {
+        "53212": 1
+      },
+      "SpecialReward": {
+        "53215": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "805": {
+      "Id": 805,
+      "NeedFoodPoint": 250,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "806": {
+      "Id": 806,
+      "NeedFoodPoint": 340,
+      "NormalReward": {
+        "9879341": 1
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "807": {
+      "Id": 807,
+      "NeedFoodPoint": 440,
+      "NormalReward": {
+        "98802101": 1
+      },
+      "SpecialReward": {
+        "98801101": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "808": {
+      "Id": 808,
+      "NeedFoodPoint": 550,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "809": {
+      "Id": 809,
+      "NeedFoodPoint": 670,
+      "NormalReward": {
+        "53213": 1
+      },
+      "SpecialReward": {
+        "53215": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "810": {
+      "Id": 810,
+      "NeedFoodPoint": 800,
+      "NormalReward": {
+        "CardBag10001": 1
+      },
+      "SpecialReward": {
+        "53201": 1
+      },
+      "RewardPriority": 8,
+      "belongStageTwo": 0
+    },
+    "811": {
+      "Id": 811,
+      "NeedFoodPoint": 960,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "812": {
+      "Id": 812,
+      "NeedFoodPoint": 1140,
+      "NormalReward": {
+        "CardBag10001": 1
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "813": {
+      "Id": 813,
+      "NeedFoodPoint": 1340,
+      "NormalReward": {
+        "98802101": 1
+      },
+      "SpecialReward": {
+        "53215": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "814": {
+      "Id": 814,
+      "NeedFoodPoint": 1560,
+      "NormalReward": {
+        "Energy": 20
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "815": {
+      "Id": 815,
+      "NeedFoodPoint": 1820,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "816": {
+      "Id": 816,
+      "NeedFoodPoint": 2100,
+      "NormalReward": {
+        "Coin": 300
+      },
+      "SpecialReward": {
+        "53202": 1
+      },
+      "RewardPriority": 7,
+      "belongStageTwo": 0
+    },
+    "817": {
+      "Id": 817,
+      "NeedFoodPoint": 2420,
+      "NormalReward": {
+        "53213": 2
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "818": {
+      "Id": 818,
+      "NeedFoodPoint": 2760,
+      "NormalReward": {
+        "CardBag10001": 1
+      },
+      "SpecialReward": {
+        "53501": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "819": {
+      "Id": 819,
+      "NeedFoodPoint": 3140,
+      "NormalReward": {
+        "98802101": 1
+      },
+      "SpecialReward": {
+        "53215": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "820": {
+      "Id": 820,
+      "NeedFoodPoint": 3620,
+      "NormalReward": {
+        "Energy": 50
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "821": {
+      "Id": 821,
+      "NeedFoodPoint": 4220,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "822": {
+      "Id": 822,
+      "NeedFoodPoint": 4920,
+      "NormalReward": {
+        "CardBag10001": 1
+      },
+      "SpecialReward": {
+        "53203": 1
+      },
+      "RewardPriority": 6,
+      "belongStageTwo": 0
+    },
+    "823": {
+      "Id": 823,
+      "NeedFoodPoint": 5720,
+      "NormalReward": {
+        "AdornCoupon": 200
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "824": {
+      "Id": 824,
+      "NeedFoodPoint": 6620,
+      "NormalReward": {
+        "Energy": 50
+      },
+      "SpecialReward": {
+        "Energy": 200
+      },
+      "RewardPriority": 4,
+      "belongStageTwo": 0
+    },
+    "825": {
+      "Id": 825,
+      "NeedFoodPoint": 7520,
+      "NormalReward": {
+        "98802101": 1
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "826": {
+      "Id": 826,
+      "NeedFoodPoint": 8420,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "53501": 2
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 0
+    },
+    "827": {
+      "Id": 827,
+      "NeedFoodPoint": 9420,
+      "NormalReward": {
+        "Diamond": 50
+      },
+      "SpecialReward": {
+        "Star": 10
+      },
+      "RewardPriority": 3,
+      "belongStageTwo": 0
+    },
+    "828": {
+      "Id": 828,
+      "NeedFoodPoint": 10420,
+      "NormalReward": {
+        "CardBag30012": 1
+      },
+      "SpecialReward": {
+        "Diamond": 100
+      },
+      "RewardPriority": 2,
+      "belongStageTwo": 0
+    },
+    "829": {
+      "Id": 829,
+      "NeedFoodPoint": 11520,
+      "NormalReward": {
+        "Star": 5
+      },
+      "SpecialReward": {
+        "CardBag30012": 4
+      },
+      "RewardPriority": 5,
+      "belongStageTwo": 0
+    },
+    "830": {
+      "Id": 830,
+      "NeedFoodPoint": 12720,
+      "NormalReward": {
+        "98701": 1
+      },
+      "SpecialReward": {
+        "98731": 1
+      },
+      "RewardPriority": 1,
+      "belongStageTwo": 0
+    },
+    "831": {
+      "Id": 831,
+      "NeedFoodPoint": 14520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 100
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "832": {
+      "Id": 832,
+      "NeedFoodPoint": 15520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "53213": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "833": {
+      "Id": 833,
+      "NeedFoodPoint": 16520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 200
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "834": {
+      "Id": 834,
+      "NeedFoodPoint": 17520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag10001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "835": {
+      "Id": 835,
+      "NeedFoodPoint": 18520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 300
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "836": {
+      "Id": 836,
+      "NeedFoodPoint": 19520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "53213": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "837": {
+      "Id": 837,
+      "NeedFoodPoint": 20520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 400
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "838": {
+      "Id": 838,
+      "NeedFoodPoint": 21520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag10001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "839": {
+      "Id": 839,
+      "NeedFoodPoint": 22520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 500
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "840": {
+      "Id": 840,
+      "NeedFoodPoint": 23520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "53213": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "841": {
+      "Id": 841,
+      "NeedFoodPoint": 24520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 600
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "842": {
+      "Id": 842,
+      "NeedFoodPoint": 25520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag10001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "843": {
+      "Id": 843,
+      "NeedFoodPoint": 26520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 700
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "844": {
+      "Id": 844,
+      "NeedFoodPoint": 27520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "53213": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "845": {
+      "Id": 845,
+      "NeedFoodPoint": 28520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 800
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "846": {
+      "Id": 846,
+      "NeedFoodPoint": 29520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag10001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "847": {
+      "Id": 847,
+      "NeedFoodPoint": 30520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 900
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "848": {
+      "Id": 848,
+      "NeedFoodPoint": 31520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "53213": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "849": {
+      "Id": 849,
+      "NeedFoodPoint": 32520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "Coin": 1000
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    },
+    "850": {
+      "Id": 850,
+      "NeedFoodPoint": 33520,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {
+        "CardBag10001": 1
+      },
+      "RewardPriority": 0,
+      "belongStageTwo": 1
+    }
+  }
+}

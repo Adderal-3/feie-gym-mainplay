@@ -1,0 +1,5330 @@
+{
+  "trainOrder1_1": {
+    "1101": {
+      "id": 1101,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21038,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1102": {
+      "id": 1102,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 42,
+      "legalRange": [
+        21,
+        63
+      ]
+    },
+    "1103": {
+      "id": 1103,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1104": {
+      "id": 1104,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1105": {
+      "id": 1105,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 54,
+      "legalRange": [
+        27,
+        81
+      ]
+    },
+    "1106": {
+      "id": 1106,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 84,
+      "legalRange": [
+        42,
+        126
+      ]
+    },
+    "1107": {
+      "id": 1107,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1108": {
+      "id": 1108,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 120,
+      "legalRange": [
+        60,
+        180
+      ]
+    },
+    "1109": {
+      "id": 1109,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1110": {
+      "id": 1110,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1111": {
+      "id": 1111,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21039,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1112": {
+      "id": 1112,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21032,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1113": {
+      "id": 1113,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 42,
+      "legalRange": [
+        21,
+        63
+      ]
+    },
+    "1114": {
+      "id": 1114,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 66,
+      "legalRange": [
+        33,
+        99
+      ]
+    },
+    "1115": {
+      "id": 1115,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21040,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1116": {
+      "id": 1116,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 72,
+      "legalRange": [
+        36,
+        108
+      ]
+    },
+    "1117": {
+      "id": 1117,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1118": {
+      "id": 1118,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1119": {
+      "id": 1119,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 90,
+      "legalRange": [
+        45,
+        135
+      ]
+    },
+    "1120": {
+      "id": 1120,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1121": {
+      "id": 1121,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 72,
+      "legalRange": [
+        36,
+        108
+      ]
+    },
+    "1122": {
+      "id": 1122,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 126,
+      "legalRange": [
+        63,
+        189
+      ]
+    },
+    "1123": {
+      "id": 1123,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21041,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1124": {
+      "id": 1124,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1125": {
+      "id": 1125,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21020,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1126": {
+      "id": 1126,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 22,
+      "legalRange": [
+        11,
+        33
+      ]
+    },
+    "1127": {
+      "id": 1127,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1128": {
+      "id": 1128,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1129": {
+      "id": 1129,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 22,
+      "legalRange": [
+        11,
+        33
+      ]
+    },
+    "1130": {
+      "id": 1130,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 40,
+      "legalRange": [
+        20,
+        60
+      ]
+    },
+    "1131": {
+      "id": 1131,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1132": {
+      "id": 1132,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 38,
+      "legalRange": [
+        19,
+        57
+      ]
+    },
+    "1133": {
+      "id": 1133,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1134": {
+      "id": 1134,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21021,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1135": {
+      "id": 1135,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21022,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1136": {
+      "id": 1136,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 16,
+      "legalRange": [
+        8,
+        24
+      ]
+    },
+    "1137": {
+      "id": 1137,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1138": {
+      "id": 1138,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 16,
+      "legalRange": [
+        8,
+        24
+      ]
+    },
+    "1139": {
+      "id": 1139,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1140": {
+      "id": 1140,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 26,
+      "legalRange": [
+        13,
+        39
+      ]
+    },
+    "1141": {
+      "id": 1141,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1142": {
+      "id": 1142,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1143": {
+      "id": 1143,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 44,
+      "legalRange": [
+        22,
+        66
+      ]
+    },
+    "1144": {
+      "id": 1144,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1145": {
+      "id": 1145,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 32,
+      "legalRange": [
+        16,
+        48
+      ]
+    },
+    "1146": {
+      "id": 1146,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 44,
+      "legalRange": [
+        22,
+        66
+      ]
+    },
+    "1147": {
+      "id": 1147,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1148": {
+      "id": 1148,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  },
+  "trainOrder1_2": {
+    "1201": {
+      "id": 1201,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21038,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1202": {
+      "id": 1202,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 52,
+      "legalRange": [
+        26,
+        78
+      ]
+    },
+    "1203": {
+      "id": 1203,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1204": {
+      "id": 1204,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1205": {
+      "id": 1205,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 68,
+      "legalRange": [
+        34,
+        102
+      ]
+    },
+    "1206": {
+      "id": 1206,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 106,
+      "legalRange": [
+        53,
+        159
+      ]
+    },
+    "1207": {
+      "id": 1207,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1208": {
+      "id": 1208,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 150,
+      "legalRange": [
+        75,
+        225
+      ]
+    },
+    "1209": {
+      "id": 1209,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1210": {
+      "id": 1210,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1211": {
+      "id": 1211,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21039,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1212": {
+      "id": 1212,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21032,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1213": {
+      "id": 1213,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 52,
+      "legalRange": [
+        26,
+        78
+      ]
+    },
+    "1214": {
+      "id": 1214,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 82,
+      "legalRange": [
+        41,
+        123
+      ]
+    },
+    "1215": {
+      "id": 1215,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21040,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1216": {
+      "id": 1216,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 90,
+      "legalRange": [
+        45,
+        135
+      ]
+    },
+    "1217": {
+      "id": 1217,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1218": {
+      "id": 1218,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1219": {
+      "id": 1219,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 112,
+      "legalRange": [
+        56,
+        168
+      ]
+    },
+    "1220": {
+      "id": 1220,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1221": {
+      "id": 1221,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 90,
+      "legalRange": [
+        45,
+        135
+      ]
+    },
+    "1222": {
+      "id": 1222,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 158,
+      "legalRange": [
+        79,
+        237
+      ]
+    },
+    "1223": {
+      "id": 1223,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21041,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1224": {
+      "id": 1224,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1225": {
+      "id": 1225,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21020,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1226": {
+      "id": 1226,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 48,
+      "legalRange": [
+        24,
+        72
+      ]
+    },
+    "1227": {
+      "id": 1227,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1228": {
+      "id": 1228,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1229": {
+      "id": 1229,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 48,
+      "legalRange": [
+        24,
+        72
+      ]
+    },
+    "1230": {
+      "id": 1230,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 88,
+      "legalRange": [
+        44,
+        132
+      ]
+    },
+    "1231": {
+      "id": 1231,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1232": {
+      "id": 1232,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 80,
+      "legalRange": [
+        40,
+        120
+      ]
+    },
+    "1233": {
+      "id": 1233,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1234": {
+      "id": 1234,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21021,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1235": {
+      "id": 1235,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21022,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1236": {
+      "id": 1236,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 34,
+      "legalRange": [
+        17,
+        51
+      ]
+    },
+    "1237": {
+      "id": 1237,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1238": {
+      "id": 1238,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 34,
+      "legalRange": [
+        17,
+        51
+      ]
+    },
+    "1239": {
+      "id": 1239,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1240": {
+      "id": 1240,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 54,
+      "legalRange": [
+        27,
+        81
+      ]
+    },
+    "1241": {
+      "id": 1241,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1242": {
+      "id": 1242,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1243": {
+      "id": 1243,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 94,
+      "legalRange": [
+        47,
+        141
+      ]
+    },
+    "1244": {
+      "id": 1244,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1245": {
+      "id": 1245,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 68,
+      "legalRange": [
+        34,
+        102
+      ]
+    },
+    "1246": {
+      "id": 1246,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 94,
+      "legalRange": [
+        47,
+        141
+      ]
+    },
+    "1247": {
+      "id": 1247,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1248": {
+      "id": 1248,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  },
+  "trainOrder1_3": {
+    "1301": {
+      "id": 1301,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21038,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1302": {
+      "id": 1302,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "1303": {
+      "id": 1303,
+      "belongTrain": "train1",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1304": {
+      "id": 1304,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1305": {
+      "id": 1305,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 90,
+      "legalRange": [
+        45,
+        135
+      ]
+    },
+    "1306": {
+      "id": 1306,
+      "belongTrain": "train2",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "1307": {
+      "id": 1307,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1308": {
+      "id": 1308,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 200,
+      "legalRange": [
+        100,
+        300
+      ]
+    },
+    "1309": {
+      "id": 1309,
+      "belongTrain": "train3",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1310": {
+      "id": 1310,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1311": {
+      "id": 1311,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21039,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1312": {
+      "id": 1312,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21032,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1313": {
+      "id": 1313,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "1314": {
+      "id": 1314,
+      "belongTrain": "train4",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 110,
+      "legalRange": [
+        55,
+        165
+      ]
+    },
+    "1315": {
+      "id": 1315,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21040,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1316": {
+      "id": 1316,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 120,
+      "legalRange": [
+        60,
+        180
+      ]
+    },
+    "1317": {
+      "id": 1317,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21033,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1318": {
+      "id": 1318,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21042,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1319": {
+      "id": 1319,
+      "belongTrain": "train5",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 150,
+      "legalRange": [
+        75,
+        225
+      ]
+    },
+    "1320": {
+      "id": 1320,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21034,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1321": {
+      "id": 1321,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 120,
+      "legalRange": [
+        60,
+        180
+      ]
+    },
+    "1322": {
+      "id": 1322,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 210,
+      "legalRange": [
+        105,
+        315
+      ]
+    },
+    "1323": {
+      "id": 1323,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21041,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1324": {
+      "id": 1324,
+      "belongTrain": "train6",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21043,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1325": {
+      "id": 1325,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21020,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1326": {
+      "id": 1326,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "1327": {
+      "id": 1327,
+      "belongTrain": "train7",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1328": {
+      "id": 1328,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1329": {
+      "id": 1329,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "1330": {
+      "id": 1330,
+      "belongTrain": "train8",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 130,
+      "legalRange": [
+        65,
+        195
+      ]
+    },
+    "1331": {
+      "id": 1331,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1332": {
+      "id": 1332,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 120,
+      "legalRange": [
+        60,
+        180
+      ]
+    },
+    "1333": {
+      "id": 1333,
+      "belongTrain": "train9",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1334": {
+      "id": 1334,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21021,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1335": {
+      "id": 1335,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21022,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1336": {
+      "id": 1336,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 50,
+      "legalRange": [
+        25,
+        75
+      ]
+    },
+    "1337": {
+      "id": 1337,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1338": {
+      "id": 1338,
+      "belongTrain": "train10",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 50,
+      "legalRange": [
+        25,
+        75
+      ]
+    },
+    "1339": {
+      "id": 1339,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21023,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1340": {
+      "id": 1340,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 80,
+      "legalRange": [
+        40,
+        120
+      ]
+    },
+    "1341": {
+      "id": 1341,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21025,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1342": {
+      "id": 1342,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1343": {
+      "id": 1343,
+      "belongTrain": "train11",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "1344": {
+      "id": 1344,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21026,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1345": {
+      "id": 1345,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 100,
+      "legalRange": [
+        50,
+        150
+      ]
+    },
+    "1346": {
+      "id": 1346,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "1347": {
+      "id": 1347,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21024,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "1348": {
+      "id": 1348,
+      "belongTrain": "train12",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21027,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  },
+  "trainOrder2_1": {
+    "2101": {
+      "id": 2101,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2102": {
+      "id": 2102,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 44,
+      "legalRange": [
+        22,
+        66
+      ]
+    },
+    "2103": {
+      "id": 2103,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2104": {
+      "id": 2104,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2105": {
+      "id": 2105,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 62,
+      "legalRange": [
+        31,
+        93
+      ]
+    },
+    "2106": {
+      "id": 2106,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 88,
+      "legalRange": [
+        44,
+        132
+      ]
+    },
+    "2107": {
+      "id": 2107,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2108": {
+      "id": 2108,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 126,
+      "legalRange": [
+        63,
+        189
+      ]
+    },
+    "2109": {
+      "id": 2109,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2110": {
+      "id": 2110,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2111": {
+      "id": 2111,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2112": {
+      "id": 2112,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2113": {
+      "id": 2113,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 50,
+      "legalRange": [
+        25,
+        75
+      ]
+    },
+    "2114": {
+      "id": 2114,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 72,
+      "legalRange": [
+        36,
+        108
+      ]
+    },
+    "2115": {
+      "id": 2115,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2116": {
+      "id": 2116,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 88,
+      "legalRange": [
+        44,
+        132
+      ]
+    },
+    "2117": {
+      "id": 2117,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21013,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2118": {
+      "id": 2118,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2119": {
+      "id": 2119,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 94,
+      "legalRange": [
+        47,
+        141
+      ]
+    },
+    "2120": {
+      "id": 2120,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2121": {
+      "id": 2121,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 82,
+      "legalRange": [
+        41,
+        123
+      ]
+    },
+    "2122": {
+      "id": 2122,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 45
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 138,
+      "legalRange": [
+        69,
+        207
+      ]
+    },
+    "2123": {
+      "id": 2123,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2124": {
+      "id": 2124,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2125": {
+      "id": 2125,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21051,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2126": {
+      "id": 2126,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 32,
+      "legalRange": [
+        16,
+        48
+      ]
+    },
+    "2127": {
+      "id": 2127,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2128": {
+      "id": 2128,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2129": {
+      "id": 2129,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 32,
+      "legalRange": [
+        16,
+        48
+      ]
+    },
+    "2130": {
+      "id": 2130,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 62,
+      "legalRange": [
+        31,
+        93
+      ]
+    },
+    "2131": {
+      "id": 2131,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2132": {
+      "id": 2132,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 56,
+      "legalRange": [
+        28,
+        84
+      ]
+    },
+    "2133": {
+      "id": 2133,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2134": {
+      "id": 2134,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21052,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2135": {
+      "id": 2135,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21053,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2136": {
+      "id": 2136,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 24,
+      "legalRange": [
+        12,
+        36
+      ]
+    },
+    "2137": {
+      "id": 2137,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2138": {
+      "id": 2138,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 24,
+      "legalRange": [
+        12,
+        36
+      ]
+    },
+    "2139": {
+      "id": 2139,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2140": {
+      "id": 2140,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 38,
+      "legalRange": [
+        19,
+        57
+      ]
+    },
+    "2141": {
+      "id": 2141,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2142": {
+      "id": 2142,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2143": {
+      "id": 2143,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 66,
+      "legalRange": [
+        33,
+        99
+      ]
+    },
+    "2144": {
+      "id": 2144,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2145": {
+      "id": 2145,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 46,
+      "legalRange": [
+        23,
+        69
+      ]
+    },
+    "2146": {
+      "id": 2146,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 66,
+      "legalRange": [
+        33,
+        99
+      ]
+    },
+    "2147": {
+      "id": 2147,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2148": {
+      "id": 2148,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  },
+  "trainOrder2_2": {
+    "2201": {
+      "id": 2201,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2202": {
+      "id": 2202,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 54,
+      "legalRange": [
+        27,
+        81
+      ]
+    },
+    "2203": {
+      "id": 2203,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2204": {
+      "id": 2204,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2205": {
+      "id": 2205,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 78,
+      "legalRange": [
+        39,
+        117
+      ]
+    },
+    "2206": {
+      "id": 2206,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 108,
+      "legalRange": [
+        54,
+        162
+      ]
+    },
+    "2207": {
+      "id": 2207,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2208": {
+      "id": 2208,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 156,
+      "legalRange": [
+        78,
+        234
+      ]
+    },
+    "2209": {
+      "id": 2209,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2210": {
+      "id": 2210,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2211": {
+      "id": 2211,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2212": {
+      "id": 2212,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2213": {
+      "id": 2213,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 62,
+      "legalRange": [
+        31,
+        93
+      ]
+    },
+    "2214": {
+      "id": 2214,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 90,
+      "legalRange": [
+        45,
+        135
+      ]
+    },
+    "2215": {
+      "id": 2215,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2216": {
+      "id": 2216,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 108,
+      "legalRange": [
+        54,
+        162
+      ]
+    },
+    "2217": {
+      "id": 2217,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21013,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2218": {
+      "id": 2218,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2219": {
+      "id": 2219,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 116,
+      "legalRange": [
+        58,
+        174
+      ]
+    },
+    "2220": {
+      "id": 2220,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2221": {
+      "id": 2221,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 100,
+      "legalRange": [
+        50,
+        150
+      ]
+    },
+    "2222": {
+      "id": 2222,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 45
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 170,
+      "legalRange": [
+        85,
+        255
+      ]
+    },
+    "2223": {
+      "id": 2223,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2224": {
+      "id": 2224,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2225": {
+      "id": 2225,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21051,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2226": {
+      "id": 2226,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 48,
+      "legalRange": [
+        24,
+        72
+      ]
+    },
+    "2227": {
+      "id": 2227,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2228": {
+      "id": 2228,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2229": {
+      "id": 2229,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 48,
+      "legalRange": [
+        24,
+        72
+      ]
+    },
+    "2230": {
+      "id": 2230,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 88,
+      "legalRange": [
+        44,
+        132
+      ]
+    },
+    "2231": {
+      "id": 2231,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2232": {
+      "id": 2232,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 82,
+      "legalRange": [
+        41,
+        123
+      ]
+    },
+    "2233": {
+      "id": 2233,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2234": {
+      "id": 2234,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21052,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2235": {
+      "id": 2235,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21053,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2236": {
+      "id": 2236,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 34,
+      "legalRange": [
+        17,
+        51
+      ]
+    },
+    "2237": {
+      "id": 2237,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2238": {
+      "id": 2238,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 34,
+      "legalRange": [
+        17,
+        51
+      ]
+    },
+    "2239": {
+      "id": 2239,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2240": {
+      "id": 2240,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 54,
+      "legalRange": [
+        27,
+        81
+      ]
+    },
+    "2241": {
+      "id": 2241,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2242": {
+      "id": 2242,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2243": {
+      "id": 2243,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 96,
+      "legalRange": [
+        48,
+        144
+      ]
+    },
+    "2244": {
+      "id": 2244,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2245": {
+      "id": 2245,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 68,
+      "legalRange": [
+        34,
+        102
+      ]
+    },
+    "2246": {
+      "id": 2246,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 96,
+      "legalRange": [
+        48,
+        144
+      ]
+    },
+    "2247": {
+      "id": 2247,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2248": {
+      "id": 2248,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  },
+  "trainOrder2_3": {
+    "2301": {
+      "id": 2301,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2302": {
+      "id": 2302,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "2303": {
+      "id": 2303,
+      "belongTrain": "train13",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2304": {
+      "id": 2304,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2305": {
+      "id": 2305,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 100,
+      "legalRange": [
+        50,
+        150
+      ]
+    },
+    "2306": {
+      "id": 2306,
+      "belongTrain": "train14",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "2307": {
+      "id": 2307,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2308": {
+      "id": 2308,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 40
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 200,
+      "legalRange": [
+        100,
+        300
+      ]
+    },
+    "2309": {
+      "id": 2309,
+      "belongTrain": "train15",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2310": {
+      "id": 2310,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21014,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2311": {
+      "id": 2311,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21007,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2312": {
+      "id": 2312,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2313": {
+      "id": 2313,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 80,
+      "legalRange": [
+        40,
+        120
+      ]
+    },
+    "2314": {
+      "id": 2314,
+      "belongTrain": "train16",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 116,
+      "legalRange": [
+        58,
+        174
+      ]
+    },
+    "2315": {
+      "id": 2315,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2316": {
+      "id": 2316,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "2317": {
+      "id": 2317,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21013,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2318": {
+      "id": 2318,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2319": {
+      "id": 2319,
+      "belongTrain": "train17",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 150,
+      "legalRange": [
+        75,
+        225
+      ]
+    },
+    "2320": {
+      "id": 2320,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21009,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2321": {
+      "id": 2321,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 130,
+      "legalRange": [
+        65,
+        195
+      ]
+    },
+    "2322": {
+      "id": 2322,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 45
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 220,
+      "legalRange": [
+        110,
+        330
+      ]
+    },
+    "2323": {
+      "id": 2323,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21008,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2324": {
+      "id": 2324,
+      "belongTrain": "train18",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21044,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2325": {
+      "id": 2325,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21051,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2326": {
+      "id": 2326,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "2327": {
+      "id": 2327,
+      "belongTrain": "train19",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2328": {
+      "id": 2328,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2329": {
+      "id": 2329,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 70,
+      "legalRange": [
+        35,
+        105
+      ]
+    },
+    "2330": {
+      "id": 2330,
+      "belongTrain": "train20",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 130,
+      "legalRange": [
+        65,
+        195
+      ]
+    },
+    "2331": {
+      "id": 2331,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2332": {
+      "id": 2332,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 120,
+      "legalRange": [
+        60,
+        180
+      ]
+    },
+    "2333": {
+      "id": 2333,
+      "belongTrain": "train21",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2334": {
+      "id": 2334,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21052,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2335": {
+      "id": 2335,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21053,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2336": {
+      "id": 2336,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 50,
+      "legalRange": [
+        25,
+        75
+      ]
+    },
+    "2337": {
+      "id": 2337,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2338": {
+      "id": 2338,
+      "belongTrain": "train22",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 50,
+      "legalRange": [
+        25,
+        75
+      ]
+    },
+    "2339": {
+      "id": 2339,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21054,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2340": {
+      "id": 2340,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 80,
+      "legalRange": [
+        40,
+        120
+      ]
+    },
+    "2341": {
+      "id": 2341,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21056,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2342": {
+      "id": 2342,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2343": {
+      "id": 2343,
+      "belongTrain": "train23",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "2344": {
+      "id": 2344,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21057,
+      "reward": {
+        "Energy": 25
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2345": {
+      "id": 2345,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 20
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 100,
+      "legalRange": [
+        50,
+        150
+      ]
+    },
+    "2346": {
+      "id": 2346,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "actEleDemand": 0,
+      "reward": {
+        "Energy": 30
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 140,
+      "legalRange": [
+        70,
+        210
+      ]
+    },
+    "2347": {
+      "id": 2347,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21055,
+      "reward": {},
+      "duringTime": 0,
+      "dailyValueRange": [],
+      "orderDifficulty": 0,
+      "legalRange": []
+    },
+    "2348": {
+      "id": 2348,
+      "belongTrain": "train24",
+      "autoDifficultyRange": [],
+      "algorithm": [],
+      "actEleDemand": 21058,
+      "reward": {
+        "Energy": 50
+      },
+      "duringTime": 1800,
+      "dailyValueRange": [
+        0.3,
+        0.6
+      ],
+      "orderDifficulty": 0,
+      "legalRange": []
+    }
+  }
+}

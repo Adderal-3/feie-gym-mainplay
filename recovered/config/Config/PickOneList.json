@@ -1,0 +1,328 @@
+{
+  "qixi": {
+    "id": "qixi",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 37,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 0,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  },
+  "levelupcard": {
+    "id": "levelupcard",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 49,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 1500,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  },
+  "shoot": {
+    "id": "shoot",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 57,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 2000,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  },
+  "valentines": {
+    "id": "valentines",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 79,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 2000,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  },
+  "magpie": {
+    "id": "magpie",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 93,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 2000,
+    "beginDialog": 13006,
+    "specialDialog": 13008,
+    "reviveDialog": 13003,
+    "finishDialog": 13007,
+    "promiseDialog": 13005
+  },
+  "xiaoxin": {
+    "id": "xiaoxin",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "giftSeries": 110,
+    "convertHammer": [
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 150
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 250
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 400
+      },
+      {
+        "Energy": 500
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "Diamond": 100
+      }
+    ],
+    "adReviveTimes": 1,
+    "adReviveRound": 5,
+    "promiseLine": 2000,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  },
+  "pickOneFilm": {
+    "id": "pickOneFilm",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "giftSeries": 49,
+    "convertHammer": [
+      {
+        "Energy": 50
+      },
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 400
+      },
+      {
+        "Energy": 500
+      },
+      {
+        "Energy": 600
+      },
+      {
+        "Energy": 700
+      },
+      {
+        "Energy": 800
+      }
+    ],
+    "reviveTimes": 3,
+    "reviveCost": [
+      {
+        "Diamond": 5
+      },
+      {
+        "Diamond": 10
+      },
+      {
+        "Diamond": 15
+      }
+    ],
+    "adReviveTimes": 0,
+    "adReviveRound": 0,
+    "promiseLine": 260,
+    "beginDialog": 13001,
+    "specialDialog": 13002,
+    "reviveDialog": 13003,
+    "finishDialog": 13004,
+    "promiseDialog": 13005
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "1": {
+    "ranking": 1,
+    "weight": 450
+  },
+  "2": {
+    "ranking": 2,
+    "weight": 200
+  },
+  "3": {
+    "ranking": 3,
+    "weight": 125
+  },
+  "4": {
+    "ranking": 4,
+    "weight": 125
+  },
+  "5": {
+    "ranking": 5,
+    "weight": 50
+  },
+  "6": {
+    "ranking": 6,
+    "weight": 100
+  },
+  "7": {
+    "ranking": 7,
+    "weight": 200
+  },
+  "8": {
+    "ranking": 8,
+    "weight": 50
+  },
+  "9": {
+    "ranking": 9,
+    "weight": 5
+  },
+  "10": {
+    "ranking": 10,
+    "weight": 1
+  },
+  "11": {
+    "ranking": 11,
+    "weight": 1
+  },
+  "12": {
+    "ranking": 12,
+    "weight": 1
+  },
+  "13": {
+    "ranking": 13,
+    "weight": 1
+  },
+  "14": {
+    "ranking": 14,
+    "weight": 1
+  },
+  "15": {
+    "ranking": 15,
+    "weight": 1
+  },
+  "16": {
+    "ranking": 16,
+    "weight": 0
+  },
+  "17": {
+    "ranking": 17,
+    "weight": 0
+  },
+  "18": {
+    "ranking": 18,
+    "weight": 0
+  },
+  "19": {
+    "ranking": 19,
+    "weight": 0
+  },
+  "20": {
+    "ranking": 20,
+    "weight": 0
+  },
+  "21": {
+    "ranking": 21,
+    "weight": 0
+  },
+  "22": {
+    "ranking": 22,
+    "weight": 0
+  },
+  "23": {
+    "ranking": 23,
+    "weight": 0
+  },
+  "24": {
+    "ranking": 24,
+    "weight": 0
+  }
+}

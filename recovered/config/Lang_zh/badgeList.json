@@ -1,0 +1,517 @@
+{
+  "101": {
+    "badgeID": 101,
+    "badgeName": "游刃有鱼",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年8月30日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "102": {
+    "badgeID": 102,
+    "badgeName": "今时明月",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年10月8日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "103": {
+    "badgeID": 103,
+    "badgeName": "童话之家",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年12月1日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "104": {
+    "badgeID": 104,
+    "badgeName": "风雪山庄",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年12月29日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "105": {
+    "badgeID": 105,
+    "badgeName": "蜡笔小新",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年1月21日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "106": {
+    "badgeID": 106,
+    "badgeName": "玉龙桃源",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年2月20日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "107": {
+    "badgeID": 107,
+    "badgeName": "白昼梦马",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年8月30日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "108": {
+    "badgeID": 108,
+    "badgeName": "爱丽丝",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2023年8月30日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "109": {
+    "badgeID": 109,
+    "badgeName": "海浪蝶引",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年5月12日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "110": {
+    "badgeID": 110,
+    "badgeName": "盛夏飨宴",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年6月15日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "111": {
+    "badgeID": 111,
+    "badgeName": "凤鸣点翠",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年7月7日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "112": {
+    "badgeID": 112,
+    "badgeName": "星海梦旅",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年7月25日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "113": {
+    "badgeID": 113,
+    "badgeName": "马戏之王",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年8月22日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "114": {
+    "badgeID": 114,
+    "badgeName": "露营指南",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年9月14日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "115": {
+    "badgeID": 115,
+    "badgeName": "青铜辉光",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年9月17日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "116": {
+    "badgeID": 116,
+    "badgeName": "蓝星衔月",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年10月16日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "117": {
+    "badgeID": 117,
+    "badgeName": "蜜味幽灵",
+    "badgeTopThreeDesc": "不健康餐大作战活动世界第{1}名",
+    "badgeHundredDesc": "不健康餐大作战活动世界百强",
+    "badgePrevDesc": "不健康餐大作战活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年11月8日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得不健康餐大作战活动百强纪念徽章"
+  },
+  "118": {
+    "badgeID": 118,
+    "badgeName": "雪铸金冠",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2024年12月27日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "119": {
+    "badgeID": 119,
+    "badgeName": "日蕴月华",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2025年2月8日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "120": {
+    "badgeID": 120,
+    "badgeName": "空中花园",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2025年4月26日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "121": {
+    "badgeID": 121,
+    "badgeName": "金剪巧匠",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2025年8月26日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "122": {
+    "badgeID": 122,
+    "badgeName": "最佳厨师",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2025年10月26日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "123": {
+    "badgeID": 123,
+    "badgeName": "此心永恒",
+    "badgeTopThreeDesc": "{0}活动世界第{1}名",
+    "badgeHundredDesc": "{0}活动世界百强",
+    "badgePrevDesc": "{0}活动世界排行前100名可获得",
+    "badgeTime": "{0}于2025年12月27日获得",
+    "badgeIntro": "世界排行前100名的玩家可获得{0}活动百强纪念徽章"
+  },
+  "124": {
+    "badgeID": 124,
+    "badgeName": "独具匠心",
+    "badgeTopThreeDesc": "完成四周年社媒活动【四载茶叙】",
+    "badgePrevDesc": "完成四周年社媒活动【四载茶叙】获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "201": {
+    "badgeID": 201,
+    "badgeName": "周年庆典礼",
+    "badgeTopThreeDesc": "完成周年庆典普通相册挑战",
+    "badgePrevDesc": "完成周年庆典普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "202": {
+    "badgeID": 202,
+    "badgeName": "肥鹅诞生日",
+    "badgeTopThreeDesc": "完成周年庆典金色相册挑战",
+    "badgePrevDesc": "完成周年庆典金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "203": {
+    "badgeID": 203,
+    "badgeName": "轻装远行",
+    "badgeTopThreeDesc": "完成远行之旅金色相册挑战",
+    "badgePrevDesc": "完成远行之旅金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20401": {
+    "badgeID": 20401,
+    "badgeName": "星旅龙蛋",
+    "badgeTopThreeDesc": "完成冒险之旅普通相册挑战",
+    "badgePrevDesc": "完成冒险之旅普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20402": {
+    "badgeID": 20402,
+    "badgeName": "飞龙奇旅",
+    "badgeTopThreeDesc": "完成冒险之旅金色相册挑战",
+    "badgePrevDesc": "完成冒险之旅金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20501": {
+    "badgeID": 20501,
+    "badgeName": "怀旧时光",
+    "badgeTopThreeDesc": "完成探案寻踪普通相册挑战",
+    "badgePrevDesc": "完成探案寻踪普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20502": {
+    "badgeID": 20502,
+    "badgeName": "雾都神探",
+    "badgeTopThreeDesc": "完成探案寻踪金色相册挑战",
+    "badgePrevDesc": "完成探案寻踪金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20601": {
+    "badgeID": 20601,
+    "badgeName": "跃动新星",
+    "badgeTopThreeDesc": "完成运动竞技普通相册挑战",
+    "badgePrevDesc": "完成运动竞技普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20602": {
+    "badgeID": 20602,
+    "badgeName": "赛场焦点",
+    "badgeTopThreeDesc": "完成运动竞技金色相册挑战",
+    "badgePrevDesc": "完成运动竞技金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20701": {
+    "badgeID": 20701,
+    "badgeName": "巧手心裁",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20702": {
+    "badgeID": 20702,
+    "badgeName": "时尚先锋",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20801": {
+    "badgeID": 20801,
+    "badgeName": "汤姆来到",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20802": {
+    "badgeID": 20802,
+    "badgeName": "最佳搭档",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20901": {
+    "badgeID": 20901,
+    "badgeName": "杰瑞来到",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "20902": {
+    "badgeID": 20902,
+    "badgeName": "奶酪猎手",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21001": {
+    "badgeID": 21001,
+    "badgeName": "星光之梦",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21002": {
+    "badgeID": 21002,
+    "badgeName": "捕梦之网",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21101": {
+    "badgeID": 21101,
+    "badgeName": "水晶之梦",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21102": {
+    "badgeID": 21102,
+    "badgeName": "舞会梦旅",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21201": {
+    "badgeID": 21201,
+    "badgeName": "熊猫叠叠",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21202": {
+    "badgeID": 21202,
+    "badgeName": "吉祥四宝",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21301": {
+    "badgeID": 21301,
+    "badgeName": "刹那烟火",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21302": {
+    "badgeID": 21302,
+    "badgeName": "流光之夜",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21401": {
+    "badgeID": 21401,
+    "badgeName": "抱蕊蝶踪",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21402": {
+    "badgeID": 21402,
+    "badgeName": "蝶影恋花",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21501": {
+    "badgeID": 21501,
+    "badgeName": "七彩绮旅",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21502": {
+    "badgeID": 21502,
+    "badgeName": "玩具城池",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21601": {
+    "badgeID": 21601,
+    "badgeName": "缎带之心",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21602": {
+    "badgeID": 21602,
+    "badgeName": "兔偶甜心",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21701": {
+    "badgeID": 21701,
+    "badgeName": "庆典邮票",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21702": {
+    "badgeID": 21702,
+    "badgeName": "童心熊偶",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21801": {
+    "badgeID": 21801,
+    "badgeName": "烈日之轮",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21802": {
+    "badgeID": 21802,
+    "badgeName": "光耀之章",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21901": {
+    "badgeID": 21901,
+    "badgeName": "星轨罗盘",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "21902": {
+    "badgeID": 21902,
+    "badgeName": "星月之环",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "22001": {
+    "badgeID": 22001,
+    "badgeName": "流辉星月",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "22002": {
+    "badgeID": 22002,
+    "badgeName": "星月纹章",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "22101": {
+    "badgeID": 22101,
+    "badgeName": "馨香满怀",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "22102": {
+    "badgeID": 22102,
+    "badgeName": "花开有期",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "23101": {
+    "badgeID": 23101,
+    "badgeName": "蝶舞翩跹",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "23102": {
+    "badgeID": 23102,
+    "badgeName": "蝶恋花影",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "23201": {
+    "badgeID": 23201,
+    "badgeName": "侍宴茶杯",
+    "badgeTopThreeDesc": "完成{0}普通相册挑战",
+    "badgePrevDesc": "完成{0}普通相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  },
+  "23202": {
+    "badgeID": 23202,
+    "badgeName": "鎏金茗壶",
+    "badgeTopThreeDesc": "完成{0}金色相册挑战",
+    "badgePrevDesc": "完成{0}金色相册挑战可获得",
+    "badgeTime": "{0}于{1}年{2}月{3}日获得"
+  }
+}

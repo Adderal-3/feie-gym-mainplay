@@ -1,0 +1,359 @@
+{
+  "s3": {
+    "id": "s3",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20401": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20402": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 1,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s2": {
+    "id": "s2",
+    "firstReward": {
+      "Energy": 1000,
+      "Element98731": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge203": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 2,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s4": {
+    "id": "s4",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20501": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20502": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 3,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s5": {
+    "id": "s5",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20601": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20602": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 4,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s6": {
+    "id": "s6",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20701": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20702": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 5,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s7": {
+    "id": "s7",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20801": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20802": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 6,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s8": {
+    "id": "s8",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge20901": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge20902": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 7,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s9": {
+    "id": "s9",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21001": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21002": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 8,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s10": {
+    "id": "s10",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21101": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21102": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 9,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s11": {
+    "id": "s11",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21201": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21202": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 10,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s12": {
+    "id": "s12",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21301": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21302": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 11,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s13": {
+    "id": "s13",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21401": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21402": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 12,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s14": {
+    "id": "s14",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21501": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21502": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 13,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s15": {
+    "id": "s15",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21601": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21602": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 14,
+    "ruleGroupCondition": "",
+    "DrawRule2Prefix": "",
+    "NewRule2Prefix": ""
+  },
+  "s16": {
+    "id": "s16",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21701": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21702": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 15,
+    "ruleGroupCondition": "return rid % 2",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v1"
+  },
+  "s17": {
+    "id": "s17",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21801": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21802": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 16,
+    "ruleGroupCondition": "return (rid + 1) % 2",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v1"
+  },
+  "s18": {
+    "id": "s18",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge21901": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge21902": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 17,
+    "ruleGroupCondition": "return 1",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v2"
+  },
+  "s19": {
+    "id": "s19",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge22001": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge22002": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 18,
+    "ruleGroupCondition": "return 1",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v2"
+  },
+  "s20": {
+    "id": "s20",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge22101": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge22102": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 19,
+    "ruleGroupCondition": "return 1",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v2"
+  },
+  "s21": {
+    "id": "s21",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge23101": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge23102": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 20,
+    "ruleGroupCondition": "return 1",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v2"
+  },
+  "s22": {
+    "id": "s22",
+    "firstReward": {
+      "Energy": 1000,
+      "Badge23201": 1,
+      "Diamond": 1000
+    },
+    "secondReward": {
+      "Energy": 1200,
+      "Badge23202": 1,
+      "Diamond": 1500
+    },
+    "passRewardMailID": 21,
+    "ruleGroupCondition": "return 1",
+    "DrawRule2Prefix": "v1",
+    "NewRule2Prefix": "v2"
+  }
+}

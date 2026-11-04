@@ -1,0 +1,46 @@
+{
+  "1": {
+    "mvpId": 1,
+    "mvpProgressStage": 2,
+    "mvpReward": {
+      "teamVersusStar": 1
+    },
+    "mvpReward2": {
+      "Energy": 20
+    },
+    "IsLoop": 0
+  },
+  "2": {
+    "mvpId": 2,
+    "mvpProgressStage": 3,
+    "mvpReward": {
+      "teamVersusStar": 1
+    },
+    "mvpReward2": {
+      "Energy": 30
+    },
+    "IsLoop": 0
+  },
+  "3": {
+    "mvpId": 3,
+    "mvpProgressStage": 3,
+    "mvpReward": {
+      "teamVersusStar": 1
+    },
+    "mvpReward2": {
+      "Energy": 50
+    },
+    "IsLoop": 1
+  },
+  "4": {
+    "mvpId": 4,
+    "mvpProgressStage": 3,
+    "mvpReward": {
+      "teamVersusStar": 1
+    },
+    "mvpReward2": {
+      "Diamond": 20
+    },
+    "IsLoop": 1
+  }
+}

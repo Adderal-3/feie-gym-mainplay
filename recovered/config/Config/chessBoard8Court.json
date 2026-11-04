@@ -1,0 +1,94 @@
+{
+  "1": {
+    "ID": 1,
+    "rankReward": [
+      {
+        "ChessVIIIRankPoint": 5
+      },
+      {
+        "ChessVIIIRankPoint": 4
+      },
+      {
+        "ChessVIIIRankPoint": 3
+      },
+      {
+        "ChessVIIIRankPoint": 2
+      },
+      {
+        "ChessVIIIRankPoint": 1
+      }
+    ],
+    "courtPoint": 2,
+    "courtReward": 1,
+    "courtUnlock": 0
+  },
+  "2": {
+    "ID": 2,
+    "rankReward": [
+      {
+        "ChessVIIIRankPoint": 10
+      },
+      {
+        "ChessVIIIRankPoint": 9
+      },
+      {
+        "ChessVIIIRankPoint": 5
+      },
+      {
+        "ChessVIIIRankPoint": 3
+      },
+      {
+        "ChessVIIIRankPoint": 1
+      }
+    ],
+    "courtPoint": 6,
+    "courtReward": 2,
+    "courtUnlock": 28800
+  },
+  "3": {
+    "ID": 3,
+    "rankReward": [
+      {
+        "ChessVIIIRankPoint": 30
+      },
+      {
+        "ChessVIIIRankPoint": 12
+      },
+      {
+        "ChessVIIIRankPoint": 6
+      },
+      {
+        "ChessVIIIRankPoint": 4
+      },
+      {
+        "ChessVIIIRankPoint": 1
+      }
+    ],
+    "courtPoint": 30,
+    "courtReward": 3,
+    "courtUnlock": 57600
+  },
+  "4": {
+    "ID": 4,
+    "rankReward": [
+      {
+        "ChessVIIIRankPoint": 40
+      },
+      {
+        "ChessVIIIRankPoint": 16
+      },
+      {
+        "ChessVIIIRankPoint": 7
+      },
+      {
+        "ChessVIIIRankPoint": 5
+      },
+      {
+        "ChessVIIIRankPoint": 1
+      }
+    ],
+    "courtPoint": 40,
+    "courtReward": 4,
+    "courtUnlock": 86400
+  }
+}

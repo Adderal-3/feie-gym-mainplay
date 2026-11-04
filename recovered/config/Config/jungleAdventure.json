@@ -1,0 +1,22 @@
+{
+  "jungle1": {
+    "id": "jungle1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "chooseGearConfig": "jungleGear1",
+    "stageConfig": "jungleStage1",
+    "passUpGear": 1,
+    "failResetTimes": 2,
+    "resetUseFormula": 1,
+    "countdown": 1800,
+    "enterDialog": 18271,
+    "finalDialog": 18272,
+    "colors": [
+      "purple",
+      "blue",
+      "yellow"
+    ],
+    "graphID": "jungle1"
+  }
+}

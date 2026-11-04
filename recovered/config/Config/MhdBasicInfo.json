@@ -1,0 +1,62 @@
+{
+  "mhd1": {
+    "id": "mhd1",
+    "unlock": [
+      "playerLevel12"
+    ],
+    "startEventCoin": 0,
+    "missionSeries": 1,
+    "hotMissionSeries": 2,
+    "hotEffectiveTime": "2025/04/24 00:00:00",
+    "kanbanGoose": "xiehuafeieUI",
+    "targetAdornskin": 600105,
+    "tabColor": "#5E866B",
+    "progressColor": "#5E866B",
+    "lineColor": "#ffd7a6"
+  },
+  "mhd2": {
+    "id": "mhd2",
+    "unlock": [
+      "playerLevel12"
+    ],
+    "startEventCoin": 0,
+    "missionSeries": 2,
+    "hotMissionSeries": 0,
+    "hotEffectiveTime": "",
+    "kanbanGoose": "ataiUI",
+    "targetAdornskin": 0,
+    "tabColor": "#5787ca",
+    "progressColor": "#c77431",
+    "lineColor": "#bad9f4"
+  },
+  "mhd3": {
+    "id": "mhd3",
+    "unlock": [
+      "playerLevel12"
+    ],
+    "startEventCoin": 0,
+    "missionSeries": 2,
+    "hotMissionSeries": 0,
+    "hotEffectiveTime": "",
+    "kanbanGoose": "ataiUI",
+    "targetAdornskin": 1200503,
+    "tabColor": "#B05E64",
+    "progressColor": "#B05E64",
+    "lineColor": "#F3BFBF"
+  },
+  "mhd4": {
+    "id": "mhd4",
+    "unlock": [
+      "playerLevel12"
+    ],
+    "startEventCoin": 0,
+    "missionSeries": 2,
+    "hotMissionSeries": 0,
+    "hotEffectiveTime": "",
+    "kanbanGoose": "ataiUI",
+    "targetAdornskin": 700105,
+    "tabColor": "#B05E64",
+    "progressColor": "#B05E64",
+    "lineColor": "#F3BFBF"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "alap1": {
+    "99700101": {
+      "giftId": 99700101,
+      "reward": {
+        "AdornSkin100110": 1
+      },
+      "backupReward": {
+        "Diamond": 60
+      }
+    },
+    "99700102": {
+      "giftId": 99700102,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700103": {
+      "giftId": 99700103,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    }
+  },
+  "alap2": {
+    "99700201": {
+      "giftId": 99700201,
+      "reward": {
+        "AdornSkin100111": 1
+      },
+      "backupReward": {
+        "Diamond": 60
+      }
+    },
+    "99700202": {
+      "giftId": 99700202,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700203": {
+      "giftId": 99700203,
+      "reward": {
+        "Energy": 300
+      },
+      "backupReward": {
+        "Energy": 300
+      }
+    }
+  },
+  "alap3": {
+    "99700301": {
+      "giftId": 99700301,
+      "reward": {
+        "Goose1066": 1
+      },
+      "backupReward": {
+        "Goose1066": 1
+      }
+    },
+    "99700302": {
+      "giftId": 99700302,
+      "reward": {
+        "Diamond": 200
+      },
+      "backupReward": {
+        "Diamond": 200
+      }
+    },
+    "99700303": {
+      "giftId": 99700303,
+      "reward": {
+        "Energy": 100
+      },
+      "backupReward": {
+        "Energy": 100
+      }
+    }
+  },
+  "alap4": {
+    "99700401": {
+      "giftId": 99700401,
+      "reward": {
+        "AdornSkin1201704": 1
+      },
+      "backupReward": {
+        "AdornSkin1201704": 1
+      }
+    },
+    "99700402": {
+      "giftId": 99700402,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700403": {
+      "giftId": 99700403,
+      "reward": {
+        "Energy": 260
+      },
+      "backupReward": {
+        "Energy": 260
+      }
+    }
+  },
+  "alap5": {
+    "99700501": {
+      "giftId": 99700501,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700502": {
+      "giftId": 99700502,
+      "reward": {
+        "Energy": 260
+      },
+      "backupReward": {
+        "Energy": 260
+      }
+    },
+    "99700503": {
+      "giftId": 99700503,
+      "reward": {
+        "Goose2088": 1
+      },
+      "backupReward": {
+        "Goose2088": 1
+      }
+    }
+  },
+  "alap6": {
+    "99700601": {
+      "giftId": 99700601,
+      "reward": {
+        "Energy": 260
+      },
+      "backupReward": {
+        "Energy": 260
+      }
+    },
+    "99700602": {
+      "giftId": 99700602,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700603": {
+      "giftId": 99700603,
+      "reward": {
+        "Goose2088": 1
+      },
+      "backupReward": {
+        "Goose2088": 1
+      }
+    }
+  },
+  "alap7": {
+    "99700701": {
+      "giftId": 99700701,
+      "reward": {
+        "Goose2088": 1
+      },
+      "backupReward": {
+        "Goose2088": 1
+      }
+    },
+    "99700702": {
+      "giftId": 99700702,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700703": {
+      "giftId": 99700703,
+      "reward": {
+        "Energy": 260
+      },
+      "backupReward": {
+        "Energy": 260
+      }
+    }
+  },
+  "alap8": {
+    "99700801": {
+      "giftId": 99700801,
+      "reward": {
+        "Energy": 260
+      },
+      "backupReward": {
+        "Energy": 260
+      }
+    },
+    "99700802": {
+      "giftId": 99700802,
+      "reward": {
+        "Diamond": 120
+      },
+      "backupReward": {
+        "Diamond": 120
+      }
+    },
+    "99700803": {
+      "giftId": 99700803,
+      "reward": {
+        "AdornSkin102607": 1
+      },
+      "backupReward": {
+        "AdornSkin102607": 1
+      }
+    }
+  }
+}

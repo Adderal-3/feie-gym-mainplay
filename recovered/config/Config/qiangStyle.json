@@ -1,0 +1,16 @@
+{
+  "qiang": {
+    "type": "qiang",
+    "windowBg": "bg_qiang",
+    "titleBg": "bg_title_green",
+    "titleKey": "qiang_title",
+    "descKey": "qiang_desc"
+  },
+  "gu": {
+    "type": "gu",
+    "windowBg": "bg_gu",
+    "titleBg": "bg_title_green",
+    "titleKey": "gu_title",
+    "descKey": "gu_desc"
+  }
+}

@@ -1,0 +1,5873 @@
+{
+  "dive1": {
+    "1001": {
+      "id": 1001,
+      "raceIndex": 0,
+      "orderDifficulty": 20,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        50
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1002": {
+      "id": 1002,
+      "raceIndex": 0,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        1,
+        4
+      ],
+      "realReturn": [
+        1,
+        3
+      ]
+    },
+    "1003": {
+      "id": 1003,
+      "raceIndex": 0,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        11
+      ],
+      "realReturn": [
+        3,
+        9
+      ]
+    },
+    "1004": {
+      "id": 1004,
+      "raceIndex": 1,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1005": {
+      "id": 1005,
+      "raceIndex": 1,
+      "orderDifficulty": 20,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        50
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        6
+      ],
+      "realReturn": [
+        2,
+        5
+      ]
+    },
+    "1006": {
+      "id": 1006,
+      "raceIndex": 1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        10
+      ],
+      "realReturn": [
+        3,
+        8
+      ]
+    },
+    "1007": {
+      "id": 1007,
+      "raceIndex": 1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        17
+      ],
+      "realReturn": [
+        5,
+        14
+      ]
+    },
+    "1008": {
+      "id": 1008,
+      "raceIndex": 1,
+      "orderDifficulty": 20,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        10,
+        50
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        24
+      ],
+      "realReturn": [
+        7,
+        20
+      ]
+    },
+    "1009": {
+      "id": 1009,
+      "raceIndex": 2,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1010": {
+      "id": 1010,
+      "raceIndex": 2,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        6
+      ],
+      "realReturn": [
+        2,
+        5
+      ]
+    },
+    "1011": {
+      "id": 1011,
+      "raceIndex": 2,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        13
+      ],
+      "realReturn": [
+        4,
+        11
+      ]
+    },
+    "1012": {
+      "id": 1012,
+      "raceIndex": 3,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1013": {
+      "id": 1013,
+      "raceIndex": 3,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        10
+      ],
+      "realReturn": [
+        3,
+        8
+      ]
+    },
+    "1014": {
+      "id": 1014,
+      "raceIndex": 3,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        14
+      ],
+      "realReturn": [
+        4,
+        12
+      ]
+    },
+    "1015": {
+      "id": 1015,
+      "raceIndex": 3,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        24
+      ],
+      "realReturn": [
+        7,
+        20
+      ]
+    },
+    "1016": {
+      "id": 1016,
+      "raceIndex": 3,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        29
+      ],
+      "realReturn": [
+        8,
+        24
+      ]
+    },
+    "1017": {
+      "id": 1017,
+      "raceIndex": 3,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        38
+      ],
+      "realReturn": [
+        11,
+        32
+      ]
+    },
+    "1018": {
+      "id": 1018,
+      "raceIndex": 3,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        43
+      ],
+      "realReturn": [
+        12,
+        36
+      ]
+    },
+    "1019": {
+      "id": 1019,
+      "raceIndex": 4,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1020": {
+      "id": 1020,
+      "raceIndex": 4,
+      "orderDifficulty": 65,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        33,
+        163
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        8
+      ],
+      "realReturn": [
+        3,
+        7
+      ]
+    },
+    "1021": {
+      "id": 1021,
+      "raceIndex": 4,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        20
+      ],
+      "realReturn": [
+        6,
+        17
+      ]
+    },
+    "1022": {
+      "id": 1022,
+      "raceIndex": 4,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        28
+      ],
+      "realReturn": [
+        8,
+        23
+      ]
+    },
+    "1023": {
+      "id": 1023,
+      "raceIndex": 4,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        8,
+        35
+      ],
+      "realReturn": [
+        10,
+        29
+      ]
+    },
+    "1024": {
+      "id": 1024,
+      "raceIndex": 5,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1025": {
+      "id": 1025,
+      "raceIndex": 5,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        7
+      ],
+      "realReturn": [
+        2,
+        6
+      ]
+    },
+    "1026": {
+      "id": 1026,
+      "raceIndex": 5,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        14
+      ],
+      "realReturn": [
+        4,
+        12
+      ]
+    },
+    "1027": {
+      "id": 1027,
+      "raceIndex": 5,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        20
+      ],
+      "realReturn": [
+        6,
+        17
+      ]
+    },
+    "1028": {
+      "id": 1028,
+      "raceIndex": 5,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        32
+      ],
+      "realReturn": [
+        9,
+        27
+      ]
+    },
+    "1029": {
+      "id": 1029,
+      "raceIndex": 5,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        38
+      ],
+      "realReturn": [
+        11,
+        32
+      ]
+    },
+    "1030": {
+      "id": 1030,
+      "raceIndex": 5,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        47
+      ],
+      "realReturn": [
+        13,
+        39
+      ]
+    },
+    "1031": {
+      "id": 1031,
+      "raceIndex": 6,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1032": {
+      "id": 1032,
+      "raceIndex": 6,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        10
+      ],
+      "realReturn": [
+        3,
+        8
+      ]
+    },
+    "1033": {
+      "id": 1033,
+      "raceIndex": 6,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        14
+      ],
+      "realReturn": [
+        4,
+        12
+      ]
+    },
+    "1034": {
+      "id": 1034,
+      "raceIndex": 6,
+      "orderDifficulty": 30,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        15,
+        75
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        28
+      ],
+      "realReturn": [
+        8,
+        23
+      ]
+    },
+    "1035": {
+      "id": 1035,
+      "raceIndex": 6,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        32
+      ],
+      "realReturn": [
+        9,
+        27
+      ]
+    },
+    "1036": {
+      "id": 1036,
+      "raceIndex": 7,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1037": {
+      "id": 1037,
+      "raceIndex": 7,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        7
+      ],
+      "realReturn": [
+        7,
+        6
+      ]
+    },
+    "1038": {
+      "id": 1038,
+      "raceIndex": 7,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        8,
+        17
+      ],
+      "realReturn": [
+        10,
+        14
+      ]
+    },
+    "1039": {
+      "id": 1039,
+      "raceIndex": 7,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        29
+      ],
+      "realReturn": [
+        13,
+        24
+      ]
+    },
+    "1040": {
+      "id": 1040,
+      "raceIndex": 7,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        12,
+        36
+      ],
+      "realReturn": [
+        15,
+        30
+      ]
+    },
+    "1041": {
+      "id": 1041,
+      "raceIndex": 7,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        46
+      ],
+      "realReturn": [
+        18,
+        38
+      ]
+    },
+    "1042": {
+      "id": 1042,
+      "raceIndex": 7,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        17,
+        56
+      ],
+      "realReturn": [
+        21,
+        47
+      ]
+    },
+    "1043": {
+      "id": 1043,
+      "raceIndex": -1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "1044": {
+      "id": 1044,
+      "raceIndex": -1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        7
+      ],
+      "realReturn": [
+        7,
+        6
+      ]
+    },
+    "1045": {
+      "id": 1045,
+      "raceIndex": -1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        8,
+        17
+      ],
+      "realReturn": [
+        10,
+        14
+      ]
+    },
+    "1046": {
+      "id": 1046,
+      "raceIndex": -1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        29
+      ],
+      "realReturn": [
+        13,
+        24
+      ]
+    },
+    "1047": {
+      "id": 1047,
+      "raceIndex": -1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        12,
+        36
+      ],
+      "realReturn": [
+        15,
+        30
+      ]
+    },
+    "1048": {
+      "id": 1048,
+      "raceIndex": -1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        46
+      ],
+      "realReturn": [
+        18,
+        38
+      ]
+    },
+    "1049": {
+      "id": 1049,
+      "raceIndex": -1,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        17,
+        56
+      ],
+      "realReturn": [
+        21,
+        47
+      ]
+    }
+  },
+  "dive2": {
+    "2001": {
+      "id": 2001,
+      "raceIndex": 0,
+      "orderDifficulty": 23,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        12,
+        58
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2002": {
+      "id": 2002,
+      "raceIndex": 0,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        5
+      ],
+      "realReturn": [
+        2,
+        4
+      ]
+    },
+    "2003": {
+      "id": 2003,
+      "raceIndex": 0,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        13
+      ],
+      "realReturn": [
+        4,
+        11
+      ]
+    },
+    "2004": {
+      "id": 2004,
+      "raceIndex": 1,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2005": {
+      "id": 2005,
+      "raceIndex": 1,
+      "orderDifficulty": 23,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        12,
+        58
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        7
+      ],
+      "realReturn": [
+        2,
+        6
+      ]
+    },
+    "2006": {
+      "id": 2006,
+      "raceIndex": 1,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        11
+      ],
+      "realReturn": [
+        3,
+        9
+      ]
+    },
+    "2007": {
+      "id": 2007,
+      "raceIndex": 1,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        19
+      ],
+      "realReturn": [
+        6,
+        16
+      ]
+    },
+    "2008": {
+      "id": 2008,
+      "raceIndex": 1,
+      "orderDifficulty": 23,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        12,
+        58
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        28
+      ],
+      "realReturn": [
+        8,
+        23
+      ]
+    },
+    "2009": {
+      "id": 2009,
+      "raceIndex": 2,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2010": {
+      "id": 2010,
+      "raceIndex": 2,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        7
+      ],
+      "realReturn": [
+        2,
+        6
+      ]
+    },
+    "2011": {
+      "id": 2011,
+      "raceIndex": 2,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        14
+      ],
+      "realReturn": [
+        4,
+        12
+      ]
+    },
+    "2012": {
+      "id": 2012,
+      "raceIndex": 3,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2013": {
+      "id": 2013,
+      "raceIndex": 3,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        11
+      ],
+      "realReturn": [
+        3,
+        9
+      ]
+    },
+    "2014": {
+      "id": 2014,
+      "raceIndex": 3,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        17
+      ],
+      "realReturn": [
+        5,
+        14
+      ]
+    },
+    "2015": {
+      "id": 2015,
+      "raceIndex": 3,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        26
+      ],
+      "realReturn": [
+        8,
+        22
+      ]
+    },
+    "2016": {
+      "id": 2016,
+      "raceIndex": 3,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        32
+      ],
+      "realReturn": [
+        9,
+        27
+      ]
+    },
+    "2017": {
+      "id": 2017,
+      "raceIndex": 3,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        43
+      ],
+      "realReturn": [
+        12,
+        36
+      ]
+    },
+    "2018": {
+      "id": 2018,
+      "raceIndex": 3,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        11,
+        49
+      ],
+      "realReturn": [
+        14,
+        41
+      ]
+    },
+    "2019": {
+      "id": 2019,
+      "raceIndex": 4,
+      "orderDifficulty": 51,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        26,
+        128
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2020": {
+      "id": 2020,
+      "raceIndex": 4,
+      "orderDifficulty": 73,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        37,
+        183
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        10
+      ],
+      "realReturn": [
+        3,
+        8
+      ]
+    },
+    "2021": {
+      "id": 2021,
+      "raceIndex": 4,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        23
+      ],
+      "realReturn": [
+        7,
+        19
+      ]
+    },
+    "2022": {
+      "id": 2022,
+      "raceIndex": 4,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        31
+      ],
+      "realReturn": [
+        9,
+        26
+      ]
+    },
+    "2023": {
+      "id": 2023,
+      "raceIndex": 4,
+      "orderDifficulty": 68,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        34,
+        170
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        40
+      ],
+      "realReturn": [
+        11,
+        33
+      ]
+    },
+    "2024": {
+      "id": 2024,
+      "raceIndex": 5,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2025": {
+      "id": 2025,
+      "raceIndex": 5,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        8
+      ],
+      "realReturn": [
+        3,
+        7
+      ]
+    },
+    "2026": {
+      "id": 2026,
+      "raceIndex": 5,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        17
+      ],
+      "realReturn": [
+        5,
+        14
+      ]
+    },
+    "2027": {
+      "id": 2027,
+      "raceIndex": 5,
+      "orderDifficulty": 79,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        40,
+        198
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        23
+      ],
+      "realReturn": [
+        7,
+        19
+      ]
+    },
+    "2028": {
+      "id": 2028,
+      "raceIndex": 5,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        37
+      ],
+      "realReturn": [
+        11,
+        31
+      ]
+    },
+    "2029": {
+      "id": 2029,
+      "raceIndex": 5,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        43
+      ],
+      "realReturn": [
+        12,
+        36
+      ]
+    },
+    "2030": {
+      "id": 2030,
+      "raceIndex": 5,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        12,
+        53
+      ],
+      "realReturn": [
+        15,
+        44
+      ]
+    },
+    "2031": {
+      "id": 2031,
+      "raceIndex": 6,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2032": {
+      "id": 2032,
+      "raceIndex": 6,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        11
+      ],
+      "realReturn": [
+        3,
+        9
+      ]
+    },
+    "2033": {
+      "id": 2033,
+      "raceIndex": 6,
+      "orderDifficulty": 79,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        40,
+        198
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        17
+      ],
+      "realReturn": [
+        5,
+        14
+      ]
+    },
+    "2034": {
+      "id": 2034,
+      "raceIndex": 6,
+      "orderDifficulty": 34,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        17,
+        85
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        31
+      ],
+      "realReturn": [
+        9,
+        26
+      ]
+    },
+    "2035": {
+      "id": 2035,
+      "raceIndex": 6,
+      "orderDifficulty": 79,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        40,
+        198
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        37
+      ],
+      "realReturn": [
+        11,
+        31
+      ]
+    },
+    "2036": {
+      "id": 2036,
+      "raceIndex": 7,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2037": {
+      "id": 2037,
+      "raceIndex": 7,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        8
+      ],
+      "realReturn": [
+        8,
+        7
+      ]
+    },
+    "2038": {
+      "id": 2038,
+      "raceIndex": 7,
+      "orderDifficulty": 79,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        40,
+        198
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        19
+      ],
+      "realReturn": [
+        11,
+        16
+      ]
+    },
+    "2039": {
+      "id": 2039,
+      "raceIndex": 7,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        12,
+        32
+      ],
+      "realReturn": [
+        15,
+        27
+      ]
+    },
+    "2040": {
+      "id": 2040,
+      "raceIndex": 7,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        41
+      ],
+      "realReturn": [
+        17,
+        34
+      ]
+    },
+    "2041": {
+      "id": 2041,
+      "raceIndex": 7,
+      "orderDifficulty": 68,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        34,
+        170
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        16,
+        52
+      ],
+      "realReturn": [
+        20,
+        43
+      ]
+    },
+    "2042": {
+      "id": 2042,
+      "raceIndex": 7,
+      "orderDifficulty": 101,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        51,
+        253
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        19,
+        64
+      ],
+      "realReturn": [
+        24,
+        53
+      ]
+    },
+    "2043": {
+      "id": 2043,
+      "raceIndex": -1,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "2044": {
+      "id": 2044,
+      "raceIndex": -1,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        8
+      ],
+      "realReturn": [
+        8,
+        7
+      ]
+    },
+    "2045": {
+      "id": 2045,
+      "raceIndex": -1,
+      "orderDifficulty": 79,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        40,
+        198
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        19
+      ],
+      "realReturn": [
+        11,
+        16
+      ]
+    },
+    "2046": {
+      "id": 2046,
+      "raceIndex": -1,
+      "orderDifficulty": 45,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        23,
+        113
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        12,
+        32
+      ],
+      "realReturn": [
+        15,
+        27
+      ]
+    },
+    "2047": {
+      "id": 2047,
+      "raceIndex": -1,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        41
+      ],
+      "realReturn": [
+        17,
+        34
+      ]
+    },
+    "2048": {
+      "id": 2048,
+      "raceIndex": -1,
+      "orderDifficulty": 68,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        34,
+        170
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        16,
+        52
+      ],
+      "realReturn": [
+        20,
+        43
+      ]
+    },
+    "2049": {
+      "id": 2049,
+      "raceIndex": -1,
+      "orderDifficulty": 101,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        51,
+        253
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        19,
+        64
+      ],
+      "realReturn": [
+        24,
+        53
+      ]
+    }
+  },
+  "dive3": {
+    "3001": {
+      "id": 3001,
+      "raceIndex": 0,
+      "orderDifficulty": 25,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13,
+        63
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3002": {
+      "id": 3002,
+      "raceIndex": 0,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        5
+      ],
+      "realReturn": [
+        2,
+        4
+      ]
+    },
+    "3003": {
+      "id": 3003,
+      "raceIndex": 0,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        14
+      ],
+      "realReturn": [
+        4,
+        12
+      ]
+    },
+    "3004": {
+      "id": 3004,
+      "raceIndex": 1,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3005": {
+      "id": 3005,
+      "raceIndex": 1,
+      "orderDifficulty": 25,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13,
+        63
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        7
+      ],
+      "realReturn": [
+        2,
+        6
+      ]
+    },
+    "3006": {
+      "id": 3006,
+      "raceIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        12
+      ],
+      "realReturn": [
+        4,
+        10
+      ]
+    },
+    "3007": {
+      "id": 3007,
+      "raceIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        20
+      ],
+      "realReturn": [
+        6,
+        17
+      ]
+    },
+    "3008": {
+      "id": 3008,
+      "raceIndex": 1,
+      "orderDifficulty": 25,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        13,
+        63
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        30
+      ],
+      "realReturn": [
+        9,
+        25
+      ]
+    },
+    "3009": {
+      "id": 3009,
+      "raceIndex": 2,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3010": {
+      "id": 3010,
+      "raceIndex": 2,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        7
+      ],
+      "realReturn": [
+        2,
+        6
+      ]
+    },
+    "3011": {
+      "id": 3011,
+      "raceIndex": 2,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        17
+      ],
+      "realReturn": [
+        5,
+        14
+      ]
+    },
+    "3012": {
+      "id": 3012,
+      "raceIndex": 3,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3013": {
+      "id": 3013,
+      "raceIndex": 3,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        12
+      ],
+      "realReturn": [
+        4,
+        10
+      ]
+    },
+    "3014": {
+      "id": 3014,
+      "raceIndex": 3,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        19
+      ],
+      "realReturn": [
+        6,
+        16
+      ]
+    },
+    "3015": {
+      "id": 3015,
+      "raceIndex": 3,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        30
+      ],
+      "realReturn": [
+        9,
+        25
+      ]
+    },
+    "3016": {
+      "id": 3016,
+      "raceIndex": 3,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        9,
+        37
+      ],
+      "realReturn": [
+        11,
+        31
+      ]
+    },
+    "3017": {
+      "id": 3017,
+      "raceIndex": 3,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        11,
+        48
+      ],
+      "realReturn": [
+        14,
+        40
+      ]
+    },
+    "3018": {
+      "id": 3018,
+      "raceIndex": 3,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        13,
+        55
+      ],
+      "realReturn": [
+        16,
+        46
+      ]
+    },
+    "3019": {
+      "id": 3019,
+      "raceIndex": 4,
+      "orderDifficulty": 56,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        28,
+        140
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3020": {
+      "id": 3020,
+      "raceIndex": 4,
+      "orderDifficulty": 81,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        41,
+        203
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        11
+      ],
+      "realReturn": [
+        3,
+        9
+      ]
+    },
+    "3021": {
+      "id": 3021,
+      "raceIndex": 4,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        25
+      ],
+      "realReturn": [
+        7,
+        21
+      ]
+    },
+    "3022": {
+      "id": 3022,
+      "raceIndex": 4,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        8,
+        35
+      ],
+      "realReturn": [
+        10,
+        29
+      ]
+    },
+    "3023": {
+      "id": 3023,
+      "raceIndex": 4,
+      "orderDifficulty": 75,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        38,
+        188
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        43
+      ],
+      "realReturn": [
+        12,
+        36
+      ]
+    },
+    "3024": {
+      "id": 3024,
+      "raceIndex": 5,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3025": {
+      "id": 3025,
+      "raceIndex": 5,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        2,
+        10
+      ],
+      "realReturn": [
+        3,
+        8
+      ]
+    },
+    "3026": {
+      "id": 3026,
+      "raceIndex": 5,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        4,
+        18
+      ],
+      "realReturn": [
+        5,
+        15
+      ]
+    },
+    "3027": {
+      "id": 3027,
+      "raceIndex": 5,
+      "orderDifficulty": 88,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        44,
+        220
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        6,
+        25
+      ],
+      "realReturn": [
+        7,
+        21
+      ]
+    },
+    "3028": {
+      "id": 3028,
+      "raceIndex": 5,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        41
+      ],
+      "realReturn": [
+        12,
+        34
+      ]
+    },
+    "3029": {
+      "id": 3029,
+      "raceIndex": 5,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        11,
+        48
+      ],
+      "realReturn": [
+        14,
+        40
+      ]
+    },
+    "3030": {
+      "id": 3030,
+      "raceIndex": 5,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        60
+      ],
+      "realReturn": [
+        17,
+        50
+      ]
+    },
+    "3031": {
+      "id": 3031,
+      "raceIndex": 6,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3032": {
+      "id": 3032,
+      "raceIndex": 6,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        3,
+        12
+      ],
+      "realReturn": [
+        4,
+        10
+      ]
+    },
+    "3033": {
+      "id": 3033,
+      "raceIndex": 6,
+      "orderDifficulty": 88,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        44,
+        220
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        5,
+        19
+      ],
+      "realReturn": [
+        6,
+        16
+      ]
+    },
+    "3034": {
+      "id": 3034,
+      "raceIndex": 6,
+      "orderDifficulty": 38,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        19,
+        95
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        8,
+        35
+      ],
+      "realReturn": [
+        10,
+        29
+      ]
+    },
+    "3035": {
+      "id": 3035,
+      "raceIndex": 6,
+      "orderDifficulty": 88,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        44,
+        220
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        42
+      ],
+      "realReturn": [
+        12,
+        35
+      ]
+    },
+    "3036": {
+      "id": 3036,
+      "raceIndex": 7,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3037": {
+      "id": 3037,
+      "raceIndex": 7,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        10
+      ],
+      "realReturn": [
+        9,
+        8
+      ]
+    },
+    "3038": {
+      "id": 3038,
+      "raceIndex": 7,
+      "orderDifficulty": 88,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        44,
+        220
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        20
+      ],
+      "realReturn": [
+        12,
+        17
+      ]
+    },
+    "3039": {
+      "id": 3039,
+      "raceIndex": 7,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        37
+      ],
+      "realReturn": [
+        17,
+        31
+      ]
+    },
+    "3040": {
+      "id": 3040,
+      "raceIndex": 7,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        15,
+        46
+      ],
+      "realReturn": [
+        19,
+        38
+      ]
+    },
+    "3041": {
+      "id": 3041,
+      "raceIndex": 7,
+      "orderDifficulty": 75,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        38,
+        188
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        18,
+        58
+      ],
+      "realReturn": [
+        22,
+        48
+      ]
+    },
+    "3042": {
+      "id": 3042,
+      "raceIndex": 7,
+      "orderDifficulty": 113,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        57,
+        283
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        21,
+        71
+      ],
+      "realReturn": [
+        26,
+        59
+      ]
+    },
+    "3043": {
+      "id": 3043,
+      "raceIndex": -1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        5
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [],
+      "realReturn": []
+    },
+    "3044": {
+      "id": 3044,
+      "raceIndex": -1,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        4
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        7,
+        10
+      ],
+      "realReturn": [
+        9,
+        8
+      ]
+    },
+    "3045": {
+      "id": 3045,
+      "raceIndex": -1,
+      "orderDifficulty": 88,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        44,
+        220
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        10,
+        20
+      ],
+      "realReturn": [
+        12,
+        17
+      ]
+    },
+    "3046": {
+      "id": 3046,
+      "raceIndex": -1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        14,
+        37
+      ],
+      "realReturn": [
+        17,
+        31
+      ]
+    },
+    "3047": {
+      "id": 3047,
+      "raceIndex": -1,
+      "orderDifficulty": 63,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        32,
+        158
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Clean"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        15,
+        46
+      ],
+      "realReturn": [
+        19,
+        38
+      ]
+    },
+    "3048": {
+      "id": 3048,
+      "raceIndex": -1,
+      "orderDifficulty": 75,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        38,
+        188
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        18,
+        58
+      ],
+      "realReturn": [
+        22,
+        48
+      ]
+    },
+    "3049": {
+      "id": 3049,
+      "raceIndex": -1,
+      "orderDifficulty": 113,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "autoDifficultyRange": [
+        1.2,
+        1.5
+      ],
+      "legalRange": [
+        57,
+        283
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "fakeReturn": [
+        21,
+        71
+      ],
+      "realReturn": [
+        26,
+        59
+      ]
+    }
+  }
+}

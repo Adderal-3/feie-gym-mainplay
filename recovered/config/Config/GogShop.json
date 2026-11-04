@@ -1,0 +1,118 @@
+{
+  "1": {
+    "id": 1,
+    "adCount": 2,
+    "price": {
+      "Diamond": 3
+    },
+    "addCount": 2,
+    "Cof": 0,
+    "refreshInventory": 49999
+  },
+  "2": {
+    "id": 2,
+    "adCount": 2,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "3": {
+    "id": 3,
+    "adCount": 1,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "4": {
+    "id": 4,
+    "adCount": 0,
+    "price": {
+      "Diamond": 20
+    },
+    "addCount": 10,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "5": {
+    "id": 5,
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 0,
+    "Cof": 2,
+    "refreshInventory": 32
+  },
+  "6": {
+    "id": 6,
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "7": {
+    "id": 7,
+    "adCount": 1,
+    "price": {
+      "Diamond": 3
+    },
+    "addCount": 2,
+    "Cof": 0,
+    "refreshInventory": 49999
+  },
+  "8": {
+    "id": 8,
+    "adCount": 1,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "9": {
+    "id": 9,
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "10": {
+    "id": 10,
+    "adCount": 0,
+    "price": {
+      "Diamond": 20
+    },
+    "addCount": 10,
+    "Cof": 0,
+    "refreshInventory": 9999
+  },
+  "11": {
+    "id": 11,
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 0,
+    "Cof": 2,
+    "refreshInventory": 32
+  },
+  "12": {
+    "id": 12,
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "refreshInventory": 9999
+  }
+}

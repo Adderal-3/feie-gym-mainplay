@@ -1,0 +1,138 @@
+{
+  "1001": {
+    "id": "1001",
+    "unlock": "PlayerLevel7",
+    "img": "img_DG_bg_01",
+    "progressBarStep": [
+      50,
+      50,
+      60,
+      60
+    ],
+    "progressReward": [
+      {
+        "90901": 1
+      },
+      {
+        "Energy": 10
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Goose2043": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "entranceOrder": 1,
+    "icon": "icon_DG_bg_01",
+    "entranceDialog": 7011
+  },
+  "1002": {
+    "id": "1002",
+    "unlock": "PlayerLevel7",
+    "img": "img_DG_bg_02",
+    "progressBarStep": [
+      360,
+      580,
+      810,
+      1250
+    ],
+    "progressReward": [
+      {
+        "70401": 1
+      },
+      {
+        "70402": 1
+      },
+      {
+        "70403": 1
+      },
+      {
+        "Uniform3002": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "entranceOrder": 2,
+    "icon": "icon_DG_bg_02",
+    "entranceDialog": 7011
+  },
+  "1003": {
+    "id": "1003",
+    "unlock": "PlayerLevel7",
+    "img": "img_DG_bg_03",
+    "progressBarStep": [
+      360,
+      580,
+      1260,
+      1400,
+      3400
+    ],
+    "progressReward": [
+      {
+        "Diamond": 30
+      },
+      {
+        "Diamond": 150
+      },
+      {
+        "Diamond": 300
+      },
+      {
+        "Diamond": 800
+      },
+      {
+        "Diamond": 1250
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "entranceOrder": 3,
+    "icon": "icon_DG_bg_03",
+    "entranceDialog": 7011
+  },
+  "1004": {
+    "id": "1004",
+    "unlock": "PlayerLevel7",
+    "img": "img_DG_bg_03",
+    "progressBarStep": [
+      360,
+      880,
+      1760
+    ],
+    "progressReward": [
+      {
+        "AdornSkin1201504": 1
+      },
+      {
+        "AdornSkin1201404": 1
+      },
+      {
+        "AdornSkin1201604": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1,
+      1
+    ],
+    "entranceOrder": 4,
+    "icon": "icon_DG_bg_03",
+    "entranceDialog": 7011
+  }
+}

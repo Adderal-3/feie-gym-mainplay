@@ -1,0 +1,28 @@
+{
+  "cardBuff1": {
+    "1": {
+      "id": 1,
+      "rangeLeft": 10,
+      "rangeRight": 40,
+      "packId": 1
+    },
+    "2": {
+      "id": 2,
+      "rangeLeft": 40,
+      "rangeRight": 80,
+      "packId": 2
+    },
+    "3": {
+      "id": 3,
+      "rangeLeft": 80,
+      "rangeRight": 160,
+      "packId": 3
+    },
+    "4": {
+      "id": 4,
+      "rangeLeft": 160,
+      "rangeRight": -1,
+      "packId": 4
+    }
+  }
+}

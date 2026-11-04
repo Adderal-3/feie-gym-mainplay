@@ -1,0 +1,215 @@
+{
+  "dive1": {
+    "id": "dive1",
+    "router": [
+      "dive3",
+      "dive2",
+      "dive1"
+    ],
+    "reward": [
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "BuffProp3": 1
+      }
+    ],
+    "arriveTimes": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "reward2": [
+      {
+        "9820001": 1,
+        "Film8": 1
+      },
+      {
+        "9820001": 1,
+        "Film3": 1
+      },
+      {
+        "Film4": 1,
+        "Energy": 30
+      },
+      {
+        "Film5": 1,
+        "MhdIIBlindBox3": 1
+      }
+    ],
+    "time": [
+      1800,
+      3600,
+      1800,
+      7200,
+      3600,
+      7200,
+      3600,
+      7200
+    ]
+  },
+  "dive2": {
+    "id": "dive2",
+    "router": [
+      "dive3",
+      "dive2",
+      "dive1"
+    ],
+    "reward": [
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "BuffProp3": 1
+      }
+    ],
+    "arriveTimes": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "reward2": [
+      {
+        "9820001": 1,
+        "Film8": 1
+      },
+      {
+        "9820001": 1,
+        "Film3": 1
+      },
+      {
+        "Film4": 1,
+        "Energy": 30
+      },
+      {
+        "Film5": 1,
+        "MhdIIBlindBox3": 1
+      }
+    ],
+    "time": [
+      1800,
+      3600,
+      1800,
+      7200,
+      3600,
+      7200,
+      3600,
+      7200
+    ]
+  },
+  "dive3": {
+    "id": "dive3",
+    "router": [
+      "dive3",
+      "dive2",
+      "dive1"
+    ],
+    "reward": [
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "BuffProp3": 1
+      },
+      {
+        "BuffProp3": 1
+      }
+    ],
+    "arriveTimes": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "reward2": [
+      {
+        "9820001": 1,
+        "Film8": 1
+      },
+      {
+        "9820001": 1,
+        "Film3": 1
+      },
+      {
+        "Film4": 1,
+        "Energy": 30
+      },
+      {
+        "Film5": 1,
+        "MhdIIBlindBox3": 1
+      }
+    ],
+    "time": [
+      1800,
+      3600,
+      1800,
+      7200,
+      3600,
+      7200,
+      3600,
+      7200
+    ]
+  }
+}

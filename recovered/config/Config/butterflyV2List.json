@@ -1,0 +1,103 @@
+{
+  "fashion1": {
+    "id": "fashion1",
+    "router": [
+      "fashion1_1",
+      "fashion1_2"
+    ],
+    "unlock": "PlayerLevel20",
+    "rankPointLeast": 4000,
+    "gooseNPC": 2114,
+    "progressBarStep": [
+      10,
+      20,
+      40,
+      60,
+      100,
+      160,
+      240,
+      320,
+      400,
+      500,
+      600,
+      700,
+      850,
+      1000,
+      1000
+    ],
+    "progressReward": [
+      {
+        "98808": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "98302": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "9820002": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "98303": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "generatorId": 33601,
+    "recoveryElementSeries": [
+      "Butterfly_1",
+      "Butterfly_2",
+      "Butterfly_3",
+      "Butterfly_4",
+      "Butterfly_5"
+    ],
+    "recycleChangeTo": 99101,
+    "elementGraphId": "butterflyOrder1"
+  }
+}

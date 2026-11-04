@@ -1,0 +1,22 @@
+{
+  "Base": {
+    "actType": "Base",
+    "title": "赛季特惠",
+    "desc": "相纸包商店促销中！"
+  },
+  "XL": {
+    "actType": "XL",
+    "title": "赛季特惠",
+    "desc": "加量相纸包商店促销中！"
+  },
+  "Basegold": {
+    "actType": "Basegold",
+    "title": "赛季特惠",
+    "desc": "金色相纸包商店促销中！"
+  },
+  "XLgold": {
+    "actType": "XLgold",
+    "title": "赛季特惠",
+    "desc": "加量金色相纸包商店促销中！"
+  }
+}

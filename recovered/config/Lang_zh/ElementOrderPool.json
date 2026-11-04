@@ -1,0 +1,654 @@
+{
+  "1301": {
+    "id": 1301,
+    "elementOrderDesc": "贪心的小啵啵，快拿金币贿赂它！"
+  },
+  "1302": {
+    "id": 1302,
+    "elementOrderDesc": "“给我金币，我要好多金币！”"
+  },
+  "1303": {
+    "id": 1303,
+    "elementOrderDesc": "飞来飞去的小蝙蝠，请注意瞄准！"
+  },
+  "1304": {
+    "id": 1304,
+    "elementOrderDesc": "“波拿拿，借一下你的香蕉！”"
+  },
+  "1305": {
+    "id": 1305,
+    "elementOrderDesc": "一击命中！十环！"
+  },
+  "1306": {
+    "id": 1306,
+    "elementOrderDesc": "“看拳！看拳！”"
+  },
+  "1307": {
+    "id": 1307,
+    "elementOrderDesc": "“螺丝刀出击，糟糕，又砸歪了！”"
+  },
+  "1308": {
+    "id": 1308,
+    "elementOrderDesc": "树妖来了，开始战斗！"
+  },
+  "1309": {
+    "id": 1309,
+    "elementOrderDesc": "“用可乐敲它脑袋！”"
+  },
+  "1310": {
+    "id": 1310,
+    "elementOrderDesc": "用咖啡浇它的根！"
+  },
+  "1311": {
+    "id": 1311,
+    "elementOrderDesc": "快用酒精喷走它！"
+  },
+  "1312": {
+    "id": 1312,
+    "elementOrderDesc": "用酒精制作燃烧弹！"
+  },
+  "1313": {
+    "id": 1313,
+    "elementOrderDesc": "抄起健身轮砸过去。"
+  },
+  "1314": {
+    "id": 1314,
+    "elementOrderDesc": "“看招！看招！”铁饼来袭！"
+  },
+  "1315": {
+    "id": 1315,
+    "elementOrderDesc": "独眼绒绒，要瞄准它的弱点进攻！"
+  },
+  "1316": {
+    "id": 1316,
+    "elementOrderDesc": "一个杠铃，两个杠铃，嘿咻！"
+  },
+  "1317": {
+    "id": 1317,
+    "elementOrderDesc": "健身器材连击！"
+  },
+  "1318": {
+    "id": 1318,
+    "elementOrderDesc": "浇点水在身上，小心火焰！"
+  },
+  "1319": {
+    "id": 1319,
+    "elementOrderDesc": "抄起蛋白粉罐子丢过去！"
+  },
+  "1320": {
+    "id": 1320,
+    "elementOrderDesc": "丢过去，砸歪了，再来一瓶！"
+  },
+  "1321": {
+    "id": 1321,
+    "elementOrderDesc": "戴上手套，小心使用电锯！"
+  },
+  "1322": {
+    "id": 1322,
+    "elementOrderDesc": "“吼——呼！”躲避火焰！补充体力！"
+  },
+  "1323": {
+    "id": 1323,
+    "elementOrderDesc": "快把这些蔬菜吃完！别想跑！"
+  },
+  "1324": {
+    "id": 1324,
+    "elementOrderDesc": "喝完的易拉罐还能用来打怪！"
+  },
+  "1325": {
+    "id": 1325,
+    "elementOrderDesc": "啵啵王分裂了，掏出陈年扳手揍它！"
+  },
+  "1326": {
+    "id": 1326,
+    "elementOrderDesc": "抄起铁饼，再换壶铃！"
+  },
+  "1327": {
+    "id": 1327,
+    "elementOrderDesc": "给食物里下泻药！"
+  },
+  "1328": {
+    "id": 1328,
+    "elementOrderDesc": "“快丢臭袜子熏走它！”"
+  },
+  "1329": {
+    "id": 1329,
+    "elementOrderDesc": "“呀啊啊啊啊！有老鼠！”"
+  },
+  "1330": {
+    "id": 1330,
+    "elementOrderDesc": "去捡几个易拉罐当武器！"
+  },
+  "1331": {
+    "id": 1331,
+    "elementOrderDesc": "苹果核没打中，快换香蕉皮！"
+  },
+  "1332": {
+    "id": 1332,
+    "elementOrderDesc": "猫猫出动，挠它！"
+  },
+  "1333": {
+    "id": 1333,
+    "elementOrderDesc": "“好痒，好痒呀！”"
+  },
+  "1334": {
+    "id": 1334,
+    "elementOrderDesc": "“把花拿开！我花粉过敏！”"
+  },
+  "1335": {
+    "id": 1335,
+    "elementOrderDesc": "“啊——阿嚏！”"
+  },
+  "1336": {
+    "id": 1336,
+    "elementOrderDesc": "“痒死了！羊死了！”"
+  },
+  "1337": {
+    "id": 1337,
+    "elementOrderDesc": "培育花树熏走怪物！"
+  },
+  "1338": {
+    "id": 1338,
+    "elementOrderDesc": "一把钳子，再来一把钳子！"
+  },
+  "1339": {
+    "id": 1339,
+    "elementOrderDesc": "举起垃圾箱，砸它！"
+  },
+  "1340": {
+    "id": 1340,
+    "elementOrderDesc": "小老鼠也出动！"
+  },
+  "1341": {
+    "id": 1341,
+    "elementOrderDesc": "易拉罐也能当武器！"
+  },
+  "1342": {
+    "id": 1342,
+    "elementOrderDesc": "“快丢臭袜子熏走它！”"
+  },
+  "1343": {
+    "id": 1343,
+    "elementOrderDesc": "用可乐瓶攻击火龙！"
+  },
+  "1344": {
+    "id": 1344,
+    "elementOrderDesc": "给我吃的就不搞破坏了！"
+  },
+  "1345": {
+    "id": 1345,
+    "elementOrderDesc": "上酒精喷雾！咦怎么火势变大了？"
+  },
+  "1346": {
+    "id": 1346,
+    "elementOrderDesc": "接水朝火龙泼去！"
+  },
+  "1347": {
+    "id": 1347,
+    "elementOrderDesc": "顺手把咖啡泼过去！"
+  },
+  "1348": {
+    "id": 1348,
+    "elementOrderDesc": "给小龙喂点牛奶吧！"
+  },
+  "1349": {
+    "id": 1349,
+    "elementOrderDesc": "刚孵出的小龙，需要营养。"
+  },
+  "1350": {
+    "id": 1350,
+    "elementOrderDesc": "用可颂贿赂小龙！"
+  },
+  "1351": {
+    "id": 1351,
+    "elementOrderDesc": "小龙想要小花花！"
+  },
+  "1352": {
+    "id": 1352,
+    "elementOrderDesc": "为刚出生的小龙处理伤口。"
+  },
+  "1353": {
+    "id": 1353,
+    "elementOrderDesc": "嗖嗖嗖嗖，箭无虚发！小蝙蝠看招！"
+  },
+  "1354": {
+    "id": 1354,
+    "elementOrderDesc": "让这大家伙见识我的实力！"
+  },
+  "1355": {
+    "id": 1355,
+    "elementOrderDesc": "与自然共鸣……魔法的力量！"
+  },
+  "1356": {
+    "id": 1356,
+    "elementOrderDesc": "星辰，月光……赐予我力量吧！"
+  },
+  "1357": {
+    "id": 1357,
+    "elementOrderDesc": "先砸脑袋，吃我一击！"
+  },
+  "1358": {
+    "id": 1358,
+    "elementOrderDesc": "给弹弓上子弹。"
+  },
+  "1359": {
+    "id": 1359,
+    "elementOrderDesc": "赶快浇灭火焰！"
+  },
+  "1360": {
+    "id": 1360,
+    "elementOrderDesc": "打了一个脑袋，还有一个！"
+  },
+  "1361": {
+    "id": 1361,
+    "elementOrderDesc": "熏跑你没商量！"
+  },
+  "1362": {
+    "id": 1362,
+    "elementOrderDesc": "花粉攻击！呀！花被烧着了！"
+  },
+  "1363": {
+    "id": 1363,
+    "elementOrderDesc": "麻布袋套头暴击！看我无影拳！"
+  },
+  "1364": {
+    "id": 1364,
+    "elementOrderDesc": "它被冰块冻住啦！快砸！"
+  },
+  "1365": {
+    "id": 1365,
+    "elementOrderDesc": "支架扔空了，换上壶铃！"
+  },
+  "1366": {
+    "id": 1366,
+    "elementOrderDesc": "游泳健身了解一下？！"
+  },
+  "1367": {
+    "id": 1367,
+    "elementOrderDesc": "办卡吗？不办卡就砸你！"
+  },
+  "1368": {
+    "id": 1368,
+    "elementOrderDesc": "嗖嗖嗖，抽出书本砸晕她！"
+  },
+  "1369": {
+    "id": 1369,
+    "elementOrderDesc": "一本，再来一本！！"
+  },
+  "1370": {
+    "id": 1370,
+    "elementOrderDesc": "拔下绿植扔过去！"
+  },
+  "1371": {
+    "id": 1371,
+    "elementOrderDesc": "用小拳拳锤它胸口！"
+  },
+  "1372": {
+    "id": 1372,
+    "elementOrderDesc": "把花做成燃烧瓶！"
+  },
+  "1373": {
+    "id": 1373,
+    "elementOrderDesc": "用冰块桶砸过去！"
+  },
+  "1374": {
+    "id": 1374,
+    "elementOrderDesc": "管钳出击！"
+  },
+  "1375": {
+    "id": 1375,
+    "elementOrderDesc": "健身轮连击，combo x4！"
+  },
+  "1801": {
+    "id": 1801,
+    "elementOrderDesc": "“和失恋那天的雨一样冰冷的梨。”"
+  },
+  "1802": {
+    "id": 1802,
+    "elementOrderDesc": "“要软糯一点的麦片和乳清干酪。送快点”"
+  },
+  "1803": {
+    "id": 1803,
+    "elementOrderDesc": "“要冰镇三文鱼，不把牙冻掉就投诉你们！”"
+  },
+  "1804": {
+    "id": 1804,
+    "elementOrderDesc": "“是胡萝卜益菌冻不是白萝卜，再送错就差评！”"
+  },
+  "1805": {
+    "id": 1805,
+    "elementOrderDesc": "“一斤冻好的胡萝卜，别敲门让我妈发现！！”"
+  },
+  "1806": {
+    "id": 1806,
+    "elementOrderDesc": "“冰镇胡萝卜泥，冰块分装，我自己加~”"
+  },
+  "1807": {
+    "id": 1807,
+    "elementOrderDesc": "“要乳清干酪啵啵冰，不要啵啵！”"
+  },
+  "1808": {
+    "id": 1808,
+    "elementOrderDesc": "您有新的鹅了么订单，冰酸奶，请尽快送达！"
+  },
+  "1809": {
+    "id": 1809,
+    "elementOrderDesc": "“一份鲜虾荞麦面和冰镇番茄汁，少糖去冰！”"
+  },
+  "1810": {
+    "id": 1810,
+    "elementOrderDesc": "客人需要南瓜酸奶冻和南瓜汁，真是南到家了。"
+  },
+  "2001": {
+    "id": 2001,
+    "elementOrderDesc": "挑灯对读夜窗书。"
+  },
+  "2002": {
+    "id": 2002,
+    "elementOrderDesc": "雪案苦读至夜分。"
+  },
+  "2003": {
+    "id": 2003,
+    "elementOrderDesc": "花囊纸鸢赠卿卿。"
+  },
+  "2101": {
+    "id": 2101,
+    "elementOrderDesc": "用发条能够唤醒沉睡的大章鱼！"
+  },
+  "2102": {
+    "id": 2102,
+    "elementOrderDesc": "用乐章启动竖琴的琴弦。"
+  },
+  "2103": {
+    "id": 2103,
+    "elementOrderDesc": "人鱼小姐丢失了自己的竖琴。"
+  },
+  "2201": {
+    "id": 2201,
+    "elementOrderDesc": "准备开始烧烤吧！"
+  },
+  "2202": {
+    "id": 2202,
+    "elementOrderDesc": "夜晚将至，一起点亮帐篷！"
+  },
+  "2301": {
+    "id": 2301,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "2401": {
+    "id": 2401,
+    "elementOrderDesc": "快马加鞭，荔枝献贡。"
+  },
+  "2402": {
+    "id": 2402,
+    "elementOrderDesc": "酥油裹馅，如嚼明月。"
+  },
+  "2403": {
+    "id": 2403,
+    "elementOrderDesc": "明月金樽，醉忘忧思。"
+  },
+  "2501": {
+    "id": 2501,
+    "elementOrderDesc": "男爵食谱：核桃和枫糖"
+  },
+  "2502": {
+    "id": 2502,
+    "elementOrderDesc": "男爵食谱：奶酪和松饼"
+  },
+  "2503": {
+    "id": 2503,
+    "elementOrderDesc": "男爵食谱：鲜血一般的橙子与补脑的核桃"
+  },
+  "2504": {
+    "id": 2504,
+    "elementOrderDesc": "男爵食谱：核桃甜甜圈"
+  },
+  "2505": {
+    "id": 2505,
+    "elementOrderDesc": "男爵食谱：核桃撒上糖针"
+  },
+  "2506": {
+    "id": 2506,
+    "elementOrderDesc": "男爵食谱：海盐榛子糖和补脑核桃"
+  },
+  "2507": {
+    "id": 2507,
+    "elementOrderDesc": "男爵食谱：核桃松饼"
+  },
+  "2508": {
+    "id": 2508,
+    "elementOrderDesc": "男爵食谱：松子泡芙"
+  },
+  "2509": {
+    "id": 2509,
+    "elementOrderDesc": "男爵食谱：芒果酸奶冻和七彩瓜子"
+  },
+  "2510": {
+    "id": 2510,
+    "elementOrderDesc": "男爵食谱：裹衣腰果和奶糖泡芙"
+  },
+  "3501": {
+    "id": 3501,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3502": {
+    "id": 3502,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3503": {
+    "id": 3503,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3504": {
+    "id": 3504,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3505": {
+    "id": 3505,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3506": {
+    "id": 3506,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3507": {
+    "id": 3507,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3508": {
+    "id": 3508,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3509": {
+    "id": 3509,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3510": {
+    "id": 3510,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3511": {
+    "id": 3511,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3512": {
+    "id": 3512,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3513": {
+    "id": 3513,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3514": {
+    "id": 3514,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3515": {
+    "id": 3515,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3516": {
+    "id": 3516,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3517": {
+    "id": 3517,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3518": {
+    "id": 3518,
+    "elementOrderDesc": "给钓鱼竿挂上鱼钩吧。"
+  },
+  "3601": {
+    "id": 3601,
+    "elementOrderDesc": "用扳手砸过去！"
+  },
+  "3602": {
+    "id": 3602,
+    "elementOrderDesc": "跳绳在哪，抽它！"
+  },
+  "3603": {
+    "id": 3603,
+    "elementOrderDesc": "捡起钳子丢过去！"
+  },
+  "3604": {
+    "id": 3604,
+    "elementOrderDesc": "吃完的苹果核当武器！"
+  },
+  "3605": {
+    "id": 3605,
+    "elementOrderDesc": "硬邦邦的贝果不要扔，砸过去！"
+  },
+  "3606": {
+    "id": 3606,
+    "elementOrderDesc": "举起柜子砸过去！"
+  },
+  "3607": {
+    "id": 3607,
+    "elementOrderDesc": "壶铃和柜子一起扔！"
+  },
+  "3608": {
+    "id": 3608,
+    "elementOrderDesc": "大力士请求出战！"
+  },
+  "3609": {
+    "id": 3609,
+    "elementOrderDesc": "抽屉连击！"
+  },
+  "3610": {
+    "id": 3610,
+    "elementOrderDesc": "掏出重物砸晕它！"
+  },
+  "3801": {
+    "id": 3801,
+    "elementOrderDesc": "一叶小舟，需要继续打磨。"
+  },
+  "3802": {
+    "id": 3802,
+    "elementOrderDesc": "只雕刻出了大致轮廓的龙船，好像还缺点什么？"
+  },
+  "3803": {
+    "id": 3803,
+    "elementOrderDesc": "攒够了货物才能出摊。"
+  },
+  "3804": {
+    "id": 3804,
+    "elementOrderDesc": "拿着存够的钱去采购！"
+  },
+  "3805": {
+    "id": 3805,
+    "elementOrderDesc": "要做一个甜粽子！"
+  },
+  "3806": {
+    "id": 3806,
+    "elementOrderDesc": "要做一个咸粽子！"
+  },
+  "3807": {
+    "id": 3807,
+    "elementOrderDesc": "放粽子的筐，赶快放满吧！"
+  },
+  "3808": {
+    "id": 3808,
+    "elementOrderDesc": "只雕刻出了大致轮廓的龙船，好像还缺点什么？"
+  },
+  "3809": {
+    "id": 3809,
+    "elementOrderDesc": "没精打采的鲤鱼需要食物！"
+  },
+  "3810": {
+    "id": 3810,
+    "elementOrderDesc": "巧妇难为无米之炊！"
+  },
+  "3811": {
+    "id": 3811,
+    "elementOrderDesc": "临摹《离骚》，感悟端午。"
+  },
+  "4101": {
+    "id": 4101,
+    "elementOrderDesc": "叮叮！亟待启动的魔术箱，静静躺在一旁。"
+  },
+  "4102": {
+    "id": 4102,
+    "elementOrderDesc": "泄露出一条小缝隙，露出五花八门的魔术道具。"
+  },
+  "4348": {
+    "id": 4348,
+    "elementOrderDesc": "一起点燃火箭吧！"
+  },
+  "4349": {
+    "id": 4349,
+    "elementOrderDesc": "寻找月光与玫瑰，孵化“呼噜”！"
+  },
+  "4380": {
+    "id": 4380,
+    "elementOrderDesc": "已经干涸太久，无法长出果实，急需灌溉！"
+  },
+  "4381": {
+    "id": 4381,
+    "elementOrderDesc": "长出了璀璨的黄金树叶，苹果仍需浇灌！"
+  },
+  "4408": {
+    "id": 4408,
+    "elementOrderDesc": "正在接通中，请稍后……"
+  },
+  "4409": {
+    "id": 4409,
+    "elementOrderDesc": "正在接通中，请稍后……"
+  },
+  "4410": {
+    "id": 4410,
+    "elementOrderDesc": "正在接通中，请稍后……"
+  },
+  "4411": {
+    "id": 4411,
+    "elementOrderDesc": "正在接通中，请稍后……"
+  },
+  "4412": {
+    "id": 4412,
+    "elementOrderDesc": "正在接通中，请稍后……"
+  },
+  "4433": {
+    "id": 4433,
+    "elementOrderDesc": "想要爆米花和薯片！"
+  },
+  "4434": {
+    "id": 4434,
+    "elementOrderDesc": "一份爆米花，再来一杯饮料吧！"
+  },
+  "4435": {
+    "id": 4435,
+    "elementOrderDesc": "饮料和薯片都要。"
+  },
+  "4436": {
+    "id": 4436,
+    "elementOrderDesc": "需要两份爆米花。"
+  },
+  "4437": {
+    "id": 4437,
+    "elementOrderDesc": "两杯饮料，谢谢！"
+  },
+  "4438": {
+    "id": 4438,
+    "elementOrderDesc": "可以给我两份薯片吗？"
+  }
+}

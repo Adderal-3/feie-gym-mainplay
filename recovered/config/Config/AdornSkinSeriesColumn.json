@@ -1,0 +1,198 @@
+{
+  "Main": {
+    "1": {
+      "id": 1,
+      "icon": "adorn_01",
+      "order": 3000,
+      "i18nType": []
+    },
+    "2": {
+      "id": 2,
+      "icon": "adorn_02",
+      "order": 2900,
+      "i18nType": []
+    },
+    "3": {
+      "id": 3,
+      "icon": "adorn_03",
+      "order": 2800,
+      "i18nType": []
+    },
+    "4": {
+      "id": 4,
+      "icon": "adorn_04",
+      "order": 2700,
+      "i18nType": []
+    },
+    "5": {
+      "id": 5,
+      "icon": "adorn_05",
+      "order": 2500,
+      "i18nType": []
+    },
+    "6": {
+      "id": 6,
+      "icon": "adorn_06",
+      "order": 2400,
+      "i18nType": []
+    },
+    "7": {
+      "id": 7,
+      "icon": "adorn_07",
+      "order": 2300,
+      "i18nType": []
+    },
+    "8": {
+      "id": 8,
+      "icon": "adorn_08",
+      "order": 2200,
+      "i18nType": []
+    },
+    "9": {
+      "id": 9,
+      "icon": "adorn_09",
+      "order": 2100,
+      "i18nType": []
+    },
+    "10": {
+      "id": 10,
+      "icon": "adorn_10",
+      "order": 2000,
+      "i18nType": []
+    },
+    "11": {
+      "id": 11,
+      "icon": "adorn_11",
+      "order": 1900,
+      "i18nType": []
+    },
+    "12": {
+      "id": 12,
+      "icon": "adorn_12",
+      "order": 1800,
+      "i18nType": []
+    },
+    "13": {
+      "id": 13,
+      "icon": "adorn_13",
+      "order": 1700,
+      "i18nType": []
+    },
+    "14": {
+      "id": 14,
+      "icon": "adorn_14",
+      "order": 1600,
+      "i18nType": []
+    },
+    "15": {
+      "id": 15,
+      "icon": "adorn_15",
+      "order": 800,
+      "i18nType": []
+    },
+    "16": {
+      "id": 16,
+      "icon": "adorn_16",
+      "order": 900,
+      "i18nType": []
+    },
+    "17": {
+      "id": 17,
+      "icon": "adorn_17",
+      "order": 1000,
+      "i18nType": []
+    },
+    "18": {
+      "id": 18,
+      "icon": "adorn_18",
+      "order": 1500,
+      "i18nType": []
+    },
+    "19": {
+      "id": 19,
+      "icon": "adorn_19",
+      "order": 1400,
+      "i18nType": []
+    },
+    "20": {
+      "id": 20,
+      "icon": "adorn_20",
+      "order": 1300,
+      "i18nType": []
+    },
+    "21": {
+      "id": 21,
+      "icon": "adorn_21",
+      "order": 1200,
+      "i18nType": []
+    },
+    "22": {
+      "id": 22,
+      "icon": "adorn_22",
+      "order": 1100,
+      "i18nType": []
+    },
+    "28": {
+      "id": 28,
+      "icon": "adorn_28",
+      "order": 700,
+      "i18nType": []
+    },
+    "29": {
+      "id": 29,
+      "icon": "adorn_29",
+      "order": 600,
+      "i18nType": []
+    },
+    "51": {
+      "id": 51,
+      "icon": "adorn_51",
+      "order": 2600,
+      "i18nType": []
+    },
+    "97": {
+      "id": 97,
+      "icon": "adorn_r",
+      "order": 500,
+      "i18nType": []
+    },
+    "98": {
+      "id": 98,
+      "icon": "adorn_p",
+      "order": 400,
+      "i18nType": []
+    },
+    "99": {
+      "id": 99,
+      "icon": "adorn_s",
+      "order": 300,
+      "i18nType": []
+    }
+  },
+  "Room": {
+    "999001": {
+      "id": 999001,
+      "icon": "adorn_1001",
+      "order": 500,
+      "i18nType": []
+    },
+    "999002": {
+      "id": 999002,
+      "icon": "room_02",
+      "order": 499,
+      "i18nType": []
+    },
+    "999003": {
+      "id": 999003,
+      "icon": "room_03",
+      "order": 498,
+      "i18nType": []
+    },
+    "999004": {
+      "id": 999004,
+      "icon": "room_04",
+      "order": 497,
+      "i18nType": []
+    }
+  }
+}

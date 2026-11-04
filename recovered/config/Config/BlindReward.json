@@ -1,0 +1,1501 @@
+{
+  "bb1": {
+    "101": {
+      "poolID": "101",
+      "reward": [
+        {
+          "Uniform1020": 1
+        },
+        {
+          "Uniform2020": 1
+        },
+        {
+          "Goose2037": 1
+        },
+        {
+          "AdornSkin301405": 1
+        },
+        {
+          "Coin": 888
+        },
+        {
+          "Energy": 188
+        },
+        {
+          "CardPoint": 888
+        },
+        {
+          "AdornCoupon": 88
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "102": {
+      "poolID": "102",
+      "reward": [
+        {
+          "AdornSkin300805": 1
+        },
+        {
+          "AdornSkin702104": 1
+        },
+        {
+          "AdornSkin400704": 1
+        },
+        {
+          "Coin": 588
+        },
+        {
+          "Energy": 88
+        },
+        {
+          "CardPoint": 588
+        },
+        {
+          "AdornCoupon": 58
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_05",
+      "rewardLight": "idle5",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "103": {
+      "poolID": "103",
+      "reward": [
+        {
+          "AdornSkin702004": 1
+        },
+        {
+          "AdornSkin500805": 1
+        },
+        {
+          "AdornSkin102604": 1
+        },
+        {
+          "Coin": 188
+        },
+        {
+          "Energy": 58
+        },
+        {
+          "CardPoint": 188
+        },
+        {
+          "AdornCoupon": 28
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_04",
+      "rewardLight": "idle4",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "104": {
+      "poolID": "104",
+      "reward": [
+        {
+          "Frame3033": 1
+        },
+        {
+          "Frame3032": 1
+        },
+        {
+          "Coin": 88
+        },
+        {
+          "Energy": 18
+        },
+        {
+          "CardPoint": 88
+        },
+        {
+          "AdornCoupon": 18
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_03",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "105": {
+      "poolID": "105",
+      "reward": [
+        {
+          "Coin": 68
+        },
+        {
+          "Energy": 8
+        },
+        {
+          "AdornCoupon": 8
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_02",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "106": {
+      "poolID": "106",
+      "reward": [
+        {
+          "Coin": 58
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "AdornCoupon": 5
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_01",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "111": {
+      "poolID": "111",
+      "reward": [
+        {
+          "Uniform1020": 1
+        },
+        {
+          "Uniform2020": 1
+        },
+        {
+          "Goose2037": 1
+        },
+        {
+          "AdornSkin301405": 1
+        },
+        {
+          "98701": 1
+        },
+        {
+          "98721": 1
+        },
+        {
+          "98731": 1
+        },
+        {
+          "AdornSkin300805": 1
+        },
+        {
+          "AdornSkin702104": 1
+        },
+        {
+          "AdornSkin400704": 1
+        },
+        {
+          "AdornSkin702004": 1
+        },
+        {
+          "AdornSkin500805": 1
+        },
+        {
+          "AdornSkin102604": 1
+        },
+        {
+          "Frame3033": 1
+        },
+        {
+          "Frame3032": 1
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 1,
+      "isLuckyBox": 1,
+      "rewardBelong": [
+        "101",
+        "101",
+        "101",
+        "101",
+        "111",
+        "111",
+        "111",
+        "102",
+        "102",
+        "102",
+        "103",
+        "103",
+        "103",
+        "104",
+        "104"
+      ]
+    }
+  },
+  "bb2": {
+    "201": {
+      "poolID": "201",
+      "reward": [
+        {
+          "Uniform1021": 1
+        },
+        {
+          "Uniform2021": 1
+        },
+        {
+          "Goose2013": 1
+        },
+        {
+          "AdornSkin201505": 1
+        },
+        {
+          "Coin": 6666
+        },
+        {
+          "Energy": 300
+        },
+        {
+          "CardPoint": 666
+        },
+        {
+          "AdornCoupon": 300
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "202": {
+      "poolID": "202",
+      "reward": [
+        {
+          "AdornSkin601006": 1
+        },
+        {
+          "AdornSkin601204": 1
+        },
+        {
+          "AdornSkin601604": 1
+        },
+        {
+          "Coin": 4000
+        },
+        {
+          "Energy": 200
+        },
+        {
+          "CardPoint": 366
+        },
+        {
+          "AdornCoupon": 220
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_05",
+      "rewardLight": "idle5",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "203": {
+      "poolID": "203",
+      "reward": [
+        {
+          "AdornSkin601804": 1
+        },
+        {
+          "AdornSkin601104": 1
+        },
+        {
+          "AdornSkin601904": 1
+        },
+        {
+          "Coin": 2000
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "CardPoint": 166
+        },
+        {
+          "AdornCoupon": 100
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_04",
+      "rewardLight": "idle4",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "204": {
+      "poolID": "204",
+      "reward": [
+        {
+          "Frame3037": 1
+        },
+        {
+          "Frame3036": 1
+        },
+        {
+          "Coin": 1500
+        },
+        {
+          "Energy": 20
+        },
+        {
+          "CardPoint": 66
+        },
+        {
+          "AdornCoupon": 50
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_03",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "205": {
+      "poolID": "205",
+      "reward": [
+        {
+          "Coin": 1000
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_02",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "206": {
+      "poolID": "206",
+      "reward": [
+        {
+          "Coin": 500
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_01",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "211": {
+      "poolID": "211",
+      "reward": [
+        {
+          "Uniform1021": 1
+        },
+        {
+          "Uniform2021": 1
+        },
+        {
+          "Goose2013": 1
+        },
+        {
+          "AdornSkin201505": 1
+        },
+        {
+          "98731": 1
+        },
+        {
+          "98701": 1
+        },
+        {
+          "98901": 1
+        },
+        {
+          "AdornSkin601006": 1
+        },
+        {
+          "AdornSkin601204": 1
+        },
+        {
+          "AdornSkin601604": 1
+        },
+        {
+          "AdornSkin601804": 1
+        },
+        {
+          "AdornSkin601904": 1
+        },
+        {
+          "AdornSkin601104": 1
+        },
+        {
+          "Frame3036": 1
+        },
+        {
+          "Frame3037": 1
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 1,
+      "isLuckyBox": 1,
+      "rewardBelong": [
+        "201",
+        "201",
+        "201",
+        "201",
+        "202",
+        "202",
+        "202",
+        "202",
+        "202",
+        "202",
+        "203",
+        "203",
+        "203",
+        "204",
+        "204"
+      ]
+    }
+  },
+  "bb3": {
+    "301": {
+      "poolID": "301",
+      "reward": [
+        {
+          "Uniform1023": 1
+        },
+        {
+          "Uniform2023": 1
+        },
+        {
+          "Goose2027": 1
+        },
+        {
+          "AdornSkin1101803": 1
+        },
+        {
+          "Coin": 6666
+        },
+        {
+          "Energy": 300
+        },
+        {
+          "CardPoint": 666
+        },
+        {
+          "AdornCoupon": 300
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "302": {
+      "poolID": "302",
+      "reward": [
+        {
+          "AdornSkin1100203": 1
+        },
+        {
+          "AdornSkin1101503": 1
+        },
+        {
+          "AdornSkin1101603": 1
+        },
+        {
+          "Coin": 4000
+        },
+        {
+          "Energy": 200
+        },
+        {
+          "CardPoint": 366
+        },
+        {
+          "AdornCoupon": 220
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_05",
+      "rewardLight": "idle5",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "303": {
+      "poolID": "303",
+      "reward": [
+        {
+          "AdornSkin1100503": 1
+        },
+        {
+          "AdornSkin1100803": 1
+        },
+        {
+          "AdornSkin1101203": 1
+        },
+        {
+          "Coin": 2000
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "CardPoint": 166
+        },
+        {
+          "AdornCoupon": 100
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_04",
+      "rewardLight": "idle4",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "304": {
+      "poolID": "304",
+      "reward": [
+        {
+          "Frame3045": 1
+        },
+        {
+          "Frame3046": 1
+        },
+        {
+          "Coin": 1500
+        },
+        {
+          "Energy": 20
+        },
+        {
+          "CardPoint": 66
+        },
+        {
+          "AdornCoupon": 50
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_03",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "305": {
+      "poolID": "305",
+      "reward": [
+        {
+          "Coin": 1000
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_02",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "306": {
+      "poolID": "306",
+      "reward": [
+        {
+          "Coin": 500
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_01",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "311": {
+      "poolID": "311",
+      "reward": [
+        {
+          "Uniform1023": 1
+        },
+        {
+          "Uniform2023": 1
+        },
+        {
+          "Goose2027": 1
+        },
+        {
+          "AdornSkin1101803": 1
+        },
+        {
+          "98731": 1
+        },
+        {
+          "98701": 1
+        },
+        {
+          "98901": 1
+        },
+        {
+          "AdornSkin1100203": 1
+        },
+        {
+          "AdornSkin1101503": 1
+        },
+        {
+          "AdornSkin1101603": 1
+        },
+        {
+          "AdornSkin1100503": 1
+        },
+        {
+          "AdornSkin1100803": 1
+        },
+        {
+          "AdornSkin1101203": 1
+        },
+        {
+          "Frame3045": 1
+        },
+        {
+          "Frame3046": 1
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 1,
+      "isLuckyBox": 1,
+      "rewardBelong": [
+        "301",
+        "301",
+        "301",
+        "301",
+        "302",
+        "302",
+        "302",
+        "302",
+        "302",
+        "302",
+        "303",
+        "303",
+        "303",
+        "304",
+        "304"
+      ]
+    }
+  },
+  "bb4": {
+    "401": {
+      "poolID": "401",
+      "reward": [
+        {
+          "Uniform3004": 1
+        },
+        {
+          "Uniform3005": 1
+        },
+        {
+          "Goose2058": 1
+        },
+        {
+          "AdornSkin201807": 1
+        },
+        {
+          "Coin": 6666
+        },
+        {
+          "Energy": 300
+        },
+        {
+          "CardPoint": 666
+        },
+        {
+          "AdornCoupon": 300
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "402": {
+      "poolID": "402",
+      "reward": [
+        {
+          "AdornSkin201905": 1
+        },
+        {
+          "AdornSkin201105": 1
+        },
+        {
+          "AdornSkin102606": 1
+        },
+        {
+          "Coin": 4000
+        },
+        {
+          "Energy": 200
+        },
+        {
+          "CardPoint": 366
+        },
+        {
+          "AdornCoupon": 220
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_05",
+      "rewardLight": "idle5",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "403": {
+      "poolID": "403",
+      "reward": [
+        {
+          "AdornSkin201206": 1
+        },
+        {
+          "AdornSkin201704": 1
+        },
+        {
+          "AdornSkin102104": 1
+        },
+        {
+          "Coin": 2000
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "CardPoint": 166
+        },
+        {
+          "AdornCoupon": 100
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_04",
+      "rewardLight": "idle4",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "404": {
+      "poolID": "404",
+      "reward": [
+        {
+          "Frame3049": 1
+        },
+        {
+          "Frame3050": 1
+        },
+        {
+          "Coin": 1500
+        },
+        {
+          "Energy": 20
+        },
+        {
+          "CardPoint": 66
+        },
+        {
+          "AdornCoupon": 50
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_03",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "405": {
+      "poolID": "405",
+      "reward": [
+        {
+          "Coin": 1000
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_02",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "406": {
+      "poolID": "406",
+      "reward": [
+        {
+          "Coin": 500
+        },
+        {
+          "Energy": 10
+        },
+        {
+          "AdornCoupon": 30
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_01",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "411": {
+      "poolID": "411",
+      "reward": [
+        {
+          "Uniform3004": 1
+        },
+        {
+          "Uniform3005": 1
+        },
+        {
+          "Goose2058": 1
+        },
+        {
+          "AdornSkin201807": 1
+        },
+        {
+          "98731": 1
+        },
+        {
+          "98701": 1
+        },
+        {
+          "98901": 1
+        },
+        {
+          "AdornSkin201905": 1
+        },
+        {
+          "AdornSkin201105": 1
+        },
+        {
+          "AdornSkin102606": 1
+        },
+        {
+          "AdornSkin201206": 1
+        },
+        {
+          "AdornSkin201704": 1
+        },
+        {
+          "AdornSkin102104": 1
+        },
+        {
+          "Frame3049": 1
+        },
+        {
+          "Frame3050": 1
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 1,
+      "isLuckyBox": 1,
+      "rewardBelong": [
+        "401",
+        "401",
+        "401",
+        "401",
+        "402",
+        "402",
+        "402",
+        "402",
+        "402",
+        "402",
+        "403",
+        "403",
+        "403",
+        "404",
+        "404"
+      ]
+    }
+  },
+  "bb5": {
+    "501": {
+      "poolID": "501",
+      "reward": [
+        {
+          "Uniform1021": 1
+        },
+        {
+          "Uniform2021": 1
+        },
+        {
+          "Goose2013": 1
+        },
+        {
+          "AdornSkin201505": 1
+        },
+        {
+          "Coin": 888
+        },
+        {
+          "Energy": 188
+        },
+        {
+          "CardPoint": 888
+        },
+        {
+          "AdornCoupon": 88
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "502": {
+      "poolID": "502",
+      "reward": [
+        {
+          "AdornSkin601006": 1
+        },
+        {
+          "AdornSkin601204": 1
+        },
+        {
+          "AdornSkin601604": 1
+        },
+        {
+          "AdornSkin400704": 1
+        },
+        {
+          "Coin": 588
+        },
+        {
+          "Energy": 88
+        },
+        {
+          "CardPoint": 588
+        },
+        {
+          "AdornCoupon": 58
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_05",
+      "rewardLight": "idle5",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "503": {
+      "poolID": "503",
+      "reward": [
+        {
+          "AdornSkin601804": 1
+        },
+        {
+          "AdornSkin601104": 1
+        },
+        {
+          "AdornSkin601904": 1
+        },
+        {
+          "Coin": 188
+        },
+        {
+          "Energy": 58
+        },
+        {
+          "CardPoint": 188
+        },
+        {
+          "AdornCoupon": 28
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_04",
+      "rewardLight": "idle4",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "504": {
+      "poolID": "504",
+      "reward": [
+        {
+          "Frame3037": 1
+        },
+        {
+          "Frame3036": 1
+        },
+        {
+          "Coin": 88
+        },
+        {
+          "Energy": 18
+        },
+        {
+          "CardPoint": 88
+        },
+        {
+          "AdornCoupon": 18
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_03",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "505": {
+      "poolID": "505",
+      "reward": [
+        {
+          "Coin": 68
+        },
+        {
+          "Energy": 8
+        },
+        {
+          "AdornCoupon": 8
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_02",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "506": {
+      "poolID": "506",
+      "reward": [
+        {
+          "Coin": 58
+        },
+        {
+          "Energy": 5
+        },
+        {
+          "AdornCoupon": 5
+        }
+      ],
+      "isBroadcast": [
+        0,
+        0,
+        0
+      ],
+      "rewardBg": "BB_bgreward_01",
+      "rewardLight": "",
+      "unique": 0,
+      "isLuckyBox": 0,
+      "rewardBelong": []
+    },
+    "511": {
+      "poolID": "511",
+      "reward": [
+        {
+          "Uniform1021": 1
+        },
+        {
+          "Uniform2021": 1
+        },
+        {
+          "Goose2013": 1
+        },
+        {
+          "AdornSkin201505": 1
+        },
+        {
+          "98701": 1
+        },
+        {
+          "98721": 1
+        },
+        {
+          "98731": 1
+        },
+        {
+          "AdornSkin601006": 1
+        },
+        {
+          "AdornSkin601204": 1
+        },
+        {
+          "AdornSkin601604": 1
+        },
+        {
+          "AdornSkin400704": 1
+        },
+        {
+          "AdornSkin601804": 1
+        },
+        {
+          "AdornSkin601904": 1
+        },
+        {
+          "AdornSkin601104": 1
+        },
+        {
+          "Frame3036": 1
+        },
+        {
+          "Frame3037": 1
+        }
+      ],
+      "isBroadcast": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rewardBg": "BB_bgreward_06",
+      "rewardLight": "idle6",
+      "unique": 1,
+      "isLuckyBox": 1,
+      "rewardBelong": [
+        "501",
+        "501",
+        "501",
+        "501",
+        "502",
+        "502",
+        "502",
+        "502",
+        "502",
+        "502",
+        "502",
+        "503",
+        "503",
+        "503",
+        "504",
+        "504"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2600 @@
+{
+  "skip1": {
+    "skip1_1004": {
+      "id": "skip1_1004",
+      "elementRecoverRateAct": 39,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1005": {
+      "id": "skip1_1005",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1006": {
+      "id": "skip1_1006",
+      "elementRecoverRateAct": 45,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1007": {
+      "id": "skip1_1007",
+      "elementRecoverRateAct": 46,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1008": {
+      "id": "skip1_1008",
+      "elementRecoverRateAct": 54,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1009": {
+      "id": "skip1_1009",
+      "elementRecoverRateAct": 62,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1010": {
+      "id": "skip1_1010",
+      "elementRecoverRateAct": 66,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1011": {
+      "id": "skip1_1011",
+      "elementRecoverRateAct": 68,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_1012": {
+      "id": "skip1_1012",
+      "elementRecoverRateAct": 68,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2004": {
+      "id": "skip1_2004",
+      "elementRecoverRateAct": 83,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2005": {
+      "id": "skip1_2005",
+      "elementRecoverRateAct": 83,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2006": {
+      "id": "skip1_2006",
+      "elementRecoverRateAct": 83,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2007": {
+      "id": "skip1_2007",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2008": {
+      "id": "skip1_2008",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2009": {
+      "id": "skip1_2009",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2010": {
+      "id": "skip1_2010",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2011": {
+      "id": "skip1_2011",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_2012": {
+      "id": "skip1_2012",
+      "elementRecoverRateAct": 86,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3005": {
+      "id": "skip1_3005",
+      "elementRecoverRateAct": 55,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3006": {
+      "id": "skip1_3006",
+      "elementRecoverRateAct": 55,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3007": {
+      "id": "skip1_3007",
+      "elementRecoverRateAct": 55,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3008": {
+      "id": "skip1_3008",
+      "elementRecoverRateAct": 60,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3009": {
+      "id": "skip1_3009",
+      "elementRecoverRateAct": 65,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3010": {
+      "id": "skip1_3010",
+      "elementRecoverRateAct": 70,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3011": {
+      "id": "skip1_3011",
+      "elementRecoverRateAct": 70,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_3012": {
+      "id": "skip1_3012",
+      "elementRecoverRateAct": 70,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4004": {
+      "id": "skip1_4004",
+      "elementRecoverRateAct": 400,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4005": {
+      "id": "skip1_4005",
+      "elementRecoverRateAct": 200,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4006": {
+      "id": "skip1_4006",
+      "elementRecoverRateAct": 134,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4007": {
+      "id": "skip1_4007",
+      "elementRecoverRateAct": 101,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4008": {
+      "id": "skip1_4008",
+      "elementRecoverRateAct": 81,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4009": {
+      "id": "skip1_4009",
+      "elementRecoverRateAct": 68,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_4010": {
+      "id": "skip1_4010",
+      "elementRecoverRateAct": 59,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5004": {
+      "id": "skip1_5004",
+      "elementRecoverRateAct": 500,
+      "elementCDCostAct": 17,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5005": {
+      "id": "skip1_5005",
+      "elementRecoverRateAct": 350,
+      "elementCDCostAct": 18,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5006": {
+      "id": "skip1_5006",
+      "elementRecoverRateAct": 280,
+      "elementCDCostAct": 21,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5007": {
+      "id": "skip1_5007",
+      "elementRecoverRateAct": 225,
+      "elementCDCostAct": 25,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5008": {
+      "id": "skip1_5008",
+      "elementRecoverRateAct": 200,
+      "elementCDCostAct": 27,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5009": {
+      "id": "skip1_5009",
+      "elementRecoverRateAct": 190,
+      "elementCDCostAct": 31,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5010": {
+      "id": "skip1_5010",
+      "elementRecoverRateAct": 180,
+      "elementCDCostAct": 35,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5011": {
+      "id": "skip1_5011",
+      "elementRecoverRateAct": 175,
+      "elementCDCostAct": 40,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5012": {
+      "id": "skip1_5012",
+      "elementRecoverRateAct": 175,
+      "elementCDCostAct": 44,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5101": {
+      "id": "skip1_5101",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 21600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip1_5102": {
+      "id": "skip1_5102",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 10800,
+      "unlockCostDiamondAct": 5
+    },
+    "skip1_5103": {
+      "id": "skip1_5103",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 3600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip1_5206": {
+      "id": "skip1_5206",
+      "elementRecoverRateAct": 550,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5207": {
+      "id": "skip1_5207",
+      "elementRecoverRateAct": 420,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5208": {
+      "id": "skip1_5208",
+      "elementRecoverRateAct": 340,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5209": {
+      "id": "skip1_5209",
+      "elementRecoverRateAct": 295,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_5210": {
+      "id": "skip1_5210",
+      "elementRecoverRateAct": 270,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6005": {
+      "id": "skip1_6005",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 4000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6006": {
+      "id": "skip1_6006",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 2000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6007": {
+      "id": "skip1_6007",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1880,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6008": {
+      "id": "skip1_6008",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1760,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6009": {
+      "id": "skip1_6009",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1640,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6010": {
+      "id": "skip1_6010",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1520,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6011": {
+      "id": "skip1_6011",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1400,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_6012": {
+      "id": "skip1_6012",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1280,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_7306": {
+      "id": "skip1_7306",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1800,
+      "AutoCDCostAct": 15,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_8005": {
+      "id": "skip1_8005",
+      "elementRecoverRateAct": 72,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_8006": {
+      "id": "skip1_8006",
+      "elementRecoverRateAct": 76,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_8007": {
+      "id": "skip1_8007",
+      "elementRecoverRateAct": 76,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_8008": {
+      "id": "skip1_8008",
+      "elementRecoverRateAct": 95,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_8009": {
+      "id": "skip1_8009",
+      "elementRecoverRateAct": 115,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9005": {
+      "id": "skip1_9005",
+      "elementRecoverRateAct": 135,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9006": {
+      "id": "skip1_9006",
+      "elementRecoverRateAct": 117,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9007": {
+      "id": "skip1_9007",
+      "elementRecoverRateAct": 90,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9008": {
+      "id": "skip1_9008",
+      "elementRecoverRateAct": 60,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9009": {
+      "id": "skip1_9009",
+      "elementRecoverRateAct": 43,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9010": {
+      "id": "skip1_9010",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9011": {
+      "id": "skip1_9011",
+      "elementRecoverRateAct": 23,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9012": {
+      "id": "skip1_9012",
+      "elementRecoverRateAct": 19,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_9207": {
+      "id": "skip1_9207",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 600,
+      "unlockCostDiamondAct": 9
+    },
+    "skip1_70805": {
+      "id": "skip1_70805",
+      "elementRecoverRateAct": 68,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70806": {
+      "id": "skip1_70806",
+      "elementRecoverRateAct": 70,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70807": {
+      "id": "skip1_70807",
+      "elementRecoverRateAct": 75,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70808": {
+      "id": "skip1_70808",
+      "elementRecoverRateAct": 77,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70809": {
+      "id": "skip1_70809",
+      "elementRecoverRateAct": 80,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70810": {
+      "id": "skip1_70810",
+      "elementRecoverRateAct": 82,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70905": {
+      "id": "skip1_70905",
+      "elementRecoverRateAct": 28,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70906": {
+      "id": "skip1_70906",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70907": {
+      "id": "skip1_70907",
+      "elementRecoverRateAct": 34,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70908": {
+      "id": "skip1_70908",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70909": {
+      "id": "skip1_70909",
+      "elementRecoverRateAct": 46,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70910": {
+      "id": "skip1_70910",
+      "elementRecoverRateAct": 52,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70911": {
+      "id": "skip1_70911",
+      "elementRecoverRateAct": 57,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_70912": {
+      "id": "skip1_70912",
+      "elementRecoverRateAct": 64,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip1_11002": {
+      "id": "skip1_11002",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 600,
+      "unlockCostDiamondAct": 3
+    }
+  },
+  "skip2": {
+    "skip2_1004": {
+      "id": "skip2_1004",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1005": {
+      "id": "skip2_1005",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1006": {
+      "id": "skip2_1006",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1007": {
+      "id": "skip2_1007",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1008": {
+      "id": "skip2_1008",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1009": {
+      "id": "skip2_1009",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1010": {
+      "id": "skip2_1010",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1011": {
+      "id": "skip2_1011",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_1012": {
+      "id": "skip2_1012",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2004": {
+      "id": "skip2_2004",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2005": {
+      "id": "skip2_2005",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2006": {
+      "id": "skip2_2006",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2007": {
+      "id": "skip2_2007",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2008": {
+      "id": "skip2_2008",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2009": {
+      "id": "skip2_2009",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2010": {
+      "id": "skip2_2010",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2011": {
+      "id": "skip2_2011",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_2012": {
+      "id": "skip2_2012",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3005": {
+      "id": "skip2_3005",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3006": {
+      "id": "skip2_3006",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3007": {
+      "id": "skip2_3007",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3008": {
+      "id": "skip2_3008",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3009": {
+      "id": "skip2_3009",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3010": {
+      "id": "skip2_3010",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3011": {
+      "id": "skip2_3011",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_3012": {
+      "id": "skip2_3012",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4004": {
+      "id": "skip2_4004",
+      "elementRecoverRateAct": 80,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4005": {
+      "id": "skip2_4005",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4006": {
+      "id": "skip2_4006",
+      "elementRecoverRateAct": 27,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4007": {
+      "id": "skip2_4007",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4008": {
+      "id": "skip2_4008",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4009": {
+      "id": "skip2_4009",
+      "elementRecoverRateAct": 14,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_4010": {
+      "id": "skip2_4010",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5004": {
+      "id": "skip2_5004",
+      "elementRecoverRateAct": 100,
+      "elementCDCostAct": 17,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5005": {
+      "id": "skip2_5005",
+      "elementRecoverRateAct": 70,
+      "elementCDCostAct": 18,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5006": {
+      "id": "skip2_5006",
+      "elementRecoverRateAct": 56,
+      "elementCDCostAct": 21,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5007": {
+      "id": "skip2_5007",
+      "elementRecoverRateAct": 45,
+      "elementCDCostAct": 25,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5008": {
+      "id": "skip2_5008",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 27,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5009": {
+      "id": "skip2_5009",
+      "elementRecoverRateAct": 38,
+      "elementCDCostAct": 31,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5010": {
+      "id": "skip2_5010",
+      "elementRecoverRateAct": 36,
+      "elementCDCostAct": 35,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5011": {
+      "id": "skip2_5011",
+      "elementRecoverRateAct": 35,
+      "elementCDCostAct": 40,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5012": {
+      "id": "skip2_5012",
+      "elementRecoverRateAct": 35,
+      "elementCDCostAct": 44,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5101": {
+      "id": "skip2_5101",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 21600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip2_5102": {
+      "id": "skip2_5102",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 10800,
+      "unlockCostDiamondAct": 5
+    },
+    "skip2_5103": {
+      "id": "skip2_5103",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 3600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip2_5206": {
+      "id": "skip2_5206",
+      "elementRecoverRateAct": 55,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5207": {
+      "id": "skip2_5207",
+      "elementRecoverRateAct": 42,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5208": {
+      "id": "skip2_5208",
+      "elementRecoverRateAct": 34,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5209": {
+      "id": "skip2_5209",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_5210": {
+      "id": "skip2_5210",
+      "elementRecoverRateAct": 27,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6005": {
+      "id": "skip2_6005",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 4000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6006": {
+      "id": "skip2_6006",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 2000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6007": {
+      "id": "skip2_6007",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1880,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6008": {
+      "id": "skip2_6008",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1760,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6009": {
+      "id": "skip2_6009",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1640,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6010": {
+      "id": "skip2_6010",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1520,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6011": {
+      "id": "skip2_6011",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1400,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_6012": {
+      "id": "skip2_6012",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1280,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_7306": {
+      "id": "skip2_7306",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1800,
+      "AutoCDCostAct": 15,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_8005": {
+      "id": "skip2_8005",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_8006": {
+      "id": "skip2_8006",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_8007": {
+      "id": "skip2_8007",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_8008": {
+      "id": "skip2_8008",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_8009": {
+      "id": "skip2_8009",
+      "elementRecoverRateAct": 14,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9005": {
+      "id": "skip2_9005",
+      "elementRecoverRateAct": 68,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9006": {
+      "id": "skip2_9006",
+      "elementRecoverRateAct": 59,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9007": {
+      "id": "skip2_9007",
+      "elementRecoverRateAct": 45,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9008": {
+      "id": "skip2_9008",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9009": {
+      "id": "skip2_9009",
+      "elementRecoverRateAct": 22,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9010": {
+      "id": "skip2_9010",
+      "elementRecoverRateAct": 15,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9011": {
+      "id": "skip2_9011",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9012": {
+      "id": "skip2_9012",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_9207": {
+      "id": "skip2_9207",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 300,
+      "unlockCostDiamondAct": 9
+    },
+    "skip2_70805": {
+      "id": "skip2_70805",
+      "elementRecoverRateAct": 34,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70806": {
+      "id": "skip2_70806",
+      "elementRecoverRateAct": 35,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70807": {
+      "id": "skip2_70807",
+      "elementRecoverRateAct": 38,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70808": {
+      "id": "skip2_70808",
+      "elementRecoverRateAct": 39,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70809": {
+      "id": "skip2_70809",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70810": {
+      "id": "skip2_70810",
+      "elementRecoverRateAct": 41,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70905": {
+      "id": "skip2_70905",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70906": {
+      "id": "skip2_70906",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70907": {
+      "id": "skip2_70907",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70908": {
+      "id": "skip2_70908",
+      "elementRecoverRateAct": 13,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70909": {
+      "id": "skip2_70909",
+      "elementRecoverRateAct": 15,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70910": {
+      "id": "skip2_70910",
+      "elementRecoverRateAct": 17,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70911": {
+      "id": "skip2_70911",
+      "elementRecoverRateAct": 19,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_70912": {
+      "id": "skip2_70912",
+      "elementRecoverRateAct": 21,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip2_11002": {
+      "id": "skip2_11002",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 300,
+      "unlockCostDiamondAct": 3
+    }
+  },
+  "skip3": {
+    "skip3_1004": {
+      "id": "skip3_1004",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1005": {
+      "id": "skip3_1005",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1006": {
+      "id": "skip3_1006",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1007": {
+      "id": "skip3_1007",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1008": {
+      "id": "skip3_1008",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1009": {
+      "id": "skip3_1009",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1010": {
+      "id": "skip3_1010",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1011": {
+      "id": "skip3_1011",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_1012": {
+      "id": "skip3_1012",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2004": {
+      "id": "skip3_2004",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2005": {
+      "id": "skip3_2005",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2006": {
+      "id": "skip3_2006",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2007": {
+      "id": "skip3_2007",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2008": {
+      "id": "skip3_2008",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2009": {
+      "id": "skip3_2009",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2010": {
+      "id": "skip3_2010",
+      "elementRecoverRateAct": 3,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2011": {
+      "id": "skip3_2011",
+      "elementRecoverRateAct": 3,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_2012": {
+      "id": "skip3_2012",
+      "elementRecoverRateAct": 2,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3005": {
+      "id": "skip3_3005",
+      "elementRecoverRateAct": 23,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3006": {
+      "id": "skip3_3006",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3007": {
+      "id": "skip3_3007",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3008": {
+      "id": "skip3_3008",
+      "elementRecoverRateAct": 14,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3009": {
+      "id": "skip3_3009",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3010": {
+      "id": "skip3_3010",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3011": {
+      "id": "skip3_3011",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_3012": {
+      "id": "skip3_3012",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4004": {
+      "id": "skip3_4004",
+      "elementRecoverRateAct": 72,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4005": {
+      "id": "skip3_4005",
+      "elementRecoverRateAct": 36,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4006": {
+      "id": "skip3_4006",
+      "elementRecoverRateAct": 24,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4007": {
+      "id": "skip3_4007",
+      "elementRecoverRateAct": 18,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4008": {
+      "id": "skip3_4008",
+      "elementRecoverRateAct": 14,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4009": {
+      "id": "skip3_4009",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_4010": {
+      "id": "skip3_4010",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5004": {
+      "id": "skip3_5004",
+      "elementRecoverRateAct": 45,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5005": {
+      "id": "skip3_5005",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5006": {
+      "id": "skip3_5006",
+      "elementRecoverRateAct": 17,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5007": {
+      "id": "skip3_5007",
+      "elementRecoverRateAct": 13,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5008": {
+      "id": "skip3_5008",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5009": {
+      "id": "skip3_5009",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5010": {
+      "id": "skip3_5010",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5011": {
+      "id": "skip3_5011",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5012": {
+      "id": "skip3_5012",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5101": {
+      "id": "skip3_5101",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 21600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip3_5102": {
+      "id": "skip3_5102",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 10800,
+      "unlockCostDiamondAct": 5
+    },
+    "skip3_5103": {
+      "id": "skip3_5103",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 3600,
+      "unlockCostDiamondAct": 5
+    },
+    "skip3_5206": {
+      "id": "skip3_5206",
+      "elementRecoverRateAct": 60,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5207": {
+      "id": "skip3_5207",
+      "elementRecoverRateAct": 40,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5208": {
+      "id": "skip3_5208",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5209": {
+      "id": "skip3_5209",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5210": {
+      "id": "skip3_5210",
+      "elementRecoverRateAct": 13,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_5211": {
+      "id": "skip3_5211",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6005": {
+      "id": "skip3_6005",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 4000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6006": {
+      "id": "skip3_6006",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 2000,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6007": {
+      "id": "skip3_6007",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1880,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6008": {
+      "id": "skip3_6008",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1760,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6009": {
+      "id": "skip3_6009",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1640,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6010": {
+      "id": "skip3_6010",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1520,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6011": {
+      "id": "skip3_6011",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1400,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_6012": {
+      "id": "skip3_6012",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1280,
+      "AutoCDCostAct": 5,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_7310": {
+      "id": "skip3_7310",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 1800,
+      "AutoCDCostAct": 15,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8005": {
+      "id": "skip3_8005",
+      "elementRecoverRateAct": 32,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8006": {
+      "id": "skip3_8006",
+      "elementRecoverRateAct": 24,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8007": {
+      "id": "skip3_8007",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8008": {
+      "id": "skip3_8008",
+      "elementRecoverRateAct": 14,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8009": {
+      "id": "skip3_8009",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_8010": {
+      "id": "skip3_8010",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9005": {
+      "id": "skip3_9005",
+      "elementRecoverRateAct": 80,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9006": {
+      "id": "skip3_9006",
+      "elementRecoverRateAct": 53,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9007": {
+      "id": "skip3_9007",
+      "elementRecoverRateAct": 30,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9008": {
+      "id": "skip3_9008",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9009": {
+      "id": "skip3_9009",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9010": {
+      "id": "skip3_9010",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9011": {
+      "id": "skip3_9011",
+      "elementRecoverRateAct": 6,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9012": {
+      "id": "skip3_9012",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_9207": {
+      "id": "skip3_9207",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 600,
+      "unlockCostDiamondAct": 9
+    },
+    "skip3_70805": {
+      "id": "skip3_70805",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70806": {
+      "id": "skip3_70806",
+      "elementRecoverRateAct": 17,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70807": {
+      "id": "skip3_70807",
+      "elementRecoverRateAct": 13,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70808": {
+      "id": "skip3_70808",
+      "elementRecoverRateAct": 11,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70809": {
+      "id": "skip3_70809",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70810": {
+      "id": "skip3_70810",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70811": {
+      "id": "skip3_70811",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70905": {
+      "id": "skip3_70905",
+      "elementRecoverRateAct": 13,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70906": {
+      "id": "skip3_70906",
+      "elementRecoverRateAct": 12,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70907": {
+      "id": "skip3_70907",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70908": {
+      "id": "skip3_70908",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70909": {
+      "id": "skip3_70909",
+      "elementRecoverRateAct": 9,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70910": {
+      "id": "skip3_70910",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70911": {
+      "id": "skip3_70911",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70912": {
+      "id": "skip3_70912",
+      "elementRecoverRateAct": 7,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_11002": {
+      "id": "skip3_11002",
+      "elementRecoverRateAct": 0,
+      "elementCDCostAct": 0,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 600,
+      "unlockCostDiamondAct": 3
+    },
+    "skip3_70001": {
+      "id": "skip3_70001",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 1,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70002": {
+      "id": "skip3_70002",
+      "elementRecoverRateAct": 4,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70003": {
+      "id": "skip3_70003",
+      "elementRecoverRateAct": 8,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70004": {
+      "id": "skip3_70004",
+      "elementRecoverRateAct": 16,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70101": {
+      "id": "skip3_70101",
+      "elementRecoverRateAct": 75,
+      "elementCDCostAct": 16,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70201": {
+      "id": "skip3_70201",
+      "elementRecoverRateAct": 180,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70501": {
+      "id": "skip3_70501",
+      "elementRecoverRateAct": 100,
+      "elementCDCostAct": 10,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70601": {
+      "id": "skip3_70601",
+      "elementRecoverRateAct": 450,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_70701": {
+      "id": "skip3_70701",
+      "elementRecoverRateAct": 113,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83001": {
+      "id": "skip3_83001",
+      "elementRecoverRateAct": 80,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83111": {
+      "id": "skip3_83111",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 7,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83161": {
+      "id": "skip3_83161",
+      "elementRecoverRateAct": 45,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83283": {
+      "id": "skip3_83283",
+      "elementRecoverRateAct": 36,
+      "elementCDCostAct": 2,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83284": {
+      "id": "skip3_83284",
+      "elementRecoverRateAct": 20,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83285": {
+      "id": "skip3_83285",
+      "elementRecoverRateAct": 10,
+      "elementCDCostAct": 4,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83286": {
+      "id": "skip3_83286",
+      "elementRecoverRateAct": 5,
+      "elementCDCostAct": 5,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_83361": {
+      "id": "skip3_83361",
+      "elementRecoverRateAct": 19,
+      "elementCDCostAct": 40,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_39001": {
+      "id": "skip3_39001",
+      "elementRecoverRateAct": 75,
+      "elementCDCostAct": 6,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_39204": {
+      "id": "skip3_39204",
+      "elementRecoverRateAct": 60,
+      "elementCDCostAct": 3,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_60251": {
+      "id": "skip3_60251",
+      "elementRecoverRateAct": 38,
+      "elementCDCostAct": 10,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    },
+    "skip3_60291": {
+      "id": "skip3_60291",
+      "elementRecoverRateAct": 41,
+      "elementCDCostAct": 10,
+      "AutoIntervalAct": 0,
+      "AutoCDCostAct": 0,
+      "unlockDurationAct": 0,
+      "unlockCostDiamondAct": 0
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "monopoly1": {
+    "id": "monopoly1",
+    "unlockEntrance": 15,
+    "diceRecoverRate": 1200,
+    "diceMax": 50,
+    "eventCoinPic": "act_icon_coin1",
+    "Image": "act_pic_ending1",
+    "startDice": 50,
+    "diceNum": [
+      1,
+      2,
+      5,
+      10,
+      50,
+      100,
+      200
+    ],
+    "energyCostArray": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      100
+    ],
+    "diceGetArray": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ],
+    "shopProgressReward": {
+      "Goose1080": 1
+    },
+    "shopProgressBarStep": 27,
+    "chooseOneId": 994002,
+    "shopDiceId": [
+      82
+    ],
+    "shopSpecialOffer": [
+      20301,
+      20302,
+      20303
+    ],
+    "tutorialDice": [
+      6
+    ],
+    "tutorialGamePrize": 1,
+    "enterIcon": "dafuwengrukou",
+    "boardAnim": "TimeOrderbitijing",
+    "endBoard": 48,
+    "worldRank": 100,
+    "giftSeriesId": [
+      211
+    ],
+    "kanbanGoose": "ppentijingUI"
+  },
+  "monopoly2": {
+    "id": "monopoly2",
+    "unlockEntrance": 15,
+    "diceRecoverRate": 1200,
+    "diceMax": 50,
+    "eventCoinPic": "act_icon_coin1",
+    "Image": "act_pic_ending1",
+    "startDice": 50,
+    "diceNum": [
+      1,
+      2,
+      5,
+      10,
+      50,
+      100,
+      200
+    ],
+    "energyCostArray": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      100
+    ],
+    "diceGetArray": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ],
+    "shopProgressReward": {
+      "98731": 1
+    },
+    "shopProgressBarStep": 21,
+    "chooseOneId": 994002,
+    "shopDiceId": [
+      82
+    ],
+    "shopSpecialOffer": [
+      20301,
+      20304,
+      20305
+    ],
+    "tutorialDice": [
+      6
+    ],
+    "tutorialGamePrize": 1,
+    "enterIcon": "dafuwengrukou",
+    "boardAnim": "TimeOrderAqiang",
+    "endBoard": 48,
+    "worldRank": 100,
+    "giftSeriesId": [
+      211
+    ],
+    "kanbanGoose": "aqiangUI"
+  }
+}

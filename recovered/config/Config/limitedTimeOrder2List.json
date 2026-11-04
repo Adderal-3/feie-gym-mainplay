@@ -1,0 +1,733 @@
+{
+  "101": {
+    "id": "101",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      4
+    ],
+    "progressReward": [
+      {
+        "Film1": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "102": {
+    "id": "102",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      5
+    ],
+    "progressReward": [
+      {
+        "Film2": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "103": {
+    "id": "103",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      5
+    ],
+    "progressReward": [
+      {
+        "Film2": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "104": {
+    "id": "104",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      5
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "105": {
+    "id": "105",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      5,
+      1
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "106": {
+    "id": "106",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      7,
+      1
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "107": {
+    "id": "107",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      7,
+      2
+    ],
+    "progressReward": [
+      {
+        "Film4": 1
+      },
+      {
+        "Diamond": 15
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "108": {
+    "id": "108",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      7,
+      3
+    ],
+    "progressReward": [
+      {
+        "Film5": 1
+      },
+      {
+        "Diamond": 15
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "109": {
+    "id": "109",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33001,
+    "consumeEnergyCount": 0,
+    "router": [
+      "109",
+      "108",
+      "107",
+      "106",
+      "105",
+      "104",
+      "103",
+      "102",
+      "101"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      7,
+      4
+    ],
+    "progressReward": [
+      {
+        "Film5": 1
+      },
+      {
+        "Diamond": 25
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Apple2_1",
+      "Apple2_2",
+      "Apple2_3",
+      "Apple2_4",
+      "Apple2_5",
+      "Apple2_2_1"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "apple2",
+    "boardAnim": "TimeOrderkaixinguo"
+  },
+  "201": {
+    "id": "201",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      10
+    ],
+    "progressReward": [
+      {
+        "Film2": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "202": {
+    "id": "202",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      }
+    ],
+    "canSpeacialReward": [
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "203": {
+    "id": "203",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12,
+      1
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "204": {
+    "id": "204",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12,
+      3
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "205": {
+    "id": "205",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12,
+      5
+    ],
+    "progressReward": [
+      {
+        "Film4": 1
+      },
+      {
+        "Diamond": 15
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "206": {
+    "id": "206",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12,
+      7
+    ],
+    "progressReward": [
+      {
+        "Film5": 1
+      },
+      {
+        "Diamond": 15
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  },
+  "207": {
+    "id": "207",
+    "duration": 21600,
+    "settlement": 3600,
+    "startReward": 33201,
+    "consumeEnergyCount": 0,
+    "router": [
+      "207",
+      "206",
+      "205",
+      "204",
+      "203",
+      "202",
+      "201"
+    ],
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "progressBarStep": [
+      12,
+      8
+    ],
+    "progressReward": [
+      {
+        "Film5": 1
+      },
+      {
+        "Diamond": 25
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Zoo2_1",
+      "Zoo2_2",
+      "Zoo2_3",
+      "Zoo2_4",
+      "Zoo2_5",
+      "Zoo2_6",
+      "Zoo2_7"
+    ],
+    "recycleChangeTo": 99101,
+    "files": "zoo2",
+    "boardAnim": "TimeOrder"
+  }
+}

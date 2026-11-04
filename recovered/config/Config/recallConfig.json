@@ -1,0 +1,25 @@
+{
+  "visibilityPlayerLevel": 3,
+  "bindRemainingTime": 86400,
+  "bindRewardUnlockPlayerLevel": 13,
+  "recallNewUserLevel": 13,
+  "recallUnlockPlayerLevel": 15,
+  "recallRewardMaxNum": 200,
+  "bindReward": {
+    "Diamond": 20,
+    "Coin": 200,
+    "Energy": 20
+  },
+  "inviteUserMaxNum": 10,
+  "recallSingleReward": [
+    20,
+    30,
+    40,
+    50,
+    60
+  ],
+  "inviteEntranceIcon": "icon_btn_recall",
+  "bindEntranceIcon": "icon_btn_recall_2",
+  "firstInvite": 9205,
+  "finalReward": 9208
+}

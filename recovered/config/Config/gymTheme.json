@@ -1,0 +1,42 @@
+{
+  "Theme1": {
+    "id": "Theme1",
+    "type": 0,
+    "boardSpine": "",
+    "prizeColor": "",
+    "middleColor": "",
+    "tipColor": ""
+  },
+  "Theme2": {
+    "id": "Theme2",
+    "type": 0,
+    "boardSpine": "",
+    "prizeColor": "",
+    "middleColor": "",
+    "tipColor": ""
+  },
+  "Theme3": {
+    "id": "Theme3",
+    "type": 1,
+    "boardSpine": "TimeOrderhailang",
+    "prizeColor": "#9D5E31",
+    "middleColor": "#276BA0",
+    "tipColor": "#276BA0"
+  },
+  "Theme4": {
+    "id": "Theme4",
+    "type": 0,
+    "boardSpine": "",
+    "prizeColor": "",
+    "middleColor": "",
+    "tipColor": ""
+  },
+  "Theme5": {
+    "id": "Theme5",
+    "type": 1,
+    "boardSpine": "TimeOrderchilun",
+    "prizeColor": "#598b40",
+    "middleColor": "#9465c9",
+    "tipColor": "#9465c9"
+  }
+}

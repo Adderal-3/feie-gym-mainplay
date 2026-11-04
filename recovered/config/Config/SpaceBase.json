@@ -1,0 +1,82 @@
+{
+  "space1": {
+    "id": "space1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "waitentr": "xingjiwajuerukou",
+    "openentr": "TimeOrderyouxiji",
+    "RewardGroup": 50,
+    "propTimes": [
+      5,
+      15,
+      30
+    ],
+    "propWeight": [
+      50,
+      110,
+      300
+    ],
+    "noPropSeries": [
+      "Chest_Coin",
+      "Chest_Energy",
+      "Chest_Energy1",
+      "Chest_1",
+      "Chest_2",
+      "Chest_Pig",
+      "Prop_7",
+      "Prop_8",
+      "Prop_11",
+      "Prop_10",
+      "Prop_12",
+      "Energy",
+      "Energy_Number",
+      "Energy_Farm_1",
+      "Energy_Farm_0",
+      "Chest_5"
+    ],
+    "spaceItem": "SpaceProp1",
+    "ShopGive": [
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22
+    ],
+    "BeginDialog": 9400,
+    "EndDialog": 9401,
+    "happyEndDialog": 9401,
+    "firstPickStone": 9403,
+    "firstPickJewelry": 9404,
+    "firstPickNull": 9406,
+    "BoardType": [],
+    "ActivityType": "",
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      19
+    ],
+    "shopId": 1006,
+    "shopSpecialOffer": [
+      1771,
+      1772,
+      1773,
+      1774,
+      1775,
+      1776,
+      1777
+    ],
+    "RandomReward": {
+      "Coin_30": 20,
+      "Coin_20": 50,
+      "Coin_10": 100
+    },
+    "RandomRewardWeight": 60
+  }
+}

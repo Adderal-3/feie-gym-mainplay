@@ -1,0 +1,88 @@
+{
+  "food": {
+    "id": "food",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "kungfu": {
+    "id": "kungfu",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "moon": {
+    "id": "moon",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "moonWorld": {
+    "id": "moonWorld",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "dream": {
+    "id": "dream",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "dreamWorld": {
+    "id": "dreamWorld",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "unicorn": {
+    "id": "unicorn",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "unicornWorld": {
+    "id": "unicornWorld",
+    "mailGift": {
+      "Frame3019": 1
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "newyear": {
+    "id": "newyear",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "hoggoose": {
+    "id": "hoggoose",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "blovers": {
+    "id": "blovers",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "moon2": {
+    "id": "moon2",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "snow": {
+    "id": "snow",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "pirate": {
+    "id": "pirate",
+    "mailGift": {},
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

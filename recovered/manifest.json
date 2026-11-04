@@ -1,0 +1,3518 @@
+{
+  "appId": "wxc8713839351ccb45",
+  "exportedAt": "2026-11-04T16:25:16.202Z",
+  "note": "Compiled client packages and downloaded game resources; not an editor project or server source.",
+  "packages": [
+    {
+      "version": "401",
+      "name": "_subpackages_main_.wxapkg",
+      "bytes": 11206870,
+      "sha256": "7bb60d3b71352e6661ab1697ec24427e9d89166889dd312b118570ead920fc49",
+      "files": [
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/config.21bc6.json",
+          "bytes": 844,
+          "sha256": "9a0d8feb562fe85c779d0693a705cd73550c150bb2cfd9b2ae089a446431f3c4"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/import/01/011b23372.08999.json",
+          "bytes": 128,
+          "sha256": "dbf2aeae1c0583027085d21eb9bc5b9a7bf6c7d5887229e80a9b31822b52c2d1"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/import/06/060e4fc3a.d5e76.json",
+          "bytes": 24551,
+          "sha256": "27625663750445294e264592653de97e676962db014d0371bbd24eaccaa4895b"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/native/bb/bb5eeba3-67ca-49dc-93f8-6dda57dd859d.f1b08.pvr",
+          "bytes": 5648,
+          "sha256": "8defac336bbcf84c149caa2b0dbc4788e04702f9ae52a8f1e777c74fa89c8e83"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/native/c4/c41ea3da-33e1-450d-bdd6-c5723cebf156.ffac8.pvr",
+          "bytes": 14736,
+          "sha256": "333911c1bf03458c56ca66fb35084a7bb04e0a70eede236fe55b3359e64451f1"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/native/e0/e098cfe6-b613-42bd-bab3-77ec15904646.ea180.pvr",
+          "bytes": 400,
+          "sha256": "37c946fcdecc459d5cbb984b1c8cc6661065bd64b6acfe23a7beb30f33f5de82"
+        },
+        {
+          "path": "packages/401/_subpackages_main_/subpackages/main/game.js",
+          "bytes": 11160076,
+          "sha256": "6dc6452b948314a8223b25074f9e53432cb1dac1c04fbc4cbc54b8ae2a43436b",
+          "originalSha256": "1cb26dbd0e59847a8198b72f37f97fc6dbe065b47635e0c281f52126daa2d74d",
+          "sanitizedFields": [
+            "wxAdSecretKey"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "401",
+      "name": "__WITHOUT_MULTI_PLUGINCODE__.wxapkg",
+      "bytes": 3384677,
+      "sha256": "d845a1113984b167da556086598c771d9a1f057f6a43fe08c195bce54b3ee55c",
+      "files": [
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/internal/config.e6604.json",
+          "bytes": 1433,
+          "sha256": "86dfb3c26162158dff4bb0848254151631b88ef0ad94b6e737f7435cb148f04c"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/internal/import/09/0967b326a.1f618.json",
+          "bytes": 57712,
+          "sha256": "b89124ed6ab4421c3e644b4c2f106119d00f287ef4c1e895a510b1c6ea446cd7"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+          "bytes": 82,
+          "sha256": "83c9b8ce1937570a40bcedde29457a4ab7865ca1db23a46d2d68e6b1949f3c28"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/config.8297b.json",
+          "bytes": 982,
+          "sha256": "a99387f58ca4d64021f254debabe91f1dc14945414695cd52ae777c72d36c7d8"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/import/0b/0b7e8d160.c74ec.json",
+          "bytes": 4490,
+          "sha256": "bd2917bc100044e4b5c7ed146d4148b8467a37eb7e35c89aa2b5b96d48f04d01"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/native/23/23e42372-ce61-4115-9796-df1e6b0f6638.aa1f3.pvr",
+          "bytes": 2304,
+          "sha256": "ffdc3dd8a5fbb45b799174d7427c7459df1f38008e823ac45e25058d84a42b2d"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/native/5a/5a560f62-03a1-4add-88e0-0adcff99a841.1e93c.pvr",
+          "bytes": 1055616,
+          "sha256": "5a2776e55d57df35c99c679f5910f63a65818f4bba90676691dcc4893d06ab95"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/native/67/67a2dfa4-b606-4280-8757-eea9d2bc67f2.0790b.pvr",
+          "bytes": 32,
+          "sha256": "7e448ba3aa9bd90788eafd572cc99f94ac8d1cd3480da51607779317b752ad5a"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/native/6f/6f7df354-8043-4d92-a341-b9d00025d7ad.4a50a.pvr",
+          "bytes": 2480,
+          "sha256": "cf9dec01617883a23e71f52164ca1158db9909b2224283d4dbb4068502ca715e"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/assets/resources/native/d3/d3f6b208-d858-4bfb-bf2e-4553f0ee2107.a6df2.pvr",
+          "bytes": 736,
+          "sha256": "503e1cee6b28fbdaeafa6c818ad37fc0cc0bbad95520d4e6e1de70526dc138c0"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/btn_invite.png",
+          "bytes": 5679,
+          "sha256": "1791460a7c88476a1fdd35a8143eb836e9ec6b20ff986a1e8df443aa792f5025"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_adornpoint.png",
+          "bytes": 1751,
+          "sha256": "ab5b53b803a87ff4b91085d1414d66945c2092dd9158a0d8965c4ac01827b6a1"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_avatar.png",
+          "bytes": 1399,
+          "sha256": "bba657c9ae066396897d1b3ac58bdc4dc315e2f65088888e3544199d6c1f9999"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_card.png",
+          "bytes": 2291,
+          "sha256": "56dda80291da27d6c560c844524f6c6278c6faafc3868f6664992643b36f2816"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_level.png",
+          "bytes": 1834,
+          "sha256": "9162b7d1ed0d26e3d334274131556d3cd9fc8d90c68276c2ddbf7190c0ce2619"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_praise.png",
+          "bytes": 2028,
+          "sha256": "ba8b61e516f35977e5a3ec87361faf683c6fcae46510abdb9d50b3f2d236e5b6"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_rank_0.png",
+          "bytes": 828,
+          "sha256": "c8eb1ffb00f37ef0f3d12aca53373f5bc6a3535c77a2f00b41f6cc0144207e6f"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_rank_1.png",
+          "bytes": 2270,
+          "sha256": "89724607a8d8a2db45eb14e771f5c2a0f54617062040e491af78d4a6c73f948c"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_rank_2.png",
+          "bytes": 2107,
+          "sha256": "984c4b4f8bf57c5d3e9584b34460681315c5eeeaa031ebb1b73de6538f28246e"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/icon_rank_3.png",
+          "bytes": 1824,
+          "sha256": "463b652f2dfd119288f4c959f751396a69d1a209d04a1179093384c21cf6b772"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/rank_bg.png",
+          "bytes": 2465,
+          "sha256": "3098d7d3c02fbc79b05ecdcfa0bf1a51578cf51119b4540544a47d29589f97db"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/rank_me.png",
+          "bytes": 2368,
+          "sha256": "aba719b16d32f8f7c2a6df2d59eef03cfdc4a808889a47f9cf5ba7fe8957fb88"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/shareFriendInvite1.jpg",
+          "bytes": 71930,
+          "sha256": "8eb5de40a30b395e5747a2e7da75a65bee2848e16518bff12b1502a5ac6e358b"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/openDataContext/assets/shareFriendInvite2.jpg",
+          "bytes": 66682,
+          "sha256": "9147a000126c3928a165ab8aea7656650af355cc40d1f433813203ebd0493334"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/game.js",
+          "bytes": 2030731,
+          "sha256": "5c311d97b65d8b314e038f200c43650cf86cea6f13270ff40fdd0f4ef1448935"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/app-config.json",
+          "bytes": 2187,
+          "sha256": "ba8fb04ab877c4c1ff7555ecd71e6fb9f094e1247862a880f41f40739fbb36f3"
+        },
+        {
+          "path": "packages/401/__WITHOUT_MULTI_PLUGINCODE__/subContext.js",
+          "bytes": 58890,
+          "sha256": "30d520ea088d187ed1b662bee4f12709af36981a22de416aff81a4a3c1cb2c29"
+        }
+      ]
+    }
+  ],
+  "remote": [
+    {
+      "path": "remote/asset/remote/zh/config.a59ad.json",
+      "bytes": 40418,
+      "sha256": "9bbd7a32248d1253c347906b7ca9d8a4b306e2aee1965e966c52ba23ba04ada1",
+      "sourcePath": "/asset/remote/zh/config.a59ad.json"
+    },
+    {
+      "path": "remote/asset/remote/spineAsset/config.5bc5f.json",
+      "bytes": 1163044,
+      "sha256": "5665b633d7783b3a4192bfdeca8c717a11cae792fe1616732169930129b82ea2",
+      "sourcePath": "/asset/remote/spineAsset/config.5bc5f.json"
+    },
+    {
+      "path": "remote/asset/remote/zh/import/09/09500da72.b1dc9.json",
+      "bytes": 167238,
+      "sha256": "de6aba6acf0ce1758ce2e83e93bfbc0db1e3cabdf4c5a51d68471fe21fce243c",
+      "sourcePath": "/asset/remote/zh/import/09/09500da72.b1dc9.json"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/89/8904da48-7fa1-4707-994c-e3ce1cc98df1.2106e.pvr",
+      "bytes": 53584,
+      "sha256": "b1b3cb1c7bc426aba07aa0f34c40297639e2f8d717aaff4951234234da0bd159",
+      "sourcePath": "/asset/remote/zh/native/89/8904da48-7fa1-4707-994c-e3ce1cc98df1.2106e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/49/49aae924-0ddf-40c7-b6ad-7f287f0a8a14.bbeb5.pvr",
+      "bytes": 4048,
+      "sha256": "bb47835cada9f763bb8e5042bb20e7136327a12e6baa094a1145470ce945f665",
+      "sourcePath": "/asset/remote/zh/native/49/49aae924-0ddf-40c7-b6ad-7f287f0a8a14.bbeb5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/config.ac120.json",
+      "bytes": 2818958,
+      "sha256": "8e0debdd398bcad8be7b3a10f72b24ec51da1d87bf207619dc88ea815544908f",
+      "sourcePath": "/asset/remote/remoteAsset/config.ac120.json"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/config.95259.json",
+      "bytes": 590735,
+      "sha256": "17313a2abef5ba61993f3f9db4f8193c5b99e1f4e0a4c1e6d4739766d1141eeb",
+      "sourcePath": "/asset/remote/gameAsset/config.95259.json"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/import/0a/0ad50f6f9.04c13.json",
+      "bytes": 7378500,
+      "sha256": "5fee9fa279dae6b8dee6cd4f32b3b18ebc7fdd35aabff4c459f6343eb8ea0ee2",
+      "sourcePath": "/asset/remote/gameAsset/import/0a/0ad50f6f9.04c13.json"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/a2/a201d065-b4d0-49ba-a559-4ec556a42dc3.9193e.bin",
+      "bytes": 3889700,
+      "sha256": "7bb07c5127621b84bae6095c0b562f0b3b841658429702e0da178ecc757f1a15",
+      "sourcePath": "/asset/remote/zh/native/a2/a201d065-b4d0-49ba-a559-4ec556a42dc3.9193e.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/19/1947e7b3f.cc772.pvr",
+      "bytes": 109360,
+      "sha256": "c965a8d733e6c90218e92e5fa683498d9016d8b3f957faae3cf4a7f42c50917b",
+      "sourcePath": "/asset/remote/gameAsset/native/19/1947e7b3f.cc772.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1d/1dd5685f-29a9-4085-a980-f51d2a06770f.1c081.pvr",
+      "bytes": 142432,
+      "sha256": "bd9ff77191f1545ec99c2629412f6e14e8e21776cb48d56eddd5c30e0c573d91",
+      "sourcePath": "/asset/remote/gameAsset/native/1d/1dd5685f-29a9-4085-a980-f51d2a06770f.1c081.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png",
+      "bytes": 1114,
+      "sha256": "132fda6a4b38333dcb471f09be05aed43d01b83dcc7a09c168b5629cdee31865",
+      "sourcePath": "/asset/remote/gameAsset/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c2/c2fee0aa-01a8-417a-aa1d-ed11fff3e2d7.4624e.pvr",
+      "bytes": 4944,
+      "sha256": "ed948cd66214b88ae3b10082b56eaf655301ab04f32db10f1a93f9b101536f26",
+      "sourcePath": "/asset/remote/gameAsset/native/c2/c2fee0aa-01a8-417a-aa1d-ed11fff3e2d7.4624e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1d/1d20d5dc-e725-45e1-8e42-0c243c996e5d.6648a.pvr",
+      "bytes": 15376,
+      "sha256": "fb4a46bd56ce3d0e07a22c203807d6572b2e15938ae2943c5edbd20a1cf75d6b",
+      "sourcePath": "/asset/remote/gameAsset/native/1d/1d20d5dc-e725-45e1-8e42-0c243c996e5d.6648a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/87/87cf86b0-83e3-4b4b-b936-36ed0e4dd3b7.918b3.pvr",
+      "bytes": 4944,
+      "sha256": "f3961ba582f8c586293da1932cee2c4da77432cd832ebb6c6a7fcf82fe7603a8",
+      "sourcePath": "/asset/remote/gameAsset/native/87/87cf86b0-83e3-4b4b-b936-36ed0e4dd3b7.918b3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/eb/eb550794-efa3-4c17-8f17-8f039bc8e043.0af35.bin",
+      "bytes": 2625,
+      "sha256": "64e0c5236d6f6f8bc7add8de23285d5feb03fd9290eb12d92b156a2bb47ce00c",
+      "sourcePath": "/asset/remote/gameAsset/native/eb/eb550794-efa3-4c17-8f17-8f039bc8e043.0af35.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/53/537e4e2f-6c70-4cbc-9b2b-28ccc8bec070.c533b.pvr",
+      "bytes": 6928,
+      "sha256": "2aeb0bc6e74445f92a2b808813e7ee59363f61faed9495c24f9b3d2d963180b3",
+      "sourcePath": "/asset/remote/gameAsset/native/53/537e4e2f-6c70-4cbc-9b2b-28ccc8bec070.c533b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2d/2d72a04a-ef32-45b0-b76d-7aebe274265c.43633/zh-regular.ttf",
+      "bytes": 1596460,
+      "sha256": "b457ae316dae55bb7e988678c1e6e79106808da214f5bd9378a38ccf92512e7f",
+      "sourcePath": "/asset/remote/gameAsset/native/2d/2d72a04a-ef32-45b0-b76d-7aebe274265c.43633/zh-regular.ttf"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e7/e7b7a4ee-1ece-4159-860b-c9e989aa1b9f.1b77a/zh-bold.ttf",
+      "bytes": 1822512,
+      "sha256": "5a7ac70c470c8a4c5999b6388e19e92ea50f71385dfc3e1bf11819e89ea3d890",
+      "sourcePath": "/asset/remote/gameAsset/native/e7/e7b7a4ee-1ece-4159-860b-c9e989aa1b9f.1b77a/zh-bold.ttf"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d8/d81ec8ad-247c-4e62-aa3c-d35c4193c7af.cdbc9.png",
+      "bytes": 158,
+      "sha256": "428698a9cd4c031962c9f5defd15057fd1f20273dc3cd6eddcbd2ce14c4057d8",
+      "sourcePath": "/asset/remote/gameAsset/native/d8/d81ec8ad-247c-4e62-aa3c-d35c4193c7af.cdbc9.png"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png",
+      "bytes": 1050,
+      "sha256": "44b670047e5d34fc09f3e8538e8945445bc1bb913d6f21d7ac4e06b18c2e172b",
+      "sourcePath": "/asset/remote/gameAsset/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png",
+      "bytes": 1082,
+      "sha256": "5e3e931db260d0f43c2f5fd0ea791fbdc25923a8c14fcd6b0912581cd893f96d",
+      "sourcePath": "/asset/remote/gameAsset/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/11/11f60e3fe.2ee0c.pvr",
+      "bytes": 70448,
+      "sha256": "deb40bd24bbac7375d39aaa8425ec3ebd1b2b9b5a846c27bb5c3ab31f0504a0a",
+      "sourcePath": "/asset/remote/gameAsset/native/11/11f60e3fe.2ee0c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d2/d2cef0b5-040c-45c1-9221-389fcc408885.02aae.pvr",
+      "bytes": 3760,
+      "sha256": "5ef63c9ced8b51e64eb0602629f14072aa92627d83ce9ded40fd43991f08086b",
+      "sourcePath": "/asset/remote/gameAsset/native/d2/d2cef0b5-040c-45c1-9221-389fcc408885.02aae.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a8/a85993e0-63de-4a74-9800-47395fdfa0d8.58ee6.pvr",
+      "bytes": 23952,
+      "sha256": "10adc31236baccb4f8d715fbe0c09b3d0d59b8226615fdde9a49f05c33ae3149",
+      "sourcePath": "/asset/remote/gameAsset/native/a8/a85993e0-63de-4a74-9800-47395fdfa0d8.58ee6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ed/ed92d1c4-fc1a-4f15-97e6-1efb09ddad1a.3f439.pvr",
+      "bytes": 5648,
+      "sha256": "ec8650f751492acd1bc75db7e5a7007f696895d2d2e29fa6f9b3674901f8eb0f",
+      "sourcePath": "/asset/remote/gameAsset/native/ed/ed92d1c4-fc1a-4f15-97e6-1efb09ddad1a.3f439.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0d/0d71221c-449b-4034-8b65-aef3e6d362bd.233f5.bin",
+      "bytes": 15489347,
+      "sha256": "1aa10c6808ff970c33675908a3c11f07017e15a5ddd3381dfb3e798f91c66c3d",
+      "sourcePath": "/asset/remote/gameAsset/native/0d/0d71221c-449b-4034-8b65-aef3e6d362bd.233f5.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f6/f67f11d3-a750-4161-8cba-89b1b25078d3.058f5.pvr",
+      "bytes": 5776,
+      "sha256": "676e07667d62d658232a2d9f237a235a77d8ede7f8175b514b6b99a96cc3be64",
+      "sourcePath": "/asset/remote/gameAsset/native/f6/f67f11d3-a750-4161-8cba-89b1b25078d3.058f5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/import/02/02b04c61e.0424c.json",
+      "bytes": 16481365,
+      "sha256": "c81b638e714e612e966fdf8cbf9d5bfa73610621c9db48a746d50741f33dc5b6",
+      "sourcePath": "/asset/remote/remoteAsset/import/02/02b04c61e.0424c.json"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/40/40ffbd75-42c0-4f79-855e-f09131895d35.e310b.pvr",
+      "bytes": 5648,
+      "sha256": "2419afc198c577b602e05ccd424e3650433d911d7446432d601f647cd89da8c6",
+      "sourcePath": "/asset/remote/gameAsset/native/40/40ffbd75-42c0-4f79-855e-f09131895d35.e310b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b9/b9ef03eb-4d10-4705-9111-6fab935651b8.300b5.pvr",
+      "bytes": 5648,
+      "sha256": "3fad78a1dc716b8e046d5393c49bbfdc398c4b7fb487824a5c6bcef661f30989",
+      "sourcePath": "/asset/remote/gameAsset/native/b9/b9ef03eb-4d10-4705-9111-6fab935651b8.300b5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/75/758372be-d894-447b-9159-9a287b02e35b.cc6e4.pvr",
+      "bytes": 5648,
+      "sha256": "f3f769541cbacb6257072e9bdf8109ced6402dfbedc8eb4e43a4b3b79a5f9e74",
+      "sourcePath": "/asset/remote/gameAsset/native/75/758372be-d894-447b-9159-9a287b02e35b.cc6e4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f2/f2fb6abd-d2cf-4797-b235-60a6d5bb10c9.6f7fb.pvr",
+      "bytes": 5648,
+      "sha256": "4b72a36266df164a720ec64744eba72ff5485b5ea4bf434d3417f0c92d6434a3",
+      "sourcePath": "/asset/remote/gameAsset/native/f2/f2fb6abd-d2cf-4797-b235-60a6d5bb10c9.6f7fb.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/32/325c927c-fdc5-4d2d-b7db-190d313d1bf0.3535d.pvr",
+      "bytes": 5648,
+      "sha256": "01df6761b54b48bc4bcc87533fd1f57d8a14b708bce52ab11fda64df052ac647",
+      "sourcePath": "/asset/remote/gameAsset/native/32/325c927c-fdc5-4d2d-b7db-190d313d1bf0.3535d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4c/4c49a3f1-f5e2-440c-8d87-8d1e451aa912.bfd53.pvr",
+      "bytes": 9424,
+      "sha256": "31acff77bb7142a215d92497bc9f69047b8ee652fcc21cdee2ac995dbb405444",
+      "sourcePath": "/asset/remote/gameAsset/native/4c/4c49a3f1-f5e2-440c-8d87-8d1e451aa912.bfd53.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/38/38dce5cd-186b-40e4-bf4d-caa4a53be24c.b2e17.pvr",
+      "bytes": 13264,
+      "sha256": "d29948d3fcfd31e2127415905cf8b92ffaff5631bfb90187cfb3801e3edf98ff",
+      "sourcePath": "/asset/remote/gameAsset/native/38/38dce5cd-186b-40e4-bf4d-caa4a53be24c.b2e17.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/de/debe8d32-50f9-4846-bae5-30c6ccbbdb9d.7f097.bin",
+      "bytes": 997,
+      "sha256": "f76ff0eece52daefb99c1852949d108a07606e7fe147a347bf1f3f6f43400a0e",
+      "sourcePath": "/asset/remote/gameAsset/native/de/debe8d32-50f9-4846-bae5-30c6ccbbdb9d.7f097.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d6/d6cac5de-0f78-4f6e-92a7-3c7ed1c38198.3c3f0.pvr",
+      "bytes": 1744,
+      "sha256": "351da1eaf15ad6abb565b6e103f11d9194a0b55c4d02537e11bce2306b158e9f",
+      "sourcePath": "/asset/remote/gameAsset/native/d6/d6cac5de-0f78-4f6e-92a7-3c7ed1c38198.3c3f0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d5/d55ab9c5-b253-4ca1-a472-af8c743c91be.f680f.pvr",
+      "bytes": 1744,
+      "sha256": "ba09b259f5f7c07451667b0fa8ae6bc21d6361cfe3cb3727c079fc38a7d236c2",
+      "sourcePath": "/asset/remote/gameAsset/native/d5/d55ab9c5-b253-4ca1-a472-af8c743c91be.f680f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4da5def1-a4e7-462a-80f7-444a9f6c603c.a24d9.pvr",
+      "bytes": 1744,
+      "sha256": "d0b5aed39f76c9fd37c860f39b1c04cdf71dfa889282e7404f7aa26dfa7c02fa",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4da5def1-a4e7-462a-80f7-444a9f6c603c.a24d9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/79/79b05912-5b59-4920-a232-9882ea9fbe81.f4f6b.pvr",
+      "bytes": 1744,
+      "sha256": "edca79aeb8ba60daf14d7903e025f10832c309c7319cc1295071c54d0f1512c8",
+      "sourcePath": "/asset/remote/gameAsset/native/79/79b05912-5b59-4920-a232-9882ea9fbe81.f4f6b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c4/c4d5deca-a4f0-4977-81f8-86cb416f7861.572cc.pvr",
+      "bytes": 1744,
+      "sha256": "270f9d11f489e11a56e2b9204a7263ad4631cd897114ed62269f61c9976b4ad7",
+      "sourcePath": "/asset/remote/gameAsset/native/c4/c4d5deca-a4f0-4977-81f8-86cb416f7861.572cc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6c/6c0a7859-6042-440e-a230-60bf62564fd5.b84b6.pvr",
+      "bytes": 1744,
+      "sha256": "509784a065a844136782330dcc828acf7d7896dda31a7ac433b42be5aadae7b7",
+      "sourcePath": "/asset/remote/gameAsset/native/6c/6c0a7859-6042-440e-a230-60bf62564fd5.b84b6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ab/abda61b3-e243-4387-8c3a-811ebe15097b.c2393.pvr",
+      "bytes": 88080,
+      "sha256": "12f2ec6fe46fb9291d8f18e1e685b35fee46c39a6a207db20322c3995d68b482",
+      "sourcePath": "/asset/remote/gameAsset/native/ab/abda61b3-e243-4387-8c3a-811ebe15097b.c2393.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/11/11bea03e3.a463f.pvr",
+      "bytes": 1396752,
+      "sha256": "9bc0f357d0ece9a26e07626845a23ab0f35f30eb42b67dd45c4e13635128e208",
+      "sourcePath": "/asset/remote/gameAsset/native/11/11bea03e3.a463f.pvr"
+    },
+    {
+      "path": "remote/remoteRes/config/Config.bin",
+      "bytes": 15489347,
+      "sha256": "5a78d5f88e0b59556ad3b663969cef7513237126341272684d6d0f832ec37b82",
+      "sourcePath": "/remoteRes/config/Config.bin"
+    },
+    {
+      "path": "remote/remoteRes/config/Lang_zh.bin",
+      "bytes": 3889712,
+      "sha256": "5bcad70aa4d1dbd0b67cfdd1f93a57249364980299e116a3ee109c0ac7b28351",
+      "sourcePath": "/remoteRes/config/Lang_zh.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d9/d99e2f72-fbe1-40bc-91b8-119037b788f9.2b2e4.pvr",
+      "bytes": 1744,
+      "sha256": "ff673915808ac071422e1257886e750dbf53ba28e17e1fe6a7629b092d340788",
+      "sourcePath": "/asset/remote/gameAsset/native/d9/d99e2f72-fbe1-40bc-91b8-119037b788f9.2b2e4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/74c86e23-07db-466c-8412-adf3e8512af2.088ac.pvr",
+      "bytes": 1744,
+      "sha256": "af9c866ee6a19c25317954a81520b84ee4a360aa23a6cca903f15467b784e7ea",
+      "sourcePath": "/asset/remote/gameAsset/native/74/74c86e23-07db-466c-8412-adf3e8512af2.088ac.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d8/d8ce9ec4-8516-4bfc-9e9d-0c438d09b91f.8c162.pvr",
+      "bytes": 1744,
+      "sha256": "f64d88a920b3a3056ca33c9fe0e7234fc5c86318264366b37d0d1b17b3c9909f",
+      "sourcePath": "/asset/remote/gameAsset/native/d8/d8ce9ec4-8516-4bfc-9e9d-0c438d09b91f.8c162.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a1/a1000a28-6735-48f6-9bcc-ab2c6e683e54.cd8c9.pvr",
+      "bytes": 22032,
+      "sha256": "207e7de575a0cf91364e27decac7eec27803a898fcf91cdeed5a3f35c8e741d6",
+      "sourcePath": "/asset/remote/gameAsset/native/a1/a1000a28-6735-48f6-9bcc-ab2c6e683e54.cd8c9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/74d9c3b3-81ad-4657-a182-e648405d45af.5015a.bin",
+      "bytes": 624,
+      "sha256": "d8735955e813fb920ba4ca9c9e4b212e73e3e8f51dfe2b1816212f2fa44caab1",
+      "sourcePath": "/asset/remote/gameAsset/native/74/74d9c3b3-81ad-4657-a182-e648405d45af.5015a.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/741118df-9626-44cc-a16b-fc2c93d6a8d3.254fd.pvr",
+      "bytes": 179600,
+      "sha256": "059dce9776655a8f19f8b32bd89cc7816aaafdcd4df3eef502ee0d4d7c16a64b",
+      "sourcePath": "/asset/remote/gameAsset/native/74/741118df-9626-44cc-a16b-fc2c93d6a8d3.254fd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2d/2d784bb7-fad1-4e17-9810-5d45fe69c36a.f0781.pvr",
+      "bytes": 1744,
+      "sha256": "17974ca21327e5a7dd5aec6aeaaa07acf9f9f04f0f777ba6704ccc2bfeda1262",
+      "sourcePath": "/asset/remote/gameAsset/native/2d/2d784bb7-fad1-4e17-9810-5d45fe69c36a.f0781.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/17/17eb6ce1-2a9b-489b-92ef-d4719c9137aa.491a7.pvr",
+      "bytes": 43216,
+      "sha256": "6fbf33dce071b8adbce676e9757de5aee3cf0d94b97205510639142a3673ed23",
+      "sourcePath": "/asset/remote/gameAsset/native/17/17eb6ce1-2a9b-489b-92ef-d4719c9137aa.491a7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/61/6167a55e-a344-41d8-af45-d6f68d5c8cae.a323b.bin",
+      "bytes": 1617,
+      "sha256": "0da35d7797695ba7cf2ea12ed61d5d13b632c63392a2e5820660e7ab74ab45ad",
+      "sourcePath": "/asset/remote/gameAsset/native/61/6167a55e-a344-41d8-af45-d6f68d5c8cae.a323b.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/97/979c7ba6-b73f-440f-a31b-1dd5cf5b45a9.8a445.pvr",
+      "bytes": 44912,
+      "sha256": "17f3fca1fd69454cdf07c5880ce7601c53e39477c9202c110127ae13b3a0e459",
+      "sourcePath": "/asset/remote/gameAsset/native/97/979c7ba6-b73f-440f-a31b-1dd5cf5b45a9.8a445.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f4/f4d332db-05b9-4e7f-9523-8dfe489f2709.5bccc.pvr",
+      "bytes": 13616,
+      "sha256": "f3bbad9dc6e0d67dd0f12b396b66d223c468d07bdb2fe33de3e605f44ef70690",
+      "sourcePath": "/asset/remote/gameAsset/native/f4/f4d332db-05b9-4e7f-9523-8dfe489f2709.5bccc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/45/4571c476-c0ec-4274-b86b-f453700c30f6.9c355.bin",
+      "bytes": 12143,
+      "sha256": "c94ace86df508c2ac1391a7eab3a1bab0bdb1c1466a3c5cb15b114d8dae5c6ac",
+      "sourcePath": "/asset/remote/gameAsset/native/45/4571c476-c0ec-4274-b86b-f453700c30f6.9c355.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/33/33125772-0c7b-4a1d-96df-3c4bb6c490e0.774f2.pvr",
+      "bytes": 56688,
+      "sha256": "0a75a37f1cdd37b5175aa9465e1359529b3e7cf5075d6aee86eb35016c36f971",
+      "sourcePath": "/asset/remote/gameAsset/native/33/33125772-0c7b-4a1d-96df-3c4bb6c490e0.774f2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/62/622cf091-c1b2-4cb3-8a38-3f3909094ffd.16a8a.bin",
+      "bytes": 28027,
+      "sha256": "410d62a351ed734b6c77e5d787d0a5f2653cbbd393ca16e42f706f611d23fcfe",
+      "sourcePath": "/asset/remote/gameAsset/native/62/622cf091-c1b2-4cb3-8a38-3f3909094ffd.16a8a.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c3/c31abac2-dbc6-4226-883d-157e6d11061e.be7fd.pvr",
+      "bytes": 40848,
+      "sha256": "e61a004e725b29aa8ca2a3aaff267aabdc98ac2e37522e9452a9f55b79cd3501",
+      "sourcePath": "/asset/remote/gameAsset/native/c3/c31abac2-dbc6-4226-883d-157e6d11061e.be7fd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/19/199275fc-7d7b-4eb2-9675-82678cf767fc.3706f.bin",
+      "bytes": 16376,
+      "sha256": "e3ac77ea1d3f97f281780c10088538170b1081ea26fa85f140036c46bd7d477a",
+      "sourcePath": "/asset/remote/gameAsset/native/19/199275fc-7d7b-4eb2-9675-82678cf767fc.3706f.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/01/01cb192e-cef5-4375-853f-1d25ca097cb2.f4c58.bin",
+      "bytes": 5686,
+      "sha256": "5d6cd0c953dec7630b13c3632c2dcdf7d58d823cdd92ae6c21a9064d910513ee",
+      "sourcePath": "/asset/remote/gameAsset/native/01/01cb192e-cef5-4375-853f-1d25ca097cb2.f4c58.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/23/23b0f639-1db7-4af9-b45b-ccf230a5aa87.1087f.pvr",
+      "bytes": 203856,
+      "sha256": "a88638f48f00e7d7063bdc99d9fcd734cb5f7a01b36fdac8ddec2177c5452782",
+      "sourcePath": "/asset/remote/gameAsset/native/23/23b0f639-1db7-4af9-b45b-ccf230a5aa87.1087f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ca/ca29cb17-1065-4fd1-83e3-8465afe4fc0c.29994.pvr",
+      "bytes": 44912,
+      "sha256": "54dfe6ec34262755836d1100c97adadb3ec7e331a1d32e2bce9f3eb11b30c674",
+      "sourcePath": "/asset/remote/gameAsset/native/ca/ca29cb17-1065-4fd1-83e3-8465afe4fc0c.29994.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/71/71841cca-3ae6-407d-b76d-b7f4a37dea8e.e8b3a.pvr",
+      "bytes": 22032,
+      "sha256": "f3d1dae9d2b6470950c9cd66521d5386ea8a4d07ef5a85b3e4ca0ae9467fa6ad",
+      "sourcePath": "/asset/remote/gameAsset/native/71/71841cca-3ae6-407d-b76d-b7f4a37dea8e.e8b3a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4df1abbb-60db-4762-b645-064db5dc0552.74ab3.pvr",
+      "bytes": 1024,
+      "sha256": "ba120e4c6f6eb909458d7840959ddb156d60fe68b28aa3a4c1d44188ec015fc0",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4df1abbb-60db-4762-b645-064db5dc0552.74ab3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5d/5d98131c-edc0-4e75-b600-fbf44dee66a0.f3fb4.bin",
+      "bytes": 19391,
+      "sha256": "64cb58aa2193ab2a2302bb9640de7dc44a598203340699e2af3c40d35b0e9a3f",
+      "sourcePath": "/asset/remote/gameAsset/native/5d/5d98131c-edc0-4e75-b600-fbf44dee66a0.f3fb4.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/19/19617d324.fd8a7.pvr",
+      "bytes": 268144,
+      "sha256": "ff88eda311193ba90d9ba7d4691d21e676c933adbd774b4a1ff257afb5f0e98c",
+      "sourcePath": "/asset/remote/gameAsset/native/19/19617d324.fd8a7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3b/3b0eaa13-3dd5-4bb2-8ec9-86144ad2b028.e843d.pvr",
+      "bytes": 15376,
+      "sha256": "7826c83a5606b559a9fd50543084a93b310375aef994a0fc309a0889c870ccce",
+      "sourcePath": "/asset/remote/gameAsset/native/3b/3b0eaa13-3dd5-4bb2-8ec9-86144ad2b028.e843d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f2/f257e1ed-f0e0-40ab-963c-db63bb7c05ff.aa6e7.pvr",
+      "bytes": 10384,
+      "sha256": "56f09f941f846d9d2afa3cb10e4b4a4a9b109679cc077e842c06c8fadb0b90ce",
+      "sourcePath": "/asset/remote/gameAsset/native/f2/f257e1ed-f0e0-40ab-963c-db63bb7c05ff.aa6e7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/de/deb42fde-405d-409b-a76e-9314e0e57e70.9c23a.pvr",
+      "bytes": 10384,
+      "sha256": "6bc85162384156c580ca7dfb7ac74153bad70194befd23d996425c402c8b4e01",
+      "sourcePath": "/asset/remote/gameAsset/native/de/deb42fde-405d-409b-a76e-9314e0e57e70.9c23a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/8b/8bdf1a73-56ae-4902-b797-29bc62c447f4.54712.pvr",
+      "bytes": 1360,
+      "sha256": "01fbac534805bee726739c961192d1176da943fd9d7c1a3feed7db0a0fcf6623",
+      "sourcePath": "/asset/remote/remoteAsset/native/8b/8bdf1a73-56ae-4902-b797-29bc62c447f4.54712.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/60/60e14ac3-913e-440b-9684-d72af0d9573c.6e864.pvr",
+      "bytes": 22032,
+      "sha256": "2e5f9d92f67e3db59f5eb19649d3d348388bcf3d4783f3c813e1dc228c572450",
+      "sourcePath": "/asset/remote/gameAsset/native/60/60e14ac3-913e-440b-9684-d72af0d9573c.6e864.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8d/8dfa59c0-0503-4d9c-8137-210b4ba6be3d.5dd87.pvr",
+      "bytes": 47184,
+      "sha256": "621492442d4a17a261b45047bd6eac96b45c70c0bfeeccc9676461359a272d50",
+      "sourcePath": "/asset/remote/gameAsset/native/8d/8dfa59c0-0503-4d9c-8137-210b4ba6be3d.5dd87.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a7/a77ce754-4140-460c-8671-8fb9837ad7fe.f1437.pvr",
+      "bytes": 1400848,
+      "sha256": "1cf0fe6803ccdbda2dca2384a71b384cf6db64f76391319e24a221ae52f7e5e0",
+      "sourcePath": "/asset/remote/gameAsset/native/a7/a77ce754-4140-460c-8671-8fb9837ad7fe.f1437.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/8f/8ff38a3b-e82a-43a8-b35b-dfac4fb6de15.b17b0.pvr",
+      "bytes": 6816,
+      "sha256": "2f3fca9eced10a39e241afc993153fcf850efe503891f4f1c922e79bb8561a9d",
+      "sourcePath": "/asset/remote/remoteAsset/native/8f/8ff38a3b-e82a-43a8-b35b-dfac4fb6de15.b17b0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/f3/f3786270-c717-4ee0-8757-4a5b0f617079.e3d3c.pvr",
+      "bytes": 48272,
+      "sha256": "0873db2541ae8353a91edc2562345df7a4cc28380a5a4caa11fa9065f7c3f981",
+      "sourcePath": "/asset/remote/remoteAsset/native/f3/f3786270-c717-4ee0-8757-4a5b0f617079.e3d3c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ad/ad4575a6-30fc-410b-866a-c9b274f56036.5dc5f.pvr",
+      "bytes": 27088,
+      "sha256": "30f108ec8cb1ba44698fe4a89aa2283109b2dc5c4f6b5bc63868bf67afbcdf17",
+      "sourcePath": "/asset/remote/remoteAsset/native/ad/ad4575a6-30fc-410b-866a-c9b274f56036.5dc5f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/f0/f0a39541-9487-4014-9675-25b922c8796c.68bd6.pvr",
+      "bytes": 23952,
+      "sha256": "0d9f805911db41ca9e2f991b8eeacfafae4fe99dc0162f102fde4c96fe89bfa7",
+      "sourcePath": "/asset/remote/remoteAsset/native/f0/f0a39541-9487-4014-9675-25b922c8796c.68bd6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/7d/7dc5a7d7-5d35-43cd-beba-29a72393948a.cc266.pvr",
+      "bytes": 77392,
+      "sha256": "8259609f38e85bca28aaf95092f8fd2eae2d640124b9bc92a36463893017c53a",
+      "sourcePath": "/asset/remote/remoteAsset/native/7d/7dc5a7d7-5d35-43cd-beba-29a72393948a.cc266.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/0e/0e4a1122-37d3-4c96-a681-332276d53d20.79b69.pvr",
+      "bytes": 77392,
+      "sha256": "bf2a89dffe260f16983857b2dc321ca1b08625082c5511c322debb68aabbea05",
+      "sourcePath": "/asset/remote/remoteAsset/native/0e/0e4a1122-37d3-4c96-a681-332276d53d20.79b69.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/62/622ae9ee-db11-491e-a780-e5a5e44781e7.8526f.pvr",
+      "bytes": 44176,
+      "sha256": "44edd4a0514038b7b744e055dfb2ab72280b203387c0b41f589ea060ac340613",
+      "sourcePath": "/asset/remote/remoteAsset/native/62/622ae9ee-db11-491e-a780-e5a5e44781e7.8526f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/92/922ee430-268e-4f54-beaa-1b7500f35863.884de.bin",
+      "bytes": 6603,
+      "sha256": "7a4044a7968e9da0bf76ed46e7eb722a9c2602509ffdd9a70a9dc1797e3870ad",
+      "sourcePath": "/asset/remote/remoteAsset/native/92/922ee430-268e-4f54-beaa-1b7500f35863.884de.bin"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/0c/0c59b016-69d8-4fcf-a1eb-7703a21b93b4.fca64.bin",
+      "bytes": 6753,
+      "sha256": "e6ce4fcebb9989a13ae42d9cd043eb16b3a54e387bd1f53ab73220981ed4f0ea",
+      "sourcePath": "/asset/remote/remoteAsset/native/0c/0c59b016-69d8-4fcf-a1eb-7703a21b93b4.fca64.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/12/12e8fbb8f.363c1.pvr",
+      "bytes": 583696,
+      "sha256": "403b5757e2f0cc44af6b64a9c8ecb183db40f946e6db092f1812e963a9ce71d5",
+      "sourcePath": "/asset/remote/gameAsset/native/12/12e8fbb8f.363c1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/32/32889002-ce52-44af-91c6-8ad37193848b.61790.bin",
+      "bytes": 1925,
+      "sha256": "de65de55a0c2dc7c367d552d1385552ec4d2abd4a911600b6cb3063e5763bb25",
+      "sourcePath": "/asset/remote/gameAsset/native/32/32889002-ce52-44af-91c6-8ad37193848b.61790.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9c/9ca5531a-3b7a-40f6-ab63-6ead6b0c96e8.9bb78.pvr",
+      "bytes": 23248,
+      "sha256": "88bc55dc3c0cd477ae8cee81436797629a347089a973c18313d4fa837515f76f",
+      "sourcePath": "/asset/remote/gameAsset/native/9c/9ca5531a-3b7a-40f6-ab63-6ead6b0c96e8.9bb78.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/19/19936e497.a0ff7.pvr",
+      "bytes": 410416,
+      "sha256": "ee617b7e1ead9b7d5961c97020dd4c3c7b56d6510cd296a97477f5e9b4d2746c",
+      "sourcePath": "/asset/remote/gameAsset/native/19/19936e497.a0ff7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/7e/7e9bdec3-6c0c-40e3-8fb6-0d000a370138.04f2a.pvr",
+      "bytes": 16528,
+      "sha256": "5e1d00780d6c393422b2de698772a22faae49d8d2b0d426fc272ec5414200b15",
+      "sourcePath": "/asset/remote/remoteAsset/native/7e/7e9bdec3-6c0c-40e3-8fb6-0d000a370138.04f2a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/14/148e8b0d-03e2-49d0-9b17-80d9fae0d7bb.d836e.pvr",
+      "bytes": 5296,
+      "sha256": "0cd7ec73e198f7fe0709947f2503b42c24d06e45e40225cd2b10ad8df37b544e",
+      "sourcePath": "/asset/remote/remoteAsset/native/14/148e8b0d-03e2-49d0-9b17-80d9fae0d7bb.d836e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/c4/c436dbe4-608f-463c-a990-3a9ea672a628.f223c.pvr",
+      "bytes": 5456,
+      "sha256": "9c34966a403ab2eb124f799d5c142e68e272f84bad256545a0acacf9de35db34",
+      "sourcePath": "/asset/remote/remoteAsset/native/c4/c436dbe4-608f-463c-a990-3a9ea672a628.f223c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/b1/b1eb9a37-f567-4956-bd05-b235e4744f65.82e6d.pvr",
+      "bytes": 19616,
+      "sha256": "b6bdcbbb884c83d7d14777b817a4c11b1e9016ca7ed2f2bcab1954ba800879a4",
+      "sourcePath": "/asset/remote/remoteAsset/native/b1/b1eb9a37-f567-4956-bd05-b235e4744f65.82e6d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/88/88c89a26-44b1-46f0-816d-2df86ec3a648.01744.pvr",
+      "bytes": 5648,
+      "sha256": "dc0c9ca2efb327a4c4e133341e43c8cef8338f2d61a793cee7e84da43d4184ff",
+      "sourcePath": "/asset/remote/remoteAsset/native/88/88c89a26-44b1-46f0-816d-2df86ec3a648.01744.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/be/be982f23-8042-4a88-a4f6-b73b85b503f8.aa6e4.pvr",
+      "bytes": 21008,
+      "sha256": "78f112d0a941ed6542db50f17379fcba3fe6ab7ed607896a089cdadc584684df",
+      "sourcePath": "/asset/remote/remoteAsset/native/be/be982f23-8042-4a88-a4f6-b73b85b503f8.aa6e4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/bd/bd4d7a87-f20f-4927-a40b-7b9ce6cb3250.d01b6.pvr",
+      "bytes": 25216,
+      "sha256": "c20468a6b3c0036f7eab0e3a043b95b95e1abf6c863f13ab3ea109bf223f7b8e",
+      "sourcePath": "/asset/remote/remoteAsset/native/bd/bd4d7a87-f20f-4927-a40b-7b9ce6cb3250.d01b6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3c/3c4e183c-09f6-49ca-a88e-a831e967b097.3393c.bin",
+      "bytes": 2583,
+      "sha256": "99464aa551975c6d0e94f2789866f6a636631889982128bc4bed6e79d34cd7f3",
+      "sourcePath": "/asset/remote/gameAsset/native/3c/3c4e183c-09f6-49ca-a88e-a831e967b097.3393c.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d567b44-99b8-47b9-affe-7f2cddacb4f4.d851c.pvr",
+      "bytes": 15824,
+      "sha256": "51a48b3fc9a8145f0e40061826c28b3add0e82b69a56402a2aa34cd2beb0a872",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4d567b44-99b8-47b9-affe-7f2cddacb4f4.d851c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/72/72c5114a-0e4a-465e-8ffa-eb8414fdbdc0.9bc88.pvr",
+      "bytes": 13616,
+      "sha256": "88e21de6d9784f5618816b3f8fcf5a08465c38b0627b475829ed53f4d8dcb7d9",
+      "sourcePath": "/asset/remote/gameAsset/native/72/72c5114a-0e4a-465e-8ffa-eb8414fdbdc0.9bc88.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/86/86c5b541-7230-4bbe-a0ea-81414c0b4b84.a4823.pvr",
+      "bytes": 5648,
+      "sha256": "36335e2b16803b2edc8c7d807cb5dc75e499490274f2d1a00a9fae78ddf2e6f2",
+      "sourcePath": "/asset/remote/gameAsset/native/86/86c5b541-7230-4bbe-a0ea-81414c0b4b84.a4823.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d7908eef-6524-4332-827d-647e3b3a6a42.50325.pvr",
+      "bytes": 13616,
+      "sha256": "57b3b92f7e04b4ce3606aa932e327ea231268785fdf1508397e805681ed33bd8",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d7908eef-6524-4332-827d-647e3b3a6a42.50325.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/86/86b7c6d5-e235-4564-97c0-7a703c7b0224.f622a.pvr",
+      "bytes": 656,
+      "sha256": "6d3642f54a72e900cd50bba0b4f6a1c858ca6e1083298f6508282bef5bcfa15b",
+      "sourcePath": "/asset/remote/gameAsset/native/86/86b7c6d5-e235-4564-97c0-7a703c7b0224.f622a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/95/95fd5058-95e6-4097-ac09-b95a8c576d4c.95b53.pvr",
+      "bytes": 1600,
+      "sha256": "93b4f485cd292b4bc6f31b7f3e2db7c50b933567da76266073999838a7e871c4",
+      "sourcePath": "/asset/remote/gameAsset/native/95/95fd5058-95e6-4097-ac09-b95a8c576d4c.95b53.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bd/bdafa5da-ca33-4850-8802-d16d4c68a4a6.8c867.pvr",
+      "bytes": 800,
+      "sha256": "d704ab04659eda618b7ad27aa7986cba3e4dd9ce1d41b3ee62112d4ed1588282",
+      "sourcePath": "/asset/remote/gameAsset/native/bd/bdafa5da-ca33-4850-8802-d16d4c68a4a6.8c867.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7e/7ed5052b-2776-49b5-b632-7d9bad3b95db.5ac8c.pvr",
+      "bytes": 11056,
+      "sha256": "d9fb574034446881152f7144275d88ded39cada1c090d3bbdf1520a51b36694c",
+      "sourcePath": "/asset/remote/gameAsset/native/7e/7ed5052b-2776-49b5-b632-7d9bad3b95db.5ac8c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/de/debf5ba7-76e0-4827-ac92-88df116e3935.d0d10.bin",
+      "bytes": 8037,
+      "sha256": "74ba1b1193564f3758dfb8ff08fade7b918988110209637358775295d4a2b5ca",
+      "sourcePath": "/asset/remote/gameAsset/native/de/debf5ba7-76e0-4827-ac92-88df116e3935.d0d10.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9c/9c3f658a-6c94-476d-b3cb-f0b632898fe2.abbb0.pvr",
+      "bytes": 9168,
+      "sha256": "eeaae95f23d57cc8d4361b52d414b680868473f1fbf02562607b72000c7adc6d",
+      "sourcePath": "/asset/remote/gameAsset/native/9c/9c3f658a-6c94-476d-b3cb-f0b632898fe2.abbb0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/16/16e5da43-6ed3-4c32-91d7-f1e49ee83e7b.72491.pvr",
+      "bytes": 21520,
+      "sha256": "aed92c3a31025299ffcda317a82465dff2d14609e7f27e64ba415e16ed088816",
+      "sourcePath": "/asset/remote/gameAsset/native/16/16e5da43-6ed3-4c32-91d7-f1e49ee83e7b.72491.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a7/a74eb123-ed13-4d9e-b318-6bf41f66a24b.9a51d.bin",
+      "bytes": 2804,
+      "sha256": "04388bf07c471e48ad9c90b88bf597674e6fc88b6a9be6e3767816098589b7a6",
+      "sourcePath": "/asset/remote/gameAsset/native/a7/a74eb123-ed13-4d9e-b318-6bf41f66a24b.9a51d.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/13/13e8ee76-55cf-4073-90da-b6a18bfd2872.ab746.bin",
+      "bytes": 2551,
+      "sha256": "5febe47213922a8fa1a8054ef2b4153b1734c87ed236b0d9901f7502f524ed0b",
+      "sourcePath": "/asset/remote/gameAsset/native/13/13e8ee76-55cf-4073-90da-b6a18bfd2872.ab746.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/31/3171fcbb-99d4-4781-8919-023d484cbc97.3917a.pvr",
+      "bytes": 14160,
+      "sha256": "12315c7076d4db90ba0af0eddc46710a7e84ded0d242e26e8790e93ec620767d",
+      "sourcePath": "/asset/remote/gameAsset/native/31/3171fcbb-99d4-4781-8919-023d484cbc97.3917a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5e/5e7bd2e7-0113-443b-86eb-ffdf59315525.5eeee.pvr",
+      "bytes": 5648,
+      "sha256": "beb28a8d74001bdff71bf9653e48d116856df3ea0d19e1c21d974870719e2d72",
+      "sourcePath": "/asset/remote/gameAsset/native/5e/5e7bd2e7-0113-443b-86eb-ffdf59315525.5eeee.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/32/3274bd93-c02e-4c05-b59c-0ebf86f71245.54513.pvr",
+      "bytes": 12416,
+      "sha256": "a2f63ea9f4f3750f8323c8a2bf253a8c8568d29289725bd76a22b009742a8fe6",
+      "sourcePath": "/asset/remote/gameAsset/native/32/3274bd93-c02e-4c05-b59c-0ebf86f71245.54513.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/46/466d6a2a-3243-4e05-aea6-2b8756577c41.de2a2.pvr",
+      "bytes": 1424,
+      "sha256": "bb085082db3fef72bb44bd77f9a51dc902d39414c8e4b13d1b3f8d726b34d2a2",
+      "sourcePath": "/asset/remote/gameAsset/native/46/466d6a2a-3243-4e05-aea6-2b8756577c41.de2a2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e9/e98b3d66-fafe-4e25-818f-39ef699794d0.8d2da.pvr",
+      "bytes": 1296,
+      "sha256": "5a665914eed9a465155f315e656e86a9c93a203626df2a310c84ca3d019ca551",
+      "sourcePath": "/asset/remote/gameAsset/native/e9/e98b3d66-fafe-4e25-818f-39ef699794d0.8d2da.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0e/0e0f563e-ba5e-4542-9bbc-e11c69e1453f.f2cff.mp3",
+      "bytes": 568248,
+      "sha256": "3902dd630e792aa71cf0ae0897edf6e9232b0cd514490ab40ac54698039b837a",
+      "sourcePath": "/asset/remote/gameAsset/native/0e/0e0f563e-ba5e-4542-9bbc-e11c69e1453f.f2cff.mp3"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/84/84a388b2-e611-4c5e-af94-a1dfac193a6a.6153a.pvr",
+      "bytes": 5648,
+      "sha256": "7fa92b460a3e7c9b47b1ce365299227d255b9ad1901ecfaeac543478a4e64096",
+      "sourcePath": "/asset/remote/gameAsset/native/84/84a388b2-e611-4c5e-af94-a1dfac193a6a.6153a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f5/f5b6a911-57e6-4d1a-900b-171b939196f5.9ff23.pvr",
+      "bytes": 5648,
+      "sha256": "e640eece6aa9c99884c9bf75e2aca53a8636e5db5a7b7a5ab552c31205d4bb98",
+      "sourcePath": "/asset/remote/gameAsset/native/f5/f5b6a911-57e6-4d1a-900b-171b939196f5.9ff23.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4f/4f8af85d-b0b4-4388-8da4-247cb4e58ff8.4cc64.pvr",
+      "bytes": 5648,
+      "sha256": "3d207f4272d73b565d240743571fd7f1b9b0a615a93bf8426e4de1840e131a72",
+      "sourcePath": "/asset/remote/gameAsset/native/4f/4f8af85d-b0b4-4388-8da4-247cb4e58ff8.4cc64.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ec/ecd226fc-2a82-4cd2-a28b-36df6bcc44c7.d5d31.pvr",
+      "bytes": 8720,
+      "sha256": "598dba89481a4eac58719266778084f19505168a8873ccbb27233022ca98e40d",
+      "sourcePath": "/asset/remote/gameAsset/native/ec/ecd226fc-2a82-4cd2-a28b-36df6bcc44c7.d5d31.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c9/c9fd6c0f-4670-42f4-ab09-888acfc596e8.fcc2d.pvr",
+      "bytes": 8720,
+      "sha256": "629410f856da2bba4ae4abd3bb5a04eeea24e9863ad529db6c52a0e48129a5a3",
+      "sourcePath": "/asset/remote/gameAsset/native/c9/c9fd6c0f-4670-42f4-ab09-888acfc596e8.fcc2d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/56/56fd5297-169c-4795-887d-68eaf68fe170.0640f.pvr",
+      "bytes": 8720,
+      "sha256": "98f536a09836cbebab6ac64221d77b930f7930aa82ac1039b0de58ff83a172dd",
+      "sourcePath": "/asset/remote/gameAsset/native/56/56fd5297-169c-4795-887d-68eaf68fe170.0640f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/dd/dd15fec9-4e79-4348-b57b-b563f27f291f.c7942.pvr",
+      "bytes": 8720,
+      "sha256": "8cc3f8e4b54e033e95eb87aecb8ff4aea1033985ffcef6744f77d7907b7142f2",
+      "sourcePath": "/asset/remote/gameAsset/native/dd/dd15fec9-4e79-4348-b57b-b563f27f291f.c7942.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8f/8f33820b-ed37-423e-a85e-bd338c3032c8.89d73.pvr",
+      "bytes": 2928,
+      "sha256": "1ba5b6f78814c27ef793656cbee85c9431b8bb356993d0e122608567502004b9",
+      "sourcePath": "/asset/remote/gameAsset/native/8f/8f33820b-ed37-423e-a85e-bd338c3032c8.89d73.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/77/77eb6928-440e-4809-a0d9-319943e2c73b.cb96f.pvr",
+      "bytes": 8720,
+      "sha256": "e3665dd2dcc88d914d0ec819bba86cf7e1d393c96c1af53f63d03ab5c6d951f5",
+      "sourcePath": "/asset/remote/gameAsset/native/77/77eb6928-440e-4809-a0d9-319943e2c73b.cb96f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e1/e1664433-4577-4b70-a146-7fef7af18583.3e3ad.pvr",
+      "bytes": 8720,
+      "sha256": "12427b1a0a1f5ace9435c5c1fa3ecf268ec2a7710402b6d16f5b0448e6b634fc",
+      "sourcePath": "/asset/remote/gameAsset/native/e1/e1664433-4577-4b70-a146-7fef7af18583.3e3ad.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b15c78ff-ee37-4f46-80a9-74858e7a32c2.ffd80.pvr",
+      "bytes": 8720,
+      "sha256": "b9ff66a437fa138ab94734f2ee8120e1b67e666b9484823b3add4a826ef12152",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b15c78ff-ee37-4f46-80a9-74858e7a32c2.ffd80.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/36/36ddd9bb-8e3c-4f23-b997-c31a5c1a9cca.eb553.pvr",
+      "bytes": 4048,
+      "sha256": "13954aff7e95f5ea138695aef914324b8828c79c536aefb69e4fb93da664943a",
+      "sourcePath": "/asset/remote/gameAsset/native/36/36ddd9bb-8e3c-4f23-b997-c31a5c1a9cca.eb553.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/51/515848f1-3cac-421f-8089-66d170aa6549.c2ce0.pvr",
+      "bytes": 13616,
+      "sha256": "bcc69faa084a076cd220ab699393b8f06486a57351981219feca78cb73e3bfa7",
+      "sourcePath": "/asset/remote/gameAsset/native/51/515848f1-3cac-421f-8089-66d170aa6549.c2ce0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/64/64760e9e-b220-449c-a660-b56f0fe9ab1f.b266a.pvr",
+      "bytes": 5648,
+      "sha256": "ecaba2a59b1580aca9fbab8608767f57952718bd0e125af54a73d87b12ffd624",
+      "sourcePath": "/asset/remote/gameAsset/native/64/64760e9e-b220-449c-a660-b56f0fe9ab1f.b266a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d5e7b2e-31f0-44e8-8259-2c32dadac463.6c957.pvr",
+      "bytes": 11424,
+      "sha256": "1efe0148cc79763149de4ff07413fe8898db9aaffb03b607aba88e566cdf604e",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4d5e7b2e-31f0-44e8-8259-2c32dadac463.6c957.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/63/63118731-fbf7-4748-9b85-c041ad880108.028ec.pvr",
+      "bytes": 5648,
+      "sha256": "aefdf7a8184566be54fb705e738c5ae7424e7e94e7a556d45e6c7ed6b1040d32",
+      "sourcePath": "/asset/remote/gameAsset/native/63/63118731-fbf7-4748-9b85-c041ad880108.028ec.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/94/94a821c5-9143-4dad-9851-6d9946f43927.8b1ec.pvr",
+      "bytes": 13616,
+      "sha256": "3e2bb17dd95c9ff37a51e8a4dc4a66c87031d0f34e8f0b97edc3aec706e69dcf",
+      "sourcePath": "/asset/remote/gameAsset/native/94/94a821c5-9143-4dad-9851-6d9946f43927.8b1ec.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/60/60a9acec-79c0-4956-aced-3acf5fdbb97d.843e5.pvr",
+      "bytes": 13616,
+      "sha256": "7d548b0f5c7478c172d3de7a7fc84023328bbc2251922ac042d8146b12c48ae7",
+      "sourcePath": "/asset/remote/gameAsset/native/60/60a9acec-79c0-4956-aced-3acf5fdbb97d.843e5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/20/20be8e6d-4b96-4158-ad87-7033d2a7938b.1b2dd.pvr",
+      "bytes": 5648,
+      "sha256": "b95a8e8997d86d492fc056d565bbf4ca8e9068528986c03f7c4bf0d3885ef686",
+      "sourcePath": "/asset/remote/gameAsset/native/20/20be8e6d-4b96-4158-ad87-7033d2a7938b.1b2dd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e2/e2283338-529e-4f12-aa3c-851777c5e607.e6ce6.pvr",
+      "bytes": 336,
+      "sha256": "c993a822992870161e5a7c97542b632117059dea6ae95a97e8f742a3ed6a2f29",
+      "sourcePath": "/asset/remote/gameAsset/native/e2/e2283338-529e-4f12-aa3c-851777c5e607.e6ce6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/11/11f624aa-f871-460a-9d23-d59cb6ef7c08.925a8.pvr",
+      "bytes": 22032,
+      "sha256": "66e95096bc8177a31b6ed58542ed4e22e54dc189ed691e9c0b701f684f51cffa",
+      "sourcePath": "/asset/remote/gameAsset/native/11/11f624aa-f871-460a-9d23-d59cb6ef7c08.925a8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ef/ef7933ef-6647-4eaf-b74b-eb729b7827e4.f3ddc.bin",
+      "bytes": 3441,
+      "sha256": "34c773d4968418df1c676edc2928bb45f46e379ad2d23a4e16af87b15f4a684c",
+      "sourcePath": "/asset/remote/gameAsset/native/ef/ef7933ef-6647-4eaf-b74b-eb729b7827e4.f3ddc.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/05/05bbdfcb-9fd1-4e69-990b-56a932c436a3.1c92b.pvr",
+      "bytes": 21520,
+      "sha256": "59b74850c708b89fe47268caa10d06ab7f87a8be0077726f417f3ddd72fd65bb",
+      "sourcePath": "/asset/remote/gameAsset/native/05/05bbdfcb-9fd1-4e69-990b-56a932c436a3.1c92b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9a/9afeb4ea-1bf9-4886-a615-71b21ad148e3.6fb6e.pvr",
+      "bytes": 24496,
+      "sha256": "d525d4982a794b72ff3ee8389aa88071177a97346885af1f6087a84ed9001a5d",
+      "sourcePath": "/asset/remote/gameAsset/native/9a/9afeb4ea-1bf9-4886-a615-71b21ad148e3.6fb6e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ef/efc9a9de-1991-47be-9bf3-f580ca0f4d6d.8f2d7.pvr",
+      "bytes": 29024,
+      "sha256": "94c86db529ced5ea3b6d2a04d20686e46606a3f7b0bc5d239a852dc75ff6b4dd",
+      "sourcePath": "/asset/remote/gameAsset/native/ef/efc9a9de-1991-47be-9bf3-f580ca0f4d6d.8f2d7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/32/32c659d7-db89-4f04-98fc-04ee67784d95.415c0.pvr",
+      "bytes": 23536,
+      "sha256": "b17e8e5cf0ff6a46f3f083792f5d0ef718c0a8b46a8bfbb9b57dfd897e33bdd5",
+      "sourcePath": "/asset/remote/remoteAsset/native/32/32c659d7-db89-4f04-98fc-04ee67784d95.415c0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/e6/e6d07ad6-472d-4593-a227-cccdebff2c66.ad576.pvr",
+      "bytes": 6736,
+      "sha256": "81345ffbeb52f3d4730150ae69034dc740fc8fb5f1fc34832b3913b2e13c2fbd",
+      "sourcePath": "/asset/remote/remoteAsset/native/e6/e6d07ad6-472d-4593-a227-cccdebff2c66.ad576.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/20/2099c969-faf7-4ba2-8b80-37dd599cb8fc.e73b7.bin",
+      "bytes": 15631,
+      "sha256": "f0f47c30d410da0e4c7bcedce4766dfb530b4280deab77ac3d2043b083252cc7",
+      "sourcePath": "/asset/remote/gameAsset/native/20/2099c969-faf7-4ba2-8b80-37dd599cb8fc.e73b7.bin"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/29/2960753d-284e-4b32-8dca-2a6098e57cd5.c8279.pvr",
+      "bytes": 19616,
+      "sha256": "1b4524f21bfa5e3b77ea1524e531f6009bc32883537f911b4af79c8722f6513c",
+      "sourcePath": "/asset/remote/remoteAsset/native/29/2960753d-284e-4b32-8dca-2a6098e57cd5.c8279.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d5/d560302b-1e70-432a-b4dc-542f7898eaed.4d7be.bin",
+      "bytes": 1583,
+      "sha256": "efc088ae5aa2d1a02c1ec9c7774a58d60c81409411b43372678e0a3911704d27",
+      "sourcePath": "/asset/remote/gameAsset/native/d5/d560302b-1e70-432a-b4dc-542f7898eaed.4d7be.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ef/ef462ab5-30e8-4539-954e-e84e7fb9f658.e057a.pvr",
+      "bytes": 3552,
+      "sha256": "e9b0e2e8af3d0dc7c76c5723b8e5e7fee6db1071136de46417025dc54d4d7b9a",
+      "sourcePath": "/asset/remote/gameAsset/native/ef/ef462ab5-30e8-4539-954e-e84e7fb9f658.e057a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/26/2695100a-6584-4231-96ee-b02242341228.59da6.bin",
+      "bytes": 2650,
+      "sha256": "567c70793cd2af97adbd842ad1a2a09d84b44ba3c309ec488ad0d366071e2b4a",
+      "sourcePath": "/asset/remote/remoteAsset/native/26/2695100a-6584-4231-96ee-b02242341228.59da6.bin"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/8a/8ad29cef-7d62-45a6-8bc8-ddde28f95d0d.c44a4.pvr",
+      "bytes": 4624,
+      "sha256": "451020b63c4a8d9a8d716f3efa4c2b7bdbd206565040d2424b44067f860c399f",
+      "sourcePath": "/asset/remote/remoteAsset/native/8a/8ad29cef-7d62-45a6-8bc8-ddde28f95d0d.c44a4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/9c/9c46f836-e7f4-4ea2-b9ca-dc386272f9b3.4dcc3.pvr",
+      "bytes": 11152,
+      "sha256": "aeb6a84e6d6f652586fa495120a69f570c630e9cd69c04cac552a394d520ce5e",
+      "sourcePath": "/asset/remote/remoteAsset/native/9c/9c46f836-e7f4-4ea2-b9ca-dc386272f9b3.4dcc3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ef/effdea67-d722-431d-9a78-a2baf9cb8e18.94b45.pvr",
+      "bytes": 27984,
+      "sha256": "b98b625892b3fd8e3f927455d71b1bc50badebc49d16460ba8fda36df66f3a48",
+      "sourcePath": "/asset/remote/remoteAsset/native/ef/effdea67-d722-431d-9a78-a2baf9cb8e18.94b45.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/3d/3dc18968-9a62-483b-9261-210fa5e3e538.7676e.pvr",
+      "bytes": 11152,
+      "sha256": "58035fe28347615fc09f0cf33b23e2c488d32a36dceed58c9cfd60ec523571d2",
+      "sourcePath": "/asset/remote/remoteAsset/native/3d/3dc18968-9a62-483b-9261-210fa5e3e538.7676e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ce/ce77568d-a0d0-4ad3-bea2-f718af423c81.4ee3a.pvr",
+      "bytes": 1616,
+      "sha256": "e5f0a213c295d55c5f62b368b9da2cbd26af8ea37e92c0ecfd666ad775b02529",
+      "sourcePath": "/asset/remote/remoteAsset/native/ce/ce77568d-a0d0-4ad3-bea2-f718af423c81.4ee3a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/98/9812f736-51fd-42ca-ab67-d6395f0b12b2.4f62b.pvr",
+      "bytes": 7616,
+      "sha256": "67697575efce69f0df3913edad8f6312851360a63644af6c45ce85f68d9c605c",
+      "sourcePath": "/asset/remote/remoteAsset/native/98/9812f736-51fd-42ca-ab67-d6395f0b12b2.4f62b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/54/54df1317-0f34-476a-99f5-6f8286f01e8d.f64da.pvr",
+      "bytes": 4336,
+      "sha256": "db8f367da28eb3368e84bce54e7ab444c8885b584a72910cee5a12f1e35add77",
+      "sourcePath": "/asset/remote/remoteAsset/native/54/54df1317-0f34-476a-99f5-6f8286f01e8d.f64da.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/af/afafc480-2074-4fb6-a9f6-c98747fcadf4.53f53.pvr",
+      "bytes": 2736,
+      "sha256": "47f0d961945fb2bdd3227a695a8591e86e18389a4696d78bf2b5590226c6d2ba",
+      "sourcePath": "/asset/remote/remoteAsset/native/af/afafc480-2074-4fb6-a9f6-c98747fcadf4.53f53.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ba/ba7d726f-4db8-4c50-958f-6ed1c838c2de.190ee.pvr",
+      "bytes": 115216,
+      "sha256": "f7dc3f1773701fde674f44ca22a3247433f8772788c482e06cab5e563f419815",
+      "sourcePath": "/asset/remote/remoteAsset/native/ba/ba7d726f-4db8-4c50-958f-6ed1c838c2de.190ee.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/59/5990c3ba-f80c-41fb-bff7-c44ce501a781.0ef26.pvr",
+      "bytes": 5776,
+      "sha256": "e166306ca7b5b3b9c68c886b41d4d7971f9643b856ab67d0f00474c93967a48d",
+      "sourcePath": "/asset/remote/remoteAsset/native/59/5990c3ba-f80c-41fb-bff7-c44ce501a781.0ef26.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/91/91844f3f-fe05-4843-8fd6-8ab479a3dced.aaeec.pvr",
+      "bytes": 114016,
+      "sha256": "3310449a3913fe37bd7f13559fa8f12cac7bc73c976be91a8fd7e277afed1c9d",
+      "sourcePath": "/asset/remote/remoteAsset/native/91/91844f3f-fe05-4843-8fd6-8ab479a3dced.aaeec.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/f6/f64970e8-ec70-4cb0-9998-b70811897996.348ea.pvr",
+      "bytes": 5840,
+      "sha256": "c5603ce8d2f58f05ab9aa09a5c7506e173d9774265ed4fc8f9aeee30aac0e159",
+      "sourcePath": "/asset/remote/remoteAsset/native/f6/f64970e8-ec70-4cb0-9998-b70811897996.348ea.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/cd/cdd971ce-ef9b-4d02-93b3-ff8061337e33.95d0a.pvr",
+      "bytes": 4016,
+      "sha256": "74ae0471d06362ca012fafd468da08fba94e7512c3c417aadd0827f283a84816",
+      "sourcePath": "/asset/remote/remoteAsset/native/cd/cdd971ce-ef9b-4d02-93b3-ff8061337e33.95d0a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/61/6172e2c4-ca58-4d9a-8404-b6ffd4058666.1127e.pvr",
+      "bytes": 3008,
+      "sha256": "e2e9b637f5f3c55402f6162e7e684a9db6b6ba34f815d0c4b3e6ad76029f263b",
+      "sourcePath": "/asset/remote/remoteAsset/native/61/6172e2c4-ca58-4d9a-8404-b6ffd4058666.1127e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4e/4ee2ec4a-ed25-4ed0-b02e-5d07285eb610.d449b.bin",
+      "bytes": 224012,
+      "sha256": "90dcdd43f64427256a1a4b5260f365df537112ec9e4d695955630ea08e62cadd",
+      "sourcePath": "/asset/remote/gameAsset/native/4e/4ee2ec4a-ed25-4ed0-b02e-5d07285eb610.d449b.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/79/79093c4e-09f6-43f1-bded-5152780a0979.e8e55.pvr",
+      "bytes": 13616,
+      "sha256": "919107a8c9a20105efa79e7f220c96eb96446428fd136f6de94db68d56df9714",
+      "sourcePath": "/asset/remote/gameAsset/native/79/79093c4e-09f6-43f1-bded-5152780a0979.e8e55.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/59/5948ac5e-a0ce-4e9a-be23-e4a742a7e2b4.710dd.pvr",
+      "bytes": 5648,
+      "sha256": "4a95e113a9dae0042e10de5f09568e6ad8b02622b2243cdead297e646e24a601",
+      "sourcePath": "/asset/remote/gameAsset/native/59/5948ac5e-a0ce-4e9a-be23-e4a742a7e2b4.710dd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/45/455e03d0-fa95-4319-b930-e856eb578a67.bf6d3.pvr",
+      "bytes": 4272,
+      "sha256": "5b410ac9774c72d1a87d0f09f015c0061a1579c1e84f1ed702360de925a30aab",
+      "sourcePath": "/asset/remote/gameAsset/native/45/455e03d0-fa95-4319-b930-e856eb578a67.bf6d3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a0/a074e381-9312-426d-a656-77c30350a67e.8eb54.pvr",
+      "bytes": 9424,
+      "sha256": "b9b8c62aa4099c066d5fe0d599c411733f8b7c159a0197c93284fed6636446ea",
+      "sourcePath": "/asset/remote/gameAsset/native/a0/a074e381-9312-426d-a656-77c30350a67e.8eb54.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/37/371f361b-9d84-43fd-a139-ac2ef4ec3f24.6ccbf.pvr",
+      "bytes": 1296,
+      "sha256": "6185ae75a0e3bf15498d5d3f3f4f6993be3968845906f030dc78af1af7a4f6d0",
+      "sourcePath": "/asset/remote/gameAsset/native/37/371f361b-9d84-43fd-a139-ac2ef4ec3f24.6ccbf.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/07/0766d01c-0fcd-41f4-b2a3-6e539edbf446.3fbad.pvr",
+      "bytes": 5648,
+      "sha256": "17707c735d8c4d1b62c75a46570826cc057e2b0357f11fc292153bcb77d44fb5",
+      "sourcePath": "/asset/remote/gameAsset/native/07/0766d01c-0fcd-41f4-b2a3-6e539edbf446.3fbad.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/be/becbdd0f-0193-4bf6-b5fb-b0db6c45e4df.6ccbf.pvr",
+      "bytes": 1296,
+      "sha256": "6185ae75a0e3bf15498d5d3f3f4f6993be3968845906f030dc78af1af7a4f6d0",
+      "sourcePath": "/asset/remote/gameAsset/native/be/becbdd0f-0193-4bf6-b5fb-b0db6c45e4df.6ccbf.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/77/77293f68-8a8b-4b80-8df9-01c9af954069.87766.pvr",
+      "bytes": 5648,
+      "sha256": "18803167a6af9e3bdf5b68e86dcd9791d4badf64ea0bc785185d178a026a653c",
+      "sourcePath": "/asset/remote/gameAsset/native/77/77293f68-8a8b-4b80-8df9-01c9af954069.87766.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b1e47bf6-5c47-4cf9-9cd5-bc0e96e88337.80ce6.bin",
+      "bytes": 691,
+      "sha256": "216da304ed2624dbefaac4af71687e4ca759c644112476ae58e50b39d54f5cdb",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b1e47bf6-5c47-4cf9-9cd5-bc0e96e88337.80ce6.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c1/c195288f-bae0-431c-be7d-5fd780463744.8d3be.pvr",
+      "bytes": 1424,
+      "sha256": "c124afe0169d74fa077b4bc66bf934fda31015a3205ef57f5210672ec193973b",
+      "sourcePath": "/asset/remote/gameAsset/native/c1/c195288f-bae0-431c-be7d-5fd780463744.8d3be.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4f/4f2338d5-5f79-40a0-8ed4-f93810015191.e70e2.pvr",
+      "bytes": 311712,
+      "sha256": "c7ed325e0de6eda43b09f8369e977f36edd088a5efe50af9cfbfac098244d444",
+      "sourcePath": "/asset/remote/gameAsset/native/4f/4f2338d5-5f79-40a0-8ed4-f93810015191.e70e2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bc/bceb268f-bba3-4270-881c-f96dc9caf1d6.05478.bin",
+      "bytes": 697,
+      "sha256": "fdedd0c9af0e8444a11ee5af973ceb163c093ba9afc79cd76d4f1b7b16c4471b",
+      "sourcePath": "/asset/remote/gameAsset/native/bc/bceb268f-bba3-4270-881c-f96dc9caf1d6.05478.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/51/5125fc01-b1b7-4555-be72-faef809c944c.3f58b.pvr",
+      "bytes": 67216,
+      "sha256": "53bf1ecf27993d407aa9af218578bd21fb25df2a1a689a77533e25dee620ae04",
+      "sourcePath": "/asset/remote/gameAsset/native/51/5125fc01-b1b7-4555-be72-faef809c944c.3f58b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/99/99a22b28-7864-4b8b-953a-8a85514fba89.6e08f.bin",
+      "bytes": 58361,
+      "sha256": "4e727a0d1f5fd81b84a954b521bc34ec8d266126acc0cfa3c75702badb1256cd",
+      "sourcePath": "/asset/remote/gameAsset/native/99/99a22b28-7864-4b8b-953a-8a85514fba89.6e08f.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e8/e8f997ae-c40b-40e4-a74d-5ab842e690cd.e0add.pvr",
+      "bytes": 30416,
+      "sha256": "679da28f40523c34efbdb38d4ce09d1b819ff97e7f4d1b37f4f0fc2a2606a126",
+      "sourcePath": "/asset/remote/gameAsset/native/e8/e8f997ae-c40b-40e4-a74d-5ab842e690cd.e0add.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/db/dbb46ff4-08d2-4e1a-8181-7b2bb58f1418.39b89.bin",
+      "bytes": 667,
+      "sha256": "2afac976c2dd46ac9c5218686ba4ee1cd349ad8f8d0cf070d7d04e7d01195c01",
+      "sourcePath": "/asset/remote/gameAsset/native/db/dbb46ff4-08d2-4e1a-8181-7b2bb58f1418.39b89.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/63/63f8f382-ff43-4bfc-bc24-6d764d40a72e.b330b.pvr",
+      "bytes": 5648,
+      "sha256": "b772e43b4eec8b848b96afa71de06986073f8aab5665a7fce7a7c6462969ee07",
+      "sourcePath": "/asset/remote/gameAsset/native/63/63f8f382-ff43-4bfc-bc24-6d764d40a72e.b330b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e3/e3018746-af17-4a92-ad66-e4a25618b8e0.012b4.pvr",
+      "bytes": 17936,
+      "sha256": "e54f3c8e58b253469a5fef92b237ad2d07480707cf10f2c586a46602d86a13a8",
+      "sourcePath": "/asset/remote/gameAsset/native/e3/e3018746-af17-4a92-ad66-e4a25618b8e0.012b4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/84/84c0691e-c1c0-4650-8e20-9be447961bc0.4b3b2.pvr",
+      "bytes": 54688,
+      "sha256": "ca6b3f10b3de644ca3d0bb052a62adb22c86815f6db434bc09acae09833c2494",
+      "sourcePath": "/asset/remote/gameAsset/native/84/84c0691e-c1c0-4650-8e20-9be447961bc0.4b3b2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bb/bb89307a-b435-4a6c-847e-8bedadcf8694.34f28.pvr",
+      "bytes": 311712,
+      "sha256": "7398abcc6ee52eed03b841a0343fa6c0952f5b54164adcd0a8e1954887f815e6",
+      "sourcePath": "/asset/remote/gameAsset/native/bb/bb89307a-b435-4a6c-847e-8bedadcf8694.34f28.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2b/2bdfd3aa-0967-40b4-9cad-ea9a0b358dc6.5ef87.bin",
+      "bytes": 583,
+      "sha256": "4cdaa2eb5f929a94404122c083fd20d2e50a785aad2ff4eb6092b2a8278b0309",
+      "sourcePath": "/asset/remote/gameAsset/native/2b/2bdfd3aa-0967-40b4-9cad-ea9a0b358dc6.5ef87.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/cc/cc4ff0a9-a317-48db-bee8-e791f499eba6.549ce.pvr",
+      "bytes": 5648,
+      "sha256": "aa8e768cf159ef01e5927028169aa1dff38648b9b8c9de96d367a871ba5b2aee",
+      "sourcePath": "/asset/remote/gameAsset/native/cc/cc4ff0a9-a317-48db-bee8-e791f499eba6.549ce.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0c/0c46d492-6e5f-4bc3-a424-274c80be8316.1a2c3.pvr",
+      "bytes": 67216,
+      "sha256": "af2e4ecbefaacf98ac974ab47d04e204502016f50e36c9c43889de36e7af215d",
+      "sourcePath": "/asset/remote/gameAsset/native/0c/0c46d492-6e5f-4bc3-a424-274c80be8316.1a2c3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/31/31e2894c-b6b0-4a23-a3f7-3e8b92427b05.3948e.pvr",
+      "bytes": 13616,
+      "sha256": "bfa4b430b040b72e64d10cf916cdf17e71b3e746da226e3308b61f9414fbf2c1",
+      "sourcePath": "/asset/remote/gameAsset/native/31/31e2894c-b6b0-4a23-a3f7-3e8b92427b05.3948e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9c/9c8c6732-7d70-4e1c-b1e8-7589ff60439a.a0278.pvr",
+      "bytes": 116048,
+      "sha256": "7d44843953a8550e600c71a7696feca268303b78ded79e8ce4669b3e12e0054f",
+      "sourcePath": "/asset/remote/gameAsset/native/9c/9c8c6732-7d70-4e1c-b1e8-7589ff60439a.a0278.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2e/2ee1b9ab-609c-4952-b55c-1fb89046e5b5.d7216.pvr",
+      "bytes": 13616,
+      "sha256": "9351716b47cf797bf0694a2761a6028b3e0def792415159721594bd32470f909",
+      "sourcePath": "/asset/remote/gameAsset/native/2e/2ee1b9ab-609c-4952-b55c-1fb89046e5b5.d7216.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/3c/3c598190-e8fd-448c-a75d-0bd7f89f182d.d8643.bin",
+      "bytes": 1775082,
+      "sha256": "8bc14ad3d45bdeaeb5421efe5c148103b3d2147d32b990c89f119d2839f0f76c",
+      "sourcePath": "/asset/remote/remoteAsset/native/3c/3c598190-e8fd-448c-a75d-0bd7f89f182d.d8643.bin"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/c2/c21044a2-bd20-4cf9-bfe1-1dc482953177.c31c4.mp3",
+      "bytes": 54465,
+      "sha256": "37bedab091f41b57aa27bc582f9d83506af6fc60d34b1d106b5c4d84343a43e5",
+      "sourcePath": "/asset/remote/zh/native/c2/c21044a2-bd20-4cf9-bfe1-1dc482953177.c31c4.mp3"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/9c/9cd2d1b4-e628-4753-8465-d836d44370ec.215f8.mp3",
+      "bytes": 50286,
+      "sha256": "946f41b5ac80a4680e27bc80bbe8ea8a8d351b07b7713e7f20de0d36ccf1bf63",
+      "sourcePath": "/asset/remote/zh/native/9c/9cd2d1b4-e628-4753-8465-d836d44370ec.215f8.mp3"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d8/d84ab3d8-ef74-4544-9e1c-3f3f45cd96f4.bb083.pvr",
+      "bytes": 5168,
+      "sha256": "3b6e17b8fb6addd33a92a8e3305f9e80daf1044df849f0fd5f509088d4976444",
+      "sourcePath": "/asset/remote/gameAsset/native/d8/d84ab3d8-ef74-4544-9e1c-3f3f45cd96f4.bb083.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/73/73cdd938-dbaa-42b1-96da-9566b962f42b.613ee.pvr",
+      "bytes": 11280,
+      "sha256": "2866e183d050b5e963fecdba7a58ed8318af58e902f3c86de63b0802fa8ab343",
+      "sourcePath": "/asset/remote/gameAsset/native/73/73cdd938-dbaa-42b1-96da-9566b962f42b.613ee.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/31/3177ef21-25ca-4552-bf70-05d5ba78c80a.59a17.pvr",
+      "bytes": 59152,
+      "sha256": "34fcf87b2f3ac12288b832373e5799d6ffc2faf9c88223eccd8ee4e6fdcb0d63",
+      "sourcePath": "/asset/remote/gameAsset/native/31/3177ef21-25ca-4552-bf70-05d5ba78c80a.59a17.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2e/2ed361cf-e371-4d52-8085-a6618d27d354.6c6f2.mp3",
+      "bytes": 4069,
+      "sha256": "4fe0821432bec941e44ea01101bb7911004c429604c0e8da03a312429dc45a84",
+      "sourcePath": "/asset/remote/gameAsset/native/2e/2ed361cf-e371-4d52-8085-a6618d27d354.6c6f2.mp3"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/db/dbbb4742-c9a0-41ee-b00c-5f07da25a9dc.946e7.mp3",
+      "bytes": 6260,
+      "sha256": "2b1a5aa014dd366024f116f239ee85ce267406dd5b5faf871c093dbb5dc51c3f",
+      "sourcePath": "/asset/remote/gameAsset/native/db/dbbb4742-c9a0-41ee-b00c-5f07da25a9dc.946e7.mp3"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/da/da157fad-9944-4816-8ff8-8647cca144b0.da2a2.pvr",
+      "bytes": 129616,
+      "sha256": "78fcad870e10027851844db628ba119409a20c12603f8c44d8810f2a825d3b7b",
+      "sourcePath": "/asset/remote/gameAsset/native/da/da157fad-9944-4816-8ff8-8647cca144b0.da2a2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/47/4774f217-b770-4c9b-9b09-773a3d3045ec.8b179.pvr",
+      "bytes": 10096,
+      "sha256": "0f3529dee719af0c193151decb406b543ca9ab5779c20f03fd2fc16a7085402c",
+      "sourcePath": "/asset/remote/remoteAsset/native/47/4774f217-b770-4c9b-9b09-773a3d3045ec.8b179.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/35/35896641-c62a-4192-853e-165d21adb488.dee56.pvr",
+      "bytes": 10928,
+      "sha256": "28d445d87b8e92155a7b5510453a7759538919c16f2913e6f34699293a66bde4",
+      "sourcePath": "/asset/remote/remoteAsset/native/35/35896641-c62a-4192-853e-165d21adb488.dee56.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/fa/fa635320-c980-490d-9bbb-852d3b675587.6a833.pvr",
+      "bytes": 8528,
+      "sha256": "6a99ba31b6226ded4ba3ec6e4b97f74af29d36dca83c18f812f20b90b3524884",
+      "sourcePath": "/asset/remote/remoteAsset/native/fa/fa635320-c980-490d-9bbb-852d3b675587.6a833.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/81/81d758b9-f895-4b27-887d-38b921ca6f72.1a564.pvr",
+      "bytes": 5392,
+      "sha256": "1b46f5977949e10aded1b6089e051e94778a99420e310d24bec3ed83cd437001",
+      "sourcePath": "/asset/remote/remoteAsset/native/81/81d758b9-f895-4b27-887d-38b921ca6f72.1a564.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/fd/fd117494-38c8-48d0-aade-7011328ce3a7.8a084.pvr",
+      "bytes": 8176,
+      "sha256": "5d98d0e3489078daafd4b381e111e3885965353bb3aec6013c195dfae6781156",
+      "sourcePath": "/asset/remote/remoteAsset/native/fd/fd117494-38c8-48d0-aade-7011328ce3a7.8a084.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/75/75478fbf-64cc-4292-a361-d45768831073.d6a56.pvr",
+      "bytes": 8416,
+      "sha256": "10ca3d2c9fce78f54b57a2630fef104f7b3a1a37f09c3f1c078888c46482c697",
+      "sourcePath": "/asset/remote/remoteAsset/native/75/75478fbf-64cc-4292-a361-d45768831073.d6a56.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/38/38fed212-ab9c-48d7-9dd5-4c2ba7f83b1e.38a43.pvr",
+      "bytes": 7088,
+      "sha256": "de839d5dd227348d403ecaae197d9db3f8380c2ff0bed650bb7512624a7569ed",
+      "sourcePath": "/asset/remote/remoteAsset/native/38/38fed212-ab9c-48d7-9dd5-4c2ba7f83b1e.38a43.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/81/81a0912d-912a-4a61-9e46-6e05ffb882bf.9463f.pvr",
+      "bytes": 6816,
+      "sha256": "9c85682268f91a065525dd8a5102e0390de79dcd155d08e22549fd3659048d42",
+      "sourcePath": "/asset/remote/remoteAsset/native/81/81a0912d-912a-4a61-9e46-6e05ffb882bf.9463f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/62/62fc3ea0-ae61-412c-8beb-086db0ca9bf6.12c94.pvr",
+      "bytes": 6048,
+      "sha256": "11ff815005060406ca3c0467897b5720ecd254a7ac47a70d8eb0f511bdbdf446",
+      "sourcePath": "/asset/remote/remoteAsset/native/62/62fc3ea0-ae61-412c-8beb-086db0ca9bf6.12c94.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/54/54c865a9-8ebc-44f6-8323-c7b5af0b6313.b1b97.pvr",
+      "bytes": 8832,
+      "sha256": "6777fa482b29d37d6313b24ec20c682a3288dcc65fb98f941acd14faee5fffe1",
+      "sourcePath": "/asset/remote/remoteAsset/native/54/54c865a9-8ebc-44f6-8323-c7b5af0b6313.b1b97.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/89/896f9282-306b-4f5c-bf4f-5b7c86529c92.f4bc1.pvr",
+      "bytes": 129360,
+      "sha256": "15dd0c1951d516085a15471925503f74fb2d7298334c67a488eb12ab5c4ccc5a",
+      "sourcePath": "/asset/remote/gameAsset/native/89/896f9282-306b-4f5c-bf4f-5b7c86529c92.f4bc1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/71/71721161-7229-46e7-bdaf-d7da34e0cc2f.af187.pvr",
+      "bytes": 19216,
+      "sha256": "dab8d4e67680278eb4b612a8461f28570a3fce2ddc6e2951870d24b4ca01a361",
+      "sourcePath": "/asset/remote/gameAsset/native/71/71721161-7229-46e7-bdaf-d7da34e0cc2f.af187.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/a4/a49c31da-682a-426b-8989-43bf9a1b0fc0.970e2.pvr",
+      "bytes": 9760,
+      "sha256": "62284e42da3f24128c183292be4b4ffe431ca67432dfb2d4c895c533d61e468d",
+      "sourcePath": "/asset/remote/remoteAsset/native/a4/a49c31da-682a-426b-8989-43bf9a1b0fc0.970e2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/50/50575ea2-34cb-41b0-90ce-db62643d1717.3f3dc.pvr",
+      "bytes": 8448,
+      "sha256": "5acf9aecf65b66c7d956644da09964572beaabfdd1dcb004bb8d2ba249c5decf",
+      "sourcePath": "/asset/remote/remoteAsset/native/50/50575ea2-34cb-41b0-90ce-db62643d1717.3f3dc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/4d/4d091df4-0e8f-4d56-a111-fd8afe24b1a0.e39fd.pvr",
+      "bytes": 8080,
+      "sha256": "adc95b573047d88618fbfd7d486fea35c2b37cc0a462879d1b5db2d33b035a32",
+      "sourcePath": "/asset/remote/remoteAsset/native/4d/4d091df4-0e8f-4d56-a111-fd8afe24b1a0.e39fd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/0e/0ede2243-2436-4540-9690-e87d2cd99be8.5afd3.pvr",
+      "bytes": 10256,
+      "sha256": "9fba37528138c989981b6a57e22da381f5c7f76e1322f9b055359847cf6c381b",
+      "sourcePath": "/asset/remote/remoteAsset/native/0e/0ede2243-2436-4540-9690-e87d2cd99be8.5afd3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/fb/fb71f220-addd-4189-ab6d-6f52848f9a45.c0121.pvr",
+      "bytes": 4880,
+      "sha256": "c260a4d1d534ebbf58b2d1e73d05a342f1a271bfb72b17aa0a161a62cac51ce2",
+      "sourcePath": "/asset/remote/gameAsset/native/fb/fb71f220-addd-4189-ab6d-6f52848f9a45.c0121.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/20/2039204a-5f1b-449a-b3e8-adbf61f6f7d3.6ab92.pvr",
+      "bytes": 9520,
+      "sha256": "4dfcfa2dce467a6b05f7bb54ff5836a4cc8ef54504a3d38b2cfa81bc5de7ccaa",
+      "sourcePath": "/asset/remote/remoteAsset/native/20/2039204a-5f1b-449a-b3e8-adbf61f6f7d3.6ab92.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ec/ec01c443-43f4-4c28-9261-87c134b91837.d4d30.pvr",
+      "bytes": 10688,
+      "sha256": "403b6c85c610738e5876fb69f69762e4a3c131b6b748a7ae3dc5a6dd6e22ae16",
+      "sourcePath": "/asset/remote/remoteAsset/native/ec/ec01c443-43f4-4c28-9261-87c134b91837.d4d30.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/59/59541a21-a881-4070-8f23-58e61e372f65.d7e78.pvr",
+      "bytes": 12336,
+      "sha256": "cb55870a9c97fbfd1e264a0d2f87fe82dbef026b41937554dc3efb211f18fab6",
+      "sourcePath": "/asset/remote/remoteAsset/native/59/59541a21-a881-4070-8f23-58e61e372f65.d7e78.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/a9/a97e95e6-c1f7-40f0-bc13-6f0d88175de6.750af.pvr",
+      "bytes": 7792,
+      "sha256": "1adff5364d1ad5704a9fd8226f347015e630f3fa2c630c72ff599498edb5a654",
+      "sourcePath": "/asset/remote/remoteAsset/native/a9/a97e95e6-c1f7-40f0-bc13-6f0d88175de6.750af.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/7e/7ed88a6b-8573-4ae9-8707-65c16d25b82f.ca05d.pvr",
+      "bytes": 10896,
+      "sha256": "bb01eb88ef88761dcfa5b56928c618504bb4799af4639cef5687050ad64c5326",
+      "sourcePath": "/asset/remote/remoteAsset/native/7e/7ed88a6b-8573-4ae9-8707-65c16d25b82f.ca05d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/33/33aee0a3-5a48-4b1a-9c58-9804084bab4d.36299.pvr",
+      "bytes": 7616,
+      "sha256": "74e156a43fdd3cea8238084920449bb1511d1a3552a64ac95e45827bb913ce51",
+      "sourcePath": "/asset/remote/remoteAsset/native/33/33aee0a3-5a48-4b1a-9c58-9804084bab4d.36299.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/c3/c323acc3-fb8f-4f56-8c5d-3cf2da866e59.7891a.pvr",
+      "bytes": 8416,
+      "sha256": "05e2b9bb0283a6abb973496a644b083560cf631326bdac8e63e88a33745d11f0",
+      "sourcePath": "/asset/remote/remoteAsset/native/c3/c323acc3-fb8f-4f56-8c5d-3cf2da866e59.7891a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/5b/5b5362a7-3398-4d39-bbd5-1d355fdc6d08.ecb89.pvr",
+      "bytes": 11056,
+      "sha256": "09ce94612c68ef2416369f4b7ca722ce17e44254bc855820e6ee23acc0bc0374",
+      "sourcePath": "/asset/remote/remoteAsset/native/5b/5b5362a7-3398-4d39-bbd5-1d355fdc6d08.ecb89.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/b1/b1688d84-4ba9-4703-a61e-123fba7d1864.73175.pvr",
+      "bytes": 7056,
+      "sha256": "548f2cf5ea8c8b7980a6b37f1ccd31c8e634ea2b8498d9966ed11a50fb335646",
+      "sourcePath": "/asset/remote/remoteAsset/native/b1/b1688d84-4ba9-4703-a61e-123fba7d1864.73175.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/d5/d54047c1-2080-44f6-b701-01f86923d9e0.93704.pvr",
+      "bytes": 6352,
+      "sha256": "032a2f0ead5218cf698f7a3592691197c642d23d94ae6537fbb09b1ebdf7caff",
+      "sourcePath": "/asset/remote/remoteAsset/native/d5/d54047c1-2080-44f6-b701-01f86923d9e0.93704.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/f9/f94af3ae-8f5f-4412-8696-65fb5e99cf03.6ce4c.pvr",
+      "bytes": 7008,
+      "sha256": "bd415309788cbe637b0e3f7524c435e5b56f219bc6407a4fc08e5736cf849c5f",
+      "sourcePath": "/asset/remote/remoteAsset/native/f9/f94af3ae-8f5f-4412-8696-65fb5e99cf03.6ce4c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/99/99fa8b87-eba9-40c6-9825-85dc5f66c049.d12d3.pvr",
+      "bytes": 6704,
+      "sha256": "b905028860bb9dc3f7c490ad7fa8b90102e00d3a664df98df5ff9b10a79ac146",
+      "sourcePath": "/asset/remote/remoteAsset/native/99/99fa8b87-eba9-40c6-9825-85dc5f66c049.d12d3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/cd/cd644dcf-bb96-431f-828a-8cedcfba8563.bb7a5.pvr",
+      "bytes": 9136,
+      "sha256": "62a66dd457c08bc8a5e73ea64f9ec048d22e3317060a4c9287344dd2283fa957",
+      "sourcePath": "/asset/remote/remoteAsset/native/cd/cd644dcf-bb96-431f-828a-8cedcfba8563.bb7a5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/18/18c43fc4-1f90-4b37-b220-d06e82e1b467.97432.pvr",
+      "bytes": 6928,
+      "sha256": "03bda6ab46d59d86465378e6952d1cadd07f94727a757efc5e6daa98928994fb",
+      "sourcePath": "/asset/remote/gameAsset/native/18/18c43fc4-1f90-4b37-b220-d06e82e1b467.97432.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/b0/b0902fe8-c34f-40a3-a063-cef2c7636361.bf60f.pvr",
+      "bytes": 9936,
+      "sha256": "42014486d21e07cafea8123a407460489bf74a3de6507a5dbcb93b1b0c031700",
+      "sourcePath": "/asset/remote/remoteAsset/native/b0/b0902fe8-c34f-40a3-a063-cef2c7636361.bf60f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/16/16fb93b2-d163-48bb-a9de-9f1ed1e2f638.0a433.pvr",
+      "bytes": 6672,
+      "sha256": "fddf692b6a40715bf64ccf2f5a3dcdf8bde23de05308586e87d80c22b4138698",
+      "sourcePath": "/asset/remote/remoteAsset/native/16/16fb93b2-d163-48bb-a9de-9f1ed1e2f638.0a433.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/95/954d472b-69f3-4b73-84fa-09fd82381845.7a963.pvr",
+      "bytes": 10576,
+      "sha256": "219bc27a33fac943a0dbfee0009162866cebd9070878f24e32a15ab7eaf08de2",
+      "sourcePath": "/asset/remote/remoteAsset/native/95/954d472b-69f3-4b73-84fa-09fd82381845.7a963.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/56/56035ca3-fc22-4242-93a7-e91cd9f66448.af60f.pvr",
+      "bytes": 8656,
+      "sha256": "7de539daee10c6d58363dcc577dc6219a0e1afb869297bc625c93908d9a6859b",
+      "sourcePath": "/asset/remote/remoteAsset/native/56/56035ca3-fc22-4242-93a7-e91cd9f66448.af60f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/0b/0bec1d44-646e-44c6-a027-ee2c8f6de7ee.dcdb2.pvr",
+      "bytes": 10432,
+      "sha256": "4be22aa0c1f351cbd109eed545b932d86893c1b774c1db471cbe5d76ed622ea9",
+      "sourcePath": "/asset/remote/remoteAsset/native/0b/0bec1d44-646e-44c6-a027-ee2c8f6de7ee.dcdb2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/56/565b8770-a222-42e0-b14b-63d5388a2eb0.c54b9.pvr",
+      "bytes": 8080,
+      "sha256": "3b27e1e63873af7cd3b997d0ee71d0c50a12e6015470883c5853d49f263b7f37",
+      "sourcePath": "/asset/remote/remoteAsset/native/56/565b8770-a222-42e0-b14b-63d5388a2eb0.c54b9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/e7/e767c047-e787-4121-9f75-8ed1d1d9de08.fd975.pvr",
+      "bytes": 8112,
+      "sha256": "b49d8645b9f6d14069f4f38050edf8c204c78ea8c8c5509f2cf745ab6d4443fe",
+      "sourcePath": "/asset/remote/remoteAsset/native/e7/e767c047-e787-4121-9f75-8ed1d1d9de08.fd975.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/95/95201bf7-5b92-4c87-af92-20f42d3d1f35.8cb93.pvr",
+      "bytes": 11216,
+      "sha256": "b243dbab905873769b049e9ad6ab2047a7449004c082bad070c9242c9e372169",
+      "sourcePath": "/asset/remote/remoteAsset/native/95/95201bf7-5b92-4c87-af92-20f42d3d1f35.8cb93.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/40/40b204a0-92fc-487b-8983-ddc2b3b36e4d.1543a.pvr",
+      "bytes": 9296,
+      "sha256": "d56a514c8a8ecc697b7aa5ab9fc3362f518204421119aef57dd5615b8e374946",
+      "sourcePath": "/asset/remote/remoteAsset/native/40/40b204a0-92fc-487b-8983-ddc2b3b36e4d.1543a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/41/417cfd2e-7336-42a0-8b06-b4b674d1be86.208ca.pvr",
+      "bytes": 688,
+      "sha256": "c14248da676213e8423a93af4029e0899b8f0b3791d153e54ac789edde444dee",
+      "sourcePath": "/asset/remote/gameAsset/native/41/417cfd2e-7336-42a0-8b06-b4b674d1be86.208ca.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/da/da622ed0-e63d-426a-9027-16e438236a00.be11b.pvr",
+      "bytes": 688,
+      "sha256": "c5829807a84914a6e76c5e7fda313e5f85d34d883c05bf7aef7751008de683ec",
+      "sourcePath": "/asset/remote/gameAsset/native/da/da622ed0-e63d-426a-9027-16e438236a00.be11b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/40/40edef1a-a4a7-4066-85a6-d9904c1a4b18.429bf.pvr",
+      "bytes": 7616,
+      "sha256": "255ed503162a74b78292b48c5d5a1d57fb5e8ce31a5ecc6ed34a780165651214",
+      "sourcePath": "/asset/remote/gameAsset/native/40/40edef1a-a4a7-4066-85a6-d9904c1a4b18.429bf.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/53/537f0871-5e86-4720-b8fd-b1cbeedb772a.68235.pvr",
+      "bytes": 5648,
+      "sha256": "1b53c8659a5799a30a4a11ffa0a2bc4e7a91f1d7d9ad061c3abeccf3ce3810cb",
+      "sourcePath": "/asset/remote/gameAsset/native/53/537f0871-5e86-4720-b8fd-b1cbeedb772a.68235.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/70/70e21b42-a176-44cd-9bf7-f084a2bcf558.07c49.pvr",
+      "bytes": 3216,
+      "sha256": "7e7b61ce8072f31b25ed98199ac5751f3864459640d4b2e68d5ed14c55219012",
+      "sourcePath": "/asset/remote/gameAsset/native/70/70e21b42-a176-44cd-9bf7-f084a2bcf558.07c49.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f8/f84fbe7c-84f5-436c-ad62-bf341ab5fc15.82427.pvr",
+      "bytes": 10224,
+      "sha256": "d29fd1a09e332294031a770ebb95aaffc11ee38598c849d59b9468bbe7196548",
+      "sourcePath": "/asset/remote/gameAsset/native/f8/f84fbe7c-84f5-436c-ad62-bf341ab5fc15.82427.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e4/e4fb5522-8340-4c51-88cf-a7a1214944ef.d34bf.pvr",
+      "bytes": 22032,
+      "sha256": "178eeb935738907cd6639fd310e5c88db9b1b30302544219d102dba7064bb7f1",
+      "sourcePath": "/asset/remote/gameAsset/native/e4/e4fb5522-8340-4c51-88cf-a7a1214944ef.d34bf.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f2/f2f01abc-7e15-445e-80a1-a1f96dda2067.88861.pvr",
+      "bytes": 10224,
+      "sha256": "c274df3ddd7e03aaacd8a2c0e5ce114cde047c3965434530900d4ed95710d863",
+      "sourcePath": "/asset/remote/gameAsset/native/f2/f2f01abc-7e15-445e-80a1-a1f96dda2067.88861.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/23/23c318f6-bea1-4692-9a6f-8ecddb928a1a.0996a.pvr",
+      "bytes": 10224,
+      "sha256": "b219e699c1392d8937bd15cae694f6db22c14a762704f319ee6c8455835cca23",
+      "sourcePath": "/asset/remote/gameAsset/native/23/23c318f6-bea1-4692-9a6f-8ecddb928a1a.0996a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/7481d573-52d5-4e52-babe-e134acfaf4a5.b8aed.pvr",
+      "bytes": 9520,
+      "sha256": "5c8413ad7636d3bffd05aad7fbfc6cfe106fad8752ef496743b2d3b83efbd9e3",
+      "sourcePath": "/asset/remote/gameAsset/native/74/7481d573-52d5-4e52-babe-e134acfaf4a5.b8aed.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/82/82506da0-509d-443d-8a0b-0d84784079a1.3afb2.pvr",
+      "bytes": 8816,
+      "sha256": "884bf3bc80d20f19ffbf8e0b4b4024f15729a2253b88e861d3da35c3dbca929a",
+      "sourcePath": "/asset/remote/gameAsset/native/82/82506da0-509d-443d-8a0b-0d84784079a1.3afb2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/66/669bc1f7-9d54-4fff-be83-eb78f646cdad.7cae9.pvr",
+      "bytes": 5648,
+      "sha256": "72c64830ee5ce07145046651b2657c86550edb2dcf76b4323a3c1cd3c7f567a7",
+      "sourcePath": "/asset/remote/gameAsset/native/66/669bc1f7-9d54-4fff-be83-eb78f646cdad.7cae9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f8/f8607e3b-6a98-4c37-a5d8-7b4b545396fe.7cae9.pvr",
+      "bytes": 5648,
+      "sha256": "72c64830ee5ce07145046651b2657c86550edb2dcf76b4323a3c1cd3c7f567a7",
+      "sourcePath": "/asset/remote/gameAsset/native/f8/f8607e3b-6a98-4c37-a5d8-7b4b545396fe.7cae9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/12/12305925-620e-4fa0-9d6f-313a7d688f0f.4624e.pvr",
+      "bytes": 4944,
+      "sha256": "ed948cd66214b88ae3b10082b56eaf655301ab04f32db10f1a93f9b101536f26",
+      "sourcePath": "/asset/remote/gameAsset/native/12/12305925-620e-4fa0-9d6f-313a7d688f0f.4624e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/82/82ce99b1-75c7-4c6c-b27d-38ca6a78ff7e.a7adf.pvr",
+      "bytes": 1616,
+      "sha256": "18a3c873e6d793ca1f72991bf2aae635316f3fa38e49484bcd7c274412685450",
+      "sourcePath": "/asset/remote/gameAsset/native/82/82ce99b1-75c7-4c6c-b27d-38ca6a78ff7e.a7adf.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/cc/cc93e91f-867b-4d2d-abc9-73d5d29b47da.a92ef.pvr",
+      "bytes": 416,
+      "sha256": "c4d9d9477176101801048219400168880b3b8ff258a1f740eac3e8cf86714a3d",
+      "sourcePath": "/asset/remote/gameAsset/native/cc/cc93e91f-867b-4d2d-abc9-73d5d29b47da.a92ef.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/51/51c54047-a747-4120-a0de-c46cd11e1f3a.ec062.bin",
+      "bytes": 1265,
+      "sha256": "c786817986f170cc16e2f1f8af205df865ab7c56940e7f99fb601f4af1fc54c7",
+      "sourcePath": "/asset/remote/gameAsset/native/51/51c54047-a747-4120-a0de-c46cd11e1f3a.ec062.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/95/95df900c-6355-40b7-8982-bd0bab728643.69762.pvr",
+      "bytes": 640,
+      "sha256": "19b3a3af9c003a7e1fe12413e69ee8fac9c2fbd1966b750db8240adc50e4ab55",
+      "sourcePath": "/asset/remote/gameAsset/native/95/95df900c-6355-40b7-8982-bd0bab728643.69762.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/81/81fb2048-5e6d-4b58-9380-66b55bf8f508.4901a.pvr",
+      "bytes": 7920,
+      "sha256": "7c73031a61dec9b3cd6e50780fb8b40d9d459aa78d489f2a7e0b8efbe5e6f4ea",
+      "sourcePath": "/asset/remote/gameAsset/native/81/81fb2048-5e6d-4b58-9380-66b55bf8f508.4901a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9d/9dc56598-39d0-440a-afca-ac3eca3f88f7.7266e.pvr",
+      "bytes": 1616,
+      "sha256": "480b482c20ab5b5e135505b5f2782d4a9e2c552c69e9c57b3ab4010541fa833d",
+      "sourcePath": "/asset/remote/gameAsset/native/9d/9dc56598-39d0-440a-afca-ac3eca3f88f7.7266e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/34/3488b958-b383-46f1-91ac-75659583266e.0d9e6.pvr",
+      "bytes": 10224,
+      "sha256": "eb64c548073b6696c8a569412803339b3ef47ecd7bc90cc14e96eb07c4bf875f",
+      "sourcePath": "/asset/remote/gameAsset/native/34/3488b958-b383-46f1-91ac-75659583266e.0d9e6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a9/a9755f47-e443-4d4a-8bfd-803186196738.c4298.pvr",
+      "bytes": 5216,
+      "sha256": "9b1b3e0e5fa7697fbc4d6ca5841d755811bfa35db61b47f276f9d25278d6a296",
+      "sourcePath": "/asset/remote/gameAsset/native/a9/a9755f47-e443-4d4a-8bfd-803186196738.c4298.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f0/f0401399-b103-4d87-8b9e-d3b1a12edc30.d79bc.bin",
+      "bytes": 25475,
+      "sha256": "db7c435d155f12eacb34d86cd872ade10a31a2d41c16c4702a62093ec8218294",
+      "sourcePath": "/asset/remote/gameAsset/native/f0/f0401399-b103-4d87-8b9e-d3b1a12edc30.d79bc.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a0/a0943cc4-b4ca-4c93-ab5e-326240f66b76.f8126.pvr",
+      "bytes": 8816,
+      "sha256": "73ff496654f8ed0965c383b3d7b0cbea6693530d4184c07442ab547316225cd4",
+      "sourcePath": "/asset/remote/gameAsset/native/a0/a0943cc4-b4ca-4c93-ab5e-326240f66b76.f8126.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/96/9632d61e-4ae3-46d5-90ce-3fc752f983e6.31fb5.pvr",
+      "bytes": 196624,
+      "sha256": "c28b88d258a5c16fab22e1d0f638b11f48f7829b9d1c59e55793417a3ce544c3",
+      "sourcePath": "/asset/remote/gameAsset/native/96/9632d61e-4ae3-46d5-90ce-3fc752f983e6.31fb5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5c/5c30a4e0-faae-4526-a656-721ecc5bf835.c61bc.pvr",
+      "bytes": 5200,
+      "sha256": "d47517a4097c2e10ee3ac972b41a1d185cee64015379da43bd41345c4c393ab0",
+      "sourcePath": "/asset/remote/gameAsset/native/5c/5c30a4e0-faae-4526-a656-721ecc5bf835.c61bc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c3/c3186f10-97bf-481b-83ce-5bdcff99180b.6107d.pvr",
+      "bytes": 1024,
+      "sha256": "498b3ccc76a5a97d57880af6e787a3f892e2be9877a4f66f2c46828891cfb800",
+      "sourcePath": "/asset/remote/gameAsset/native/c3/c3186f10-97bf-481b-83ce-5bdcff99180b.6107d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a3/a3576863-b24f-4f0d-8260-23781c3cc290.01e12.pvr",
+      "bytes": 1024,
+      "sha256": "2fee1b1621eb5d8d639dc0ee21be64b0d3ee5f87d5a58a663f84e4a105bb4f1d",
+      "sourcePath": "/asset/remote/gameAsset/native/a3/a3576863-b24f-4f0d-8260-23781c3cc290.01e12.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/87/87f97777-b0c6-4e5b-a759-67fcd163af82.5997a.pvr",
+      "bytes": 11536,
+      "sha256": "01fea361c3f49b9711df74b42cb63afcc46c90f86fab6b3dc4237814bd098033",
+      "sourcePath": "/asset/remote/gameAsset/native/87/87f97777-b0c6-4e5b-a759-67fcd163af82.5997a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ce/ce8cc9b4-d903-45ae-89a4-edb41547b5ca.e98ab.pvr",
+      "bytes": 1424,
+      "sha256": "1ecb66f7e16d778476379511ab0fa3992cde3819d2db5a6a849d7b3b5c708730",
+      "sourcePath": "/asset/remote/gameAsset/native/ce/ce8cc9b4-d903-45ae-89a4-edb41547b5ca.e98ab.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d2/d23b54fa-b8f8-42c9-adfd-d3c102268451.6cb55.pvr",
+      "bytes": 5168,
+      "sha256": "26dec8bad0a61036a97206aa0ae85497bdd63bd754d6fc9813f1bbc66fdb463d",
+      "sourcePath": "/asset/remote/gameAsset/native/d2/d23b54fa-b8f8-42c9-adfd-d3c102268451.6cb55.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ae/ae48ffa9-38b1-41d5-9fb9-7e69f13ed34e.52e7b.pvr",
+      "bytes": 7744,
+      "sha256": "3bac333a02fb38bd473587f68e38a60f3dfad9801754c57772fd4583cbf04c50",
+      "sourcePath": "/asset/remote/gameAsset/native/ae/ae48ffa9-38b1-41d5-9fb9-7e69f13ed34e.52e7b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0d/0d3859ef-c1f2-4923-b92b-98c296a33e86.b5710.pvr",
+      "bytes": 9424,
+      "sha256": "096cd7d4eb4ec86d020169074bc5f858f62648414005e3fb1b21ef2b1a69c094",
+      "sourcePath": "/asset/remote/gameAsset/native/0d/0d3859ef-c1f2-4923-b92b-98c296a33e86.b5710.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c0/c077e612-10d3-4121-adfb-c1531afe7709.23323.pvr",
+      "bytes": 3552,
+      "sha256": "6e2ff1052f09e5497e394c751d7010e78f92d47ff594676e6c0cb9cfe1697e05",
+      "sourcePath": "/asset/remote/gameAsset/native/c0/c077e612-10d3-4121-adfb-c1531afe7709.23323.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0a/0aead345-b7a9-49fc-a26b-1414791f755c.bda9c.pvr",
+      "bytes": 1136,
+      "sha256": "adf709d2e04e2f77a0fbd039d5608d5d7c38bd176941266778932a3ac4143f3c",
+      "sourcePath": "/asset/remote/gameAsset/native/0a/0aead345-b7a9-49fc-a26b-1414791f755c.bda9c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/12/12336089-4206-46b2-866a-bba77ba2ad98.1457f.pvr",
+      "bytes": 6400,
+      "sha256": "7453a4fad2c760bfb9a17292812d01c8ca8acc97ee9faeb1a1be9a69f8ceefa6",
+      "sourcePath": "/asset/remote/gameAsset/native/12/12336089-4206-46b2-866a-bba77ba2ad98.1457f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/30/30471488-0bb2-407b-9f4c-1d95d1007a5f.5796d.pvr",
+      "bytes": 4592,
+      "sha256": "378bf932b8f02c66568628f7f28b2fda02fa11e5d308aebbe8d0778dfef1a747",
+      "sourcePath": "/asset/remote/gameAsset/native/30/30471488-0bb2-407b-9f4c-1d95d1007a5f.5796d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7c/7c6bc85d-4a64-4bae-b63b-4fde39d349da.704d4.pvr",
+      "bytes": 1136,
+      "sha256": "a2b52214d4c5397364f715e150a1122aa40f2dbec35c6937b89318fa00d0b59f",
+      "sourcePath": "/asset/remote/gameAsset/native/7c/7c6bc85d-4a64-4bae-b63b-4fde39d349da.704d4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b8/b8aef7aa-3b69-410d-843a-23b592b06045.0dee5.pvr",
+      "bytes": 10000,
+      "sha256": "af81e29c377da9041b7b85a914e79b42f86efa26ed409e350f53ea4519c4a848",
+      "sourcePath": "/asset/remote/gameAsset/native/b8/b8aef7aa-3b69-410d-843a-23b592b06045.0dee5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/fe/fea0e9d4-327a-4ca7-b548-91cfd3118666.a09d7.pvr",
+      "bytes": 5648,
+      "sha256": "44e5be25350e50768ecc696bfca12e928d4abfe1007a956fd5a20b56470bcf6d",
+      "sourcePath": "/asset/remote/gameAsset/native/fe/fea0e9d4-327a-4ca7-b548-91cfd3118666.a09d7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f5/f5ac0bf9-439f-4b96-a03f-5d3e03933735.d248e.pvr",
+      "bytes": 9424,
+      "sha256": "d8fc1f47cf79803e4771a69fedafb10317764c6f40eee61a9c15937637432b8d",
+      "sourcePath": "/asset/remote/gameAsset/native/f5/f5ac0bf9-439f-4b96-a03f-5d3e03933735.d248e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f8/f83e2824-36d4-4262-92e7-e60e592f817b.be684.pvr",
+      "bytes": 1024,
+      "sha256": "f8dcf1335f1635dd6ff117052eb13170680c0ec740052cf6bef94de8a92cc224",
+      "sourcePath": "/asset/remote/gameAsset/native/f8/f83e2824-36d4-4262-92e7-e60e592f817b.be684.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/fd/fdb1c0c1-3d1a-428a-9c2f-59331ca9ac6d.d2742.pvr",
+      "bytes": 1024,
+      "sha256": "db587f7db8d8a46e238f3f3492388f8014315cc4fef2a26e9d3cf372ca2d0f5e",
+      "sourcePath": "/asset/remote/gameAsset/native/fd/fdb1c0c1-3d1a-428a-9c2f-59331ca9ac6d.d2742.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b0/b0929f72-f062-4071-9b75-4d7efd61b6e5.084f0.pvr",
+      "bytes": 1024,
+      "sha256": "362e7f4608c9ca71a7e35dc548b1efd1832d2ac7e35eabf6ef3d5807c0a04ec6",
+      "sourcePath": "/asset/remote/gameAsset/native/b0/b0929f72-f062-4071-9b75-4d7efd61b6e5.084f0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5e/5e7944bc-9539-49b5-9cb1-9e15588bc9a4.7eab3.pvr",
+      "bytes": 1936,
+      "sha256": "52f18eac5c1d9f296a3a98eefe9240211a582048da62c0ff5eb50d2e957a6b7f",
+      "sourcePath": "/asset/remote/gameAsset/native/5e/5e7944bc-9539-49b5-9cb1-9e15588bc9a4.7eab3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/61/61c95d55-cf4c-4dec-b13d-60193d397bc8.6f612.pvr",
+      "bytes": 1136,
+      "sha256": "d8c211d7a729514da5356162d027f4ce3b8658e7830f9bd727058e0876aa7617",
+      "sourcePath": "/asset/remote/gameAsset/native/61/61c95d55-cf4c-4dec-b13d-60193d397bc8.6f612.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f2/f2df71cb-ada9-4681-a8c3-2fae4c0b35ae.66d5f.pvr",
+      "bytes": 688,
+      "sha256": "90908aa9d00a719249ab3ba750a3dc977ee13f850ab23063eb72cc3b7807863e",
+      "sourcePath": "/asset/remote/gameAsset/native/f2/f2df71cb-ada9-4681-a8c3-2fae4c0b35ae.66d5f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5b/5bdc2314-a5d2-4480-b5ef-756135b432a4.d35c5.pvr",
+      "bytes": 5648,
+      "sha256": "ca107e11824ebcc20bbb0bf1acfe4648dcfa0b9632e90c2e9ca80d0d392a2cea",
+      "sourcePath": "/asset/remote/gameAsset/native/5b/5bdc2314-a5d2-4480-b5ef-756135b432a4.d35c5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/66/6682bcb0-b078-4b03-af17-717070560453.d4479.pvr",
+      "bytes": 304,
+      "sha256": "512d0c1b8b1848f8e796965c8b957e4e1c8d27235ab03be724d6ad04b72991b4",
+      "sourcePath": "/asset/remote/gameAsset/native/66/6682bcb0-b078-4b03-af17-717070560453.d4479.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5d/5dffd348-9d80-48c5-84ce-14ce4ed4ba27.3229a.pvr",
+      "bytes": 688,
+      "sha256": "56ed4c9bd0183e2448474387169caeb29d4393daf2c6cf227d144c55e692065e",
+      "sourcePath": "/asset/remote/gameAsset/native/5d/5dffd348-9d80-48c5-84ce-14ce4ed4ba27.3229a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8c/8c2da45f-ebb3-4bee-b744-2043efd6f4bc.da6d4.pvr",
+      "bytes": 5648,
+      "sha256": "bc43975e5def98b8afc5b6beb9daf277e2bb805cc944e13fd72e6468025e4162",
+      "sourcePath": "/asset/remote/gameAsset/native/8c/8c2da45f-ebb3-4bee-b744-2043efd6f4bc.da6d4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/72/72b9a36c-320b-4a4c-b24d-90312de48f97.66a4c.pvr",
+      "bytes": 5648,
+      "sha256": "5d7a3904fae468dcd86a0e82689496fa054fcde53d67581eede31f094642dedc",
+      "sourcePath": "/asset/remote/gameAsset/native/72/72b9a36c-320b-4a4c-b24d-90312de48f97.66a4c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/00/00646f04-4e21-4bb1-92f9-fb40d27fd499.4edb4.pvr",
+      "bytes": 7120,
+      "sha256": "fec451f0787af4cf083c41a5478b7091a6e4851853e24c9f2bc301f02139e716",
+      "sourcePath": "/asset/remote/gameAsset/native/00/00646f04-4e21-4bb1-92f9-fb40d27fd499.4edb4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8f/8fa64b04-8062-4676-bf6e-0a0e72f9edf8.20144.pvr",
+      "bytes": 4480,
+      "sha256": "fdae16313cfd54f1f158b6a578844142e444dc3c57c4db12ce64c4fc840b04cc",
+      "sourcePath": "/asset/remote/gameAsset/native/8f/8fa64b04-8062-4676-bf6e-0a0e72f9edf8.20144.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7a/7a18c807-0b93-4350-b8ec-5f063e71d07e.bbe14.pvr",
+      "bytes": 8720,
+      "sha256": "1475b19754e072279d67ad78f560cfc76ab7d42e43e991bd76cd01ea0619ba90",
+      "sourcePath": "/asset/remote/gameAsset/native/7a/7a18c807-0b93-4350-b8ec-5f063e71d07e.bbe14.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/48/48da4d8a-3c6d-45bd-91c2-2e02e7381c47.9913d.pvr",
+      "bytes": 1024,
+      "sha256": "55fb3d0ddc577bd261f531c349e9a0625f0745f093d225b7e49827dfdd04c793",
+      "sourcePath": "/asset/remote/gameAsset/native/48/48da4d8a-3c6d-45bd-91c2-2e02e7381c47.9913d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d701b492-e49f-4e13-a011-a9867de28bc8.28b18.bin",
+      "bytes": 6417,
+      "sha256": "c792da4c1815eb77da0896819d8851056f889b3cae6a86e8c04516fa7d6fa728",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d701b492-e49f-4e13-a011-a9867de28bc8.28b18.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/29/29cc83de-94e0-4115-9da1-8649e6464dc9.74934.pvr",
+      "bytes": 5776,
+      "sha256": "f49f42280595e2277c25e82e4bee78ba245ac6d0a70adeed8bfa36119bce1b93",
+      "sourcePath": "/asset/remote/gameAsset/native/29/29cc83de-94e0-4115-9da1-8649e6464dc9.74934.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/32/32febb8d-e83f-4f82-8972-ec7514ef3540.5f15a.pvr",
+      "bytes": 5648,
+      "sha256": "77fc05ef67f69f516acbee528e4a54f5866ab02d21ad86ad59e967ee6be340fe",
+      "sourcePath": "/asset/remote/gameAsset/native/32/32febb8d-e83f-4f82-8972-ec7514ef3540.5f15a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/08/081ab448-4003-4208-8944-549af51845f6.a32bd.pvr",
+      "bytes": 23952,
+      "sha256": "1b35ce150a1a8f9f065ffa5188365e6148955a4f9592a71c6ae20dc5d79ed4a7",
+      "sourcePath": "/asset/remote/gameAsset/native/08/081ab448-4003-4208-8944-549af51845f6.a32bd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8e/8e983cf4-0453-4f4d-b2aa-6204501dd35f.2dda6.pvr",
+      "bytes": 208,
+      "sha256": "be0340dc0ec39d6a433317bb33578c5514bd2319964b62fd33becfeb2535cff8",
+      "sourcePath": "/asset/remote/gameAsset/native/8e/8e983cf4-0453-4f4d-b2aa-6204501dd35f.2dda6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/40/400439be-d768-4a2c-9e93-cbcd7230453f.e1462.pvr",
+      "bytes": 6640,
+      "sha256": "4a191fe9980bad7b3ae8e6ab54d8b21337d7f256eea66aa354c50f0e573572d7",
+      "sourcePath": "/asset/remote/gameAsset/native/40/400439be-d768-4a2c-9e93-cbcd7230453f.e1462.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/67/67bffdc5-1b9e-4314-bc96-12fbb837dec3.a4892.bin",
+      "bytes": 6630,
+      "sha256": "8d089279888e4123d9b3aeff2b0f3812ac67fecae6f3cae938c6d0e8e6877b41",
+      "sourcePath": "/asset/remote/gameAsset/native/67/67bffdc5-1b9e-4314-bc96-12fbb837dec3.a4892.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/74accee2-0243-4b52-b072-75a95ed9557b.ea179.pvr",
+      "bytes": 46640,
+      "sha256": "2dcb3442d5bf3706fe716589479a3cb80187f9393316979cdfcc61261c74a706",
+      "sourcePath": "/asset/remote/gameAsset/native/74/74accee2-0243-4b52-b072-75a95ed9557b.ea179.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f9/f96b560e-6024-469e-a89b-6499a11ac4a5.d2628.bin",
+      "bytes": 5827,
+      "sha256": "1fdbee29f9df00db33256c2ca2f6f8c803b7a1142205358524b9cc52852da31c",
+      "sourcePath": "/asset/remote/gameAsset/native/f9/f96b560e-6024-469e-a89b-6499a11ac4a5.d2628.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a6/a6db9f49-892d-496f-87b4-497b55271c93.54977.bin",
+      "bytes": 667,
+      "sha256": "2c1ccf86c4bd613499b2a32e9b9f87e79f778ac3eac842d5bc834c52e213ffd9",
+      "sourcePath": "/asset/remote/gameAsset/native/a6/a6db9f49-892d-496f-87b4-497b55271c93.54977.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/24/240d0e5f-8fd4-4e17-a9f6-2fa7511a8794.9c61c.pvr",
+      "bytes": 20848,
+      "sha256": "f51a2d30b1d5e4afdb67639acb30be63cc4ec6b0c79d7fc4f44d98f5b8caa251",
+      "sourcePath": "/asset/remote/gameAsset/native/24/240d0e5f-8fd4-4e17-a9f6-2fa7511a8794.9c61c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7c/7cd48e0b-a0b5-48d2-95d7-18305084b7e6.4d7e2.pvr",
+      "bytes": 101584,
+      "sha256": "76cd2ab550dcade627fd4039b2d9b71ca3447e3276c660e8d767c34888d6eedb",
+      "sourcePath": "/asset/remote/gameAsset/native/7c/7cd48e0b-a0b5-48d2-95d7-18305084b7e6.4d7e2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5a/5a7995bc-ff82-41b4-aa1f-eb14d80513de.382c8.pvr",
+      "bytes": 9616,
+      "sha256": "3706a1ff9f76af7f9f4680c08ca3fc53051fec433d56150303cc73f0ff0416b6",
+      "sourcePath": "/asset/remote/gameAsset/native/5a/5a7995bc-ff82-41b4-aa1f-eb14d80513de.382c8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7c/7c5d72d2-a906-48d8-85e5-87c633166e7b.5f31f.bin",
+      "bytes": 2083,
+      "sha256": "d60a64e97a0015124943a59b8dc5462ea6d1bb4d3cc36fc10d7d571b86bc83cc",
+      "sourcePath": "/asset/remote/gameAsset/native/7c/7c5d72d2-a906-48d8-85e5-87c633166e7b.5f31f.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/46/465785e2-301d-42d4-ab97-9c42255f7b91.6137a.bin",
+      "bytes": 89346,
+      "sha256": "dc35494ca6102c10339979ccf3ef823b3234d84ce5a8ea2bce5e41fe0d7cd316",
+      "sourcePath": "/asset/remote/gameAsset/native/46/465785e2-301d-42d4-ab97-9c42255f7b91.6137a.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/58/58a9eb26-7db3-4e7a-a138-47da91745a67.fa994.pvr",
+      "bytes": 220336,
+      "sha256": "84541437527fbd3657671ba7a62bfebb53f1ae1ec0a00ae1e1642fb121cc9670",
+      "sourcePath": "/asset/remote/gameAsset/native/58/58a9eb26-7db3-4e7a-a138-47da91745a67.fa994.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/15/1584d0b6-a638-476d-ae3b-c4356c722701.ef8ab.pvr",
+      "bytes": 10048,
+      "sha256": "802111e6775274a3a320adc1229d5fb9eb5f7a01d3c7862ae76add5600c471f2",
+      "sourcePath": "/asset/remote/remoteAsset/native/15/1584d0b6-a638-476d-ae3b-c4356c722701.ef8ab.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/03/0300f0c7-dbda-4567-9398-93c640ae1bad.d7806.pvr",
+      "bytes": 13456,
+      "sha256": "00d3fa8122feaab9e9925388f15a7a649aefd946e383778952c466cb8db4bcda",
+      "sourcePath": "/asset/remote/remoteAsset/native/03/0300f0c7-dbda-4567-9398-93c640ae1bad.d7806.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/99/9958156e-9d97-49c3-9e6a-546982231b92.59976.pvr",
+      "bytes": 12304,
+      "sha256": "038ce4bd8544ce48f4923130180f91d4218dcdd456d0f602a17f3d1881a97699",
+      "sourcePath": "/asset/remote/remoteAsset/native/99/9958156e-9d97-49c3-9e6a-546982231b92.59976.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/ea/ea3a3b16-ef58-4714-b044-34e3c7d1d9b5.fd6f6.pvr",
+      "bytes": 11152,
+      "sha256": "8bf5546d826b8c6462468442c16cc46f6b93ac2888500878c022d88ff5f337a6",
+      "sourcePath": "/asset/remote/remoteAsset/native/ea/ea3a3b16-ef58-4714-b044-34e3c7d1d9b5.fd6f6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/97/974d0dfe-3f48-4dfb-9f7c-29ef043122dc.2a507.pvr",
+      "bytes": 12304,
+      "sha256": "503f7e88d5be1c09ae0728aac9437b73ad8e1470844794631a67d8613d30cc08",
+      "sourcePath": "/asset/remote/remoteAsset/native/97/974d0dfe-3f48-4dfb-9f7c-29ef043122dc.2a507.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/37/3761470a-36c4-4348-b76c-d2037491826a.9ee16.pvr",
+      "bytes": 8832,
+      "sha256": "0f164045138b3ff213d2b2d92d5040303e3eb346225100de188920e23fbfc1fb",
+      "sourcePath": "/asset/remote/remoteAsset/native/37/3761470a-36c4-4348-b76c-d2037491826a.9ee16.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/b4/b4f25d0d-6a3c-4675-8102-2a25f1c095aa.80fb3.pvr",
+      "bytes": 11216,
+      "sha256": "0a1624195d3b00a9981ac9fc86c358034058c7526b248994e14ce3a03f2bdfe2",
+      "sourcePath": "/asset/remote/remoteAsset/native/b4/b4f25d0d-6a3c-4675-8102-2a25f1c095aa.80fb3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/43/4329ca90-a766-4be5-b6bc-602ba2728f32.98a23.pvr",
+      "bytes": 10256,
+      "sha256": "5cb19382bcb07d3060e51dcdbfb7c0043b4c80e4683360b431d086e0f503727c",
+      "sourcePath": "/asset/remote/remoteAsset/native/43/4329ca90-a766-4be5-b6bc-602ba2728f32.98a23.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/1a/1ad11e9e-315b-43ed-9bd5-d6186836f97e.1100b.pvr",
+      "bytes": 11792,
+      "sha256": "b2ac826bf47359e2b1e75e4f551267541fc1b66aef280d4019cdb870f40d660a",
+      "sourcePath": "/asset/remote/remoteAsset/native/1a/1ad11e9e-315b-43ed-9bd5-d6186836f97e.1100b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/dd/ddd6b6fd-9641-4a4b-8680-e4db170d3387.c820c.pvr",
+      "bytes": 8976,
+      "sha256": "4ad6200c6416a17843c7a4b3ca32ec4e25523e50ed0c639d0ac9406deff792f2",
+      "sourcePath": "/asset/remote/remoteAsset/native/dd/ddd6b6fd-9641-4a4b-8680-e4db170d3387.c820c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/86/86934fda-1a43-420f-a092-64522796e0e9.ffdd1.pvr",
+      "bytes": 3552,
+      "sha256": "57013b058fd631db7002547e35e853a93df99be15b4ae675c67c2d96a5075a1b",
+      "sourcePath": "/asset/remote/gameAsset/native/86/86934fda-1a43-420f-a092-64522796e0e9.ffdd1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a4/a4abee49-0a52-41db-befa-93e8d5348a42.53a3c.pvr",
+      "bytes": 3552,
+      "sha256": "364e2c418d8054f57ad78760c47c99bbaa1433647157a16851f01a736a7df4cf",
+      "sourcePath": "/asset/remote/gameAsset/native/a4/a4abee49-0a52-41db-befa-93e8d5348a42.53a3c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/22/226593a7-de1f-4472-8635-a69d9903a1d8.10d1b.pvr",
+      "bytes": 3552,
+      "sha256": "1332e4aac6c5d4360ecdcad437fca61b8f8f04e54d6f2abc6924d9c7f3d3c64d",
+      "sourcePath": "/asset/remote/gameAsset/native/22/226593a7-de1f-4472-8635-a69d9903a1d8.10d1b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e7/e7df3da3-8b2c-472b-8c45-02da15624f16.a0171.pvr",
+      "bytes": 3552,
+      "sha256": "9b42bd16e755f522d3c4b0fc7a2a2e2d694410a66dfc14e03f961bac9d7b2387",
+      "sourcePath": "/asset/remote/gameAsset/native/e7/e7df3da3-8b2c-472b-8c45-02da15624f16.a0171.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/12/12d18f3b-fbd1-41e6-bc67-5f3d5d632054.03235.pvr",
+      "bytes": 3552,
+      "sha256": "080d37b8283e2084bdaac9136d61bdae16cdfba68e070d5f13299e6c5bad0d15",
+      "sourcePath": "/asset/remote/gameAsset/native/12/12d18f3b-fbd1-41e6-bc67-5f3d5d632054.03235.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f3/f3f4d1d9-968c-4ac5-b68c-0b52f7473da9.26017.pvr",
+      "bytes": 3552,
+      "sha256": "2c793804e03f2e93b42a7153959ffec336ce2ad768b3ca6e5e6b411228e080f3",
+      "sourcePath": "/asset/remote/gameAsset/native/f3/f3f4d1d9-968c-4ac5-b68c-0b52f7473da9.26017.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2f/2fd6c316-9774-457b-8b99-ec16de472624.44f73.pvr",
+      "bytes": 3552,
+      "sha256": "200f94b00464af1af99aa89ab2c0d91520a1b26300785120a8de5db81904df1f",
+      "sourcePath": "/asset/remote/gameAsset/native/2f/2fd6c316-9774-457b-8b99-ec16de472624.44f73.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1e/1e3bf17d-d3f2-413b-a1ca-e5cf85448060.7b455.pvr",
+      "bytes": 3552,
+      "sha256": "bfd692965204b9b48cd0274fbd26d61dfa9b1c309c851a2f065e7868e029ce37",
+      "sourcePath": "/asset/remote/gameAsset/native/1e/1e3bf17d-d3f2-413b-a1ca-e5cf85448060.7b455.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/83/83461727-f468-4c3d-a64d-40d4fcbd877b.25f4d.pvr",
+      "bytes": 3552,
+      "sha256": "707c36ed23339b0738ed816c241876c139e4d17554ade806fcfbcf5e0b605688",
+      "sourcePath": "/asset/remote/gameAsset/native/83/83461727-f468-4c3d-a64d-40d4fcbd877b.25f4d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/97/978e46ea-40b9-4f19-a0cf-d509ba63b160.ce714.pvr",
+      "bytes": 3552,
+      "sha256": "e2d9c63256d6ad1c4bd259b93e70914560a32c7020c999b21f3eb25820b28000",
+      "sourcePath": "/asset/remote/gameAsset/native/97/978e46ea-40b9-4f19-a0cf-d509ba63b160.ce714.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a0/a02c5ebf-76ef-4f0b-ac30-b0b2349f0467.55fb4.pvr",
+      "bytes": 688,
+      "sha256": "906b08d23c6c8a115dbc8d3d25a24546c73c3fb5011b31f1dcf1e6657cd66fa4",
+      "sourcePath": "/asset/remote/gameAsset/native/a0/a02c5ebf-76ef-4f0b-ac30-b0b2349f0467.55fb4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/dc/dc8d0631-71eb-440d-912f-b517c7adde9f.88abc.pvr",
+      "bytes": 880,
+      "sha256": "65eac533e60cd2a8a94b67c5c13a7e6fc6960e4d46e20cd7d8d1311d08cf725b",
+      "sourcePath": "/asset/remote/gameAsset/native/dc/dc8d0631-71eb-440d-912f-b517c7adde9f.88abc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ce/ce1fc7bc-4570-41c2-aeb4-cca3fc2319d5.781ca.pvr",
+      "bytes": 576,
+      "sha256": "74fa922ccb3b22eedfb09db71a882b35204db2b0dd95e383d87de3456e4bf3a3",
+      "sourcePath": "/asset/remote/gameAsset/native/ce/ce1fc7bc-4570-41c2-aeb4-cca3fc2319d5.781ca.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/aa/aab4aa63-c7ba-4aa6-9e18-1c96475b250e.e6b4d.pvr",
+      "bytes": 1136,
+      "sha256": "b062e2f147905bb9fd2fb37abc0ecfb0f76d578b190dc1d56ed5d203e1ec4dc8",
+      "sourcePath": "/asset/remote/gameAsset/native/aa/aab4aa63-c7ba-4aa6-9e18-1c96475b250e.e6b4d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8d/8d9f9e2c-1912-4a67-9c3c-a3a29f3f28ea.d3644.pvr",
+      "bytes": 496,
+      "sha256": "aaba328a33b69b6db10d39d9029e337693abfc38d80744c7b2747fa31d22d5d0",
+      "sourcePath": "/asset/remote/gameAsset/native/8d/8d9f9e2c-1912-4a67-9c3c-a3a29f3f28ea.d3644.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5b/5b75dfe2-5f36-4d81-a5c1-f35ab6a4224d.e8367.pvr",
+      "bytes": 3552,
+      "sha256": "f45128bd5475b1cd148a8dcc42549bbd1c3953971ca7e4c56b368a5291c6d80c",
+      "sourcePath": "/asset/remote/gameAsset/native/5b/5b75dfe2-5f36-4d81-a5c1-f35ab6a4224d.e8367.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6e/6ed44ee9-5615-452f-a98e-70d66b7ca5df.66a9e.pvr",
+      "bytes": 28240,
+      "sha256": "5b22506e27b12aa2d29ca14570acabc46949911850a0c968715765a34794b62d",
+      "sourcePath": "/asset/remote/gameAsset/native/6e/6ed44ee9-5615-452f-a98e-70d66b7ca5df.66a9e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/05/05b5dfb7-e687-4fde-ac08-baf2882101e6.6c4b9.pvr",
+      "bytes": 208,
+      "sha256": "8a45cc2a01fbcf803fb4f3bdf7b6eda4d27e9029bb404c46015f5d15bf6df992",
+      "sourcePath": "/asset/remote/gameAsset/native/05/05b5dfb7-e687-4fde-ac08-baf2882101e6.6c4b9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/86/8602da20-773f-4ab9-9b93-dfc6ca91f541.dedc2.pvr",
+      "bytes": 14704,
+      "sha256": "1704ebfecc7a167de50e58b3ceb35bdd30a7468cfdb6d7127b805222db7944bf",
+      "sourcePath": "/asset/remote/gameAsset/native/86/8602da20-773f-4ab9-9b93-dfc6ca91f541.dedc2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/97/977395e1-c990-40cd-808d-de2a650a124d.ae2aa.pvr",
+      "bytes": 14704,
+      "sha256": "f70488d1125bad25729ea45afd3b687b047c6f39fcdd7f5124e8771557302863",
+      "sourcePath": "/asset/remote/gameAsset/native/97/977395e1-c990-40cd-808d-de2a650a124d.ae2aa.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5c/5c0a3c79-1139-4855-ad00-73f7237b61e1.d509a.pvr",
+      "bytes": 3552,
+      "sha256": "0ec05cda247acb86ff9c1d6f4c19aab8af4140e2116325ef704e704e57158be1",
+      "sourcePath": "/asset/remote/gameAsset/native/5c/5c0a3c79-1139-4855-ad00-73f7237b61e1.d509a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8b/8b32040d-2645-4542-83ad-a85c9f96fc51.59d34.pvr",
+      "bytes": 3552,
+      "sha256": "6c5a232a2b59258e253a32adb21a0862830c06fe95cdb6213127125cbbb32c06",
+      "sourcePath": "/asset/remote/gameAsset/native/8b/8b32040d-2645-4542-83ad-a85c9f96fc51.59d34.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9e/9ec274fc-a29f-4a4a-ac8e-efb30069a67d.8f59d.pvr",
+      "bytes": 3552,
+      "sha256": "7b86ee33f96f03a700f9ae9bef0a3e49f87df2c9e11601db7be8016b24ee2979",
+      "sourcePath": "/asset/remote/gameAsset/native/9e/9ec274fc-a29f-4a4a-ac8e-efb30069a67d.8f59d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e2/e27eb79f-2b0b-4aee-9b6e-e3c4246f8907.e9f57.pvr",
+      "bytes": 3552,
+      "sha256": "a280acb0b7a7c33cbaf10eeaf1f006615ac94c5c6f7b59dca59b1db48d80d9b0",
+      "sourcePath": "/asset/remote/gameAsset/native/e2/e27eb79f-2b0b-4aee-9b6e-e3c4246f8907.e9f57.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b150cb33-168a-4f9d-a24d-4890f5b21973.e3448.pvr",
+      "bytes": 5648,
+      "sha256": "9c66a6ccefe507bd5536198c44de287c0c8412f7760b340a15df7574812654d5",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b150cb33-168a-4f9d-a24d-4890f5b21973.e3448.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/33/338097cf-920b-41a3-b6c1-30a3214fbe96.33d85.pvr",
+      "bytes": 22032,
+      "sha256": "8be6efd5f17ff741d66b9ba09234d7875f44af8ac48eda0c98bd6fa741a7a670",
+      "sourcePath": "/asset/remote/gameAsset/native/33/338097cf-920b-41a3-b6c1-30a3214fbe96.33d85.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ec/ec6e1710-2071-49a9-85a9-1c0250d538d2.5c56d.pvr",
+      "bytes": 3552,
+      "sha256": "a2602db2adf983ef147f35015dcf20a0f3ee626eba0e18c077af5e9712232cd9",
+      "sourcePath": "/asset/remote/gameAsset/native/ec/ec6e1710-2071-49a9-85a9-1c0250d538d2.5c56d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9a/9a557450-b9fd-446d-a521-a8a3d0923455.9f11f.pvr",
+      "bytes": 3552,
+      "sha256": "03a20ea6bbe28c7fce5346020c1122f5429c843736166198eb40f70197db8cae",
+      "sourcePath": "/asset/remote/gameAsset/native/9a/9a557450-b9fd-446d-a521-a8a3d0923455.9f11f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/06/06db3f3f-05e3-4448-ae4d-69bbdb33cd55.cbd7c.pvr",
+      "bytes": 5648,
+      "sha256": "695ff40463bb6b8636f26ab636b772c9d1a1a67c40a7579d6438d6f9ea81e664",
+      "sourcePath": "/asset/remote/gameAsset/native/06/06db3f3f-05e3-4448-ae4d-69bbdb33cd55.cbd7c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/da/daecb4d8-ee63-40ce-812b-34ce78edca91.93ee4.pvr",
+      "bytes": 1024,
+      "sha256": "09993503b4d9d22595ac9de96bc30d2edbfc232460a41dc1dcfd156f96573f0a",
+      "sourcePath": "/asset/remote/gameAsset/native/da/daecb4d8-ee63-40ce-812b-34ce78edca91.93ee4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/66/669bf9f8-8e79-4a07-8f07-a24b7e693947.13e6c.pvr",
+      "bytes": 1024,
+      "sha256": "7771ff58c50998a0ea820fb58fd6939a2a1c7e256066829fc8166a67aa02bde9",
+      "sourcePath": "/asset/remote/gameAsset/native/66/669bf9f8-8e79-4a07-8f07-a24b7e693947.13e6c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/51/51f7ad1e-1173-4808-bd9e-ab940463ee8b.ec53b.pvr",
+      "bytes": 1600,
+      "sha256": "e8148467d4edf25615931f239bea839d74e6fe6973386d259aa421bda0e85ec1",
+      "sourcePath": "/asset/remote/gameAsset/native/51/51f7ad1e-1173-4808-bd9e-ab940463ee8b.ec53b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/29/299dbefb-7e55-416c-805e-21f17c401639.96a1c.bin",
+      "bytes": 13609,
+      "sha256": "c3e607e72268845bfead79058757619acc24030ea11c480325c5801a16300902",
+      "sourcePath": "/asset/remote/gameAsset/native/29/299dbefb-7e55-416c-805e-21f17c401639.96a1c.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f7/f756c7cd-d15b-411b-a82c-4aee9fa74e0a.dfc6e.pvr",
+      "bytes": 2256,
+      "sha256": "c579c58a4064fd44a4977ed161bb4fefac5d6ccde42526e8ee7ab5c75898f4fe",
+      "sourcePath": "/asset/remote/gameAsset/native/f7/f756c7cd-d15b-411b-a82c-4aee9fa74e0a.dfc6e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/03/03dc6578-8881-437d-b376-db918d8d6064.27fa7.bin",
+      "bytes": 4926,
+      "sha256": "5562144b560db71b0afed34498041b055c927745193cede6c112932363ac14fe",
+      "sourcePath": "/asset/remote/gameAsset/native/03/03dc6578-8881-437d-b376-db918d8d6064.27fa7.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5b/5b978999-3d5d-4006-8fb2-2f45ff84d2c7.cd356.bin",
+      "bytes": 574,
+      "sha256": "98a6f3058e9658528a1ad53549f0dde5108547bd0a8badec62727ecc49ba555f",
+      "sourcePath": "/asset/remote/gameAsset/native/5b/5b978999-3d5d-4006-8fb2-2f45ff84d2c7.cd356.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e1/e168d26e-dccb-4311-8618-a21d8793d0e3.75827.pvr",
+      "bytes": 4912,
+      "sha256": "b0495c808dad549bac46a024e16d803df49a062c5a1d3f9afa3fdc9a0854a6e3",
+      "sourcePath": "/asset/remote/gameAsset/native/e1/e168d26e-dccb-4311-8618-a21d8793d0e3.75827.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6d/6d719e69-dac5-4cbb-ae8f-70cbdec0b516.487a1.pvr",
+      "bytes": 12416,
+      "sha256": "4e67b870bd083abd11f50b27c9efc7d9c0aada3a6b8ebc9ce8d8840ee542d907",
+      "sourcePath": "/asset/remote/gameAsset/native/6d/6d719e69-dac5-4cbb-ae8f-70cbdec0b516.487a1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b8/b8d92d3e-61d7-4a05-8f30-fcbf00cf94f3.256d6.pvr",
+      "bytes": 7360,
+      "sha256": "368d561b77044e69ace07f934a49b7068cccc97e8c4c568c99d1a8fe5c68a478",
+      "sourcePath": "/asset/remote/gameAsset/native/b8/b8d92d3e-61d7-4a05-8f30-fcbf00cf94f3.256d6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0e/0e60e76b-32d1-4523-887a-f04a08a0e81f.f3a3e.bin",
+      "bytes": 1774,
+      "sha256": "f5047a847890175f92d293e584e490fec695a708f033791e3bad0b1b0a16b5df",
+      "sourcePath": "/asset/remote/gameAsset/native/0e/0e60e76b-32d1-4523-887a-f04a08a0e81f.f3a3e.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/53/5398cfc2-d75d-4f4d-a5d4-155e2ac35b55.ee20d.pvr",
+      "bytes": 6928,
+      "sha256": "2aa8dff2582acccbbb73e6c2cd1457ecdd68f518628d42771bd21828364ee5d2",
+      "sourcePath": "/asset/remote/gameAsset/native/53/5398cfc2-d75d-4f4d-a5d4-155e2ac35b55.ee20d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/24/243a7b2f-bcdb-4fbd-a82f-8770536fef9e.1f8c9.bin",
+      "bytes": 21734,
+      "sha256": "5581417458f8081d7091d3649d5d7b1fb429a40ac2b4070625abbce90e47a8a7",
+      "sourcePath": "/asset/remote/gameAsset/native/24/243a7b2f-bcdb-4fbd-a82f-8770536fef9e.1f8c9.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c0/c03010dd-8246-4b19-91a7-ee0b82f7fb9f.13db6.pvr",
+      "bytes": 79072,
+      "sha256": "ca457a673bcdedc843a9f3dc578da8983897c5bf3a16d456899c2526b5cb5843",
+      "sourcePath": "/asset/remote/gameAsset/native/c0/c03010dd-8246-4b19-91a7-ee0b82f7fb9f.13db6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/38/3808f3ff-4234-4809-8f47-55467777a03a.b8bc3.pvr",
+      "bytes": 2064,
+      "sha256": "a0448333b0574de493cfa2857f55df7090f19268bc22d1da8382da46eb6e3bb1",
+      "sourcePath": "/asset/remote/gameAsset/native/38/3808f3ff-4234-4809-8f47-55467777a03a.b8bc3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b162e20c-35bd-4e8d-b093-43ff6af3c7e4.b780b.bin",
+      "bytes": 943,
+      "sha256": "397cc9a58b046c7a58613ff5f91c231026d00cb45b9e7580f45c4369e289b97d",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b162e20c-35bd-4e8d-b093-43ff6af3c7e4.b780b.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9d/9def48c3-98a3-4d2b-9f35-7e8f749cca79.895c1.pvr",
+      "bytes": 13616,
+      "sha256": "91cc0836ec0bfab996cd9fbfcba8cc1dd7b5022ad576e821948f95858fec6439",
+      "sourcePath": "/asset/remote/gameAsset/native/9d/9def48c3-98a3-4d2b-9f35-7e8f749cca79.895c1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/32/327339ca-36da-48af-b42c-53167b256b3f.55983.pvr",
+      "bytes": 35440,
+      "sha256": "013ef2f21dc54f4ca0f6fb1eab9021da095410fd48d4a464bfb7eafefbe16136",
+      "sourcePath": "/asset/remote/gameAsset/native/32/327339ca-36da-48af-b42c-53167b256b3f.55983.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f4/f4c700e6-24a0-4719-935f-7dc273bf57af.a1067.bin",
+      "bytes": 8737,
+      "sha256": "78855e178998695efde2d032173f732428a68ac1ac528fe26577d0c81fd9e433",
+      "sourcePath": "/asset/remote/gameAsset/native/f4/f4c700e6-24a0-4719-935f-7dc273bf57af.a1067.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c6/c61d55a4-7b9b-4914-b886-67e3e4af1176.04811.pvr",
+      "bytes": 688,
+      "sha256": "274d3b6ea373f729264c0230732b3af593691ff9d555203156bd56e4956892d0",
+      "sourcePath": "/asset/remote/gameAsset/native/c6/c61d55a4-7b9b-4914-b886-67e3e4af1176.04811.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/db/dbde89de-5779-4907-a5e5-2be47ee22887.9dce9.pvr",
+      "bytes": 2832,
+      "sha256": "5fa3de3b8ae19b47d770a0e87da18ff4e83896a364e9cb8d9c3342eae4b7e193",
+      "sourcePath": "/asset/remote/gameAsset/native/db/dbde89de-5779-4907-a5e5-2be47ee22887.9dce9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b5/b5bb1a8e-ff4c-47cb-81b3-0f81579e2398.67666.pvr",
+      "bytes": 3552,
+      "sha256": "15f132b003ed0c09f69a88e7b863ad8f7e7ab3429226e7af10800b6ec2d3c99b",
+      "sourcePath": "/asset/remote/gameAsset/native/b5/b5bb1a8e-ff4c-47cb-81b3-0f81579e2398.67666.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/34/34e8346c-69de-46d1-9385-98df5f7739d0.68ecd.pvr",
+      "bytes": 5648,
+      "sha256": "983de44a3585e087e441f1e61c34431673265e3cbbae532454d9746e4b9a821c",
+      "sourcePath": "/asset/remote/gameAsset/native/34/34e8346c-69de-46d1-9385-98df5f7739d0.68ecd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/48/48023a4c-842a-41ef-a32b-53678169d743.d2563.pvr",
+      "bytes": 12304,
+      "sha256": "56e60c33444baf2d4c0a65a28d5459f846c07a0f4a7c38a5f7b1f3c0e4ab5da0",
+      "sourcePath": "/asset/remote/gameAsset/native/48/48023a4c-842a-41ef-a32b-53678169d743.d2563.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c5/c566ffdf-797e-46b7-80e2-60318bb9e62b.61731.pvr",
+      "bytes": 1024,
+      "sha256": "3c62e151d1be0d35060e72dfb8c925ba79e887d691d47e072a49cd20efa293b3",
+      "sourcePath": "/asset/remote/gameAsset/native/c5/c566ffdf-797e-46b7-80e2-60318bb9e62b.61731.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c5/c50aacef-5ad4-4ea1-9770-c3d267502566.e2bf3.pvr",
+      "bytes": 23248,
+      "sha256": "39f3512cb42d35f8f4aea441f33025819be9b9552ad749967db476328a95152f",
+      "sourcePath": "/asset/remote/gameAsset/native/c5/c50aacef-5ad4-4ea1-9770-c3d267502566.e2bf3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/22/22bed5b1-15e7-4ab4-a420-8695b9d586ac.63a14.pvr",
+      "bytes": 5648,
+      "sha256": "74bb113e1309febd9f2bf6e056b389a5c53972ce9c0f5dc7bcbb6f314eae236a",
+      "sourcePath": "/asset/remote/gameAsset/native/22/22bed5b1-15e7-4ab4-a420-8695b9d586ac.63a14.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c7/c7d5777a-30f3-4f58-b26a-c7bc34d4538f.028ec.pvr",
+      "bytes": 5648,
+      "sha256": "aefdf7a8184566be54fb705e738c5ae7424e7e94e7a556d45e6c7ed6b1040d32",
+      "sourcePath": "/asset/remote/gameAsset/native/c7/c7d5777a-30f3-4f58-b26a-c7bc34d4538f.028ec.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/42/42e21907-a796-4967-803b-db35eb8809a1.14b2f.pvr",
+      "bytes": 1744,
+      "sha256": "5866340b8d83c29d45310b15e183a67ea82946badd58ab41e2ae92299e977b48",
+      "sourcePath": "/asset/remote/gameAsset/native/42/42e21907-a796-4967-803b-db35eb8809a1.14b2f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/63/63d31f24-84d4-4780-a493-6d88e519b3e7.58f91.pvr",
+      "bytes": 1024,
+      "sha256": "52de853971e69c59fa662b8bfd5daa42504087ff60e56ae85e24252c88dc729c",
+      "sourcePath": "/asset/remote/gameAsset/native/63/63d31f24-84d4-4780-a493-6d88e519b3e7.58f91.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f9/f9f0f5d8-bcaf-451a-8440-f71933c69b2c.286b4.bin",
+      "bytes": 4949,
+      "sha256": "f49d2b89aa01949fd4690d1aa313f5cef55bc0c2b62db469efce3e5fb4246908",
+      "sourcePath": "/asset/remote/gameAsset/native/f9/f9f0f5d8-bcaf-451a-8440-f71933c69b2c.286b4.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4e/4e9e032a-276e-42e1-b002-ba8d8dc38308.b4ff8.pvr",
+      "bytes": 1296,
+      "sha256": "c09179cadcdaa280af55e22a1c3cb5621033f461f6da2395418c8e6682e3091e",
+      "sourcePath": "/asset/remote/gameAsset/native/4e/4e9e032a-276e-42e1-b002-ba8d8dc38308.b4ff8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/af/afd0b2ef-91d9-4f7b-802f-d96f1fb9d98d.cbf11.pvr",
+      "bytes": 1424,
+      "sha256": "a8e4c48bbce31d88113f63f90ba40f2519c55ca370527a8afc9dc987277ae196",
+      "sourcePath": "/asset/remote/gameAsset/native/af/afd0b2ef-91d9-4f7b-802f-d96f1fb9d98d.cbf11.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/63/6365933c-d213-4408-97bd-84eaf943aba4.a0413.pvr",
+      "bytes": 20848,
+      "sha256": "46566b0c47ef582232e414ec0e7594d08410a012e212ebe5b982bf85580b03ff",
+      "sourcePath": "/asset/remote/gameAsset/native/63/6365933c-d213-4408-97bd-84eaf943aba4.a0413.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bb/bba745ec-a862-4929-b3ec-22a3f836ba7f.cff0d.bin",
+      "bytes": 2685,
+      "sha256": "d4d3b082731506acca4edcf72fb5c9e89919b93f9f9194ed98e33f6c9ab44946",
+      "sourcePath": "/asset/remote/gameAsset/native/bb/bba745ec-a862-4929-b3ec-22a3f836ba7f.cff0d.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/00/008d1333-efe5-4db8-805c-fc07b72ff930.1bd98.pvr",
+      "bytes": 6928,
+      "sha256": "478f42e97c7a18e00c5fb0838eb2019c3a9ecbfe43635596db997ced9dfdba28",
+      "sourcePath": "/asset/remote/gameAsset/native/00/008d1333-efe5-4db8-805c-fc07b72ff930.1bd98.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/77/773fe78e-abff-493a-9594-e7a871265db7.d37c1.pvr",
+      "bytes": 7744,
+      "sha256": "46d405cab70ba34cf18513a4037b6d98fa5322cdd28fdb1e1c360138bbdc3e21",
+      "sourcePath": "/asset/remote/gameAsset/native/77/773fe78e-abff-493a-9594-e7a871265db7.d37c1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/04/045620ac-072f-45a4-88a6-0ff143b768eb.bf23a.bin",
+      "bytes": 4001,
+      "sha256": "bf86ed830b2551cb54ceac1cb5f3dd0ec1fc7a1d8a16b98150f7fbc0c8b86791",
+      "sourcePath": "/asset/remote/gameAsset/native/04/045620ac-072f-45a4-88a6-0ff143b768eb.bf23a.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9a/9a5abf76-513d-485b-a760-a4b3826b5ce5.f147a.bin",
+      "bytes": 4560,
+      "sha256": "98a69511f385ea4c45741d2a728734fe813b18a6cb48430b4492108cc3c89857",
+      "sourcePath": "/asset/remote/gameAsset/native/9a/9a5abf76-513d-485b-a760-a4b3826b5ce5.f147a.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/40/403329b3-2f99-4594-a360-c601b2b395c6.f3aba.pvr",
+      "bytes": 5776,
+      "sha256": "10b1d71c38f4350e817c02a44a848b9e35f429c0acec66476e43045447738ac9",
+      "sourcePath": "/asset/remote/gameAsset/native/40/403329b3-2f99-4594-a360-c601b2b395c6.f3aba.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/93/9315bbc7-13e6-49f7-9aba-6d39c8110e1f.969bb.bin",
+      "bytes": 8337,
+      "sha256": "43514dcff70acd38a4d59b76e36f0601a4afce3284c0d284fb65fbb9cc3fc3ee",
+      "sourcePath": "/asset/remote/gameAsset/native/93/9315bbc7-13e6-49f7-9aba-6d39c8110e1f.969bb.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9a/9ae21c61-fe5c-4a41-bf39-d911b4ec5cac.6925e.pvr",
+      "bytes": 23248,
+      "sha256": "e17eefba626c84db17652df092bdcfbba9d37e706a8d08bd3c8c987f25fc11ae",
+      "sourcePath": "/asset/remote/gameAsset/native/9a/9ae21c61-fe5c-4a41-bf39-d911b4ec5cac.6925e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a4/a4612bfb-76db-41e8-8c68-1348c4364f9f.8a788.pvr",
+      "bytes": 3760,
+      "sha256": "f522cf1ecbf8a888d855eee47a76a7eada41f9a2a1fb6e241112fd80b2d0ce22",
+      "sourcePath": "/asset/remote/gameAsset/native/a4/a4612bfb-76db-41e8-8c68-1348c4364f9f.8a788.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b0/b0265f8d-cf68-4e7e-8542-5e2d351ce2fa.e7301.bin",
+      "bytes": 8314,
+      "sha256": "48550e433b16cc92a84444ff9bc4caf619be3dcc36717f2349045723da5abf07",
+      "sourcePath": "/asset/remote/gameAsset/native/b0/b0265f8d-cf68-4e7e-8542-5e2d351ce2fa.e7301.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2b/2bffe594-6ba0-406d-9a21-93290d2e789c.7a8dd.bin",
+      "bytes": 3785,
+      "sha256": "2d784181ec261395769379976a1b49828d8a773bc70d48c0f543b0abad6aff2e",
+      "sourcePath": "/asset/remote/gameAsset/native/2b/2bffe594-6ba0-406d-9a21-93290d2e789c.7a8dd.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/97/97bb6b0d-1a8b-491f-8eec-ccdc9eec93d7.2bfde.pvr",
+      "bytes": 5648,
+      "sha256": "9c47ec07dacf5bb50146c78bc9d5536f659e2bc61a83f06955ad6fa2784b696b",
+      "sourcePath": "/asset/remote/gameAsset/native/97/97bb6b0d-1a8b-491f-8eec-ccdc9eec93d7.2bfde.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5b/5b02c39f-37de-4502-8b61-85d2327336f0.37379.bin",
+      "bytes": 5451,
+      "sha256": "4a36f4810ebf781db1976aa848c0df91c807996509f27d5d2c6607ef4ecc155a",
+      "sourcePath": "/asset/remote/gameAsset/native/5b/5b02c39f-37de-4502-8b61-85d2327336f0.37379.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6f/6fb2c442-dc2c-4e70-8d13-c097cb0c7758.79b24.bin",
+      "bytes": 20576,
+      "sha256": "ea76d78ebd0d520e3c19a335482d1be7f15a40d6e7fb06ba183c3ea3885c9d77",
+      "sourcePath": "/asset/remote/gameAsset/native/6f/6fb2c442-dc2c-4e70-8d13-c097cb0c7758.79b24.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/34/3405322d-f6ea-4539-906a-ee2a98d971cf.50587.pvr",
+      "bytes": 6272,
+      "sha256": "aab0f9547cacc83fb5535dcfaa1f4292734a2f007541c2983e509eb4bb9d73c9",
+      "sourcePath": "/asset/remote/gameAsset/native/34/3405322d-f6ea-4539-906a-ee2a98d971cf.50587.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ab/ab6a4803-e9ff-4d9b-a2ec-6b6e8f949b17.c4ddd.pvr",
+      "bytes": 46672,
+      "sha256": "9efea8e58c2a12084c7b60a65eeecb10948fb58592bd5f3600971486e9abb455",
+      "sourcePath": "/asset/remote/gameAsset/native/ab/ab6a4803-e9ff-4d9b-a2ec-6b6e8f949b17.c4ddd.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8c/8c079a4c-9c16-46d1-bf43-ac7099e188ad.a30a4.pvr",
+      "bytes": 1744,
+      "sha256": "cab2be010529ec4d43b5b4c71b7f390f48242cb7b35cf5b0311f5c1a75398483",
+      "sourcePath": "/asset/remote/gameAsset/native/8c/8c079a4c-9c16-46d1-bf43-ac7099e188ad.a30a4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/26/26c074c3-dd46-4ce1-bf89-7dbc101fae7b.03f55.bin",
+      "bytes": 1501,
+      "sha256": "93e2f7faabbac5247e4b0109d85643e37d0e5ae808717691aa5e11ce05ce769c",
+      "sourcePath": "/asset/remote/gameAsset/native/26/26c074c3-dd46-4ce1-bf89-7dbc101fae7b.03f55.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/25/25db26b8-a1f0-42a9-b091-556f580b1137.cec8b.bin",
+      "bytes": 2566,
+      "sha256": "edc479641779ddc353b310b58d90763e4706d30438763b7039644b3ca88746aa",
+      "sourcePath": "/asset/remote/gameAsset/native/25/25db26b8-a1f0-42a9-b091-556f580b1137.cec8b.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b0/b0ce5308-599f-4e7c-bdfd-e51e07f102ea.d747f.pvr",
+      "bytes": 4640,
+      "sha256": "fe8860babfc712b5d5d754d14e0442844d391037c500177ff5d4afa213a42bbc",
+      "sourcePath": "/asset/remote/gameAsset/native/b0/b0ce5308-599f-4e7c-bdfd-e51e07f102ea.d747f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/88/88ffea39-f3b7-4e2f-b0d8-b90e9664ddae.391f3.bin",
+      "bytes": 3015,
+      "sha256": "e8ebb92beb159eb0980ea8a67bc416263327f25f4d913335cc20ec091aa5e6d2",
+      "sourcePath": "/asset/remote/gameAsset/native/88/88ffea39-f3b7-4e2f-b0d8-b90e9664ddae.391f3.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1b/1b26caab-2f88-4057-8625-565ccfb0c13a.1b45c.pvr",
+      "bytes": 5200,
+      "sha256": "ff6ae8a1ce6ae6fd985bbdab2a20f863e51300d4e01fca49d49b814d4ad5a078",
+      "sourcePath": "/asset/remote/gameAsset/native/1b/1b26caab-2f88-4057-8625-565ccfb0c13a.1b45c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ae/ae1f5321-95b6-4b6c-ad7e-419fdcd20467.32846.pvr",
+      "bytes": 2192,
+      "sha256": "467e5b9816859a8743f8b3789b39d12e49f59a20b3e66c5f4891fdb8c3ecddad",
+      "sourcePath": "/asset/remote/gameAsset/native/ae/ae1f5321-95b6-4b6c-ad7e-419fdcd20467.32846.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/42/4288082f-3b7b-4862-a19e-4d28334fe3af.00f83.pvr",
+      "bytes": 1312,
+      "sha256": "4088cd11e53a8ea399df1423b7c1fb097a0ba87bd76d9d034fea4768a40d50dd",
+      "sourcePath": "/asset/remote/gameAsset/native/42/4288082f-3b7b-4862-a19e-4d28334fe3af.00f83.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f8/f84a2060-19db-44d9-a740-c27d52f21b50.55618.bin",
+      "bytes": 4013,
+      "sha256": "00738cffdc5da620c10622b2a6a9ebceb34eb9a0fd29f22292f6564a09165403",
+      "sourcePath": "/asset/remote/gameAsset/native/f8/f84a2060-19db-44d9-a740-c27d52f21b50.55618.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bf/bf786d8b-b33f-429d-96ed-34731db49b20.17143.bin",
+      "bytes": 4220,
+      "sha256": "d5eec05857cb93a3432b34f5b7daa68c8551e6ed995138c772223737f194a537",
+      "sourcePath": "/asset/remote/gameAsset/native/bf/bf786d8b-b33f-429d-96ed-34731db49b20.17143.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e7/e7217d60-c801-4b4e-a6a1-5f4ef33c342c.cb830.pvr",
+      "bytes": 12304,
+      "sha256": "78b3245b041a9488280494c40a736f30faf11deee98aedab161a8aa5735bfd9d",
+      "sourcePath": "/asset/remote/gameAsset/native/e7/e7217d60-c801-4b4e-a6a1-5f4ef33c342c.cb830.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e6/e6711a23-84b0-41ae-923c-99fc25809efe.51180.pvr",
+      "bytes": 12304,
+      "sha256": "a145d8772bcd75e8e418e44e7af67e314a474a08a40fdbdf831a76b2268b44b8",
+      "sourcePath": "/asset/remote/gameAsset/native/e6/e6711a23-84b0-41ae-923c-99fc25809efe.51180.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6c/6c39c638-d1d0-44dd-af16-d2868955788a.c598b.pvr",
+      "bytes": 6352,
+      "sha256": "6ad7f3845f7547991fe18c4fd63120fb9eb0670a505044078a91ea80cb45985d",
+      "sourcePath": "/asset/remote/gameAsset/native/6c/6c39c638-d1d0-44dd-af16-d2868955788a.c598b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ce/ce5dc55e-1289-4ca8-894a-5c107348e986.7555a.pvr",
+      "bytes": 6352,
+      "sha256": "2f7afb97bdf5c2372e28d8f7246e42abca464908277c538a5eb080b0a6f64d97",
+      "sourcePath": "/asset/remote/gameAsset/native/ce/ce5dc55e-1289-4ca8-894a-5c107348e986.7555a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0f/0ff74bb1-aa6e-4812-b77b-d50f5c455530.a2716.pvr",
+      "bytes": 6352,
+      "sha256": "2b8176814c2fbe36124625c706c366c0833e636adce1d548e47922ab9c1444e6",
+      "sourcePath": "/asset/remote/gameAsset/native/0f/0ff74bb1-aa6e-4812-b77b-d50f5c455530.a2716.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9d/9d965eb7-2fee-46cf-8f07-54c86efeb9ba.80cb9.pvr",
+      "bytes": 6352,
+      "sha256": "c380a3b6b25a147b383c1f9de803f4d645a45a7a17fe1c1aff057bd8d7e934ad",
+      "sourcePath": "/asset/remote/gameAsset/native/9d/9d965eb7-2fee-46cf-8f07-54c86efeb9ba.80cb9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a3/a3c77630-7025-4eb3-a967-bdb77b27958c.f3f71.pvr",
+      "bytes": 6352,
+      "sha256": "316db6ba91f525be67709d202bf71f2bc44e4129c81cc87ce2cdd881ea3b85cb",
+      "sourcePath": "/asset/remote/gameAsset/native/a3/a3c77630-7025-4eb3-a967-bdb77b27958c.f3f71.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/73/73013f0d-fcc0-430e-a773-fadd1d7725de.c96ed.pvr",
+      "bytes": 6352,
+      "sha256": "f3e67f792b25acc73373f7deb28d78465572d57ecd77486170b93085f37ac244",
+      "sourcePath": "/asset/remote/gameAsset/native/73/73013f0d-fcc0-430e-a773-fadd1d7725de.c96ed.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a7/a7a96631-ba69-4808-a50e-bf28f7050f77.a4640.pvr",
+      "bytes": 6352,
+      "sha256": "5f2d643a3ec2ed9630ebda17b6ceed381f595a97ee99043906cc110a942c64a5",
+      "sourcePath": "/asset/remote/gameAsset/native/a7/a7a96631-ba69-4808-a50e-bf28f7050f77.a4640.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2b/2b55d511-28d2-43a9-8289-2e662757bf3b.25f7f.pvr",
+      "bytes": 6352,
+      "sha256": "69223e81d9ce27cf0fc927ac06d5257552a4c34e5aa1de661d3403c791cafb55",
+      "sourcePath": "/asset/remote/gameAsset/native/2b/2b55d511-28d2-43a9-8289-2e662757bf3b.25f7f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6b/6b260225-b601-4ce0-9b5b-fb9c661ae2af.26a99.bin",
+      "bytes": 64921,
+      "sha256": "a1650e25922e5840c9cee0ca46e04cf67e00c8397d2586bb5f6f43c3dc47d849",
+      "sourcePath": "/asset/remote/gameAsset/native/6b/6b260225-b601-4ce0-9b5b-fb9c661ae2af.26a99.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7f/7f250bfa-27cd-41fc-b1a3-5b281c227397.8ce90.pvr",
+      "bytes": 656,
+      "sha256": "fb03f2e3a0e84b8c3c0a29a3902bff64f36ac0a2e1566e1fc6cda979f67c30d0",
+      "sourcePath": "/asset/remote/gameAsset/native/7f/7f250bfa-27cd-41fc-b1a3-5b281c227397.8ce90.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/df/df7c53e7-1cfd-4f93-a5f2-9084e5c5d4a1.4cf7e.bin",
+      "bytes": 6739,
+      "sha256": "c07889e09238ef433b9ea8fd819e1787e203c5c33cd9057b232b85a505b54c38",
+      "sourcePath": "/asset/remote/gameAsset/native/df/df7c53e7-1cfd-4f93-a5f2-9084e5c5d4a1.4cf7e.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d4/d4fcfe21-f449-4818-aaeb-660f7180836d.03da0.pvr",
+      "bytes": 18736,
+      "sha256": "9ba403498a65ab286d869c83c308c52eb5ad6fc67c294c8c1a17afebef1a4509",
+      "sourcePath": "/asset/remote/gameAsset/native/d4/d4fcfe21-f449-4818-aaeb-660f7180836d.03da0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/78/78c38b43-d00e-49a6-a8f5-c54d98f634d0.3f998.pvr",
+      "bytes": 2512,
+      "sha256": "2d44f0e8dabfef5d50b8b5da469a48ee9e9b1bf1651a35108b21c5b2c557e3da",
+      "sourcePath": "/asset/remote/gameAsset/native/78/78c38b43-d00e-49a6-a8f5-c54d98f634d0.3f998.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/15/15605efc-2bd6-4942-a782-9ef4568f13f2.baea0.bin",
+      "bytes": 14572,
+      "sha256": "055d69df3db9d16e958bbf8597474916d75e498f5a4942d3b00c200c8041476d",
+      "sourcePath": "/asset/remote/gameAsset/native/15/15605efc-2bd6-4942-a782-9ef4568f13f2.baea0.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/95/9507d554-54bf-4a77-baea-e18aba40bbae.317e4.bin",
+      "bytes": 2933,
+      "sha256": "1b030844a1dc366b8db327021e654ec1892563ab40daceb0ef851dd3170a0168",
+      "sourcePath": "/asset/remote/gameAsset/native/95/9507d554-54bf-4a77-baea-e18aba40bbae.317e4.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/37/3741a175-7cc4-47dd-801b-b279ca3695f4.3839b.pvr",
+      "bytes": 2416,
+      "sha256": "1ab7cd7c530c40e117dcaa2fce084129c4a47c89642cacd0668f10929f75c34e",
+      "sourcePath": "/asset/remote/gameAsset/native/37/3741a175-7cc4-47dd-801b-b279ca3695f4.3839b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/68/68d78df9-0762-4393-a1e6-ef2a0498d483.5cc62.pvr",
+      "bytes": 18576,
+      "sha256": "3c2c78ff6148536142c0243663973a718fb7de317bc1b16f0baacd78ea87302e",
+      "sourcePath": "/asset/remote/gameAsset/native/68/68d78df9-0762-4393-a1e6-ef2a0498d483.5cc62.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/aa/aa016e78-3006-4bf2-a5a6-813b2a4dd5cb.4ae8c.pvr",
+      "bytes": 1296,
+      "sha256": "d895326c81eb6267565c9796d404f7501a9b8d2c088a33ac0fdbfc944ff14604",
+      "sourcePath": "/asset/remote/gameAsset/native/aa/aa016e78-3006-4bf2-a5a6-813b2a4dd5cb.4ae8c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/22/22a6f8f8-2c56-4ae6-adc2-d99232964ecc.258a5.pvr",
+      "bytes": 1296,
+      "sha256": "1cba26a7a06aa86371a9e4d32b99dce69eb81636f659fa5066e4324ed7b0ef01",
+      "sourcePath": "/asset/remote/gameAsset/native/22/22a6f8f8-2c56-4ae6-adc2-d99232964ecc.258a5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/13/138e3920-b71a-426f-a9ae-d984d155aa7c.6572d.pvr",
+      "bytes": 1296,
+      "sha256": "6d4e7db5e218b47a09965fd93d671a798a24d91c3de6df3e850169b9ddeecba1",
+      "sourcePath": "/asset/remote/gameAsset/native/13/138e3920-b71a-426f-a9ae-d984d155aa7c.6572d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/87/8739b37f-adbf-436a-af29-0537dda2df2b.63b2b.pvr",
+      "bytes": 1296,
+      "sha256": "6db32c95f64157a3dc14240b6728003e8e05dc26aa936ad35fd140fcaf8dd7e5",
+      "sourcePath": "/asset/remote/gameAsset/native/87/8739b37f-adbf-436a-af29-0537dda2df2b.63b2b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3a/3a752553-b5ad-48c1-9d72-6df4b0f390fd.fb784.pvr",
+      "bytes": 1296,
+      "sha256": "d77e04d8dbd707680ed38b15db93e181263b088a1560f8d72bd5a95ebd9cb43c",
+      "sourcePath": "/asset/remote/gameAsset/native/3a/3a752553-b5ad-48c1-9d72-6df4b0f390fd.fb784.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d70e5301-f9f5-46f8-a9b0-0d7458c6b456.eb9a6.pvr",
+      "bytes": 2896,
+      "sha256": "b8196f4c4cab02b421823c0d32a47707830e1f36cd9a12cfc73c093d74a02e0b",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d70e5301-f9f5-46f8-a9b0-0d7458c6b456.eb9a6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ce/cebae8fd-c8a2-48d0-8768-d00f37484807.5ad3d.pvr",
+      "bytes": 82352,
+      "sha256": "a0d095795b933723919369fcd2a5a29ca90bd25071e803af8afe051d1a691d97",
+      "sourcePath": "/asset/remote/gameAsset/native/ce/cebae8fd-c8a2-48d0-8768-d00f37484807.5ad3d.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/67/67d959a4-5f8a-4423-8303-a861cecc8253.a5fc7.pvr",
+      "bytes": 1424,
+      "sha256": "b34125d676af228fa9fd2c31601b92ab6371505dcfc4b6f42a0167aca766daf7",
+      "sourcePath": "/asset/remote/gameAsset/native/67/67d959a4-5f8a-4423-8303-a861cecc8253.a5fc7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7b/7be641e3-4f87-4678-a457-44476f4aa6e0.c5494.pvr",
+      "bytes": 1424,
+      "sha256": "4e5d7526f779c7f09f3bfb1d0e98ae3af3b7c829721cb7d329424246608fb3fd",
+      "sourcePath": "/asset/remote/gameAsset/native/7b/7be641e3-4f87-4678-a457-44476f4aa6e0.c5494.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/00/00f5715c-9cbe-44d8-9d1e-2ae9b9030389.67449.bin",
+      "bytes": 5468,
+      "sha256": "a36134864274d5d34b7dd56b2d6f9bbe28f02cd2e7101e749ca98178cacb9064",
+      "sourcePath": "/asset/remote/gameAsset/native/00/00f5715c-9cbe-44d8-9d1e-2ae9b9030389.67449.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/22/2258d7c7-4489-48b7-a812-8daffc9bd343.3b843.pvr",
+      "bytes": 6928,
+      "sha256": "c8e7e31fa234ba2f8fece96070ab80c1323dc34aa0513d4399e37715d5f4c4a7",
+      "sourcePath": "/asset/remote/gameAsset/native/22/2258d7c7-4489-48b7-a812-8daffc9bd343.3b843.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/dc/dc79b645-b0b7-415a-8e6b-b88faaf05181.62545.bin",
+      "bytes": 4072,
+      "sha256": "c9d839c0b9a4efe40a79db1897983e425a14a27ec97a965a44bd60161e418785",
+      "sourcePath": "/asset/remote/gameAsset/native/dc/dc79b645-b0b7-415a-8e6b-b88faaf05181.62545.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d7be5223-861f-4d2f-9cff-d36bc06f3322.666fa.pvr",
+      "bytes": 9136,
+      "sha256": "950fcb0eb9ac529f3ebac200c8ddd648bdcafd739d252dd6c96ff7f1439ac45b",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d7be5223-861f-4d2f-9cff-d36bc06f3322.666fa.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/fd/fd818f32-8007-4315-b971-a54cb6a08448.3e1d4.pvr",
+      "bytes": 1744,
+      "sha256": "8c6f61e4b6e4c8b437c595f1f55bd16c5890b0c06268d080ae6a8d89b329c3af",
+      "sourcePath": "/asset/remote/gameAsset/native/fd/fd818f32-8007-4315-b971-a54cb6a08448.3e1d4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/67/6702a334-1d3c-4ff3-ba16-0ca70db1003f.5fe09.pvr",
+      "bytes": 1744,
+      "sha256": "5984c0c90234ca7419782edd563973cb6100d09a911955c6ce57fc6864b3960c",
+      "sourcePath": "/asset/remote/gameAsset/native/67/6702a334-1d3c-4ff3-ba16-0ca70db1003f.5fe09.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bf/bf955858-25dc-4017-911f-a1c8e47a0e51.c4408.pvr",
+      "bytes": 1744,
+      "sha256": "3d92be90d9eb5f49e91294da9f104c0089325ac7e53acfbca3c289443b6aa20c",
+      "sourcePath": "/asset/remote/gameAsset/native/bf/bf955858-25dc-4017-911f-a1c8e47a0e51.c4408.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/12/129180b8-9609-44ad-b4e1-9bf1681d320a.e669c.pvr",
+      "bytes": 8544,
+      "sha256": "80c85d1d60a70331b691e9bf67d81eb6a92b36c790a99e33e9664a3f073770b2",
+      "sourcePath": "/asset/remote/gameAsset/native/12/129180b8-9609-44ad-b4e1-9bf1681d320a.e669c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/71/7107d9c8-1b24-45ed-a867-5a30c61f9cf8.bd8cc.bin",
+      "bytes": 876,
+      "sha256": "0a51a77b1ba272171fe3960d420ecbc9a57e6e66cb6c34155711f3cfcfc601a2",
+      "sourcePath": "/asset/remote/gameAsset/native/71/7107d9c8-1b24-45ed-a867-5a30c61f9cf8.bd8cc.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5f/5f5bc512-3d37-44e3-8ea8-902d081b51e5.51c2c.pvr",
+      "bytes": 90496,
+      "sha256": "f38ff04c06232678f815ef07681f39ff0ab26d076b757736de11cdcc723635ea",
+      "sourcePath": "/asset/remote/gameAsset/native/5f/5f5bc512-3d37-44e3-8ea8-902d081b51e5.51c2c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a8/a81642dd-8a25-4617-aaab-0a7ad03b7835.3276e.pvr",
+      "bytes": 8544,
+      "sha256": "62dcb069bcd827f15eb0387276ae3fdc0707522c7535099f100b97f89b5da90c",
+      "sourcePath": "/asset/remote/gameAsset/native/a8/a81642dd-8a25-4617-aaab-0a7ad03b7835.3276e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e3/e35c49db-3a78-41af-bc0b-53c4975e3741.327c1.pvr",
+      "bytes": 5648,
+      "sha256": "7ceda45c50c0fb451001c6cf7dc9d5c6786cf923454dd257ab9d5196f1a2be93",
+      "sourcePath": "/asset/remote/gameAsset/native/e3/e35c49db-3a78-41af-bc0b-53c4975e3741.327c1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/73/7358ecac-0399-4413-818a-9058f97d390b.503f8.pvr",
+      "bytes": 5648,
+      "sha256": "a76cfbd782d0900b2164bfc345324b27fd749772665e3659b3f254a657fc1d40",
+      "sourcePath": "/asset/remote/gameAsset/native/73/7358ecac-0399-4413-818a-9058f97d390b.503f8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/cf/cf8ec1fa-51b9-408d-98f8-d62d9b8bd521.16200.pvr",
+      "bytes": 5648,
+      "sha256": "5e8522eebc01c94a55009420e270e3f3bea2292a4208a9c892d7b1b98eb4d205",
+      "sourcePath": "/asset/remote/gameAsset/native/cf/cf8ec1fa-51b9-408d-98f8-d62d9b8bd521.16200.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/17/17887ef2-ce59-4356-928e-720d1ea5828c.b29ea.pvr",
+      "bytes": 5648,
+      "sha256": "1cce3bd9856cab8c39a03ce348a17796e908bf1bd63b3e966894634fbdb843ed",
+      "sourcePath": "/asset/remote/gameAsset/native/17/17887ef2-ce59-4356-928e-720d1ea5828c.b29ea.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d7f01a6c-1adc-447e-999b-503de963e7c3.5eed3.pvr",
+      "bytes": 5648,
+      "sha256": "35fb7a776dfe2a3f3a49fea2e63bf8f0fba2e2a34c939ae106272d2ac839a1b5",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d7f01a6c-1adc-447e-999b-503de963e7c3.5eed3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d6/d6ce3ee6-abb8-4f45-b5b0-637aca0e271b.27278.bin",
+      "bytes": 3818,
+      "sha256": "7371a19d127b312b738a77a967a4cfd9a7391303db0299413b3458591ffa265a",
+      "sourcePath": "/asset/remote/gameAsset/native/d6/d6ce3ee6-abb8-4f45-b5b0-637aca0e271b.27278.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1f/1fa828bc-1e08-4f5d-a802-30cf67b4da45.12a55.pvr",
+      "bytes": 1296,
+      "sha256": "18f30acbd6f40cc7f52c0278ae3caed0bef23949b65b8df355498cc6c0505b07",
+      "sourcePath": "/asset/remote/gameAsset/native/1f/1fa828bc-1e08-4f5d-a802-30cf67b4da45.12a55.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e4/e42ff680-0fc1-4012-9941-2fe2b2f4289f.2ef7e.pvr",
+      "bytes": 13216,
+      "sha256": "6de35df62ab26249094993506b514f08452630da14942b8ee5846702e5fafef6",
+      "sourcePath": "/asset/remote/gameAsset/native/e4/e42ff680-0fc1-4012-9941-2fe2b2f4289f.2ef7e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e6/e637a4bd-b8be-410c-9623-01a2fe9ac622.566ea.bin",
+      "bytes": 343,
+      "sha256": "591580bbfcb9854d4701f7379a82b3d91668e4e9a598a630ae566231bed265fd",
+      "sourcePath": "/asset/remote/gameAsset/native/e6/e637a4bd-b8be-410c-9623-01a2fe9ac622.566ea.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/cc/cc8a668f-e970-499e-8d04-6b2f36101d1c.87365.pvr",
+      "bytes": 52816,
+      "sha256": "aaa3c659092086dc219d4578abb3db743d83771beafac2493302bc717d99f10f",
+      "sourcePath": "/asset/remote/gameAsset/native/cc/cc8a668f-e970-499e-8d04-6b2f36101d1c.87365.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ec/ecfeae64-5e74-4fa6-9c40-94139ae26249.2b87b.bin",
+      "bytes": 526,
+      "sha256": "b81c80fb2f0cad88fcc12c0b7fc77fa11ca1324b5ad62448dfaa6253c40e4eb9",
+      "sourcePath": "/asset/remote/gameAsset/native/ec/ecfeae64-5e74-4fa6-9c40-94139ae26249.2b87b.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2e/2e122331-3740-4df8-a4c9-5b542b3fc51e.06442.pvr",
+      "bytes": 18112,
+      "sha256": "e9b0017bfd59c64073466fe94e8961b9f5124e03733bb4e31447c4465d78a3df",
+      "sourcePath": "/asset/remote/gameAsset/native/2e/2e122331-3740-4df8-a4c9-5b542b3fc51e.06442.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/92/92531924-e0e1-4211-a848-f90c375c9faa.3a096.bin",
+      "bytes": 6213,
+      "sha256": "61adc801175ef2624dce35861c71a73ccf86163d27f8d236d59d916440514634",
+      "sourcePath": "/asset/remote/gameAsset/native/92/92531924-e0e1-4211-a848-f90c375c9faa.3a096.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/15/155012af-e25d-4df5-918e-43a6101ae78d.128d5.pvr",
+      "bytes": 164752,
+      "sha256": "ff3959999465526bb27773349de61b45c4289ac8dcf238378ea2b46fce6c17bb",
+      "sourcePath": "/asset/remote/gameAsset/native/15/155012af-e25d-4df5-918e-43a6101ae78d.128d5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a9/a97629de-6aa4-4bc8-92ee-0a679f95586e.7ef32.pvr",
+      "bytes": 61488,
+      "sha256": "c859ec34ace96006c240bb44d48844f1242da1ad3ea7829db783de59f179c28e",
+      "sourcePath": "/asset/remote/gameAsset/native/a9/a97629de-6aa4-4bc8-92ee-0a679f95586e.7ef32.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d5/d50e67f3-2915-45b9-a76c-f5c993d58a0f.0aa2b.pvr",
+      "bytes": 64688,
+      "sha256": "7e0fa9c9f2bccbbe4550837bf932d77f41f1bebc14840566703fb705c422e071",
+      "sourcePath": "/asset/remote/gameAsset/native/d5/d50e67f3-2915-45b9-a76c-f5c993d58a0f.0aa2b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c3/c3c9f747-1c04-4654-b8f1-58d5f69252db.8b5b5.bin",
+      "bytes": 15644,
+      "sha256": "75d25779757141b1ccaebd9629fa1b8499111fc54b7dd4ae9f75272c4e9241f2",
+      "sourcePath": "/asset/remote/gameAsset/native/c3/c3c9f747-1c04-4654-b8f1-58d5f69252db.8b5b5.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/39/395ca21b-8358-4aae-a0c9-40375bf90ff4.f90af.bin",
+      "bytes": 15600,
+      "sha256": "66c203ecef79338e51aec2ec855ac6fc7d9c419a924f539b212e735ef934e83d",
+      "sourcePath": "/asset/remote/gameAsset/native/39/395ca21b-8358-4aae-a0c9-40375bf90ff4.f90af.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c4/c4080d42-f7c7-41c7-ae4d-c52b67217cb1.13cf9.pvr",
+      "bytes": 2032,
+      "sha256": "370d18bded95967a14275ddd7cf3359ee24fd31c3f86ec4c2bcd177612752137",
+      "sourcePath": "/asset/remote/gameAsset/native/c4/c4080d42-f7c7-41c7-ae4d-c52b67217cb1.13cf9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/22/22b2a58b-528e-40d4-a290-08684baeadb2.9bf96.pvr",
+      "bytes": 5648,
+      "sha256": "f94bb0e340b3b4fd4c8aca4f0e065eeb7fcd894dfb8c7a96c16cd3d8f0ddb5b8",
+      "sourcePath": "/asset/remote/gameAsset/native/22/22b2a58b-528e-40d4-a290-08684baeadb2.9bf96.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/26/2618243e-843d-4cfd-8d8f-f7b30f73e5c0.742a6.pvr",
+      "bytes": 13616,
+      "sha256": "0d73d3017e27790e083e635c7703039c610c90c6067a4cbc4596df5b5d99b406",
+      "sourcePath": "/asset/remote/remoteAsset/native/26/2618243e-843d-4cfd-8d8f-f7b30f73e5c0.742a6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/96/96601303-574b-4234-906e-ce85d85ac7d8.d5a84.pvr",
+      "bytes": 122832,
+      "sha256": "b102e6046d3930a9cd539eea8d74a24b0d5569a76861d1220492f17ca182b678",
+      "sourcePath": "/asset/remote/gameAsset/native/96/96601303-574b-4234-906e-ce85d85ac7d8.d5a84.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d7/d75805a5-cf33-4ce4-aa05-8f5c461e9320.8e231.pvr",
+      "bytes": 5648,
+      "sha256": "d7c76856b6aa5f1941601888075e9c3f6f80db861df37460949f2f524e1851fa",
+      "sourcePath": "/asset/remote/gameAsset/native/d7/d75805a5-cf33-4ce4-aa05-8f5c461e9320.8e231.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1d/1da1ef37-5bcf-4946-91a8-b79a32fe7bf0.ff4f4.pvr",
+      "bytes": 208,
+      "sha256": "34c6719b22531c3818842d3f9b9662b8ff6543b31d46d431d949200a8341c1b9",
+      "sourcePath": "/asset/remote/gameAsset/native/1d/1da1ef37-5bcf-4946-91a8-b79a32fe7bf0.ff4f4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1a/1a2baa55-7607-495c-8f57-109490c33e4f.88610.pvr",
+      "bytes": 9168,
+      "sha256": "ef416edcd75eb5b01a23722acb55919f319556cc5232ea22c04cd5d385ce4a9a",
+      "sourcePath": "/asset/remote/gameAsset/native/1a/1a2baa55-7607-495c-8f57-109490c33e4f.88610.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/d4/d4c16526-b233-4289-9533-e882c56198a2.b330b.pvr",
+      "bytes": 5648,
+      "sha256": "b772e43b4eec8b848b96afa71de06986073f8aab5665a7fce7a7c6462969ee07",
+      "sourcePath": "/asset/remote/gameAsset/native/d4/d4c16526-b233-4289-9533-e882c56198a2.b330b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7b/7bf2d0bb-54fc-448d-90ba-c4226ba3e434.c368e.bin",
+      "bytes": 30126,
+      "sha256": "6e28622ef81a3238d0f8113952e0c076e3c5441394052dcb051d26e52c41ab9e",
+      "sourcePath": "/asset/remote/gameAsset/native/7b/7bf2d0bb-54fc-448d-90ba-c4226ba3e434.c368e.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/43/43ca69e1-8536-474a-9f00-d7fbdf9c72c4.69418.pvr",
+      "bytes": 20352,
+      "sha256": "228e755cbf41dacbcefbd30f408dd78e766a42442909d1d1d90dcb0d4e7a383a",
+      "sourcePath": "/asset/remote/gameAsset/native/43/43ca69e1-8536-474a-9f00-d7fbdf9c72c4.69418.pvr"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/1c/1cdbd249-c08d-411b-b1cc-789010b8535a.1ed55.pvr",
+      "bytes": 2512,
+      "sha256": "65d0a0ee2ee337f1283ca356801a33e18920e8a065af773e1000a86b7c6161d9",
+      "sourcePath": "/asset/remote/zh/native/1c/1cdbd249-c08d-411b-b1cc-789010b8535a.1ed55.pvr"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/96/964db924-458b-4678-8631-b9f29cfaf6c4.83cf7.pvr",
+      "bytes": 5008,
+      "sha256": "09885a6c4b309ee46de4d7673a85b29737b085134a96f7a9238fe4533dd0a1a5",
+      "sourcePath": "/asset/remote/zh/native/96/964db924-458b-4678-8631-b9f29cfaf6c4.83cf7.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8a/8a704482-6859-4fab-b5f2-af6e6cfc1051.1ccbb.pvr",
+      "bytes": 5648,
+      "sha256": "d58139a478def3ff5fcdf64db5a0d33bffee6947f08fab28a98e4849c02134b7",
+      "sourcePath": "/asset/remote/gameAsset/native/8a/8a704482-6859-4fab-b5f2-af6e6cfc1051.1ccbb.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1e/1e0d6dc9-f936-4623-a688-ad08eded4847.fc38e.pvr",
+      "bytes": 35440,
+      "sha256": "5844fbf974cf2113283d192379c5d1408212f2a01d6cd28863f1d5826058929b",
+      "sourcePath": "/asset/remote/gameAsset/native/1e/1e0d6dc9-f936-4623-a688-ad08eded4847.fc38e.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8b/8b2ce68e-5c0d-4903-9246-bf9d01c690b9.525d6.pvr",
+      "bytes": 2032,
+      "sha256": "adab3fc13098a80d015935fd87c812bed38133e1df3650a53f05eb9c7256e731",
+      "sourcePath": "/asset/remote/gameAsset/native/8b/8b2ce68e-5c0d-4903-9246-bf9d01c690b9.525d6.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/67/67a5fa16-c21c-4d29-8f43-ae88aebcd57a.424e2.pvr",
+      "bytes": 22032,
+      "sha256": "829a29f7e4c02db7376e4561dd7837788298725df1d61edd29ac5c1e7d0d10a8",
+      "sourcePath": "/asset/remote/gameAsset/native/67/67a5fa16-c21c-4d29-8f43-ae88aebcd57a.424e2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/5c/5c9a5e4d-c2db-4d06-aa4f-a93ca6a4424a.7510c.pvr",
+      "bytes": 5648,
+      "sha256": "bcc1659d36d63726fa2965110fb39e0098920ac9d8ef87f7a3a51b7c971c054d",
+      "sourcePath": "/asset/remote/gameAsset/native/5c/5c9a5e4d-c2db-4d06-aa4f-a93ca6a4424a.7510c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/29/29f31891-d976-4dd8-8f36-06cb96906970.947fc.pvr",
+      "bytes": 1744,
+      "sha256": "00a36c44b63885d439fa0523ee9ebaedd564760836bbf5d8f597e1cc9ef2dda2",
+      "sourcePath": "/asset/remote/gameAsset/native/29/29f31891-d976-4dd8-8f36-06cb96906970.947fc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/13/13df5a4a-bcea-4bba-b9ee-fb9cb3f30c3e.41b07.bin",
+      "bytes": 1565,
+      "sha256": "0a9ec8847709990f58e71e4c9bcb68dff3f44ec3c1bdb83f0dbbec9acd528222",
+      "sourcePath": "/asset/remote/gameAsset/native/13/13df5a4a-bcea-4bba-b9ee-fb9cb3f30c3e.41b07.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/33/33083488-97a1-4f93-98be-d7a2b1a88c94.807db.bin",
+      "bytes": 10458,
+      "sha256": "5b687bbdf445f936c8b8459f6242e9c8e68d4339970cc34f4058549f8117d813",
+      "sourcePath": "/asset/remote/gameAsset/native/33/33083488-97a1-4f93-98be-d7a2b1a88c94.807db.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9c/9cb6b526-d8ff-4530-b354-a829d979587a.3d82f.pvr",
+      "bytes": 49168,
+      "sha256": "987b9536d12589d05237e535523a639ff11e77dbb097bf6ea28fac0fea67c831",
+      "sourcePath": "/asset/remote/gameAsset/native/9c/9cb6b526-d8ff-4530-b354-a829d979587a.3d82f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4c/4cff166f-838d-429d-befa-87c6d4e0cacc.7afa3.bin",
+      "bytes": 18858,
+      "sha256": "9abe51c2a678b6efa8f25f9f7ff0aeac9c5c38e44fe8264ffa750a230a192977",
+      "sourcePath": "/asset/remote/gameAsset/native/4c/4cff166f-838d-429d-befa-87c6d4e0cacc.7afa3.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/49/49bdae91-f43b-43b9-8c4b-265762258ffa.96607.pvr",
+      "bytes": 1744,
+      "sha256": "54f7d992de83a1ece5febd3fad8f53d6d965780e59de39ea4186bd387946f9f1",
+      "sourcePath": "/asset/remote/gameAsset/native/49/49bdae91-f43b-43b9-8c4b-265762258ffa.96607.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f1/f1f3fbde-b079-4ac0-af8a-4d5f7e24befc.46911.pvr",
+      "bytes": 2032,
+      "sha256": "86cbbf53575a333b17e83592de88fedea8c2f5f677e56eabbee9a0c6655ba916",
+      "sourcePath": "/asset/remote/gameAsset/native/f1/f1f3fbde-b079-4ac0-af8a-4d5f7e24befc.46911.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/15/15c025c4-434f-4398-8fd7-b4ecdc6a23e6.0e239.bin",
+      "bytes": 3996,
+      "sha256": "3d5e7a1dffb397833d622191a8d2aa6f7ada52ba6bc44cb88f69997fe19ca1af",
+      "sourcePath": "/asset/remote/gameAsset/native/15/15c025c4-434f-4398-8fd7-b4ecdc6a23e6.0e239.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/da/da17e65c-91be-4b3d-97fb-d8ba05d5097c.443c3.pvr",
+      "bytes": 26336,
+      "sha256": "f8f1f57bd78267d4b28018e3e9abc7462508a91eba266acf3caae4b346614c90",
+      "sourcePath": "/asset/remote/gameAsset/native/da/da17e65c-91be-4b3d-97fb-d8ba05d5097c.443c3.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/91/91b6c373-bd11-452b-a750-31bbc1a2bc39.6a671.pvr",
+      "bytes": 13616,
+      "sha256": "8503f673efea0c9e78b6e4d8e9a627c141f260ced7e7206635c05f8a1fe8aaba",
+      "sourcePath": "/asset/remote/gameAsset/native/91/91b6c373-bd11-452b-a750-31bbc1a2bc39.6a671.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/37/378b5937-e734-4b16-b039-c3cc480d14b8.81e8f.pvr",
+      "bytes": 5648,
+      "sha256": "13d51c2c389ec8792b1d4475f57ed39889eabccc15058f61917c3a65d9189339",
+      "sourcePath": "/asset/remote/gameAsset/native/37/378b5937-e734-4b16-b039-c3cc480d14b8.81e8f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4c/4c340d88-07a2-4ea0-b120-589fa6096691.8d1f7.bin",
+      "bytes": 24237,
+      "sha256": "df323bc2112a5921884a8650b8045f09b9eb2a8a4ee22be2b9a4995bc66cc7fd",
+      "sourcePath": "/asset/remote/gameAsset/native/4c/4c340d88-07a2-4ea0-b120-589fa6096691.8d1f7.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9c/9cb709c4-865b-4567-9c79-775a591345bc.d3f21.pvr",
+      "bytes": 44912,
+      "sha256": "974d700fda8970eab432957c590747946953e00ec91c1813b471c19ced88cdb2",
+      "sourcePath": "/asset/remote/gameAsset/native/9c/9cb709c4-865b-4567-9c79-775a591345bc.d3f21.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/43/433b6019-6d65-4cd5-99f0-ac58f6a4976e.fec93.bin",
+      "bytes": 10420,
+      "sha256": "9c19a48631d52a119411cf82fd44b3d767c9a257f7b64036868b368f494a22e2",
+      "sourcePath": "/asset/remote/gameAsset/native/43/433b6019-6d65-4cd5-99f0-ac58f6a4976e.fec93.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/77/77a4397a-23d1-4d4e-9d69-e616429b0887.dd8c8.pvr",
+      "bytes": 2032,
+      "sha256": "d9e6bc5852d7bd2fb20f02d5b20f62ce1709695825dc2f88d96d1e04f6a448d0",
+      "sourcePath": "/asset/remote/gameAsset/native/77/77a4397a-23d1-4d4e-9d69-e616429b0887.dd8c8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b1ec3f40-5be2-4bbd-90e1-e4d6ebefabed.0b164.pvr",
+      "bytes": 49168,
+      "sha256": "f271abce5e304cf2b4952c85ceea0eecc054ff12680058c0d27240c65b94ffdb",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b1ec3f40-5be2-4bbd-90e1-e4d6ebefabed.0b164.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d9e9896-0710-4e75-b3af-f2805c093e0d.47738.pvr",
+      "bytes": 4880,
+      "sha256": "628887d8c59386f6abbf52b4ec496237dc66470af96cdff64811e1a1c4e9e548",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4d9e9896-0710-4e75-b3af-f2805c093e0d.47738.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8f/8f1568a5-b33d-43cc-beb4-b483e4aa9c51.1ee66.pvr",
+      "bytes": 5648,
+      "sha256": "04e4e90c5c6aef6a143d13c5c271e922c8bb7852b7b98bcebb9d3606554070f6",
+      "sourcePath": "/asset/remote/gameAsset/native/8f/8f1568a5-b33d-43cc-beb4-b483e4aa9c51.1ee66.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/74604486-13de-4c38-a323-fea681258ffa.affa0.pvr",
+      "bytes": 2032,
+      "sha256": "bc167d78ed1267af7fc7782b15664b4c1d55d800c170cc1673a4fb8980a21fc2",
+      "sourcePath": "/asset/remote/gameAsset/native/74/74604486-13de-4c38-a323-fea681258ffa.affa0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8d/8dc556be-751f-45f1-af23-afbaf924d3a0.63f32.bin",
+      "bytes": 14936,
+      "sha256": "7de2c3021175aac8da814359031e402d81da7a48e55c60ae6a57f91144d77fed",
+      "sourcePath": "/asset/remote/gameAsset/native/8d/8dc556be-751f-45f1-af23-afbaf924d3a0.63f32.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3f/3f614800-ad2c-4a08-b68a-2baf02e5953f.b1a84.pvr",
+      "bytes": 208,
+      "sha256": "8f8186f535e97a89586165f4adb763abeeb6c0c536e05fde72096ba598cd9608",
+      "sourcePath": "/asset/remote/gameAsset/native/3f/3f614800-ad2c-4a08-b68a-2baf02e5953f.b1a84.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/37/37192a3d-dc6c-45fd-8473-abe2b2212a29.93ad9.pvr",
+      "bytes": 23248,
+      "sha256": "ff382548899492021369c971c92acd09659e206af8926bc0dca91c63e9095eaa",
+      "sourcePath": "/asset/remote/gameAsset/native/37/37192a3d-dc6c-45fd-8473-abe2b2212a29.93ad9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ac/ac5467d8-3f69-43eb-97e9-3d6bf375b5ab.e7e09.pvr",
+      "bytes": 22032,
+      "sha256": "95ebe0e78a34b7f80be085959a532a0361e3af5800bf8fa34c791c757126929a",
+      "sourcePath": "/asset/remote/gameAsset/native/ac/ac5467d8-3f69-43eb-97e9-3d6bf375b5ab.e7e09.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b1/b14e5c96-4d77-4c43-a047-e58836bcfe5c.edccb.pvr",
+      "bytes": 366816,
+      "sha256": "0d7187cf4129d9a69895284e7b2c95a8639d3d1d87a9d0c74802e098b7fed7e1",
+      "sourcePath": "/asset/remote/gameAsset/native/b1/b14e5c96-4d77-4c43-a047-e58836bcfe5c.edccb.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d07e040-e57b-4fac-82ba-18893d4c7ca5.5e9c7.bin",
+      "bytes": 15612,
+      "sha256": "454f8061fa232552cd2c63d617cdb3bca7c9fe5f09c08c550ab7026e24b331ec",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4d07e040-e57b-4fac-82ba-18893d4c7ca5.5e9c7.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/08/0875e82e-062d-48ee-8988-b7c02b5c997c.dea01.pvr",
+      "bytes": 44912,
+      "sha256": "7ce0cb102adcc2e41c82bfc95546841a601f892c19fdc2e2afd7de4c1c0905d0",
+      "sourcePath": "/asset/remote/gameAsset/native/08/0875e82e-062d-48ee-8988-b7c02b5c997c.dea01.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/1b/1bfa8069-979d-4ccd-9f92-3680ad362147.46e94.pvr",
+      "bytes": 25040,
+      "sha256": "be36197e151960c10bc1085ffba6a88faae2c623c0ae334461d1feecaf4238b6",
+      "sourcePath": "/asset/remote/gameAsset/native/1b/1bfa8069-979d-4ccd-9f92-3680ad362147.46e94.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4f/4fbe3c8e-6756-4a99-9050-88a1db1bad94.8554c.pvr",
+      "bytes": 5648,
+      "sha256": "61b5ca7477af2dc14ecb9cea75dd165d933818ebedc58f1845247fc9476a598d",
+      "sourcePath": "/asset/remote/gameAsset/native/4f/4fbe3c8e-6756-4a99-9050-88a1db1bad94.8554c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6c/6ccf860d-6e78-4fff-9b9e-b665e59583cc.349f0.pvr",
+      "bytes": 5648,
+      "sha256": "0d7dd5f99097621f95262a67608eb999cc8a5f398b32e9baf884b2f777ed86b6",
+      "sourcePath": "/asset/remote/gameAsset/native/6c/6ccf860d-6e78-4fff-9b9e-b665e59583cc.349f0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/76/763b8c6f-5d9d-4bdf-a594-125defc2785d.87ed0.pvr",
+      "bytes": 2032,
+      "sha256": "7ee575fe79f5df283ecb130529f938b752d8012d99a6aab1bd92b8add925bccf",
+      "sourcePath": "/asset/remote/gameAsset/native/76/763b8c6f-5d9d-4bdf-a594-125defc2785d.87ed0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/f2/f21753fb-39a5-465b-91fa-23866391d47e.b5018.bin",
+      "bytes": 2663,
+      "sha256": "2cee83265e17aa078601352c26d6e0d79be5b11419f6de54f13926fd2a16dfbc",
+      "sourcePath": "/asset/remote/gameAsset/native/f2/f21753fb-39a5-465b-91fa-23866391d47e.b5018.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3f/3f4474ed-5982-494a-bdfc-92169b0c85a3.c0831.pvr",
+      "bytes": 1296,
+      "sha256": "536448e1407423396bdbbc03082fad1be77f31804e9882939bcae51b8cc6d40c",
+      "sourcePath": "/asset/remote/gameAsset/native/3f/3f4474ed-5982-494a-bdfc-92169b0c85a3.c0831.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/54/54486ae1-fad8-483f-893f-4b36b3f4332e.66798.pvr",
+      "bytes": 528,
+      "sha256": "f9ddacfa6625b449a8fa80c595f0f91a6958548e16e962dfdac9a7f5c1f2a49e",
+      "sourcePath": "/asset/remote/gameAsset/native/54/54486ae1-fad8-483f-893f-4b36b3f4332e.66798.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ab/abc4a558-df78-4199-937f-0470de05d194.4ea3c.pvr",
+      "bytes": 10224,
+      "sha256": "038fb8851b13c544ed64e3c33dd13a44939c0eb6cb2b28ad697086ab5b323654",
+      "sourcePath": "/asset/remote/gameAsset/native/ab/abc4a558-df78-4199-937f-0470de05d194.4ea3c.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8d/8dba28e4-d88a-4193-a077-e8def5d4c3f6.80b73.pvr",
+      "bytes": 1744,
+      "sha256": "8d0c31dc31ff4de9adff59f312a40ceb084c140f654ffc2eca9fcadc2de0c296",
+      "sourcePath": "/asset/remote/gameAsset/native/8d/8dba28e4-d88a-4193-a077-e8def5d4c3f6.80b73.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/da/dadff6e1-7a17-4e84-b6a7-04cd0768a89b.8c708.pvr",
+      "bytes": 1264,
+      "sha256": "66cfef0a4b18a850bf322049be3ddfa86b87043b8363f572da09c0d1b7d8abec",
+      "sourcePath": "/asset/remote/gameAsset/native/da/dadff6e1-7a17-4e84-b6a7-04cd0768a89b.8c708.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/99/996120f6-5051-42e3-9284-93387f981c63.a0798.pvr",
+      "bytes": 13616,
+      "sha256": "25be2f07ad0ca669c12be62b414004ddea586939d18c6a0b227d6c0c8ae64146",
+      "sourcePath": "/asset/remote/gameAsset/native/99/996120f6-5051-42e3-9284-93387f981c63.a0798.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4ded82d0-b2cd-4a5a-be0b-7314b83b1704.e1287.bin",
+      "bytes": 14603,
+      "sha256": "a3877f9f665167f87a9a78529b8d880eb39ffa576b1f9f2a1a44788b7cd04ec9",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4ded82d0-b2cd-4a5a-be0b-7314b83b1704.e1287.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/cd/cde7e69f-a1d5-4c0d-9b57-702c08b440ee.c9f36.pvr",
+      "bytes": 896,
+      "sha256": "d48e4dc388ddddde88af8d035100c38a545a89052cfa49dd9c08b5512d6c5015",
+      "sourcePath": "/asset/remote/gameAsset/native/cd/cde7e69f-a1d5-4c0d-9b57-702c08b440ee.c9f36.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/80/80390db1-165e-4109-8918-155438335b2e.46a05.pvr",
+      "bytes": 7616,
+      "sha256": "51c17fc3b1bfa1a8d1bcff45cf6984d6eda200fd6536199cd17d51fd0650a2d1",
+      "sourcePath": "/asset/remote/gameAsset/native/80/80390db1-165e-4109-8918-155438335b2e.46a05.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2c/2c82aad1-8c61-4f8e-a2a8-a3813f9de6bc.c87aa.pvr",
+      "bytes": 88080,
+      "sha256": "9e16ed113abd0174dff4ad658c6e3993081c65b6f384cedf2f679948882dc257",
+      "sourcePath": "/asset/remote/gameAsset/native/2c/2c82aad1-8c61-4f8e-a2a8-a3813f9de6bc.c87aa.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/60/60c81161-1653-46b7-9043-474c3a70e662.2f250.pvr",
+      "bytes": 5648,
+      "sha256": "a00adc7e6c0b7c7c84fca6ac08c584c81806a15fb37e5d5fd646c70c0f2f273b",
+      "sourcePath": "/asset/remote/gameAsset/native/60/60c81161-1653-46b7-9043-474c3a70e662.2f250.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c7/c79c9075-82a6-4850-b4f0-f53981899c81.55fb9.pvr",
+      "bytes": 7616,
+      "sha256": "b968673b94746679e4cbb3860a0920a5188e3af7e1f5df6c32c0e2cd3f589826",
+      "sourcePath": "/asset/remote/gameAsset/native/c7/c79c9075-82a6-4850-b4f0-f53981899c81.55fb9.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9f/9f7793ab-97f3-466a-b8aa-ba8a8de28f9d.b6a5d.bin",
+      "bytes": 4061,
+      "sha256": "36f286c46ecf7328d700cfc0b020b33351c5f6b4f836050ca3f838bd834ea84b",
+      "sourcePath": "/asset/remote/gameAsset/native/9f/9f7793ab-97f3-466a-b8aa-ba8a8de28f9d.b6a5d.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ef/ef5b5b11-2053-4dae-a12a-fab531da7d31.568ba.pvr",
+      "bytes": 29024,
+      "sha256": "0736181bc8204f2a0875ad04f9f2e6bf7e1b808bb0925333cd673918f1c05e2d",
+      "sourcePath": "/asset/remote/gameAsset/native/ef/ef5b5b11-2053-4dae-a12a-fab531da7d31.568ba.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a0/a0180cd1-5d06-4bdc-bb37-b2a1a2e11abb.b687b.pvr",
+      "bytes": 5648,
+      "sha256": "2b7c9fe9deb2d6cc6d2f662dfce60f92da42e341a8e1c1dd4f9ec30226e6a15c",
+      "sourcePath": "/asset/remote/gameAsset/native/a0/a0180cd1-5d06-4bdc-bb37-b2a1a2e11abb.b687b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/90/90227b8c-e113-4cc4-bb8d-395c74e3e507.ff01f.pvr",
+      "bytes": 1024,
+      "sha256": "7cab79d19b7d6215d46114de3af51e1e775938433d4ae61e8ec87089f2c7b694",
+      "sourcePath": "/asset/remote/gameAsset/native/90/90227b8c-e113-4cc4-bb8d-395c74e3e507.ff01f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/95/956314fb-afb9-46d0-a7cf-a06725a4b903.ea5b4.pvr",
+      "bytes": 5648,
+      "sha256": "99ed61522f2c32b45fefcf6ebb754ff09b8602f4d17f88df225565a74e24379c",
+      "sourcePath": "/asset/remote/gameAsset/native/95/956314fb-afb9-46d0-a7cf-a06725a4b903.ea5b4.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/e2/e2b9ab3b-5d6b-4b8e-bf2d-6b66e4d5a19d.81ad0.pvr",
+      "bytes": 208,
+      "sha256": "483c8a400023eec9d006ec210b4d04ebc3d14bab0fb59972c4c64516360e425d",
+      "sourcePath": "/asset/remote/gameAsset/native/e2/e2b9ab3b-5d6b-4b8e-bf2d-6b66e4d5a19d.81ad0.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/3c/3c4ebf3c-f438-4580-9463-cc2ebcc91667.1dd44.pvr",
+      "bytes": 45648,
+      "sha256": "5b304506e6a768bba5cebd6ae8bbcb387d0674bfdd49dfa6c6b13ff5286ee7a9",
+      "sourcePath": "/asset/remote/gameAsset/native/3c/3c4ebf3c-f438-4580-9463-cc2ebcc91667.1dd44.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/64/64e21e81-9344-48a8-a310-80a68193afc9.27b06.bin",
+      "bytes": 19461,
+      "sha256": "22051ff8ac902c19d5cfc60833138f3341387b69f1726ea8e7c610a591a46b98",
+      "sourcePath": "/asset/remote/gameAsset/native/64/64e21e81-9344-48a8-a310-80a68193afc9.27b06.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a9/a9aa788d-e6b2-4b29-bdad-3ffc29f79d1d.7ca50.pvr",
+      "bytes": 22032,
+      "sha256": "69518229273c79b6599cbf29db3d58654b55abb0ac54188093dda8e751ba3935",
+      "sourcePath": "/asset/remote/gameAsset/native/a9/a9aa788d-e6b2-4b29-bdad-3ffc29f79d1d.7ca50.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/74/74321ba0-fd94-4bf2-83c0-c78d78ed4ee6.4a5f5.pvr",
+      "bytes": 2032,
+      "sha256": "7269453be7208309d4bc0566397a27395075f5d96aa517664c7ada46a5d0ec1f",
+      "sourcePath": "/asset/remote/gameAsset/native/74/74321ba0-fd94-4bf2-83c0-c78d78ed4ee6.4a5f5.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/b3/b3684a02-ae71-4f0b-9014-dd9a122485c8.ddd56.bin",
+      "bytes": 7968,
+      "sha256": "62d7db7627a96081785ffc1f5d633e4af4b664b15fcf7c4423fac06d1f5c1ffe",
+      "sourcePath": "/asset/remote/gameAsset/native/b3/b3684a02-ae71-4f0b-9014-dd9a122485c8.ddd56.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/c3/c3ca67d6-3dbf-4b1c-a289-215b4e4ef4d9.998e8.pvr",
+      "bytes": 2304,
+      "sha256": "e7de3f2c2f4acbba32c4ca411e6280e3507f0d4febafe74ef1626774baa01d76",
+      "sourcePath": "/asset/remote/gameAsset/native/c3/c3ca67d6-3dbf-4b1c-a289-215b4e4ef4d9.998e8.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4e/4eca1aee-1f62-4d8c-8c1f-28448046615f.8f27f.pvr",
+      "bytes": 27664,
+      "sha256": "4a8a0dd20f5ff920dbd376e7aee4463d309d8d543a7f80d431915d2483fea734",
+      "sourcePath": "/asset/remote/gameAsset/native/4e/4eca1aee-1f62-4d8c-8c1f-28448046615f.8f27f.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/85/8540cfd5-5490-4cda-9bc4-1d4373e01106.d0174.bin",
+      "bytes": 2692,
+      "sha256": "3198aa8de8040484e4960d461eb5a7e159059f5150e0916e0d12b0b3ca7675ab",
+      "sourcePath": "/asset/remote/gameAsset/native/85/8540cfd5-5490-4cda-9bc4-1d4373e01106.d0174.bin"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d39be0c-3a80-496e-b288-d330f84777bc.6a60b.pvr",
+      "bytes": 5648,
+      "sha256": "265c465e3f4bb8a356385abc1aba5e4e070796e40e3bf60ce450aada1d3d5c19",
+      "sourcePath": "/asset/remote/gameAsset/native/4d/4d39be0c-3a80-496e-b288-d330f84777bc.6a60b.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/ea/ea78e482-3229-4d81-b670-033bbd5f5469.8227c.mp3",
+      "bytes": 25979,
+      "sha256": "34240b5d24b003d65c80d88a8d9c2904a9b725a0267fa901b7a3612ee6092761",
+      "sourcePath": "/asset/remote/gameAsset/native/ea/ea78e482-3229-4d81-b670-033bbd5f5469.8227c.mp3"
+    },
+    {
+      "path": "remote/asset/remote/zh/native/e7/e7bd4657-722d-43ac-b3e7-76a72c831615.cd0b2.pvr",
+      "bytes": 1920,
+      "sha256": "53f6cb99f472e02832fcc65380c4a3512e787204a726ab0164a54a18a8f6f91e",
+      "sourcePath": "/asset/remote/zh/native/e7/e7bd4657-722d-43ac-b3e7-76a72c831615.cd0b2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/98/989c9ba9-d549-463c-84a3-8fb89620beb6.575dc.pvr",
+      "bytes": 7088,
+      "sha256": "72709e64412fd37d059876fd9c4140974aafe51931273825d88d5642d7856141",
+      "sourcePath": "/asset/remote/remoteAsset/native/98/989c9ba9-d549-463c-84a3-8fb89620beb6.575dc.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/e3/e3941fa7-d9a4-49af-be66-e458b52827b4.b224a.pvr",
+      "bytes": 10224,
+      "sha256": "679cc51f464144f4365f503d33f9a4f35f7c9f515f2fe577e757b9ab5da0530f",
+      "sourcePath": "/asset/remote/remoteAsset/native/e3/e3941fa7-d9a4-49af-be66-e458b52827b4.b224a.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/c2/c2dbb5e8-ab4b-43b3-8d58-fe50081df60d.500a2.pvr",
+      "bytes": 7632,
+      "sha256": "486b100ff1a2b328d8f20916d8780c1951f8a23fcd8e193e84f600a0826486b8",
+      "sourcePath": "/asset/remote/remoteAsset/native/c2/c2dbb5e8-ab4b-43b3-8d58-fe50081df60d.500a2.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/51/516e4781-a6bf-42b1-93ef-bda2e21acd26.03386.pvr",
+      "bytes": 10416,
+      "sha256": "322d82f72ad9ae1f9e28618cc61fee45b8ca3b674c1571a9189d58784df2bb05",
+      "sourcePath": "/asset/remote/remoteAsset/native/51/516e4781-a6bf-42b1-93ef-bda2e21acd26.03386.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/17/178c346a-f635-44c4-917e-716c1f366aaf.c32c1.pvr",
+      "bytes": 11424,
+      "sha256": "546da2345bc38fddf36c0f2e15325aa79e0670f8c954fcdd7d713128c366e36c",
+      "sourcePath": "/asset/remote/remoteAsset/native/17/178c346a-f635-44c4-917e-716c1f366aaf.c32c1.pvr"
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/c5/c56f96ff-adb2-47ff-88bb-4389242b6e63.db698.pvr",
+      "bytes": 8752,
+      "sha256": "f9ef1bb0149638313b38bc9d32412b1fd6e51eee362d2925b9edeb28d0b83e34",
+      "sourcePath": "/asset/remote/remoteAsset/native/c5/c56f96ff-adb2-47ff-88bb-4389242b6e63.db698.pvr"
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/2e/2e5e394f-d545-48f5-9f4b-d3db61ea39b5.8e8c0.pvr",
+      "bytes": 10000,
+      "sha256": "53913298e027adef4778e25db971b95ebab4dd253010fa7f36998e362a684d27",
+      "sourcePath": "/asset/remote/gameAsset/native/2e/2e5e394f-d545-48f5-9f4b-d3db61ea39b5.8e8c0.pvr"
+    }
+  ],
+  "skipped": [],
+  "sanitization": {
+    "note": "One bundled SDK secret value redacted; original local backup is gitignored. No gameplay logic changed.",
+    "fields": [
+      {
+        "file": "recovered/packages/401/_subpackages_main_/subpackages/main/game.js",
+        "key": "wxAdSecretKey",
+        "start": 4452349,
+        "end": 4452383,
+        "originalLength": 32
+      }
+    ]
+  }
+}

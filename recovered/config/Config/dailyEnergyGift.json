@@ -1,0 +1,30 @@
+{
+  "9970011": {
+    "rgID": 9970011,
+    "giftBg": "dailyEnergyGift_01",
+    "content": {
+      "98803": 1,
+      "Energy": 100,
+      "Diamond": 20
+    },
+    "price": {
+      "Cash": 1200
+    },
+    "limitNum": 3,
+    "discount": "150%"
+  },
+  "9970012": {
+    "rgID": 9970012,
+    "giftBg": "dailyEnergyGift_01",
+    "content": {
+      "90302": 1,
+      "98803": 1,
+      "Energy": 100
+    },
+    "price": {
+      "Cash": 1200
+    },
+    "limitNum": 3,
+    "discount": "150%"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "eventpass1": {
+    "id": "eventpass1",
+    "beginDialog": 15020,
+    "getPassport1": 15021,
+    "getPassport2": 15022,
+    "firstGetElement": 15023,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass2": {
+    "id": "eventpass2",
+    "beginDialog": 15024,
+    "getPassport1": 15025,
+    "getPassport2": 15026,
+    "firstGetElement": 15027,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass3": {
+    "id": "eventpass3",
+    "beginDialog": 15028,
+    "getPassport1": 15029,
+    "getPassport2": 15030,
+    "firstGetElement": 15031,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass4": {
+    "id": "eventpass4",
+    "beginDialog": 15032,
+    "getPassport1": 15034,
+    "getPassport2": 15033,
+    "firstGetElement": 15035,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass5": {
+    "id": "eventpass5",
+    "beginDialog": 15036,
+    "getPassport1": 15037,
+    "getPassport2": 15038,
+    "firstGetElement": 15040,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "501:15039"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass6": {
+    "id": "eventpass6",
+    "beginDialog": 15041,
+    "getPassport1": 15042,
+    "getPassport2": 15043,
+    "firstGetElement": 15044,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass7": {
+    "id": "eventpass7",
+    "beginDialog": 15045,
+    "getPassport1": 15046,
+    "getPassport2": 15047,
+    "firstGetElement": 15048,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass8": {
+    "id": "eventpass8",
+    "beginDialog": 15049,
+    "getPassport1": 15050,
+    "getPassport2": 15051,
+    "firstGetElement": 15053,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "801:15052"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass9": {
+    "id": "eventpass9",
+    "beginDialog": 15054,
+    "getPassport1": 15055,
+    "getPassport2": 15056,
+    "firstGetElement": 15057,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass10": {
+    "id": "eventpass10",
+    "beginDialog": 15058,
+    "getPassport1": 15059,
+    "getPassport2": 15060,
+    "firstGetElement": 15061,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass11": {
+    "id": "eventpass11",
+    "beginDialog": 15062,
+    "getPassport1": 15063,
+    "getPassport2": 15064,
+    "firstGetElement": 15066,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "1101:15065"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass12": {
+    "id": "eventpass12",
+    "beginDialog": 15067,
+    "getPassport1": 15068,
+    "getPassport2": 15069,
+    "firstGetElement": 15070,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass13": {
+    "id": "eventpass13",
+    "beginDialog": 15071,
+    "getPassport1": 15072,
+    "getPassport2": 15073,
+    "firstGetElement": 15075,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "1301:15074"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass14": {
+    "id": "eventpass14",
+    "beginDialog": 15076,
+    "getPassport1": 15077,
+    "getPassport2": 15078,
+    "firstGetElement": 15079,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass15": {
+    "id": "eventpass15",
+    "beginDialog": 15080,
+    "getPassport1": 15081,
+    "getPassport2": 15082,
+    "firstGetElement": 15084,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "1501:15083"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass16": {
+    "id": "eventpass16",
+    "beginDialog": 15085,
+    "getPassport1": 15086,
+    "getPassport2": 15087,
+    "firstGetElement": 15088,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass17": {
+    "id": "eventpass17",
+    "beginDialog": 15089,
+    "getPassport1": 15090,
+    "getPassport2": 15091,
+    "firstGetElement": 15092,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "1701:15093"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass18": {
+    "id": "eventpass18",
+    "beginDialog": 15094,
+    "getPassport1": 15095,
+    "getPassport2": 15096,
+    "firstGetElement": 15097,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass19": {
+    "id": "eventpass19",
+    "beginDialog": 15098,
+    "getPassport1": 15099,
+    "getPassport2": 15100,
+    "firstGetElement": 15105,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass20": {
+    "id": "eventpass20",
+    "beginDialog": 15106,
+    "getPassport1": 15107,
+    "getPassport2": 15108,
+    "firstGetElement": 15109,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "2001:15110"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass21": {
+    "id": "eventpass21",
+    "beginDialog": 15115,
+    "getPassport1": 15116,
+    "getPassport2": 15117,
+    "firstGetElement": 15118,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass22": {
+    "id": "eventpass22",
+    "beginDialog": 15119,
+    "getPassport1": 15120,
+    "getPassport2": 15121,
+    "firstGetElement": 15122,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass23": {
+    "id": "eventpass23",
+    "beginDialog": 15123,
+    "getPassport1": 15124,
+    "getPassport2": 15125,
+    "firstGetElement": 15126,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass24": {
+    "id": "eventpass24",
+    "beginDialog": 15127,
+    "getPassport1": 15128,
+    "getPassport2": 15129,
+    "firstGetElement": 15130,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "2401:15131"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass25": {
+    "id": "eventpass25",
+    "beginDialog": 15132,
+    "getPassport1": 15133,
+    "getPassport2": 15134,
+    "firstGetElement": 15135,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass26": {
+    "id": "eventpass26",
+    "beginDialog": 15136,
+    "getPassport1": 15137,
+    "getPassport2": 15138,
+    "firstGetElement": 15139,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass27": {
+    "id": "eventpass27",
+    "beginDialog": 15140,
+    "getPassport1": 15141,
+    "getPassport2": 15142,
+    "firstGetElement": 15143,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass28": {
+    "id": "eventpass28",
+    "beginDialog": 15144,
+    "getPassport1": 15145,
+    "getPassport2": 15146,
+    "firstGetElement": 15147,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "2801:15148"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass29": {
+    "id": "eventpass29",
+    "beginDialog": 15149,
+    "getPassport1": 15150,
+    "getPassport2": 15151,
+    "firstGetElement": 15152,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass30": {
+    "id": "eventpass30",
+    "beginDialog": 15153,
+    "getPassport1": 15154,
+    "getPassport2": 15155,
+    "firstGetElement": 15156,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass31": {
+    "id": "eventpass31",
+    "beginDialog": 15157,
+    "getPassport1": 15158,
+    "getPassport2": 15159,
+    "firstGetElement": 15160,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  },
+  "eventpass32": {
+    "id": "eventpass32",
+    "beginDialog": 15161,
+    "getPassport1": 15162,
+    "getPassport2": 15163,
+    "firstGetElement": 15164,
+    "firstGetReward1": [],
+    "firstGetReward2": [
+      "3201:15165"
+    ],
+    "firstGetReward3": []
+  },
+  "eventpass33": {
+    "id": "eventpass33",
+    "beginDialog": 15166,
+    "getPassport1": 15167,
+    "getPassport2": 15168,
+    "firstGetElement": 15169,
+    "firstGetReward1": [],
+    "firstGetReward2": [],
+    "firstGetReward3": []
+  }
+}

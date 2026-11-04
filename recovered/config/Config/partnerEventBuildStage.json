@@ -1,0 +1,139 @@
+{
+  "p1": {
+    "101": {
+      "id": 101,
+      "needScore": 1500,
+      "reward": {
+        "partnerPoint": 20
+      },
+      "firstStage": 1,
+      "buildIndex": 0
+    },
+    "102": {
+      "id": 102,
+      "needScore": 2100,
+      "reward": {
+        "partnerPoint": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 0
+    },
+    "103": {
+      "id": 103,
+      "needScore": 2400,
+      "reward": {
+        "Energy": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 0
+    },
+    "104": {
+      "id": 104,
+      "needScore": 3000,
+      "reward": {
+        "partnerPoint": 100
+      },
+      "firstStage": 0,
+      "buildIndex": 0
+    },
+    "105": {
+      "id": 105,
+      "needScore": 3000,
+      "reward": {
+        "Film5": 1
+      },
+      "firstStage": 0,
+      "buildIndex": 0
+    },
+    "201": {
+      "id": 201,
+      "needScore": 1500,
+      "reward": {
+        "partnerPoint": 20
+      },
+      "firstStage": 1,
+      "buildIndex": 1
+    },
+    "202": {
+      "id": 202,
+      "needScore": 2100,
+      "reward": {
+        "partnerPoint": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 1
+    },
+    "203": {
+      "id": 203,
+      "needScore": 2400,
+      "reward": {
+        "Energy": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 1
+    },
+    "204": {
+      "id": 204,
+      "needScore": 3000,
+      "reward": {
+        "partnerPoint": 100
+      },
+      "firstStage": 0,
+      "buildIndex": 1
+    },
+    "205": {
+      "id": 205,
+      "needScore": 3000,
+      "reward": {
+        "Film5": 1
+      },
+      "firstStage": 0,
+      "buildIndex": 1
+    },
+    "301": {
+      "id": 301,
+      "needScore": 1500,
+      "reward": {
+        "partnerPoint": 20
+      },
+      "firstStage": 1,
+      "buildIndex": 2
+    },
+    "302": {
+      "id": 302,
+      "needScore": 2100,
+      "reward": {
+        "partnerPoint": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 2
+    },
+    "303": {
+      "id": 303,
+      "needScore": 2400,
+      "reward": {
+        "Energy": 50
+      },
+      "firstStage": 0,
+      "buildIndex": 2
+    },
+    "304": {
+      "id": 304,
+      "needScore": 3000,
+      "reward": {
+        "partnerPoint": 100
+      },
+      "firstStage": 0,
+      "buildIndex": 2
+    },
+    "305": {
+      "id": 305,
+      "needScore": 3000,
+      "reward": {
+        "Film5": 1
+      },
+      "firstStage": 0,
+      "buildIndex": 2
+    }
+  }
+}

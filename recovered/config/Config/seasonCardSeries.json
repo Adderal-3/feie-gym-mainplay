@@ -1,0 +1,2039 @@
+{
+  "s3": {
+    "101": {
+      "id": 101,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "102": {
+      "id": 102,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "103": {
+      "id": 103,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "104": {
+      "id": 104,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "105": {
+      "id": 105,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "106": {
+      "id": 106,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "107": {
+      "id": 107,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "108": {
+      "id": 108,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "109": {
+      "id": 109,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "110": {
+      "id": 110,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "111": {
+      "id": 111,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "112": {
+      "id": 112,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s2": {
+    "201": {
+      "id": 201,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 40
+      }
+    },
+    "202": {
+      "id": 202,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 40,
+        "Coin": 50
+      }
+    },
+    "203": {
+      "id": 203,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 10
+      }
+    },
+    "204": {
+      "id": 204,
+      "seriesRes": "4",
+      "reward": {
+        "98801": 1,
+        "Energy": 60
+      }
+    },
+    "205": {
+      "id": 205,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 300
+      }
+    },
+    "206": {
+      "id": 206,
+      "seriesRes": "6",
+      "reward": {
+        "98801": 1,
+        "Energy": 80
+      }
+    },
+    "207": {
+      "id": 207,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 500
+      }
+    },
+    "208": {
+      "id": 208,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 100,
+        "Diamond": 25
+      }
+    },
+    "209": {
+      "id": 209,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "210": {
+      "id": 210,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "211": {
+      "id": 211,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 120
+      }
+    },
+    "212": {
+      "id": 212,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 160,
+        "Diamond": 80
+      }
+    }
+  },
+  "s4": {
+    "301": {
+      "id": 301,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "302": {
+      "id": 302,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "303": {
+      "id": 303,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "304": {
+      "id": 304,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "305": {
+      "id": 305,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "306": {
+      "id": 306,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "307": {
+      "id": 307,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "308": {
+      "id": 308,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "309": {
+      "id": 309,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "310": {
+      "id": 310,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "311": {
+      "id": 311,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "312": {
+      "id": 312,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s5": {
+    "401": {
+      "id": 401,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "402": {
+      "id": 402,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "403": {
+      "id": 403,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "404": {
+      "id": 404,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "405": {
+      "id": 405,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "406": {
+      "id": 406,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "407": {
+      "id": 407,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "408": {
+      "id": 408,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "409": {
+      "id": 409,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "410": {
+      "id": 410,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "411": {
+      "id": 411,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "412": {
+      "id": 412,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s6": {
+    "501": {
+      "id": 501,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "502": {
+      "id": 502,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "503": {
+      "id": 503,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "504": {
+      "id": 504,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "505": {
+      "id": 505,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "506": {
+      "id": 506,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "507": {
+      "id": 507,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "508": {
+      "id": 508,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "509": {
+      "id": 509,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "510": {
+      "id": 510,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "511": {
+      "id": 511,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "512": {
+      "id": 512,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s7": {
+    "601": {
+      "id": 601,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "602": {
+      "id": 602,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "603": {
+      "id": 603,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "604": {
+      "id": 604,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "605": {
+      "id": 605,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "606": {
+      "id": 606,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "607": {
+      "id": 607,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "608": {
+      "id": 608,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "609": {
+      "id": 609,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "610": {
+      "id": 610,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "611": {
+      "id": 611,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "612": {
+      "id": 612,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s8": {
+    "701": {
+      "id": 701,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "702": {
+      "id": 702,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "703": {
+      "id": 703,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "704": {
+      "id": 704,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "705": {
+      "id": 705,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "706": {
+      "id": 706,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "707": {
+      "id": 707,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "708": {
+      "id": 708,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "709": {
+      "id": 709,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "710": {
+      "id": 710,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "711": {
+      "id": 711,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "712": {
+      "id": 712,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s9": {
+    "801": {
+      "id": 801,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "802": {
+      "id": 802,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "803": {
+      "id": 803,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "804": {
+      "id": 804,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "805": {
+      "id": 805,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "806": {
+      "id": 806,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "807": {
+      "id": 807,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "808": {
+      "id": 808,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "809": {
+      "id": 809,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "810": {
+      "id": 810,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "811": {
+      "id": 811,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "812": {
+      "id": 812,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s10": {
+    "901": {
+      "id": 901,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "902": {
+      "id": 902,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "903": {
+      "id": 903,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "904": {
+      "id": 904,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "905": {
+      "id": 905,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "906": {
+      "id": 906,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "907": {
+      "id": 907,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "908": {
+      "id": 908,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "909": {
+      "id": 909,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "910": {
+      "id": 910,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "911": {
+      "id": 911,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "912": {
+      "id": 912,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s11": {
+    "1001": {
+      "id": 1001,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1002": {
+      "id": 1002,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1003": {
+      "id": 1003,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "1004": {
+      "id": 1004,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1005": {
+      "id": 1005,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1006": {
+      "id": 1006,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1007": {
+      "id": 1007,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1008": {
+      "id": 1008,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "1009": {
+      "id": 1009,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1010": {
+      "id": 1010,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "1011": {
+      "id": 1011,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1012": {
+      "id": 1012,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s12": {
+    "1101": {
+      "id": 1101,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1102": {
+      "id": 1102,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1103": {
+      "id": 1103,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "1104": {
+      "id": 1104,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1105": {
+      "id": 1105,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1106": {
+      "id": 1106,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1107": {
+      "id": 1107,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1108": {
+      "id": 1108,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "1109": {
+      "id": 1109,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1110": {
+      "id": 1110,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "1111": {
+      "id": 1111,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1112": {
+      "id": 1112,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s13": {
+    "1201": {
+      "id": 1201,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1202": {
+      "id": 1202,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1203": {
+      "id": 1203,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Diamond": 5
+      }
+    },
+    "1204": {
+      "id": 1204,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1205": {
+      "id": 1205,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1206": {
+      "id": 1206,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1207": {
+      "id": 1207,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1208": {
+      "id": 1208,
+      "seriesRes": "8",
+      "reward": {
+        "Energy": 80,
+        "Diamond": 30
+      }
+    },
+    "1209": {
+      "id": 1209,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1210": {
+      "id": 1210,
+      "seriesRes": "10",
+      "reward": {
+        "Energy": 120,
+        "Diamond": 50
+      }
+    },
+    "1211": {
+      "id": 1211,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1212": {
+      "id": 1212,
+      "seriesRes": "12",
+      "reward": {
+        "Energy": 200,
+        "Diamond": 80
+      }
+    }
+  },
+  "s14": {
+    "1301": {
+      "id": 1301,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1302": {
+      "id": 1302,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1303": {
+      "id": 1303,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1304": {
+      "id": 1304,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1305": {
+      "id": 1305,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1306": {
+      "id": 1306,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1307": {
+      "id": 1307,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1308": {
+      "id": 1308,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1309": {
+      "id": 1309,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1310": {
+      "id": 1310,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1311": {
+      "id": 1311,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1312": {
+      "id": 1312,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s15": {
+    "1401": {
+      "id": 1401,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1402": {
+      "id": 1402,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1403": {
+      "id": 1403,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1404": {
+      "id": 1404,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1405": {
+      "id": 1405,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1406": {
+      "id": 1406,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1407": {
+      "id": 1407,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1408": {
+      "id": 1408,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1409": {
+      "id": 1409,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1410": {
+      "id": 1410,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1411": {
+      "id": 1411,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1412": {
+      "id": 1412,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s16": {
+    "1501": {
+      "id": 1501,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1502": {
+      "id": 1502,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1503": {
+      "id": 1503,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1504": {
+      "id": 1504,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1505": {
+      "id": 1505,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1506": {
+      "id": 1506,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1507": {
+      "id": 1507,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1508": {
+      "id": 1508,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1509": {
+      "id": 1509,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1510": {
+      "id": 1510,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1511": {
+      "id": 1511,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1512": {
+      "id": 1512,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s17": {
+    "1601": {
+      "id": 1601,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1602": {
+      "id": 1602,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1603": {
+      "id": 1603,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1604": {
+      "id": 1604,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1605": {
+      "id": 1605,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1606": {
+      "id": 1606,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1607": {
+      "id": 1607,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1608": {
+      "id": 1608,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1609": {
+      "id": 1609,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1610": {
+      "id": 1610,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1611": {
+      "id": 1611,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1612": {
+      "id": 1612,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s18": {
+    "1701": {
+      "id": 1701,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1702": {
+      "id": 1702,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1703": {
+      "id": 1703,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1704": {
+      "id": 1704,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1705": {
+      "id": 1705,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1706": {
+      "id": 1706,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1707": {
+      "id": 1707,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1708": {
+      "id": 1708,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1709": {
+      "id": 1709,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1710": {
+      "id": 1710,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1711": {
+      "id": 1711,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1712": {
+      "id": 1712,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s19": {
+    "1801": {
+      "id": 1801,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1802": {
+      "id": 1802,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1803": {
+      "id": 1803,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1804": {
+      "id": 1804,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1805": {
+      "id": 1805,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1806": {
+      "id": 1806,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1807": {
+      "id": 1807,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1808": {
+      "id": 1808,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1809": {
+      "id": 1809,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1810": {
+      "id": 1810,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1811": {
+      "id": 1811,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1812": {
+      "id": 1812,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s20": {
+    "1901": {
+      "id": 1901,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "1902": {
+      "id": 1902,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "1903": {
+      "id": 1903,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "1904": {
+      "id": 1904,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "1905": {
+      "id": 1905,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "1906": {
+      "id": 1906,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "1907": {
+      "id": 1907,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "1908": {
+      "id": 1908,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "1909": {
+      "id": 1909,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "1910": {
+      "id": 1910,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "1911": {
+      "id": 1911,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "1912": {
+      "id": 1912,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s21": {
+    "2001": {
+      "id": 2001,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "2002": {
+      "id": 2002,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "2003": {
+      "id": 2003,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "2004": {
+      "id": 2004,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "2005": {
+      "id": 2005,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "2006": {
+      "id": 2006,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "2007": {
+      "id": 2007,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "2008": {
+      "id": 2008,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "2009": {
+      "id": 2009,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "2010": {
+      "id": 2010,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "2011": {
+      "id": 2011,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "2012": {
+      "id": 2012,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  },
+  "s22": {
+    "2101": {
+      "id": 2101,
+      "seriesRes": "1",
+      "reward": {
+        "Energy": 30
+      }
+    },
+    "2102": {
+      "id": 2102,
+      "seriesRes": "2",
+      "reward": {
+        "Energy": 30,
+        "Coin": 50
+      }
+    },
+    "2103": {
+      "id": 2103,
+      "seriesRes": "3",
+      "reward": {
+        "Energy": 40,
+        "Coin": 100
+      }
+    },
+    "2104": {
+      "id": 2104,
+      "seriesRes": "4",
+      "reward": {
+        "98802": 1,
+        "Energy": 40
+      }
+    },
+    "2105": {
+      "id": 2105,
+      "seriesRes": "5",
+      "reward": {
+        "Energy": 60,
+        "Coin": 200
+      }
+    },
+    "2106": {
+      "id": 2106,
+      "seriesRes": "6",
+      "reward": {
+        "98810": 1,
+        "Energy": 60
+      }
+    },
+    "2107": {
+      "id": 2107,
+      "seriesRes": "7",
+      "reward": {
+        "Energy": 80,
+        "Coin": 600
+      }
+    },
+    "2108": {
+      "id": 2108,
+      "seriesRes": "8",
+      "reward": {
+        "9820001": 1,
+        "Energy": 80
+      }
+    },
+    "2109": {
+      "id": 2109,
+      "seriesRes": "9",
+      "reward": {
+        "98803": 1,
+        "Energy": 100
+      }
+    },
+    "2110": {
+      "id": 2110,
+      "seriesRes": "10",
+      "reward": {
+        "9820002": 1,
+        "Energy": 120
+      }
+    },
+    "2111": {
+      "id": 2111,
+      "seriesRes": "11",
+      "reward": {
+        "98805": 1,
+        "Energy": 160
+      }
+    },
+    "2112": {
+      "id": 2112,
+      "seriesRes": "12",
+      "reward": {
+        "9820003": 1,
+        "Energy": 200
+      }
+    }
+  }
+}

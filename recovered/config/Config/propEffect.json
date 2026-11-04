@@ -1,0 +1,826 @@
+{
+  "101": {
+    "id": 101,
+    "effectType": 1,
+    "effectValue": 30,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "102": {
+    "id": 102,
+    "effectType": 1,
+    "effectValue": 60,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "103": {
+    "id": 103,
+    "effectType": 1,
+    "effectValue": 120,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "104": {
+    "id": 104,
+    "effectType": 1,
+    "effectValue": 300,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "105": {
+    "id": 105,
+    "effectType": 1,
+    "effectValue": 600,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "109": {
+    "id": 109,
+    "effectType": 1,
+    "effectValue": 7200,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "201": {
+    "id": 201,
+    "effectType": 2,
+    "effectValue": 5,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "202": {
+    "id": 202,
+    "effectType": 2,
+    "effectValue": 10,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "203": {
+    "id": 203,
+    "effectType": 2,
+    "effectValue": 20,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "211": {
+    "id": 211,
+    "effectType": 2,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "212": {
+    "id": 212,
+    "effectType": 2,
+    "effectValue": 2,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "213": {
+    "id": 213,
+    "effectType": 2,
+    "effectValue": 3,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "214": {
+    "id": 214,
+    "effectType": 2,
+    "effectValue": 4,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "215": {
+    "id": 215,
+    "effectType": 2,
+    "effectValue": 5,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "216": {
+    "id": 216,
+    "effectType": 2,
+    "effectValue": 6,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "217": {
+    "id": 217,
+    "effectType": 2,
+    "effectValue": 7,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "221": {
+    "id": 221,
+    "effectType": 2,
+    "effectValue": 0,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "301": {
+    "id": 301,
+    "effectType": 3,
+    "effectValue": 2,
+    "effectParams": 4,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "302": {
+    "id": 302,
+    "effectType": 3,
+    "effectValue": 2,
+    "effectParams": 8,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "303": {
+    "id": 303,
+    "effectType": 3,
+    "effectValue": 2,
+    "effectParams": 15,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "304": {
+    "id": 304,
+    "effectType": 3,
+    "effectValue": 2,
+    "effectParams": 15,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "401": {
+    "id": 401,
+    "effectType": 4,
+    "effectValue": 3600,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "402": {
+    "id": 402,
+    "effectType": 4,
+    "effectValue": 7200,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "403": {
+    "id": 403,
+    "effectType": 4,
+    "effectValue": 14400,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "404": {
+    "id": 404,
+    "effectType": 4,
+    "effectValue": 28800,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "405": {
+    "id": 405,
+    "effectType": 4,
+    "effectValue": 57600,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "406": {
+    "id": 406,
+    "effectType": 4,
+    "effectValue": 1200,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "407": {
+    "id": 407,
+    "effectType": 4,
+    "effectValue": 2400,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "501": {
+    "id": 501,
+    "effectType": 5,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "605": {
+    "id": 605,
+    "effectType": 6,
+    "effectValue": 7200,
+    "effectParams": 100,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "606": {
+    "id": 606,
+    "effectType": 6,
+    "effectValue": 14400,
+    "effectParams": 100,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "607": {
+    "id": 607,
+    "effectType": 6,
+    "effectValue": 28800,
+    "effectParams": 100,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "608": {
+    "id": 608,
+    "effectType": 6,
+    "effectValue": 57600,
+    "effectParams": 100,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "701": {
+    "id": 701,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "702": {
+    "id": 702,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "703": {
+    "id": 703,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "704": {
+    "id": 704,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "705": {
+    "id": 705,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "706": {
+    "id": 706,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "707": {
+    "id": 707,
+    "effectType": 7,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 1
+  },
+  "801": {
+    "id": 801,
+    "effectType": 8,
+    "effectValue": 1800,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "802": {
+    "id": 802,
+    "effectType": 8,
+    "effectValue": 900,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "803": {
+    "id": 803,
+    "effectType": 8,
+    "effectValue": 3600,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "804": {
+    "id": 804,
+    "effectType": 8,
+    "effectValue": 5400,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "805": {
+    "id": 805,
+    "effectType": 8,
+    "effectValue": 7200,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "806": {
+    "id": 806,
+    "effectType": 8,
+    "effectValue": 86400,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "807": {
+    "id": 807,
+    "effectType": 8,
+    "effectValue": 10800,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "808": {
+    "id": 808,
+    "effectType": 8,
+    "effectValue": 420,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "809": {
+    "id": 809,
+    "effectType": 8,
+    "effectValue": 14400,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "810": {
+    "id": 810,
+    "effectType": 8,
+    "effectValue": 2700,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "811": {
+    "id": 811,
+    "effectType": 8,
+    "effectValue": 18000,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "812": {
+    "id": 812,
+    "effectType": 8,
+    "effectValue": 28800,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "813": {
+    "id": 813,
+    "effectType": 8,
+    "effectValue": 25200,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "814": {
+    "id": 814,
+    "effectType": 8,
+    "effectValue": 21600,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "815": {
+    "id": 815,
+    "effectType": 8,
+    "effectValue": 60,
+    "effectParams": 0,
+    "maxStack": 432000,
+    "getBubble": 0
+  },
+  "901": {
+    "id": 901,
+    "effectType": 9,
+    "effectValue": 1,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1001": {
+    "id": 1001,
+    "effectType": 10,
+    "effectValue": 0,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1101": {
+    "id": 1101,
+    "effectType": 11,
+    "effectValue": 600,
+    "effectParams": 300,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1201": {
+    "id": 1201,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 33,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1202": {
+    "id": 1202,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 34,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1203": {
+    "id": 1203,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 46,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1204": {
+    "id": 1204,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 47,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1205": {
+    "id": 1205,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 56,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1206": {
+    "id": 1206,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 57,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1207": {
+    "id": 1207,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 61,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1208": {
+    "id": 1208,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 62,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1209": {
+    "id": 1209,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 69,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1210": {
+    "id": 1210,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 70,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1211": {
+    "id": 1211,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 72,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1212": {
+    "id": 1212,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 73,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1213": {
+    "id": 1213,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 79,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1214": {
+    "id": 1214,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 80,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1215": {
+    "id": 1215,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 83,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1216": {
+    "id": 1216,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 84,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1217": {
+    "id": 1217,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 92,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1218": {
+    "id": 1218,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 93,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1219": {
+    "id": 1219,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 103,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1220": {
+    "id": 1220,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 104,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1221": {
+    "id": 1221,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 107,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1222": {
+    "id": 1222,
+    "effectType": 12,
+    "effectValue": 0,
+    "effectParams": 108,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1301": {
+    "id": 1301,
+    "effectType": 13,
+    "effectValue": 0,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1401": {
+    "id": 1401,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 1,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1402": {
+    "id": 1402,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 2,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1403": {
+    "id": 1403,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 3,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1404": {
+    "id": 1404,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 4,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1405": {
+    "id": 1405,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 5,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1406": {
+    "id": 1406,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 6,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1407": {
+    "id": 1407,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 7,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1408": {
+    "id": 1408,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 8,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1409": {
+    "id": 1409,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 9,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1410": {
+    "id": 1410,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 10,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1411": {
+    "id": 1411,
+    "effectType": 14,
+    "effectValue": 0,
+    "effectParams": 11,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1501": {
+    "id": 1501,
+    "effectType": 15,
+    "effectValue": 0,
+    "effectParams": 3,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1502": {
+    "id": 1502,
+    "effectType": 15,
+    "effectValue": 0,
+    "effectParams": 3,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1601": {
+    "id": 1601,
+    "effectType": 16,
+    "effectValue": 2,
+    "effectParams": 2,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1701": {
+    "id": 1701,
+    "effectType": 17,
+    "effectValue": 25,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1702": {
+    "id": 1702,
+    "effectType": 17,
+    "effectValue": 50,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1703": {
+    "id": 1703,
+    "effectType": 17,
+    "effectValue": 100,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1801": {
+    "id": 1801,
+    "effectType": 18,
+    "effectValue": 0,
+    "effectParams": 0,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "1901": {
+    "id": 1901,
+    "effectType": 19,
+    "effectValue": 0,
+    "effectParams": 0,
+    "maxStack": 20,
+    "getBubble": 0
+  },
+  "2001": {
+    "id": 2001,
+    "effectType": 20,
+    "effectValue": 0,
+    "effectParams": 2001,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "2002": {
+    "id": 2002,
+    "effectType": 20,
+    "effectValue": 0,
+    "effectParams": 2002,
+    "maxStack": 0,
+    "getBubble": 0
+  },
+  "2003": {
+    "id": 2003,
+    "effectType": 20,
+    "effectValue": 0,
+    "effectParams": 2003,
+    "maxStack": 0,
+    "getBubble": 0
+  }
+}

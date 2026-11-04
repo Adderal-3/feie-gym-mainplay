@@ -1,0 +1,72 @@
+{
+  "1": {
+    "id": 1,
+    "type": "SGTemporary",
+    "belong": "screw",
+    "adCount": 2,
+    "price": {
+      "Diamond": 4
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "priceLimite": 34
+  },
+  "2": {
+    "id": 2,
+    "type": "SGShuffle",
+    "belong": "screw",
+    "adCount": 2,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "priceLimite": 25
+  },
+  "3": {
+    "id": 3,
+    "type": "SGSweep",
+    "belong": "screw",
+    "adCount": 1,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 10,
+    "Cof": 0,
+    "priceLimite": 40
+  },
+  "4": {
+    "id": 4,
+    "type": "SGBox",
+    "belong": "screw",
+    "adCount": 0,
+    "price": {
+      "Diamond": 20
+    },
+    "addCount": 15,
+    "Cof": 0,
+    "priceLimite": 50
+  },
+  "5": {
+    "id": 5,
+    "type": "DiamondRelive",
+    "belong": "screw",
+    "adCount": 0,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 0,
+    "Cof": 2,
+    "priceLimite": 80
+  },
+  "6": {
+    "id": 6,
+    "type": "SGRelive",
+    "belong": "screw",
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "priceLimite": 0
+  }
+}

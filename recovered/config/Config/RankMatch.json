@@ -1,0 +1,35 @@
+{
+  "s1": {
+    "id": "s1",
+    "beginDialog": 18282,
+    "beginDialog2": 18283,
+    "beginDialog3": 18286,
+    "expireDay": 7,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "starEqualSmile": 2,
+    "endTime": 48,
+    "recoveryElementSeries": [
+      "RankMatch_1",
+      "RankMatch_2"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "s2": {
+    "id": "s2",
+    "beginDialog": 18282,
+    "beginDialog2": 18283,
+    "beginDialog3": 18290,
+    "expireDay": 7,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "starEqualSmile": 2,
+    "endTime": 48,
+    "recoveryElementSeries": [
+      "RankMatch_3",
+      "RankMatch_4",
+      "RankMatch_5"
+    ],
+    "recycleChangeTo": 99101
+  }
+}

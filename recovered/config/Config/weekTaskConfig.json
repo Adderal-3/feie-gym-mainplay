@@ -1,0 +1,13 @@
+{
+  "t1": {
+    "id": "t1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "beginDialog": 7031,
+    "maild": "99102",
+    "expireDay": 2,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

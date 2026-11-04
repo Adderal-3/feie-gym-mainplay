@@ -1,0 +1,7 @@
+{
+  "switchCooldownSec": 1,
+  "duplicateConvert": 10,
+  "maxConvert": {
+    "Energy": 50
+  }
+}

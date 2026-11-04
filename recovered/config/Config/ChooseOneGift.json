@@ -1,0 +1,149 @@
+{
+  "9940011": {
+    "rgID": 9940011,
+    "groupId": 994001,
+    "price": {
+      "Cash": 800
+    },
+    "content": {
+      "Diamond": 50,
+      "Energy": 50,
+      "Coin": 200
+    }
+  },
+  "9940012": {
+    "rgID": 9940012,
+    "groupId": 994001,
+    "price": {
+      "Cash": 1800
+    },
+    "content": {
+      "98803": 1,
+      "Diamond": 120,
+      "Energy": 120
+    }
+  },
+  "9940013": {
+    "rgID": 9940013,
+    "groupId": 994001,
+    "price": {
+      "Cash": 3000
+    },
+    "content": {
+      "98805": 1,
+      "Diamond": 200,
+      "Energy": 240,
+      "Coin": 800
+    }
+  },
+  "9940021": {
+    "rgID": 9940021,
+    "groupId": 994002,
+    "price": {
+      "Cash": 800
+    },
+    "content": {
+      "monopolyDice": 20,
+      "Energy": 30
+    }
+  },
+  "9940022": {
+    "rgID": 9940022,
+    "groupId": 994002,
+    "price": {
+      "Cash": 1800
+    },
+    "content": {
+      "98803": 1,
+      "monopolyDice": 60,
+      "Energy": 80
+    }
+  },
+  "9940023": {
+    "rgID": 9940023,
+    "groupId": 994002,
+    "price": {
+      "Cash": 3000
+    },
+    "content": {
+      "98805": 1,
+      "monopolyDice": 120,
+      "Energy": 160,
+      "Coin": 800
+    }
+  },
+  "9940031": {
+    "rgID": 9940031,
+    "groupId": 994003,
+    "price": {
+      "Cash": 800
+    },
+    "content": {
+      "Diamond": 50,
+      "Energy": 50,
+      "Coin": 200
+    }
+  },
+  "9940032": {
+    "rgID": 9940032,
+    "groupId": 994003,
+    "price": {
+      "Cash": 1800
+    },
+    "content": {
+      "98801": 1,
+      "Diamond": 100,
+      "Energy": 160,
+      "Coin": 300
+    }
+  },
+  "9940033": {
+    "rgID": 9940033,
+    "groupId": 994003,
+    "price": {
+      "Cash": 3000
+    },
+    "content": {
+      "98804": 1,
+      "Diamond": 180,
+      "Energy": 230,
+      "Coin": 400
+    }
+  },
+  "9940041": {
+    "rgID": 9940041,
+    "groupId": 994004,
+    "price": {
+      "Cash": 800
+    },
+    "content": {
+      "Diamond": 20,
+      "Energy": 110
+    }
+  },
+  "9940042": {
+    "rgID": 9940042,
+    "groupId": 994004,
+    "price": {
+      "Cash": 1800
+    },
+    "content": {
+      "Diamond": 45,
+      "Energy": 250,
+      "Film1": 1
+    }
+  },
+  "9940043": {
+    "rgID": 9940043,
+    "groupId": 994004,
+    "price": {
+      "Cash": 3000
+    },
+    "content": {
+      "Diamond": 80,
+      "Energy": 420,
+      "Film6": 1,
+      "Film1": 1
+    }
+  }
+}

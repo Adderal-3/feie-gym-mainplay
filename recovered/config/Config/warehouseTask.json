@@ -1,0 +1,1366 @@
+{
+  "warehouse1": {
+    "101": {
+      "id": 101,
+      "nextTaskId": 102,
+      "costPoint": [
+        40,
+        60,
+        70,
+        110,
+        80,
+        130,
+        40,
+        230
+      ],
+      "stageNum": [
+        7
+      ],
+      "stageReward": [
+        {
+          "Star": 2,
+          "Film2": 1,
+          "Coin": 100
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "1": "Diamond_5",
+        "5": "Coin_50",
+        "6": "450301_1"
+      },
+      "image": "Photo_01",
+      "areaIcon": "area_icon_01"
+    },
+    "102": {
+      "id": 102,
+      "nextTaskId": 103,
+      "costPoint": [
+        70,
+        90,
+        80,
+        130,
+        60,
+        100,
+        90,
+        140,
+        100,
+        270
+      ],
+      "stageNum": [
+        9
+      ],
+      "stageReward": [
+        {
+          "Star": 3,
+          "Film3": 1,
+          "Energy": 25
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "0": "Coin_100",
+        "2": "9201_1",
+        "3": "Energy_5",
+        "5": "Diamond_1",
+        "7": "450601_1",
+        "8": "Diamond_1"
+      },
+      "image": "Photo_02",
+      "areaIcon": "area_icon_02"
+    },
+    "103": {
+      "id": 103,
+      "nextTaskId": 104,
+      "costPoint": [
+        70,
+        110,
+        90,
+        150,
+        60,
+        110,
+        80,
+        220,
+        90,
+        160,
+        130,
+        360
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 5,
+          "Film3": 2,
+          "Diamond": 20
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 2,
+      "hiddenReward": {
+        "1": "1001_1",
+        "3": "98802_1",
+        "5": "451001_1",
+        "7": "Diamond_3",
+        "9": "7403_1"
+      },
+      "image": "Photo_03",
+      "areaIcon": "area_icon_03"
+    },
+    "104": {
+      "id": 104,
+      "nextTaskId": 105,
+      "costPoint": [
+        70,
+        150,
+        90,
+        200,
+        80,
+        130,
+        110,
+        280,
+        90,
+        210,
+        140,
+        460
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 8,
+          "Film4": 1,
+          "Energy": 40
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "0": "451401_1",
+        "3": "9104_1",
+        "7": "5001_1",
+        "9": "Energy_30"
+      },
+      "image": "Photo_04",
+      "areaIcon": "area_icon_04"
+    },
+    "105": {
+      "id": 105,
+      "nextTaskId": 106,
+      "costPoint": [
+        80,
+        160,
+        110,
+        220,
+        200,
+        160,
+        130,
+        300,
+        200,
+        210,
+        160,
+        280,
+        550
+      ],
+      "stageNum": [
+        12
+      ],
+      "stageReward": [
+        {
+          "90501": 1,
+          "Star": 10,
+          "Film4": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "5201_1",
+        "7": "Diamond_5",
+        "9": "1203_1",
+        "11": "98801_1"
+      },
+      "image": "Photo_05",
+      "areaIcon": "area_icon_05"
+    },
+    "106": {
+      "id": 106,
+      "nextTaskId": 107,
+      "costPoint": [
+        90,
+        180,
+        130,
+        240,
+        80,
+        180,
+        230,
+        320,
+        200,
+        210,
+        230,
+        180,
+        360,
+        630
+      ],
+      "stageNum": [
+        13
+      ],
+      "stageReward": [
+        {
+          "90601": 1,
+          "Star": 15,
+          "Film13": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "3": "5401_1",
+        "6": "98801_1",
+        "7": "Coin_200",
+        "9": "Diamond_5",
+        "12": "9101_1"
+      },
+      "image": "Photo_06",
+      "areaIcon": "area_icon_12"
+    },
+    "107": {
+      "id": 107,
+      "nextTaskId": 0,
+      "costPoint": [
+        70,
+        170,
+        160,
+        200,
+        270,
+        140,
+        220,
+        360,
+        180,
+        420,
+        130,
+        280,
+        240,
+        320,
+        730
+      ],
+      "stageNum": [
+        14
+      ],
+      "stageReward": [
+        {
+          "Star": 20,
+          "Film5": 1,
+          "Diamond": 300
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "4": "98801_1",
+        "7": "7101_1",
+        "9": "Diamond_10",
+        "11": "5201_1",
+        "13": "Energy_20"
+      },
+      "image": "Photo_07",
+      "areaIcon": "area_icon_07"
+    }
+  },
+  "warehouse2": {
+    "201": {
+      "id": 201,
+      "nextTaskId": 202,
+      "costPoint": [
+        40,
+        60,
+        80,
+        120,
+        80,
+        140,
+        41,
+        240
+      ],
+      "stageNum": [
+        7
+      ],
+      "stageReward": [
+        {
+          "Star": 10,
+          "Film1": 1,
+          "Coin": 100
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "1": "diamond_5",
+        "3": "1201_1",
+        "5": "Coin_50",
+        "6": "710301_1"
+      },
+      "image": "Photo_01",
+      "areaIcon": "area_icon_01"
+    },
+    "202": {
+      "id": 202,
+      "nextTaskId": 203,
+      "costPoint": [
+        80,
+        100,
+        90,
+        140,
+        72,
+        120,
+        100,
+        160,
+        110,
+        300
+      ],
+      "stageNum": [
+        9
+      ],
+      "stageReward": [
+        {
+          "Star": 15,
+          "Film1": 2,
+          "Energy": 25
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "0": "Coin_200",
+        "2": "9201_1",
+        "3": "Energy_5",
+        "5": "Film1_1",
+        "7": "710601",
+        "8": "98802_1"
+      },
+      "image": "Photo_02",
+      "areaIcon": "area_icon_02"
+    },
+    "203": {
+      "id": 203,
+      "nextTaskId": 204,
+      "costPoint": [
+        80,
+        120,
+        100,
+        160,
+        70,
+        120,
+        90,
+        240,
+        100,
+        180,
+        140,
+        400
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 20,
+          "Film1": 3,
+          "Diamond": 20
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 2,
+      "hiddenReward": {
+        "1": "1001_1",
+        "3": "Film1_1",
+        "5": "711001",
+        "7": "diamond_3",
+        "9": "7403_1"
+      },
+      "image": "Photo_03",
+      "areaIcon": "area_icon_03"
+    },
+    "204": {
+      "id": 204,
+      "nextTaskId": 205,
+      "costPoint": [
+        80,
+        160,
+        100,
+        220,
+        90,
+        140,
+        120,
+        300,
+        100,
+        230,
+        160,
+        500
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 25,
+          "Film2": 2,
+          "Energy": 40
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "9104_1",
+        "7": "5001_1",
+        "9": "Energy_30"
+      },
+      "image": "Photo_04",
+      "areaIcon": "area_icon_04"
+    },
+    "205": {
+      "id": 205,
+      "nextTaskId": 206,
+      "costPoint": [
+        90,
+        180,
+        120,
+        240,
+        200,
+        180,
+        140,
+        320,
+        220,
+        230,
+        180,
+        300,
+        600
+      ],
+      "stageNum": [
+        12
+      ],
+      "stageReward": [
+        {
+          "90501": 1,
+          "Star": 30,
+          "Film2": 3
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "5201_1",
+        "7": "diamond_5",
+        "9": "1203_1",
+        "11": "98801_1"
+      },
+      "image": "Photo_05",
+      "areaIcon": "area_icon_05"
+    },
+    "206": {
+      "id": 206,
+      "nextTaskId": 207,
+      "costPoint": [
+        100,
+        200,
+        140,
+        260,
+        90,
+        200,
+        250,
+        360,
+        220,
+        230,
+        250,
+        200,
+        400,
+        700
+      ],
+      "stageNum": [
+        13
+      ],
+      "stageReward": [
+        {
+          "90601": 1,
+          "Star": 35,
+          "Film3": 2
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "3": "5401_1",
+        "7": "Coin_200",
+        "9": "diamond_3",
+        "12": "9101_1"
+      },
+      "image": "Photo_06",
+      "areaIcon": "area_icon_12"
+    },
+    "207": {
+      "id": 207,
+      "nextTaskId": 0,
+      "costPoint": [
+        80,
+        190,
+        180,
+        220,
+        300,
+        160,
+        240,
+        400,
+        200,
+        460,
+        140,
+        300,
+        280,
+        350,
+        800
+      ],
+      "stageNum": [
+        14
+      ],
+      "stageReward": [
+        {
+          "Star": 40,
+          "Film4": 1,
+          "Diamond": 100
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "4": "98801_1",
+        "7": "7101_1",
+        "9": "diamond_10",
+        "11": "5201_1",
+        "13": "Energy_20"
+      },
+      "image": "Photo_07",
+      "areaIcon": "area_icon_07"
+    }
+  },
+  "warehouse3": {
+    "301": {
+      "id": 301,
+      "nextTaskId": 302,
+      "costPoint": [
+        40,
+        60,
+        80,
+        120,
+        80,
+        140,
+        40,
+        240
+      ],
+      "stageNum": [
+        7
+      ],
+      "stageReward": [
+        {
+          "Star": 10,
+          "Film1": 1,
+          "Coin": 100
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "1": "Diamond_5",
+        "5": "Coin_50",
+        "6": "711541_1"
+      },
+      "image": "Photo_01",
+      "areaIcon": "area_icon_01"
+    },
+    "302": {
+      "id": 302,
+      "nextTaskId": 303,
+      "costPoint": [
+        80,
+        100,
+        90,
+        140,
+        70,
+        120,
+        100,
+        160,
+        110,
+        300
+      ],
+      "stageNum": [
+        9
+      ],
+      "stageReward": [
+        {
+          "Star": 15,
+          "Film1": 1,
+          "Energy": 25
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "0": "Coin_100",
+        "2": "9201_1",
+        "3": "Energy_5",
+        "5": "Diamond_1",
+        "7": "711581_1",
+        "8": "Diamond_1"
+      },
+      "image": "Photo_02",
+      "areaIcon": "area_icon_02"
+    },
+    "303": {
+      "id": 303,
+      "nextTaskId": 304,
+      "costPoint": [
+        80,
+        120,
+        100,
+        160,
+        70,
+        120,
+        90,
+        240,
+        100,
+        180,
+        140,
+        400
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 20,
+          "Film2": 2,
+          "Diamond": 20
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 2,
+      "hiddenReward": {
+        "1": "1001_1",
+        "3": "98802_1",
+        "5": "711631_1",
+        "7": "Diamond_3",
+        "9": "7403_1"
+      },
+      "image": "Photo_03",
+      "areaIcon": "area_icon_03"
+    },
+    "304": {
+      "id": 304,
+      "nextTaskId": 305,
+      "costPoint": [
+        80,
+        160,
+        100,
+        220,
+        90,
+        140,
+        120,
+        300,
+        100,
+        230,
+        160,
+        500
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 25,
+          "Film3": 1,
+          "Energy": 40
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "9104_1",
+        "7": "5001_1",
+        "9": "Energy_30"
+      },
+      "image": "Photo_04",
+      "areaIcon": "area_icon_04"
+    },
+    "305": {
+      "id": 305,
+      "nextTaskId": 306,
+      "costPoint": [
+        90,
+        180,
+        120,
+        240,
+        200,
+        180,
+        140,
+        320,
+        220,
+        230,
+        180,
+        300,
+        600
+      ],
+      "stageNum": [
+        12
+      ],
+      "stageReward": [
+        {
+          "90501": 1,
+          "Star": 30,
+          "Film4": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "5201_1",
+        "7": "Diamond_5",
+        "9": "1203_1",
+        "11": "98801_1"
+      },
+      "image": "Photo_05",
+      "areaIcon": "area_icon_05"
+    },
+    "306": {
+      "id": 306,
+      "nextTaskId": 307,
+      "costPoint": [
+        100,
+        200,
+        140,
+        260,
+        90,
+        200,
+        250,
+        360,
+        220,
+        230,
+        250,
+        200,
+        400,
+        700
+      ],
+      "stageNum": [
+        13
+      ],
+      "stageReward": [
+        {
+          "90601": 1,
+          "Star": 35,
+          "Film13": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "3": "5401_1",
+        "6": "98801_1",
+        "7": "Coin_200",
+        "9": "Diamond_5",
+        "12": "9101_1"
+      },
+      "image": "Photo_06",
+      "areaIcon": "area_icon_12"
+    },
+    "307": {
+      "id": 307,
+      "nextTaskId": 0,
+      "costPoint": [
+        80,
+        190,
+        180,
+        220,
+        300,
+        160,
+        240,
+        400,
+        200,
+        460,
+        140,
+        300,
+        280,
+        350,
+        800
+      ],
+      "stageNum": [
+        14
+      ],
+      "stageReward": [
+        {
+          "Star": 40,
+          "Film5": 1,
+          "Diamond": 100
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "4": "98801_1",
+        "7": "7101_1",
+        "9": "Diamond_10",
+        "11": "5201_1",
+        "13": "Energy_20"
+      },
+      "image": "Photo_07",
+      "areaIcon": "area_icon_07"
+    }
+  },
+  "warehouse4": {
+    "401": {
+      "id": 401,
+      "nextTaskId": 402,
+      "costPoint": [
+        40,
+        60,
+        70,
+        110,
+        80,
+        130,
+        40,
+        230
+      ],
+      "stageNum": [
+        7
+      ],
+      "stageReward": [
+        {
+          "Star": 2,
+          "Film2": 1,
+          "MhdIIBlindBox1": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "1": "Diamond_1",
+        "3": "MhdIIBlindBox1_1",
+        "5": "MhdIIBlindBox1_1",
+        "6": "711846_1"
+      },
+      "image": "Photo_01",
+      "areaIcon": "area_icon_01"
+    },
+    "402": {
+      "id": 402,
+      "nextTaskId": 403,
+      "costPoint": [
+        70,
+        90,
+        80,
+        130,
+        60,
+        100,
+        90,
+        140,
+        100,
+        270
+      ],
+      "stageNum": [
+        9
+      ],
+      "stageReward": [
+        {
+          "Star": 3,
+          "Film3": 1,
+          "MhdIIBlindBox5": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 0,
+      "hiddenReward": {
+        "0": "MhdIIBlindBox1_1",
+        "2": "9201_1",
+        "3": "MhdIIBlindBox1_1",
+        "5": "Diamond_1",
+        "7": "711766_1"
+      },
+      "image": "Photo_02",
+      "areaIcon": "area_icon_02"
+    },
+    "403": {
+      "id": 403,
+      "nextTaskId": 404,
+      "costPoint": [
+        70,
+        110,
+        90,
+        150,
+        60,
+        110,
+        80,
+        220,
+        90,
+        160,
+        130,
+        360
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 5,
+          "Film3": 2,
+          "MhdIIBlindBox2": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 2,
+      "hiddenReward": {
+        "1": "1001_1",
+        "3": "MhdIIBlindBox1_1",
+        "5": "711802_1",
+        "7": "MhdIIBlindBox2_1"
+      },
+      "image": "Photo_03",
+      "areaIcon": "area_icon_03"
+    },
+    "404": {
+      "id": 404,
+      "nextTaskId": 405,
+      "costPoint": [
+        70,
+        150,
+        90,
+        200,
+        80,
+        130,
+        110,
+        280,
+        90,
+        210,
+        140,
+        460
+      ],
+      "stageNum": [
+        11
+      ],
+      "stageReward": [
+        {
+          "Star": 8,
+          "Film4": 1,
+          "MhdIIBlindBox3": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "MhdIIBlindBox1_1",
+        "7": "5001_1",
+        "9": "MhdIIBlindBox2_1"
+      },
+      "image": "Photo_04",
+      "areaIcon": "area_icon_04"
+    },
+    "405": {
+      "id": 405,
+      "nextTaskId": 406,
+      "costPoint": [
+        80,
+        160,
+        110,
+        220,
+        200,
+        160,
+        130,
+        300,
+        200,
+        210,
+        160,
+        280,
+        550
+      ],
+      "stageNum": [
+        12
+      ],
+      "stageReward": [
+        {
+          "90501": 1,
+          "Star": 10,
+          "Film4": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 4,
+      "hiddenReward": {
+        "3": "5201_1",
+        "7": "MhdIIBlindBox2_1",
+        "9": "1203_1",
+        "11": "98808_1"
+      },
+      "image": "Photo_05",
+      "areaIcon": "area_icon_05"
+    },
+    "406": {
+      "id": 406,
+      "nextTaskId": 407,
+      "costPoint": [
+        90,
+        180,
+        130,
+        240,
+        80,
+        180,
+        230,
+        320,
+        200,
+        210,
+        230,
+        180,
+        360,
+        630
+      ],
+      "stageNum": [
+        13
+      ],
+      "stageReward": [
+        {
+          "90601": 1,
+          "Star": 15,
+          "Film13": 1
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "3": "MhdIIBlindBox1_1",
+        "6": "98802_1",
+        "7": "MhdIIBlindBox3_1",
+        "9": "Diamond_2",
+        "12": "9101_1"
+      },
+      "image": "Photo_06",
+      "areaIcon": "area_icon_12"
+    },
+    "407": {
+      "id": 407,
+      "nextTaskId": 0,
+      "costPoint": [
+        70,
+        170,
+        160,
+        200,
+        270,
+        140,
+        220,
+        360,
+        180,
+        420,
+        130,
+        280,
+        240,
+        320,
+        730
+      ],
+      "stageNum": [
+        14
+      ],
+      "stageReward": [
+        {
+          "Star": 20,
+          "Film5": 1,
+          "Diamond": 300
+        }
+      ],
+      "RandomReward": {
+        "Coin_30": 20,
+        "Coin_50": 25,
+        "Coin_100": 5,
+        "Energy_5": 20,
+        "Energy_10": 8,
+        "Energy_20": 2,
+        "diamond_1": 12,
+        "diamond_2": 5,
+        "diamond_3": 3
+      },
+      "RandomNum": 5,
+      "hiddenReward": {
+        "4": "98801_1",
+        "7": "7101_1",
+        "9": "Diamond_5",
+        "11": "5201_1",
+        "13": "MhdIIBlindBox3_1"
+      },
+      "image": "Photo_07",
+      "areaIcon": "area_icon_07"
+    }
+  }
+}

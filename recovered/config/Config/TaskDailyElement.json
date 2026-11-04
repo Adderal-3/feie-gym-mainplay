@@ -1,0 +1,746 @@
+{
+  "1": {
+    "id": 1,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "1106": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "2": {
+    "id": 2,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "1107": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "3": {
+    "id": 3,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "2105": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "4": {
+    "id": 4,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "2201": 1
+    },
+    "difficultWeight": 300,
+    "normalWeight": 50,
+    "easyWeight": 250
+  },
+  "5": {
+    "id": 5,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "2202": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "6": {
+    "id": 6,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "2203": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "7": {
+    "id": 7,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "2301": 1
+    },
+    "difficultWeight": 300,
+    "normalWeight": 50,
+    "easyWeight": 250
+  },
+  "8": {
+    "id": 8,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "3105": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "9": {
+    "id": 9,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "3106": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "10": {
+    "id": 10,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "3203": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "11": {
+    "id": 11,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "9105": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "12": {
+    "id": 12,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "9203": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "13": {
+    "id": 13,
+    "unlock": [
+      "PlayerLevel90"
+    ],
+    "demandElementld": {
+      "9302": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "14": {
+    "id": 14,
+    "unlock": [
+      "PlayerLevel100"
+    ],
+    "demandElementld": {
+      "9303": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "15": {
+    "id": 15,
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "demandElementld": {
+      "4104": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "16": {
+    "id": 16,
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "demandElementld": {
+      "4105": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "17": {
+    "id": 17,
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "demandElementld": {
+      "4202": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "18": {
+    "id": 18,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "5104": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "19": {
+    "id": 19,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "6003": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "20": {
+    "id": 20,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "6103": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "21": {
+    "id": 21,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "5303": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "22": {
+    "id": 22,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "5403": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "23": {
+    "id": 23,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "7004": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "24": {
+    "id": 24,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "7101": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "25": {
+    "id": 25,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "8205": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "26": {
+    "id": 26,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "8206": 1
+    },
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 500
+  },
+  "27": {
+    "id": 27,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "1108": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "28": {
+    "id": 28,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "2106": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "29": {
+    "id": 29,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "2107": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "30": {
+    "id": 30,
+    "unlock": [
+      "PlayerLevel60"
+    ],
+    "demandElementld": {
+      "2204": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "31": {
+    "id": 31,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "2302": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "32": {
+    "id": 32,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "3107": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "33": {
+    "id": 33,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "3204": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "34": {
+    "id": 34,
+    "unlock": [
+      "PlayerLevel60"
+    ],
+    "demandElementld": {
+      "9106": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "35": {
+    "id": 35,
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "demandElementld": {
+      "9204": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "36": {
+    "id": 36,
+    "unlock": [
+      "PlayerLevel110"
+    ],
+    "demandElementld": {
+      "9304": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "37": {
+    "id": 37,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "4106": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "38": {
+    "id": 38,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "4203": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "39": {
+    "id": 39,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "5105": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "40": {
+    "id": 40,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "6004": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "41": {
+    "id": 41,
+    "unlock": [
+      "PlayerLevel60"
+    ],
+    "demandElementld": {
+      "6005": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "42": {
+    "id": 42,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "6104": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "43": {
+    "id": 43,
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "demandElementld": {
+      "6105": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "44": {
+    "id": 44,
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "demandElementld": {
+      "5304": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "45": {
+    "id": 45,
+    "unlock": [
+      "PlayerLevel60"
+    ],
+    "demandElementld": {
+      "5404": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "46": {
+    "id": 46,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "demandElementld": {
+      "7102": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "47": {
+    "id": 47,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "7305": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "48": {
+    "id": 48,
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "demandElementld": {
+      "7403": 1
+    },
+    "difficultWeight": 250,
+    "normalWeight": 500,
+    "easyWeight": 250
+  },
+  "50": {
+    "id": 50,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "demandElementld": {
+      "1203": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "51": {
+    "id": 51,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "demandElementld": {
+      "2108": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "52": {
+    "id": 52,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "2205": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "53": {
+    "id": 53,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "2303": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "54": {
+    "id": 54,
+    "unlock": [
+      "PlayerLevel120"
+    ],
+    "demandElementld": {
+      "3108": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "55": {
+    "id": 55,
+    "unlock": [
+      "PlayerLevel120"
+    ],
+    "demandElementld": {
+      "3205": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "56": {
+    "id": 56,
+    "unlock": [
+      "PlayerLevel60"
+    ],
+    "demandElementld": {
+      "9205": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "57": {
+    "id": 57,
+    "unlock": [
+      "PlayerLevel120"
+    ],
+    "demandElementld": {
+      "9305": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "58": {
+    "id": 58,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "4204": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "59": {
+    "id": 59,
+    "unlock": [
+      "PlayerLevel100"
+    ],
+    "demandElementld": {
+      "5106": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "60": {
+    "id": 60,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "6006": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "61": {
+    "id": 61,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "6106": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "63": {
+    "id": 63,
+    "unlock": [
+      "PlayerLevel80"
+    ],
+    "demandElementld": {
+      "7103": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  },
+  "64": {
+    "id": 64,
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "demandElementld": {
+      "7306": 1
+    },
+    "difficultWeight": 500,
+    "normalWeight": 200,
+    "easyWeight": 100
+  }
+}

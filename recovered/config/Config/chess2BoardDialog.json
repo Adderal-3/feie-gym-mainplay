@@ -1,0 +1,868 @@
+{
+  "undersea": {
+    "id": "undersea",
+    "BeginDialog": 8658,
+    "EnterBoard": 0,
+    "EndDialog": 8668,
+    "happyEndDialog": 8668,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8672,
+    "GetElement": [
+      "76268:8669",
+      "76120:8667",
+      "76134:8665"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "76001:8660",
+      "76239:8659",
+      "76002:8666",
+      "76003:8661",
+      "76107:8664",
+      "76410:8663",
+      "76501:8662"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "picnic": {
+    "id": "picnic",
+    "BeginDialog": 8673,
+    "EnterBoard": 0,
+    "EndDialog": 8682,
+    "happyEndDialog": 8682,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8683,
+    "GetElement": [
+      "75017:8675",
+      "75095:8678",
+      "75107:8679",
+      "75210:8680",
+      "75066:8677"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "75004:8674",
+      "75221:8681"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "305:8689",
+      "312:8676",
+      "315:8690",
+      "333:8686",
+      "331:8694",
+      "345:8696",
+      "337:8691",
+      "343:8687",
+      "344:8695",
+      "323:8688"
+    ]
+  },
+  "misty": {
+    "id": "misty",
+    "BeginDialog": 8724,
+    "EnterBoard": 8725,
+    "EndDialog": 8740,
+    "happyEndDialog": 8740,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8741,
+    "GetElement": [
+      "72221:8730",
+      "72127:8732",
+      "72268:8733",
+      "72406:8734",
+      "72409:8735",
+      "72411:8736",
+      "72246:8737",
+      "72134:8738"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "72001:8727",
+      "72002:8728",
+      "72147:8729",
+      "72131:8731"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "449:8739"
+    ]
+  },
+  "shin": {
+    "id": "shin",
+    "BeginDialog": 8765,
+    "EnterBoard": 0,
+    "EndDialog": 8780,
+    "happyEndDialog": 8780,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8777,
+    "GetElement": [
+      "67515:8772",
+      "67125:8767",
+      "67635:8774",
+      "67415:8775",
+      "67626:8776",
+      "67636:8781"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "67001:8766",
+      "67006:8773",
+      "67002:8768",
+      "67003:8769",
+      "67004:8770",
+      "67007:8771"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "door": {
+    "id": "door",
+    "BeginDialog": 0,
+    "EnterBoard": 8810,
+    "EndDialog": 0,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "65816:8811",
+      "65817:8816",
+      "65001:8808",
+      "65821:8809"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "65306:8812",
+      "65815:8813",
+      "65525:8814"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "615:8815"
+    ]
+  },
+  "spring": {
+    "id": "spring",
+    "BeginDialog": 8782,
+    "EnterBoard": 8783,
+    "EndDialog": 8806,
+    "happyEndDialog": 8807,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8803,
+    "GetElement": [
+      "64128:8784",
+      "64207:8790",
+      "64209:8791",
+      "64309:8793",
+      "64507:8797",
+      "64508:8798",
+      "64509:8799",
+      "64510:8800",
+      "64511:8801"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "64129:8785",
+      "64100:8786",
+      "64215:8796",
+      "64407:8794",
+      "64300:8787",
+      "64200:8788",
+      "64400:8789",
+      "64137:8795",
+      "64210:8792"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "748:8802"
+    ]
+  },
+  "duanwu1": {
+    "id": "duanwu1",
+    "BeginDialog": 8891,
+    "EnterBoard": 8892,
+    "EndDialog": 8899,
+    "happyEndDialog": 8899,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "58302:8894",
+      "58417:8896",
+      "58915:8897",
+      "581112:8898"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "58101:8893",
+      "58401:8895"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "815:8900"
+    ]
+  },
+  "zhzboard": {
+    "id": "zhzboard",
+    "BeginDialog": 18110,
+    "EnterBoard": 18111,
+    "EndDialog": 18132,
+    "happyEndDialog": 18132,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18129,
+    "GetElement": [
+      "55121:18115",
+      "55127:18116",
+      "55431:18117",
+      "55436:18118",
+      "55445:18123",
+      "55447:18124",
+      "55449:18125",
+      "55450:18126",
+      "55451:18127",
+      "55117:18119"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "55023:18112",
+      "55204:18113",
+      "55107:18114",
+      "55426:18120",
+      "55437:18121",
+      "55407:18122",
+      "55416:18133"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "946:18128",
+      "903:18101",
+      "911:18102",
+      "916:18103",
+      "922:18104",
+      "930:18105",
+      "934:18106",
+      "940:18107",
+      "944:18108",
+      "949:18109",
+      "950:18134"
+    ]
+  },
+  "battleroyal": {
+    "id": "battleroyal",
+    "BeginDialog": 18157,
+    "EnterBoard": 18158,
+    "EndDialog": 18153,
+    "happyEndDialog": 18152,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18154,
+    "GetElement": [
+      "54116:18137",
+      "54215:18139",
+      "54208:18141",
+      "54221:18142",
+      "54251:18143",
+      "54268:18144",
+      "54408:18145",
+      "54409:18146",
+      "54410:18147",
+      "54411:18148",
+      "54134:18149",
+      "54246:18150",
+      "54127:18161",
+      "54255:18162"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "54120:18138",
+      "54147:18140",
+      "54238:18159",
+      "54001:18160"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1049:18151"
+    ]
+  },
+  "premoon": {
+    "id": "premoon",
+    "BeginDialog": 18163,
+    "EnterBoard": 0,
+    "EndDialog": 18174,
+    "happyEndDialog": 18174,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18175,
+    "GetElement": [
+      "47301:18170",
+      "47315:18171",
+      "47326:18172"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "47001:18164",
+      "47121:18165",
+      "47151:18166",
+      "47201:18167",
+      "47261:18168",
+      "47262:18169"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1115:18173"
+    ]
+  },
+  "moon2024": {
+    "id": "moon2024",
+    "BeginDialog": 18176,
+    "EnterBoard": 18177,
+    "EndDialog": 18197,
+    "happyEndDialog": 18197,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18193,
+    "GetElement": [
+      "46045:18180",
+      "46107:18182",
+      "46086:18183",
+      "46095:18184"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "46004:18178",
+      "46017:18179",
+      "46074:18181"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1205:18185",
+      "1212:18186",
+      "1215:18187",
+      "1220:18188",
+      "1225:18189",
+      "1231:18190",
+      "1237:18191",
+      "1244:18192",
+      "1245:18196"
+    ]
+  },
+  "dreamdoor": {
+    "id": "dreamdoor",
+    "BeginDialog": 18199,
+    "EnterBoard": 0,
+    "EndDialog": 18206,
+    "happyEndDialog": 18206,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18207,
+    "GetElement": [
+      "44216:18202",
+      "44249:18204",
+      "44155:18208"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "44001:18200",
+      "44101:18201",
+      "44251:18203",
+      "44016:18209"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1315:18205"
+    ]
+  },
+  "snowwhite": {
+    "id": "snowwhite",
+    "BeginDialog": 18212,
+    "EnterBoard": 18213,
+    "EndDialog": 18237,
+    "happyEndDialog": 18237,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18234,
+    "GetElement": [
+      "43035:18215",
+      "43061:18216",
+      "43128:18222",
+      "43171:18223",
+      "43175:18226",
+      "43176:18227",
+      "43188:18228",
+      "43145:18220"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [
+      "14401:18217",
+      "14007:18218",
+      "14302:18225"
+    ],
+    "clickElement": [
+      "43191:18219",
+      "43101:18221",
+      "43192:18224",
+      "43001:18214"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1406:18229",
+      "1422:18230",
+      "1430:18231",
+      "1449:18232",
+      "1450:18233",
+      "1447:18240"
+    ]
+  },
+  "theatre": {
+    "id": "theatre",
+    "BeginDialog": 18360,
+    "EnterBoard": 0,
+    "EndDialog": 18388,
+    "happyEndDialog": 18388,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18387,
+    "GetElement": [
+      "37001:18361",
+      "37002:18362",
+      "37156:18375",
+      "37157:18376",
+      "37158:18377"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "37014:18363",
+      "37084:18364",
+      "37025:18365",
+      "37058:18366",
+      "37067:18367",
+      "37090:18368",
+      "37101:18369",
+      "37102:18370",
+      "37103:18371",
+      "37104:18372",
+      "37105:18373",
+      "37125:18374"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1506:18378",
+      "1516:18379",
+      "1528:18380",
+      "1537:18381",
+      "1550:18382"
+    ]
+  },
+  "unicorndoor": {
+    "id": "unicorndoor",
+    "BeginDialog": 18389,
+    "EnterBoard": 0,
+    "EndDialog": 18397,
+    "happyEndDialog": 18397,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18396,
+    "GetElement": [
+      "720601:18391",
+      "720905:18393",
+      "721801:18394"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "720101:18390",
+      "720701:18392"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1615:18395"
+    ]
+  },
+  "fooddoor": {
+    "id": "fooddoor",
+    "BeginDialog": 18425,
+    "EnterBoard": 0,
+    "EndDialog": 18432,
+    "happyEndDialog": 18432,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18431,
+    "GetElement": [
+      "35905:18429"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "35001:18426",
+      "35010:18427",
+      "35007:18428"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1715:18430"
+    ]
+  },
+  "castlesky": {
+    "id": "castlesky",
+    "BeginDialog": 18450,
+    "EnterBoard": 18451,
+    "EndDialog": 18474,
+    "happyEndDialog": 18474,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18469,
+    "GetElement": [
+      "32016:18452",
+      "32115:18458",
+      "32171:18461",
+      "32175:18462",
+      "32176:18463",
+      "32187:18464",
+      "32188:18465"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [
+      "19401:18455"
+    ],
+    "clickElement": [
+      "32001:18454",
+      "32025:18453",
+      "32191:18456",
+      "32101:18457",
+      "32192:18459",
+      "32155:18460"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "1906:18466",
+      "1912:18467",
+      "1950:18468"
+    ]
+  },
+  "hoggoosedoor": {
+    "id": "hoggoosedoor",
+    "BeginDialog": 18475,
+    "EnterBoard": 0,
+    "EndDialog": 18484,
+    "happyEndDialog": 18484,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18483,
+    "GetElement": [
+      "30003:18476"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "30009:18477",
+      "30034:18478",
+      "30048:18479",
+      "30079:18480",
+      "30125:18481"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2015:18482"
+    ]
+  },
+  "holmes": {
+    "id": "holmes",
+    "BeginDialog": 18485,
+    "EnterBoard": 0,
+    "EndDialog": 18500,
+    "happyEndDialog": 18500,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "29055:18487",
+      "29113:18488",
+      "29027:18489",
+      "29064:18491",
+      "29075:18493",
+      "29083:18495",
+      "29094:18497",
+      "29095:18498"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "29001:18486",
+      "29002:18490",
+      "29003:18492",
+      "29004:18494",
+      "29005:18496",
+      "29121:18499"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "bloverdoor": {
+    "id": "bloverdoor",
+    "BeginDialog": 18501,
+    "EnterBoard": 0,
+    "EndDialog": 18510,
+    "happyEndDialog": 18510,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18509,
+    "GetElement": [
+      "28032:18503",
+      "28086:18505"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "28005:18502",
+      "28072:18504",
+      "28112:18506",
+      "28134:18507"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2214:18508"
+    ]
+  },
+  "seadoor": {
+    "id": "seadoor",
+    "BeginDialog": 18528,
+    "EnterBoard": 0,
+    "EndDialog": 18538,
+    "happyEndDialog": 18538,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18537,
+    "GetElement": [
+      "26301:18534",
+      "26320:18535"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "26001:18529",
+      "26061:18530",
+      "26063:18531",
+      "26101:18532",
+      "26185:18533"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2315:18536"
+    ]
+  },
+  "ghost": {
+    "id": "ghost",
+    "BeginDialog": 8939,
+    "EnterBoard": 0,
+    "EndDialog": 8952,
+    "happyEndDialog": 8952,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8953,
+    "GetElement": [
+      "29153:8941",
+      "29196:8944",
+      "29268:8949",
+      "29269:8950",
+      "29270:8951",
+      "29265:8954",
+      "29266:8955",
+      "29267:8956",
+      "29262:8957",
+      "29263:8958",
+      "29264:8959"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "29131:8940",
+      "29176:8942",
+      "29191:8943",
+      "29192:8945",
+      "29193:8946",
+      "29251:8947",
+      "29231:8948"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "fashion": {
+    "id": "fashion",
+    "BeginDialog": 8960,
+    "EnterBoard": 0,
+    "EndDialog": 8979,
+    "happyEndDialog": 8979,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8978,
+    "GetElement": [
+      "25017:8962",
+      "25035:8969",
+      "25036:8970",
+      "25037:8971",
+      "25038:8972"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "25002:8961",
+      "25082:8963",
+      "25083:8964",
+      "25084:8965",
+      "25081:8966",
+      "25001:8967",
+      "25023:8968"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2549:8973"
+    ]
+  },
+  "moon2door": {
+    "id": "moon2door",
+    "BeginDialog": 18539,
+    "EnterBoard": 0,
+    "EndDialog": 18547,
+    "happyEndDialog": 18547,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18546,
+    "GetElement": [
+      "28160:18540",
+      "28204:18542",
+      "28224:18543",
+      "28257:18544"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "28173:18541",
+      "28266:18545"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2624:18548"
+    ]
+  },
+  "cheese": {
+    "id": "cheese",
+    "BeginDialog": 18567,
+    "EnterBoard": 0,
+    "EndDialog": 18566,
+    "happyEndDialog": 18566,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18564,
+    "GetElement": [
+      "25193:18553",
+      "25254:18554",
+      "25268:18555",
+      "25214:18556",
+      "25215:18557",
+      "25219:18558",
+      "25222:18559"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "25182:18568",
+      "25201:18551",
+      "25282:18552"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2748:18565"
+    ]
+  },
+  "mistydoor": {
+    "id": "mistydoor",
+    "BeginDialog": 18569,
+    "EnterBoard": 0,
+    "EndDialog": 18578,
+    "happyEndDialog": 18578,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18577,
+    "GetElement": [
+      "28330:18570",
+      "28381:18572",
+      "28435:18574"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "28352:18571",
+      "28432:18573",
+      "28471:18575"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2825:18576"
+    ]
+  },
+  "cinderella": {
+    "id": "cinderella",
+    "BeginDialog": 18593,
+    "EnterBoard": 0,
+    "EndDialog": 18623,
+    "happyEndDialog": 18623,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 18617,
+    "GetElement": [
+      "22161:18605",
+      "22191:18608",
+      "22206:18610",
+      "22207:18611",
+      "22208:18612",
+      "22209:18613",
+      "22210:18614",
+      "22211:18615",
+      "22212:18616",
+      "22117:18601",
+      "22118:18602",
+      "22119:18603",
+      "22120:18604"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "22001:18594",
+      "22018:18595",
+      "22041:18596",
+      "22031:18597",
+      "22071:18598",
+      "22092:18607",
+      "22101:18599",
+      "22141:18600",
+      "22138:18606",
+      "22197:18609"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": [
+      "2949:18618",
+      "2948:18624"
+    ]
+  }
+}

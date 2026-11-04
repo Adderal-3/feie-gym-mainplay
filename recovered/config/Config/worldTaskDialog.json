@@ -1,0 +1,81 @@
+{
+  "bobo": {
+    "id": "bobo",
+    "beginDialog": 13201,
+    "firstGetMonster": [
+      "13203:71301"
+    ],
+    "clickElement": [
+      "13202:71007",
+      "13205:71201",
+      "13204:71401"
+    ],
+    "firstOpenRanking": 0,
+    "personalProgressReward": 13207,
+    "endDialog": 13210,
+    "upGradeElement": [
+      "13208:1",
+      "13209:2"
+    ]
+  },
+  "bobo2": {
+    "id": "bobo2",
+    "beginDialog": 13220,
+    "firstGetMonster": [
+      "13203:71301"
+    ],
+    "clickElement": [
+      "13202:71008",
+      "13205:71201",
+      "13204:71401",
+      "13230:71501",
+      "13240:71601"
+    ],
+    "firstOpenRanking": 0,
+    "personalProgressReward": 13207,
+    "endDialog": 13210,
+    "upGradeElement": [
+      "13208:1",
+      "13209:2"
+    ]
+  },
+  "bobo3": {
+    "id": "bobo3",
+    "beginDialog": 13250,
+    "firstGetMonster": [
+      "13203:71301"
+    ],
+    "clickElement": [
+      "13202:71011",
+      "13204:71401",
+      "13230:71501",
+      "13260:71701"
+    ],
+    "firstOpenRanking": 0,
+    "personalProgressReward": 13270,
+    "endDialog": 13280,
+    "upGradeElement": [
+      "13208:1",
+      "13209:2"
+    ]
+  },
+  "bobo4": {
+    "id": "bobo4",
+    "beginDialog": 13261,
+    "firstGetMonster": [
+      "13203:71301"
+    ],
+    "clickElement": [
+      "13202:71011",
+      "13204:714011",
+      "13262:71802"
+    ],
+    "firstOpenRanking": 0,
+    "personalProgressReward": 13207,
+    "endDialog": 13263,
+    "upGradeElement": [
+      "13208:1",
+      "13209:2"
+    ]
+  }
+}

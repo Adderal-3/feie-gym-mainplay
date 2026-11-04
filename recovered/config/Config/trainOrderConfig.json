@@ -1,0 +1,11 @@
+{
+  "config1": {
+    "id": "config1",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "beginDialog": 18265,
+    "winDialog": 18267,
+    "loseDialog": 18266
+  }
+}

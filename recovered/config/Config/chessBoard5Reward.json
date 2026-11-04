@@ -1,0 +1,84 @@
+{
+  "coral1": {
+    "101": {
+      "id": 101,
+      "needPoints": 10,
+      "reward": {
+        "MhdIIBlindBox1": 1
+      },
+      "specialBg": 0
+    },
+    "102": {
+      "id": 102,
+      "needPoints": 50,
+      "reward": {
+        "MhdIIBlindBox1": 1
+      },
+      "specialBg": 0
+    },
+    "103": {
+      "id": 103,
+      "needPoints": 100,
+      "reward": {
+        "MhdIIBlindBox5": 1
+      },
+      "specialBg": 0
+    },
+    "104": {
+      "id": 104,
+      "needPoints": 500,
+      "reward": {
+        "MhdIIBlindBox2": 1
+      },
+      "specialBg": 0
+    },
+    "105": {
+      "id": 105,
+      "needPoints": 1000,
+      "reward": {
+        "MhdIIBlindBox2": 1
+      },
+      "specialBg": 0
+    },
+    "106": {
+      "id": 106,
+      "needPoints": 200,
+      "reward": {
+        "MhdIIBlindBox3": 1
+      },
+      "specialBg": 0
+    },
+    "107": {
+      "id": 107,
+      "needPoints": 300,
+      "reward": {
+        "Film4": 1
+      },
+      "specialBg": 0
+    },
+    "108": {
+      "id": 108,
+      "needPoints": 3000,
+      "reward": {
+        "Film13": 1
+      },
+      "specialBg": 0
+    },
+    "109": {
+      "id": 109,
+      "needPoints": 700,
+      "reward": {
+        "Film5": 1
+      },
+      "specialBg": 0
+    },
+    "110": {
+      "id": 110,
+      "needPoints": 8000,
+      "reward": {
+        "Diamond": 1000
+      },
+      "specialBg": 1
+    }
+  }
+}

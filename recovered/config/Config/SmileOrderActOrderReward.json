@@ -1,0 +1,17 @@
+{
+  "0": {
+    "rangeLeft": 0,
+    "rangeRight": 100,
+    "reward": 0
+  },
+  "100": {
+    "rangeLeft": 100,
+    "rangeRight": 300,
+    "reward": 1
+  },
+  "300": {
+    "rangeLeft": 300,
+    "rangeRight": 999999,
+    "reward": 2
+  }
+}

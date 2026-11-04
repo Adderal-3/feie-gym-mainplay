@@ -1,0 +1,142 @@
+{
+  "1": {
+    "code": 1,
+    "province": "河北"
+  },
+  "2": {
+    "code": 2,
+    "province": "山西"
+  },
+  "3": {
+    "code": 3,
+    "province": "黑龙江"
+  },
+  "4": {
+    "code": 4,
+    "province": "吉林"
+  },
+  "5": {
+    "code": 5,
+    "province": "辽宁"
+  },
+  "6": {
+    "code": 6,
+    "province": "江苏"
+  },
+  "7": {
+    "code": 7,
+    "province": "浙江"
+  },
+  "8": {
+    "code": 8,
+    "province": "安徽"
+  },
+  "9": {
+    "code": 9,
+    "province": "福建"
+  },
+  "10": {
+    "code": 10,
+    "province": "江西"
+  },
+  "11": {
+    "code": 11,
+    "province": "山东"
+  },
+  "12": {
+    "code": 12,
+    "province": "河南"
+  },
+  "13": {
+    "code": 13,
+    "province": "湖北"
+  },
+  "14": {
+    "code": 14,
+    "province": "湖南"
+  },
+  "15": {
+    "code": 15,
+    "province": "广东"
+  },
+  "16": {
+    "code": 16,
+    "province": "海南"
+  },
+  "17": {
+    "code": 17,
+    "province": "四川"
+  },
+  "18": {
+    "code": 18,
+    "province": "贵州"
+  },
+  "19": {
+    "code": 19,
+    "province": "云南"
+  },
+  "20": {
+    "code": 20,
+    "province": "陕西"
+  },
+  "21": {
+    "code": 21,
+    "province": "甘肃"
+  },
+  "22": {
+    "code": 22,
+    "province": "青海"
+  },
+  "23": {
+    "code": 23,
+    "province": "内蒙古"
+  },
+  "24": {
+    "code": 24,
+    "province": "广西"
+  },
+  "25": {
+    "code": 25,
+    "province": "西藏"
+  },
+  "26": {
+    "code": 26,
+    "province": "宁夏"
+  },
+  "27": {
+    "code": 27,
+    "province": "新疆"
+  },
+  "28": {
+    "code": 28,
+    "province": "北京"
+  },
+  "29": {
+    "code": 29,
+    "province": "天津"
+  },
+  "30": {
+    "code": 30,
+    "province": "上海"
+  },
+  "31": {
+    "code": 31,
+    "province": "重庆"
+  },
+  "32": {
+    "code": 32,
+    "province": "未知"
+  },
+  "33": {
+    "code": 33,
+    "province": "港澳台"
+  },
+  "34": {
+    "code": 34,
+    "province": "韩国"
+  },
+  "35": {
+    "code": 35,
+    "province": "日本"
+  }
+}

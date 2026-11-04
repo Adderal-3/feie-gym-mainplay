@@ -1,0 +1,160 @@
+{
+  "trainOrder1": {
+    "id": "trainOrder1",
+    "router": [
+      "trainOrder1_1",
+      "trainOrder1_2",
+      "trainOrder1_3"
+    ],
+    "chooseConfig": "config1",
+    "progressRewardNum": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ],
+    "progressReward": [
+      {
+        "Film2": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "recycleRange": [
+      [
+        0,
+        199
+      ],
+      [
+        200,
+        299
+      ],
+      [
+        300,
+        399
+      ],
+      [
+        400,
+        499
+      ],
+      [
+        500,
+        999
+      ]
+    ],
+    "recycleReward": [
+      {
+        "BaseResChest22": 1
+      },
+      {
+        "BaseResChest23": 1
+      },
+      {
+        "BaseResChest24": 1
+      },
+      {
+        "BaseResChest25": 1
+      },
+      {
+        "BaseResChest26": 1
+      }
+    ],
+    "passPoint": 0.15,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "trainOrder2": {
+    "id": "trainOrder2",
+    "router": [
+      "trainOrder2_1",
+      "trainOrder2_2",
+      "trainOrder2_3"
+    ],
+    "chooseConfig": "config1",
+    "progressRewardNum": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ],
+    "progressReward": [
+      {
+        "Film2": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "recycleRange": [
+      [
+        0,
+        199
+      ],
+      [
+        200,
+        299
+      ],
+      [
+        300,
+        399
+      ],
+      [
+        400,
+        499
+      ],
+      [
+        500,
+        999
+      ]
+    ],
+    "recycleReward": [
+      {
+        "BaseResChest22": 1
+      },
+      {
+        "BaseResChest23": 1
+      },
+      {
+        "BaseResChest24": 1
+      },
+      {
+        "BaseResChest25": 1
+      },
+      {
+        "BaseResChest26": 1
+      }
+    ],
+    "passPoint": 0.15,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "openBox1": {
+    "id": "openBox1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "itemId": 1,
+    "itemInitNum": 1,
+    "bigStage": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "bigStageReward": [
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "9820001": 1,
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "98302": 1,
+        "MhdIIBlindBox4": 1
+      },
+      {
+        "9820021": 1,
+        "Film4": 1
+      }
+    ],
+    "smallStage1": [
+      8,
+      10,
+      10,
+      12,
+      15
+    ],
+    "smallStageReward1": [
+      {
+        "Film1": 1
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Energy": 5
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Energy": 10
+      }
+    ],
+    "smallStage2": [
+      8
+    ],
+    "smallStageReward2": [
+      {
+        "Diamond": 5
+      }
+    ]
+  }
+}

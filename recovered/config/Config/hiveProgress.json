@@ -1,0 +1,25 @@
+{
+  "hive1": {
+    "1": {
+      "id": 1,
+      "needPoint": 80,
+      "reward": {
+        "hive1": 1
+      }
+    },
+    "2": {
+      "id": 2,
+      "needPoint": 200,
+      "reward": {
+        "hive2": 1
+      }
+    },
+    "3": {
+      "id": 3,
+      "needPoint": 360,
+      "reward": {
+        "hive3": 1
+      }
+    }
+  }
+}

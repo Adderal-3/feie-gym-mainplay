@@ -1,0 +1,56 @@
+{
+  "mhd1": {
+    "1": {
+      "id": 1,
+      "goods": {
+        "MhdIIBlindBox1": 1
+      },
+      "price": {
+        "AdornCoupon": 10
+      },
+      "limit": 15,
+      "plusNum": 35,
+      "multiplyNum": 0,
+      "MaxPrice": 500
+    },
+    "2": {
+      "id": 2,
+      "goods": {
+        "MhdIIBlindBox2": 1
+      },
+      "price": {
+        "AdornCoupon": 20
+      },
+      "limit": 14,
+      "plusNum": 50,
+      "multiplyNum": 0,
+      "MaxPrice": 670
+    },
+    "3": {
+      "id": 3,
+      "goods": {
+        "MhdIIBlindBox3": 1
+      },
+      "price": {
+        "AdornCoupon": 50
+      },
+      "limit": 10,
+      "plusNum": 450,
+      "multiplyNum": 0,
+      "MaxPrice": 4100
+    },
+    "4": {
+      "id": 4,
+      "goods": {
+        "MhdIIBlindBox4": 1
+      },
+      "price": {
+        "AdornCoupon": 100
+      },
+      "limit": 8,
+      "plusNum": 900,
+      "multiplyNum": 0,
+      "MaxPrice": 6400
+    }
+  }
+}

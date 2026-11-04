@@ -1,0 +1,20 @@
+{
+  "monopoly1": {
+    "id": "monopoly1",
+    "BeginDialog": 9331,
+    "EnterBoard": 9332,
+    "EnterGame": 0,
+    "EndDialog": 9335,
+    "FirstBuy": 0,
+    "FinalReward": 9334
+  },
+  "monopoly2": {
+    "id": "monopoly2",
+    "BeginDialog": 9350,
+    "EnterBoard": 9351,
+    "EnterGame": 0,
+    "EndDialog": 9353,
+    "FirstBuy": 0,
+    "FinalReward": 0
+  }
+}

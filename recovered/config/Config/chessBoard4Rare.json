@@ -1,0 +1,1100 @@
+{
+  "100": {
+    "id": 100,
+    "rareStrokeColor": "",
+    "elementStorageRange": [
+      11,
+      12
+    ],
+    "targetWeight": [],
+    "targetReward": [],
+    "weightRange": [],
+    "weight": [],
+    "initMaxWeight": 0,
+    "maxMaxWeight": 0,
+    "upTimes": [],
+    "upWeight": [],
+    "deleteFirstRangeDigTimes": []
+  },
+  "101": {
+    "id": 101,
+    "rareStrokeColor": "#ca956d",
+    "elementStorageRange": [
+      2,
+      4
+    ],
+    "targetWeight": [
+      0.09,
+      1.7,
+      8.51
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 4
+      }
+    ],
+    "weightRange": [
+      [
+        0.53,
+        1.69
+      ],
+      [
+        1.7,
+        4.58
+      ],
+      [
+        4.59,
+        8.5
+      ],
+      [
+        8.51,
+        9.35
+      ],
+      [
+        9.36,
+        10.21
+      ]
+    ],
+    "weight": [
+      5000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 8.17,
+    "maxMaxWeight": 10.21,
+    "upTimes": [
+      15,
+      20,
+      35,
+      40,
+      40,
+      60
+    ],
+    "upWeight": [
+      0.89,
+      0.59,
+      0.3,
+      0.15,
+      0.07,
+      0.04
+    ],
+    "deleteFirstRangeDigTimes": [
+      70,
+      30,
+      40
+    ]
+  },
+  "102": {
+    "id": 102,
+    "rareStrokeColor": "#67bd49",
+    "elementStorageRange": [
+      3,
+      5
+    ],
+    "targetWeight": [
+      0.41,
+      6.08,
+      35.48
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 5
+      }
+    ],
+    "weightRange": [
+      [
+        1.09,
+        6.07
+      ],
+      [
+        6.08,
+        18.69
+      ],
+      [
+        18.7,
+        35.47
+      ],
+      [
+        35.48,
+        38.51
+      ],
+      [
+        38.52,
+        41.56
+      ]
+    ],
+    "weight": [
+      5500,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 34.06,
+    "maxMaxWeight": 41.56,
+    "upTimes": [
+      13,
+      17,
+      20,
+      40,
+      50,
+      55
+    ],
+    "upWeight": [
+      3.26,
+      2.17,
+      1.09,
+      0.54,
+      0.27,
+      0.17
+    ],
+    "deleteFirstRangeDigTimes": [
+      50,
+      40,
+      30
+    ]
+  },
+  "103": {
+    "id": 103,
+    "rareStrokeColor": "#42b1d5",
+    "elementStorageRange": [
+      4,
+      6
+    ],
+    "targetWeight": [
+      0.99,
+      15.81,
+      88.94
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "weightRange": [
+      [
+        2.12,
+        15.8
+      ],
+      [
+        15.81,
+        47.13
+      ],
+      [
+        47.14,
+        88.93
+      ],
+      [
+        88.94,
+        96.84
+      ],
+      [
+        96.85,
+        104.75
+      ]
+    ],
+    "weight": [
+      6000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 86.27,
+    "maxMaxWeight": 104.75,
+    "upTimes": [
+      11,
+      12,
+      17,
+      30,
+      40,
+      40
+    ],
+    "upWeight": [
+      8.03,
+      5.36,
+      2.68,
+      1.34,
+      0.67,
+      0.4
+    ],
+    "deleteFirstRangeDigTimes": [
+      40,
+      30,
+      30
+    ]
+  },
+  "104": {
+    "id": 104,
+    "rareStrokeColor": "#c85adc",
+    "elementStorageRange": [
+      4,
+      8
+    ],
+    "targetWeight": [
+      0.92,
+      17.11,
+      98.7
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 7
+      }
+    ],
+    "weightRange": [
+      [
+        2.21,
+        17.1
+      ],
+      [
+        17.11,
+        50.33
+      ],
+      [
+        50.34,
+        98.69
+      ],
+      [
+        98.7,
+        105.27
+      ],
+      [
+        105.28,
+        111.86
+      ]
+    ],
+    "weight": [
+      8000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 95.74,
+    "maxMaxWeight": 111.86,
+    "upTimes": [
+      10,
+      11,
+      12,
+      17,
+      25,
+      25
+    ],
+    "upWeight": [
+      7.01,
+      4.67,
+      2.34,
+      1.17,
+      0.58,
+      0.35
+    ],
+    "deleteFirstRangeDigTimes": [
+      33,
+      17,
+      20
+    ]
+  },
+  "105": {
+    "id": 105,
+    "rareStrokeColor": "#d28312",
+    "elementStorageRange": [
+      6,
+      9
+    ],
+    "targetWeight": [
+      3.76,
+      57.91,
+      332.99
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 8
+      }
+    ],
+    "weightRange": [
+      [
+        5.54,
+        57.9
+      ],
+      [
+        57.91,
+        169.38
+      ],
+      [
+        169.39,
+        332.98
+      ],
+      [
+        332.99,
+        354.7
+      ],
+      [
+        354.71,
+        376.42
+      ]
+    ],
+    "weight": [
+      8000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 326.33,
+    "maxMaxWeight": 376.42,
+    "upTimes": [
+      10,
+      4,
+      6,
+      15,
+      15,
+      20
+    ],
+    "upWeight": [
+      21.78,
+      14.52,
+      7.26,
+      3.63,
+      1.81,
+      1.09
+    ],
+    "deleteFirstRangeDigTimes": [
+      20,
+      15,
+      10
+    ]
+  },
+  "106": {
+    "id": 106,
+    "rareStrokeColor": "#ea7434",
+    "elementStorageRange": [
+      7,
+      10
+    ],
+    "targetWeight": [
+      6.05,
+      95.51,
+      557.12
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 9
+      }
+    ],
+    "weightRange": [
+      [
+        9.22,
+        95.5
+      ],
+      [
+        95.51,
+        279.35
+      ],
+      [
+        279.36,
+        557.11
+      ],
+      [
+        557.12,
+        588.95
+      ],
+      [
+        588.96,
+        620.79
+      ]
+    ],
+    "weight": [
+      9000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 551.55,
+    "maxMaxWeight": 620.79,
+    "upTimes": [
+      9,
+      4,
+      9,
+      10,
+      8,
+      10
+    ],
+    "upWeight": [
+      30.1,
+      20.07,
+      10.03,
+      5.02,
+      2.51,
+      1.51
+    ],
+    "deleteFirstRangeDigTimes": [
+      13,
+      9,
+      10
+    ]
+  },
+  "107": {
+    "id": 107,
+    "rareStrokeColor": "#e63b3a",
+    "elementStorageRange": [
+      9,
+      12
+    ],
+    "targetWeight": [
+      8.46,
+      156.74,
+      736.66
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "weightRange": [
+      [
+        12.73,
+        156.73
+      ],
+      [
+        156.74,
+        449.98
+      ],
+      [
+        449.99,
+        736.65
+      ],
+      [
+        736.66,
+        868.31
+      ],
+      [
+        868.32,
+        999.98
+      ]
+    ],
+    "weight": [
+      10000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 733.71,
+    "maxMaxWeight": 999.98,
+    "upTimes": [
+      8,
+      2,
+      6,
+      4,
+      4,
+      2
+    ],
+    "upWeight": [
+      115.77,
+      77.18,
+      38.59,
+      19.29,
+      9.65,
+      5.79
+    ],
+    "deleteFirstRangeDigTimes": [
+      8,
+      4,
+      5
+    ]
+  },
+  "200": {
+    "id": 200,
+    "rareStrokeColor": "",
+    "elementStorageRange": [
+      11,
+      12
+    ],
+    "targetWeight": [],
+    "targetReward": [],
+    "weightRange": [],
+    "weight": [],
+    "initMaxWeight": 0,
+    "maxMaxWeight": 0,
+    "upTimes": [],
+    "upWeight": [],
+    "deleteFirstRangeDigTimes": []
+  },
+  "201": {
+    "id": 201,
+    "rareStrokeColor": "#ca956d",
+    "elementStorageRange": [
+      2,
+      4
+    ],
+    "targetWeight": [
+      0.24,
+      4.74,
+      23.72
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 4
+      }
+    ],
+    "weightRange": [
+      [
+        0.53,
+        4.73
+      ],
+      [
+        4.74,
+        12.8
+      ],
+      [
+        12.81,
+        23.71
+      ],
+      [
+        23.72,
+        26.08
+      ],
+      [
+        26.09,
+        28.46
+      ]
+    ],
+    "weight": [
+      5000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 22.77,
+    "maxMaxWeight": 28.46,
+    "upTimes": [
+      15,
+      20,
+      35,
+      40,
+      40,
+      60
+    ],
+    "upWeight": [
+      2.47,
+      1.65,
+      0.82,
+      0.41,
+      0.21,
+      0.13
+    ],
+    "deleteFirstRangeDigTimes": [
+      70,
+      30,
+      40
+    ]
+  },
+  "202": {
+    "id": 202,
+    "rareStrokeColor": "#67bd49",
+    "elementStorageRange": [
+      3,
+      5
+    ],
+    "targetWeight": [
+      0.57,
+      8.52,
+      49.67
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 5
+      }
+    ],
+    "weightRange": [
+      [
+        1.09,
+        8.51
+      ],
+      [
+        8.52,
+        26.18
+      ],
+      [
+        26.19,
+        49.66
+      ],
+      [
+        49.67,
+        53.92
+      ],
+      [
+        53.93,
+        58.19
+      ]
+    ],
+    "weight": [
+      5500,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 47.68,
+    "maxMaxWeight": 58.19,
+    "upTimes": [
+      13,
+      17,
+      20,
+      40,
+      50,
+      55
+    ],
+    "upWeight": [
+      4.57,
+      3.05,
+      1.52,
+      0.76,
+      0.38,
+      0.23
+    ],
+    "deleteFirstRangeDigTimes": [
+      50,
+      40,
+      30
+    ]
+  },
+  "203": {
+    "id": 203,
+    "rareStrokeColor": "#42b1d5",
+    "elementStorageRange": [
+      4,
+      6
+    ],
+    "targetWeight": [
+      1.14,
+      18.19,
+      102.29
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "weightRange": [
+      [
+        2.12,
+        18.18
+      ],
+      [
+        18.19,
+        54.21
+      ],
+      [
+        54.22,
+        102.28
+      ],
+      [
+        102.29,
+        111.38
+      ],
+      [
+        111.39,
+        120.48
+      ]
+    ],
+    "weight": [
+      6000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 99.22,
+    "maxMaxWeight": 120.48,
+    "upTimes": [
+      11,
+      12,
+      17,
+      30,
+      40,
+      40
+    ],
+    "upWeight": [
+      9.24,
+      6.16,
+      3.08,
+      1.54,
+      0.77,
+      0.47
+    ],
+    "deleteFirstRangeDigTimes": [
+      40,
+      30,
+      30
+    ]
+  },
+  "204": {
+    "id": 204,
+    "rareStrokeColor": "#c85adc",
+    "elementStorageRange": [
+      4,
+      8
+    ],
+    "targetWeight": [
+      1.95,
+      36.21,
+      208.89
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 7
+      }
+    ],
+    "weightRange": [
+      [
+        2.21,
+        36.2
+      ],
+      [
+        36.21,
+        106.52
+      ],
+      [
+        106.53,
+        208.88
+      ],
+      [
+        208.89,
+        222.81
+      ],
+      [
+        222.82,
+        236.74
+      ]
+    ],
+    "weight": [
+      8000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 202.62,
+    "maxMaxWeight": 236.74,
+    "upTimes": [
+      10,
+      11,
+      12,
+      17,
+      25,
+      25
+    ],
+    "upWeight": [
+      14.83,
+      9.89,
+      4.94,
+      2.47,
+      1.24,
+      0.75
+    ],
+    "deleteFirstRangeDigTimes": [
+      33,
+      17,
+      20
+    ]
+  },
+  "205": {
+    "id": 205,
+    "rareStrokeColor": "#d28312",
+    "elementStorageRange": [
+      6,
+      9
+    ],
+    "targetWeight": [
+      4.22,
+      64.87,
+      372.98
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 8
+      }
+    ],
+    "weightRange": [
+      [
+        5.54,
+        64.86
+      ],
+      [
+        64.87,
+        189.72
+      ],
+      [
+        189.73,
+        372.97
+      ],
+      [
+        372.98,
+        397.3
+      ],
+      [
+        397.31,
+        421.63
+      ]
+    ],
+    "weight": [
+      8000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 365.52,
+    "maxMaxWeight": 421.63,
+    "upTimes": [
+      10,
+      4,
+      6,
+      15,
+      15,
+      20
+    ],
+    "upWeight": [
+      24.4,
+      16.26,
+      8.13,
+      4.07,
+      2.03,
+      1.22
+    ],
+    "deleteFirstRangeDigTimes": [
+      20,
+      15,
+      10
+    ]
+  },
+  "206": {
+    "id": 206,
+    "rareStrokeColor": "#ea7434",
+    "elementStorageRange": [
+      7,
+      10
+    ],
+    "targetWeight": [
+      6.67,
+      105.25,
+      613.96
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 9
+      }
+    ],
+    "weightRange": [
+      [
+        9.22,
+        105.24
+      ],
+      [
+        105.25,
+        307.85
+      ],
+      [
+        307.86,
+        613.95
+      ],
+      [
+        613.96,
+        649.04
+      ],
+      [
+        649.05,
+        684.13
+      ]
+    ],
+    "weight": [
+      9000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 607.82,
+    "maxMaxWeight": 684.13,
+    "upTimes": [
+      9,
+      4,
+      9,
+      10,
+      8,
+      10
+    ],
+    "upWeight": [
+      33.18,
+      22.12,
+      11.06,
+      5.53,
+      2.76,
+      1.66
+    ],
+    "deleteFirstRangeDigTimes": [
+      13,
+      9,
+      10
+    ]
+  },
+  "207": {
+    "id": 207,
+    "rareStrokeColor": "#e63b3a",
+    "elementStorageRange": [
+      9,
+      12
+    ],
+    "targetWeight": [
+      7.93,
+      146.86,
+      690.26
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "weightRange": [
+      [
+        12.73,
+        146.85
+      ],
+      [
+        146.86,
+        421.64
+      ],
+      [
+        421.65,
+        690.25
+      ],
+      [
+        690.26,
+        813.62
+      ],
+      [
+        813.63,
+        936.99
+      ]
+    ],
+    "weight": [
+      10000,
+      4000,
+      2000,
+      1000,
+      500
+    ],
+    "initMaxWeight": 687.5,
+    "maxMaxWeight": 936.99,
+    "upTimes": [
+      8,
+      2,
+      6,
+      4,
+      4,
+      2
+    ],
+    "upWeight": [
+      108.47,
+      72.32,
+      36.16,
+      18.08,
+      9.04,
+      5.42
+    ],
+    "deleteFirstRangeDigTimes": [
+      8,
+      4,
+      5
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "101": {
+    "id": 101,
+    "reward": {
+      "Diamond": 50,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel3"
+  },
+  "102": {
+    "id": 102,
+    "reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel4"
+  },
+  "103": {
+    "id": 103,
+    "reward": {
+      "Diamond": 10,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel5"
+  },
+  "104": {
+    "id": 104,
+    "reward": {
+      "Diamond": 10,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel6"
+  },
+  "105": {
+    "id": 105,
+    "reward": {
+      "Energy": 50,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel7"
+  },
+  "106": {
+    "id": 106,
+    "reward": {
+      "Diamond": 10,
+      "BuffProp5": 1
+    },
+    "condition": "PlayerLevel8"
+  },
+  "107": {
+    "id": 107,
+    "reward": {
+      "9820002": 1,
+      "Film3": 1
+    },
+    "condition": "PlayerLevel9"
+  },
+  "108": {
+    "id": 108,
+    "reward": {
+      "Diamond": 10,
+      "Film3": 1
+    },
+    "condition": "PlayerLevel10"
+  },
+  "109": {
+    "id": 109,
+    "reward": {
+      "Film4": 1
+    },
+    "condition": "PlayerLevel11"
+  },
+  "110": {
+    "id": 110,
+    "reward": {
+      "Energy": 50,
+      "Film5": 1
+    },
+    "condition": "PlayerLevel12"
+  },
+  "111": {
+    "id": 111,
+    "reward": {
+      "Diamond": 10
+    },
+    "condition": "PlayerLevel13"
+  },
+  "112": {
+    "id": 112,
+    "reward": {
+      "Film9": 1,
+      "Energy": 50
+    },
+    "condition": "PlayerLevel14"
+  },
+  "113": {
+    "id": 113,
+    "reward": {
+      "Film10": 1
+    },
+    "condition": "PlayerLevel15"
+  },
+  "114": {
+    "id": 114,
+    "reward": {
+      "Film5": 1,
+      "Diamond": 10
+    },
+    "condition": "PlayerLevel16"
+  },
+  "115": {
+    "id": 115,
+    "reward": {
+      "Film9": 1
+    },
+    "condition": "PlayerLevel17"
+  },
+  "116": {
+    "id": 116,
+    "reward": {
+      "Diamond": 20,
+      "Energy": 50
+    },
+    "condition": "PlayerLevel18"
+  },
+  "117": {
+    "id": 117,
+    "reward": {
+      "Film10": 1
+    },
+    "condition": "PlayerLevel19"
+  },
+  "118": {
+    "id": 118,
+    "reward": {
+      "Film11": 1
+    },
+    "condition": "PlayerLevel20"
+  }
+}

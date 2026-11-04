@@ -1,0 +1,14 @@
+{
+  "lamp1": {
+    "id": "lamp1",
+    "beginDialog": 9319,
+    "firstClickLamp": 9320,
+    "endDialog": 9321
+  },
+  "lamp2": {
+    "id": "lamp2",
+    "beginDialog": 9319,
+    "firstClickLamp": 9320,
+    "endDialog": 9321
+  }
+}

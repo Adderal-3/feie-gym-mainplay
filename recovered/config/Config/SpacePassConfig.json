@@ -1,0 +1,16 @@
+{
+  "space1": {
+    "Spaceid": "space1",
+    "boardAnim": "yueqiubingorukou",
+    "taskgoose": "yuhanggouUI",
+    "initPassPoint": 0,
+    "passDialog": 9402,
+    "getPassport": 15002,
+    "goodsid": 210000,
+    "passPrice": 4500,
+    "originalPrice": 36000,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  }
+}

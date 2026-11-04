@@ -1,0 +1,326 @@
+{
+  "101": {
+    "id": 101,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Film1": 1
+    },
+    "weight": 10
+  },
+  "102": {
+    "id": 102,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "MhdIIBlindBox1": 1
+    },
+    "weight": 10
+  },
+  "103": {
+    "id": 103,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Film1": 1
+    },
+    "weight": 10
+  },
+  "104": {
+    "id": 104,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "105": {
+    "id": 105,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "106": {
+    "id": 106,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "98808": 1
+    },
+    "weight": 10
+  },
+  "107": {
+    "id": 107,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 5
+    },
+    "weight": 10
+  },
+  "108": {
+    "id": 108,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 10
+    },
+    "weight": 10
+  },
+  "109": {
+    "id": 109,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 15
+    },
+    "weight": 10
+  },
+  "110": {
+    "id": 110,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 5
+    },
+    "weight": 10
+  },
+  "111": {
+    "id": 111,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 10
+    },
+    "weight": 10
+  },
+  "112": {
+    "id": 112,
+    "flipId": "jungleFlip1_1",
+    "stageIndex": 1,
+    "reward": {
+      "Energy": 15
+    },
+    "weight": 10
+  },
+  "201": {
+    "id": 201,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Film7": 1
+    },
+    "weight": 10
+  },
+  "202": {
+    "id": 202,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "MhdIIBlindBox1": 1
+    },
+    "weight": 10
+  },
+  "203": {
+    "id": 203,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Film2": 1
+    },
+    "weight": 10
+  },
+  "204": {
+    "id": 204,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "205": {
+    "id": 205,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "206": {
+    "id": 206,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Film2": 1
+    },
+    "weight": 10
+  },
+  "207": {
+    "id": 207,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 10
+    },
+    "weight": 10
+  },
+  "208": {
+    "id": 208,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 20
+    },
+    "weight": 10
+  },
+  "209": {
+    "id": 209,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 30
+    },
+    "weight": 10
+  },
+  "210": {
+    "id": 210,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 10
+    },
+    "weight": 10
+  },
+  "211": {
+    "id": 211,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 20
+    },
+    "weight": 10
+  },
+  "212": {
+    "id": 212,
+    "flipId": "jungleFlip1_2",
+    "stageIndex": 2,
+    "reward": {
+      "Energy": 30
+    },
+    "weight": 10
+  },
+  "301": {
+    "id": 301,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Film2": 1
+    },
+    "weight": 10
+  },
+  "302": {
+    "id": 302,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "MhdIIBlindBox1": 1
+    },
+    "weight": 10
+  },
+  "303": {
+    "id": 303,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "98302": 1
+    },
+    "weight": 10
+  },
+  "304": {
+    "id": 304,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "98801": 1
+    },
+    "weight": 10
+  },
+  "305": {
+    "id": 305,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "MhdIIBlindBox2": 1
+    },
+    "weight": 10
+  },
+  "306": {
+    "id": 306,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "9820001": 1
+    },
+    "weight": 10
+  },
+  "307": {
+    "id": 307,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 20
+    },
+    "weight": 10
+  },
+  "308": {
+    "id": 308,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 30
+    },
+    "weight": 10
+  },
+  "309": {
+    "id": 309,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 40
+    },
+    "weight": 10
+  },
+  "310": {
+    "id": 310,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 20
+    },
+    "weight": 10
+  },
+  "311": {
+    "id": 311,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 30
+    },
+    "weight": 10
+  },
+  "312": {
+    "id": 312,
+    "flipId": "jungleFlip1_3",
+    "stageIndex": 3,
+    "reward": {
+      "Energy": 40
+    },
+    "weight": 10
+  }
+}

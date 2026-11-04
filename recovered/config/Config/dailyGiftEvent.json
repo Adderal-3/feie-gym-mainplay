@@ -1,0 +1,10 @@
+{
+  "dailyGift1": {
+    "id": "dailyGift1",
+    "condition": [
+      "PlayerLevel12"
+    ],
+    "duration": 14400,
+    "dailyLimit": 6
+  }
+}

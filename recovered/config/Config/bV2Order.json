@@ -1,0 +1,1154 @@
+{
+  "fashion1_1": {
+    "1101": {
+      "id": 1101,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33613": 1,
+        "33615": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 10
+      }
+    },
+    "1102": {
+      "id": 1102,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 40
+      }
+    },
+    "1103": {
+      "id": 1103,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33616": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 25
+      }
+    },
+    "1104": {
+      "id": 1104,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33613": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 40
+      }
+    },
+    "1105": {
+      "id": 1105,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1106": {
+      "id": 1106,
+      "index": 1,
+      "orderDifficulty": 34,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        17,
+        51
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 90
+      }
+    },
+    "1107": {
+      "id": 1107,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33617": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 110
+      }
+    },
+    "1108": {
+      "id": 1108,
+      "index": 1,
+      "orderDifficulty": 29,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        14.5,
+        43.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1109": {
+      "id": 1109,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33618": 3
+      },
+      "reward": {
+        "ButterflyIIPoint": 220
+      }
+    },
+    "1110": {
+      "id": 1110,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 45
+      }
+    },
+    "1111": {
+      "id": 1111,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33615": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 15
+      }
+    },
+    "1112": {
+      "id": 1112,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33616": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 25
+      }
+    },
+    "1113": {
+      "id": 1113,
+      "index": 1,
+      "orderDifficulty": 47,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        23.5,
+        70.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 130
+      }
+    },
+    "1114": {
+      "id": 1114,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1115": {
+      "id": 1115,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33617": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 110
+      }
+    },
+    "1116": {
+      "id": 1116,
+      "index": 1,
+      "orderDifficulty": 52,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        26,
+        78
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 140
+      }
+    },
+    "1117": {
+      "id": 1117,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33618": 3
+      },
+      "reward": {
+        "ButterflyIIPoint": 220
+      }
+    },
+    "1118": {
+      "id": 1118,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 35
+      }
+    },
+    "1119": {
+      "id": 1119,
+      "index": 2,
+      "orderDifficulty": 26,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        13,
+        39
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1120": {
+      "id": 1120,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1,
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 210
+      }
+    },
+    "1121": {
+      "id": 1121,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 35
+      }
+    },
+    "1122": {
+      "id": 1122,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1123": {
+      "id": 1123,
+      "index": 2,
+      "orderDifficulty": 42,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        21,
+        63
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 115
+      }
+    },
+    "1124": {
+      "id": 1124,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1,
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 175
+      }
+    },
+    "1125": {
+      "id": 1125,
+      "index": 2,
+      "orderDifficulty": 34,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        17,
+        51
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 90
+      }
+    },
+    "1126": {
+      "id": 1126,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1127": {
+      "id": 1127,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 140
+      }
+    },
+    "1128": {
+      "id": 1128,
+      "index": 2,
+      "orderDifficulty": 68,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        34,
+        102
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 185
+      }
+    },
+    "1129": {
+      "id": 1129,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1,
+        "33644": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 345
+      }
+    }
+  },
+  "fashion1_2": {
+    "1201": {
+      "id": 1201,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33613": 1,
+        "33615": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 10
+      }
+    },
+    "1202": {
+      "id": 1202,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 40
+      }
+    },
+    "1203": {
+      "id": 1203,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33616": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 25
+      }
+    },
+    "1204": {
+      "id": 1204,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33613": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 40
+      }
+    },
+    "1205": {
+      "id": 1205,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1206": {
+      "id": 1206,
+      "index": 1,
+      "orderDifficulty": 65,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        32.5,
+        97.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 90
+      }
+    },
+    "1207": {
+      "id": 1207,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33617": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 110
+      }
+    },
+    "1208": {
+      "id": 1208,
+      "index": 1,
+      "orderDifficulty": 55,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        27.5,
+        82.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1209": {
+      "id": 1209,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33618": 3
+      },
+      "reward": {
+        "ButterflyIIPoint": 220
+      }
+    },
+    "1210": {
+      "id": 1210,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33617": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 45
+      }
+    },
+    "1211": {
+      "id": 1211,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33615": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 15
+      }
+    },
+    "1212": {
+      "id": 1212,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33615": 1,
+        "33616": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 25
+      }
+    },
+    "1213": {
+      "id": 1213,
+      "index": 1,
+      "orderDifficulty": 90,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        45,
+        135
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 130
+      }
+    },
+    "1214": {
+      "id": 1214,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33614": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 80
+      }
+    },
+    "1215": {
+      "id": 1215,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33617": 1,
+        "33618": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 110
+      }
+    },
+    "1216": {
+      "id": 1216,
+      "index": 1,
+      "orderDifficulty": 100,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        50,
+        150
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 140
+      }
+    },
+    "1217": {
+      "id": 1217,
+      "index": 1,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33618": 3
+      },
+      "reward": {
+        "ButterflyIIPoint": 220
+      }
+    },
+    "1218": {
+      "id": 1218,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 35
+      }
+    },
+    "1219": {
+      "id": 1219,
+      "index": 2,
+      "orderDifficulty": 50,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        25,
+        75
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Most"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1220": {
+      "id": 1220,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1,
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 210
+      }
+    },
+    "1221": {
+      "id": 1221,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 35
+      }
+    },
+    "1222": {
+      "id": 1222,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1223": {
+      "id": 1223,
+      "index": 2,
+      "orderDifficulty": 80,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        40,
+        120
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Random"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 115
+      }
+    },
+    "1224": {
+      "id": 1224,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33641": 1,
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 175
+      }
+    },
+    "1225": {
+      "id": 1225,
+      "index": 2,
+      "orderDifficulty": 65,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        32.5,
+        97.5
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Random"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 90
+      }
+    },
+    "1226": {
+      "id": 1226,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 70
+      }
+    },
+    "1227": {
+      "id": 1227,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33643": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 140
+      }
+    },
+    "1228": {
+      "id": 1228,
+      "index": 2,
+      "orderDifficulty": 130,
+      "autoDifficultyRange": [
+        1.2
+      ],
+      "legalRange": [
+        65,
+        195
+      ],
+      "algorithm": [
+        [
+          "FMS",
+          "Least"
+        ],
+        [
+          "FMS",
+          "Max"
+        ]
+      ],
+      "secondPartMinDiff": 10,
+      "stackLimit": 3,
+      "actEleDemand": {},
+      "reward": {
+        "ButterflyIIPoint": 185
+      }
+    },
+    "1229": {
+      "id": 1229,
+      "index": 2,
+      "orderDifficulty": 0,
+      "autoDifficultyRange": [],
+      "legalRange": [],
+      "algorithm": [],
+      "secondPartMinDiff": 0,
+      "stackLimit": 0,
+      "actEleDemand": {
+        "33642": 1,
+        "33644": 1
+      },
+      "reward": {
+        "ButterflyIIPoint": 345
+      }
+    }
+  }
+}

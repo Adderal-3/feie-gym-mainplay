@@ -1,0 +1,2938 @@
+{
+  "1001": {
+    "id": 1001,
+    "seriesId": 10008,
+    "content": {
+      "Diamond": 40
+    },
+    "weight": 100
+  },
+  "1002": {
+    "id": 1002,
+    "seriesId": 10012,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "1003": {
+    "id": 1003,
+    "seriesId": 10025,
+    "content": {
+      "Diamond": 120
+    },
+    "weight": 100
+  },
+  "1004": {
+    "id": 1004,
+    "seriesId": 10050,
+    "content": {
+      "Diamond": 240
+    },
+    "weight": 100
+  },
+  "1005": {
+    "id": 1005,
+    "seriesId": 10098,
+    "content": {
+      "Diamond": 500
+    },
+    "weight": 100
+  },
+  "1006": {
+    "id": 1006,
+    "seriesId": 10168,
+    "content": {
+      "Diamond": 750
+    },
+    "weight": 100
+  },
+  "1007": {
+    "id": 1007,
+    "seriesId": 10328,
+    "content": {
+      "Diamond": 1600
+    },
+    "weight": 100
+  },
+  "1008": {
+    "id": 1008,
+    "seriesId": 10648,
+    "content": {
+      "Diamond": 3500
+    },
+    "weight": 100
+  },
+  "1011": {
+    "id": 1011,
+    "seriesId": 10008,
+    "content": {
+      "Energy": 40
+    },
+    "weight": 100
+  },
+  "1012": {
+    "id": 1012,
+    "seriesId": 10012,
+    "content": {
+      "Energy": 60
+    },
+    "weight": 100
+  },
+  "1013": {
+    "id": 1013,
+    "seriesId": 10025,
+    "content": {
+      "Energy": 120
+    },
+    "weight": 100
+  },
+  "1014": {
+    "id": 1014,
+    "seriesId": 10050,
+    "content": {
+      "Energy": 240
+    },
+    "weight": 100
+  },
+  "1015": {
+    "id": 1015,
+    "seriesId": 10098,
+    "content": {
+      "Energy": 500
+    },
+    "weight": 100
+  },
+  "1016": {
+    "id": 1016,
+    "seriesId": 10168,
+    "content": {
+      "Energy": 750
+    },
+    "weight": 100
+  },
+  "1017": {
+    "id": 1017,
+    "seriesId": 10328,
+    "content": {
+      "Energy": 1600
+    },
+    "weight": 100
+  },
+  "1018": {
+    "id": 1018,
+    "seriesId": 10648,
+    "content": {
+      "Energy": 3500
+    },
+    "weight": 100
+  },
+  "2001": {
+    "id": 2001,
+    "seriesId": 20008,
+    "content": {
+      "Energy": 15
+    },
+    "weight": 100
+  },
+  "2002": {
+    "id": 2002,
+    "seriesId": 20012,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "2003": {
+    "id": 2003,
+    "seriesId": 20025,
+    "content": {
+      "Energy": 50
+    },
+    "weight": 100
+  },
+  "2004": {
+    "id": 2004,
+    "seriesId": 20050,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "2005": {
+    "id": 2005,
+    "seriesId": 20098,
+    "content": {
+      "Energy": 180
+    },
+    "weight": 100
+  },
+  "2006": {
+    "id": 2006,
+    "seriesId": 20168,
+    "content": {
+      "Energy": 400
+    },
+    "weight": 100
+  },
+  "2007": {
+    "id": 2007,
+    "seriesId": 20328,
+    "content": {
+      "Energy": 600
+    },
+    "weight": 100
+  },
+  "2008": {
+    "id": 2008,
+    "seriesId": 20648,
+    "content": {
+      "Energy": 1000
+    },
+    "weight": 100
+  },
+  "2011": {
+    "id": 2011,
+    "seriesId": 20008,
+    "content": {
+      "Diamond": 15
+    },
+    "weight": 100
+  },
+  "2012": {
+    "id": 2012,
+    "seriesId": 20012,
+    "content": {
+      "Diamond": 20
+    },
+    "weight": 100
+  },
+  "2013": {
+    "id": 2013,
+    "seriesId": 20025,
+    "content": {
+      "Diamond": 50
+    },
+    "weight": 100
+  },
+  "2014": {
+    "id": 2014,
+    "seriesId": 20050,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "2015": {
+    "id": 2015,
+    "seriesId": 20098,
+    "content": {
+      "Diamond": 180
+    },
+    "weight": 100
+  },
+  "2016": {
+    "id": 2016,
+    "seriesId": 20168,
+    "content": {
+      "Diamond": 400
+    },
+    "weight": 100
+  },
+  "2017": {
+    "id": 2017,
+    "seriesId": 20328,
+    "content": {
+      "Diamond": 600
+    },
+    "weight": 100
+  },
+  "2018": {
+    "id": 2018,
+    "seriesId": 20648,
+    "content": {
+      "Diamond": 1000
+    },
+    "weight": 100
+  },
+  "3001": {
+    "id": 3001,
+    "seriesId": 30008,
+    "content": {
+      "Coin": 300
+    },
+    "weight": 1000
+  },
+  "3002": {
+    "id": 3002,
+    "seriesId": 30008,
+    "content": {
+      "AdornCoupon": 60
+    },
+    "weight": 1000
+  },
+  "3003": {
+    "id": 3003,
+    "seriesId": 30008,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "3004": {
+    "id": 3004,
+    "seriesId": 30008,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "3005": {
+    "id": 3005,
+    "seriesId": 30008,
+    "content": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "3011": {
+    "id": 3011,
+    "seriesId": 30012,
+    "content": {
+      "Coin": 400
+    },
+    "weight": 1000
+  },
+  "3012": {
+    "id": 3012,
+    "seriesId": 30012,
+    "content": {
+      "AdornCoupon": 80
+    },
+    "weight": 1000
+  },
+  "3013": {
+    "id": 3013,
+    "seriesId": 30012,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "3014": {
+    "id": 3014,
+    "seriesId": 30012,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "3015": {
+    "id": 3015,
+    "seriesId": 30012,
+    "content": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "3021": {
+    "id": 3021,
+    "seriesId": 30025,
+    "content": {
+      "Coin": 800
+    },
+    "weight": 1000
+  },
+  "3022": {
+    "id": 3022,
+    "seriesId": 30025,
+    "content": {
+      "AdornCoupon": 160
+    },
+    "weight": 1000
+  },
+  "3023": {
+    "id": 3023,
+    "seriesId": 30025,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "3024": {
+    "id": 3024,
+    "seriesId": 30025,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "3025": {
+    "id": 3025,
+    "seriesId": 30025,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "3026": {
+    "id": 3026,
+    "seriesId": 30025,
+    "content": {
+      "98801": 1
+    },
+    "weight": 10
+  },
+  "3031": {
+    "id": 3031,
+    "seriesId": 30050,
+    "content": {
+      "Coin": 1000
+    },
+    "weight": 1000
+  },
+  "3032": {
+    "id": 3032,
+    "seriesId": 30050,
+    "content": {
+      "AdornCoupon": 200
+    },
+    "weight": 1000
+  },
+  "3033": {
+    "id": 3033,
+    "seriesId": 30050,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "3034": {
+    "id": 3034,
+    "seriesId": 30050,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "3035": {
+    "id": 3035,
+    "seriesId": 30050,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "3036": {
+    "id": 3036,
+    "seriesId": 30050,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "3037": {
+    "id": 3037,
+    "seriesId": 30050,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "3041": {
+    "id": 3041,
+    "seriesId": 30098,
+    "content": {
+      "Coin": 1250
+    },
+    "weight": 1000
+  },
+  "3042": {
+    "id": 3042,
+    "seriesId": 30098,
+    "content": {
+      "AdornCoupon": 260
+    },
+    "weight": 1000
+  },
+  "3043": {
+    "id": 3043,
+    "seriesId": 30098,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "3044": {
+    "id": 3044,
+    "seriesId": 30098,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "3045": {
+    "id": 3045,
+    "seriesId": 30098,
+    "content": {
+      "98302": 1
+    },
+    "weight": 10
+  },
+  "3046": {
+    "id": 3046,
+    "seriesId": 30098,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "3047": {
+    "id": 3047,
+    "seriesId": 30098,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "3051": {
+    "id": 3051,
+    "seriesId": 30168,
+    "content": {
+      "Coin": 2500
+    },
+    "weight": 1000
+  },
+  "3052": {
+    "id": 3052,
+    "seriesId": 30168,
+    "content": {
+      "AdornCoupon": 500
+    },
+    "weight": 1000
+  },
+  "3053": {
+    "id": 3053,
+    "seriesId": 30168,
+    "content": {
+      "98103": 1
+    },
+    "weight": 10
+  },
+  "3054": {
+    "id": 3054,
+    "seriesId": 30168,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "3055": {
+    "id": 3055,
+    "seriesId": 30168,
+    "content": {
+      "98303": 1
+    },
+    "weight": 10
+  },
+  "3056": {
+    "id": 3056,
+    "seriesId": 30168,
+    "content": {
+      "98402": 1
+    },
+    "weight": 10
+  },
+  "3057": {
+    "id": 3057,
+    "seriesId": 30168,
+    "content": {
+      "98805": 1
+    },
+    "weight": 10
+  },
+  "3061": {
+    "id": 3061,
+    "seriesId": 30328,
+    "content": {
+      "Coin": 5000
+    },
+    "weight": 1000
+  },
+  "3062": {
+    "id": 3062,
+    "seriesId": 30328,
+    "content": {
+      "AdornCoupon": 1000
+    },
+    "weight": 1000
+  },
+  "3063": {
+    "id": 3063,
+    "seriesId": 30328,
+    "content": {
+      "98103": 3
+    },
+    "weight": 10
+  },
+  "3064": {
+    "id": 3064,
+    "seriesId": 30328,
+    "content": {
+      "98203": 3
+    },
+    "weight": 10
+  },
+  "3065": {
+    "id": 3065,
+    "seriesId": 30328,
+    "content": {
+      "98303": 2
+    },
+    "weight": 10
+  },
+  "3066": {
+    "id": 3066,
+    "seriesId": 30328,
+    "content": {
+      "98403": 1
+    },
+    "weight": 10
+  },
+  "3067": {
+    "id": 3067,
+    "seriesId": 30328,
+    "content": {
+      "98809": 1
+    },
+    "weight": 10
+  },
+  "3071": {
+    "id": 3071,
+    "seriesId": 30648,
+    "content": {
+      "Coin": 10000
+    },
+    "weight": 1000
+  },
+  "3072": {
+    "id": 3072,
+    "seriesId": 30648,
+    "content": {
+      "AdornCoupon": 2000
+    },
+    "weight": 1000
+  },
+  "3073": {
+    "id": 3073,
+    "seriesId": 30648,
+    "content": {
+      "98701": 1
+    },
+    "weight": 50
+  },
+  "3074": {
+    "id": 3074,
+    "seriesId": 30648,
+    "content": {
+      "98711": 1
+    },
+    "weight": 50
+  },
+  "3075": {
+    "id": 3075,
+    "seriesId": 30648,
+    "content": {
+      "98721": 1
+    },
+    "weight": 50
+  },
+  "4001": {
+    "id": 4001,
+    "seriesId": 40008,
+    "content": {
+      "Diamond": 70
+    },
+    "weight": 100
+  },
+  "4002": {
+    "id": 4002,
+    "seriesId": 40012,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "4003": {
+    "id": 4003,
+    "seriesId": 40025,
+    "content": {
+      "Diamond": 210
+    },
+    "weight": 100
+  },
+  "4004": {
+    "id": 4004,
+    "seriesId": 40050,
+    "content": {
+      "Diamond": 420
+    },
+    "weight": 100
+  },
+  "4005": {
+    "id": 4005,
+    "seriesId": 40098,
+    "content": {
+      "Diamond": 900
+    },
+    "weight": 100
+  },
+  "4006": {
+    "id": 4006,
+    "seriesId": 40168,
+    "content": {
+      "Diamond": 1400
+    },
+    "weight": 100
+  },
+  "4007": {
+    "id": 4007,
+    "seriesId": 40328,
+    "content": {
+      "Diamond": 3000
+    },
+    "weight": 100
+  },
+  "4008": {
+    "id": 4008,
+    "seriesId": 40648,
+    "content": {
+      "Diamond": 6500
+    },
+    "weight": 100
+  },
+  "4011": {
+    "id": 4011,
+    "seriesId": 40008,
+    "content": {
+      "Energy": 70
+    },
+    "weight": 100
+  },
+  "4012": {
+    "id": 4012,
+    "seriesId": 40012,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "4013": {
+    "id": 4013,
+    "seriesId": 40025,
+    "content": {
+      "Energy": 210
+    },
+    "weight": 100
+  },
+  "4014": {
+    "id": 4014,
+    "seriesId": 40050,
+    "content": {
+      "Energy": 420
+    },
+    "weight": 100
+  },
+  "4015": {
+    "id": 4015,
+    "seriesId": 40098,
+    "content": {
+      "Energy": 900
+    },
+    "weight": 100
+  },
+  "4016": {
+    "id": 4016,
+    "seriesId": 40168,
+    "content": {
+      "Energy": 1400
+    },
+    "weight": 100
+  },
+  "4017": {
+    "id": 4017,
+    "seriesId": 40328,
+    "content": {
+      "Energy": 3000
+    },
+    "weight": 100
+  },
+  "4018": {
+    "id": 4018,
+    "seriesId": 40648,
+    "content": {
+      "Energy": 6500
+    },
+    "weight": 100
+  },
+  "5001": {
+    "id": 5001,
+    "seriesId": 50008,
+    "content": {
+      "Energy": 25
+    },
+    "weight": 100
+  },
+  "5002": {
+    "id": 5002,
+    "seriesId": 50012,
+    "content": {
+      "Energy": 30
+    },
+    "weight": 100
+  },
+  "5003": {
+    "id": 5003,
+    "seriesId": 50025,
+    "content": {
+      "Energy": 90
+    },
+    "weight": 100
+  },
+  "5004": {
+    "id": 5004,
+    "seriesId": 50050,
+    "content": {
+      "Energy": 180
+    },
+    "weight": 100
+  },
+  "5005": {
+    "id": 5005,
+    "seriesId": 50098,
+    "content": {
+      "Energy": 320
+    },
+    "weight": 100
+  },
+  "5006": {
+    "id": 5006,
+    "seriesId": 50168,
+    "content": {
+      "Energy": 750
+    },
+    "weight": 100
+  },
+  "5007": {
+    "id": 5007,
+    "seriesId": 50328,
+    "content": {
+      "Energy": 1000
+    },
+    "weight": 100
+  },
+  "5008": {
+    "id": 5008,
+    "seriesId": 50648,
+    "content": {
+      "Energy": 1800
+    },
+    "weight": 100
+  },
+  "5011": {
+    "id": 5011,
+    "seriesId": 50008,
+    "content": {
+      "Diamond": 25
+    },
+    "weight": 100
+  },
+  "5012": {
+    "id": 5012,
+    "seriesId": 50012,
+    "content": {
+      "Diamond": 30
+    },
+    "weight": 100
+  },
+  "5013": {
+    "id": 5013,
+    "seriesId": 50025,
+    "content": {
+      "Diamond": 90
+    },
+    "weight": 100
+  },
+  "5014": {
+    "id": 5014,
+    "seriesId": 50050,
+    "content": {
+      "Diamond": 180
+    },
+    "weight": 100
+  },
+  "5015": {
+    "id": 5015,
+    "seriesId": 50098,
+    "content": {
+      "Diamond": 320
+    },
+    "weight": 100
+  },
+  "5016": {
+    "id": 5016,
+    "seriesId": 50168,
+    "content": {
+      "Diamond": 750
+    },
+    "weight": 100
+  },
+  "5017": {
+    "id": 5017,
+    "seriesId": 50328,
+    "content": {
+      "Diamond": 1000
+    },
+    "weight": 100
+  },
+  "5018": {
+    "id": 5018,
+    "seriesId": 50648,
+    "content": {
+      "Diamond": 1800
+    },
+    "weight": 100
+  },
+  "6001": {
+    "id": 6001,
+    "seriesId": 60008,
+    "content": {
+      "Coin": 300
+    },
+    "weight": 1000
+  },
+  "6002": {
+    "id": 6002,
+    "seriesId": 60008,
+    "content": {
+      "AdornCoupon": 60
+    },
+    "weight": 1000
+  },
+  "6005": {
+    "id": 6005,
+    "seriesId": 60008,
+    "content": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "6011": {
+    "id": 6011,
+    "seriesId": 60012,
+    "content": {
+      "Coin": 400
+    },
+    "weight": 1000
+  },
+  "6012": {
+    "id": 6012,
+    "seriesId": 60012,
+    "content": {
+      "AdornCoupon": 80
+    },
+    "weight": 1000
+  },
+  "6015": {
+    "id": 6015,
+    "seriesId": 60012,
+    "content": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "6021": {
+    "id": 6021,
+    "seriesId": 60025,
+    "content": {
+      "Coin": 800
+    },
+    "weight": 1000
+  },
+  "6022": {
+    "id": 6022,
+    "seriesId": 60025,
+    "content": {
+      "AdornCoupon": 160
+    },
+    "weight": 1000
+  },
+  "6026": {
+    "id": 6026,
+    "seriesId": 60025,
+    "content": {
+      "98801": 1
+    },
+    "weight": 10
+  },
+  "6031": {
+    "id": 6031,
+    "seriesId": 60050,
+    "content": {
+      "Coin": 1000
+    },
+    "weight": 1000
+  },
+  "6032": {
+    "id": 6032,
+    "seriesId": 60050,
+    "content": {
+      "AdornCoupon": 200
+    },
+    "weight": 1000
+  },
+  "6036": {
+    "id": 6036,
+    "seriesId": 60050,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "6037": {
+    "id": 6037,
+    "seriesId": 60050,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "6041": {
+    "id": 6041,
+    "seriesId": 60098,
+    "content": {
+      "Coin": 1250
+    },
+    "weight": 1000
+  },
+  "6042": {
+    "id": 6042,
+    "seriesId": 60098,
+    "content": {
+      "AdornCoupon": 260
+    },
+    "weight": 1000
+  },
+  "6046": {
+    "id": 6046,
+    "seriesId": 60098,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "6047": {
+    "id": 6047,
+    "seriesId": 60098,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "6051": {
+    "id": 6051,
+    "seriesId": 60168,
+    "content": {
+      "Coin": 2500
+    },
+    "weight": 1000
+  },
+  "6052": {
+    "id": 6052,
+    "seriesId": 60168,
+    "content": {
+      "AdornCoupon": 500
+    },
+    "weight": 1000
+  },
+  "6056": {
+    "id": 6056,
+    "seriesId": 60168,
+    "content": {
+      "98402": 1
+    },
+    "weight": 10
+  },
+  "6057": {
+    "id": 6057,
+    "seriesId": 60168,
+    "content": {
+      "98805": 1
+    },
+    "weight": 10
+  },
+  "6061": {
+    "id": 6061,
+    "seriesId": 60328,
+    "content": {
+      "Coin": 5000
+    },
+    "weight": 1000
+  },
+  "6062": {
+    "id": 6062,
+    "seriesId": 60328,
+    "content": {
+      "AdornCoupon": 1000
+    },
+    "weight": 1000
+  },
+  "6066": {
+    "id": 6066,
+    "seriesId": 60328,
+    "content": {
+      "98403": 1
+    },
+    "weight": 10
+  },
+  "6067": {
+    "id": 6067,
+    "seriesId": 60328,
+    "content": {
+      "98809": 1
+    },
+    "weight": 10
+  },
+  "6071": {
+    "id": 6071,
+    "seriesId": 60648,
+    "content": {
+      "Coin": 10000
+    },
+    "weight": 1000
+  },
+  "6072": {
+    "id": 6072,
+    "seriesId": 60648,
+    "content": {
+      "AdornCoupon": 2000
+    },
+    "weight": 1000
+  },
+  "6073": {
+    "id": 6073,
+    "seriesId": 60648,
+    "content": {
+      "98701": 1
+    },
+    "weight": 50
+  },
+  "8001": {
+    "id": 8001,
+    "seriesId": 80008,
+    "content": {
+      "Diamond": 10
+    },
+    "weight": 100
+  },
+  "8002": {
+    "id": 8002,
+    "seriesId": 80012,
+    "content": {
+      "Diamond": 20
+    },
+    "weight": 100
+  },
+  "8003": {
+    "id": 8003,
+    "seriesId": 80025,
+    "content": {
+      "Diamond": 30
+    },
+    "weight": 100
+  },
+  "8004": {
+    "id": 8004,
+    "seriesId": 80050,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "8005": {
+    "id": 8005,
+    "seriesId": 80098,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "8006": {
+    "id": 8006,
+    "seriesId": 80168,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "8007": {
+    "id": 8007,
+    "seriesId": 80328,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "8008": {
+    "id": 8008,
+    "seriesId": 80648,
+    "content": {
+      "Diamond": 500
+    },
+    "weight": 100
+  },
+  "8011": {
+    "id": 8011,
+    "seriesId": 80008,
+    "content": {
+      "Energy": 10
+    },
+    "weight": 100
+  },
+  "8012": {
+    "id": 8012,
+    "seriesId": 80012,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "8013": {
+    "id": 8013,
+    "seriesId": 80025,
+    "content": {
+      "Energy": 30
+    },
+    "weight": 100
+  },
+  "8014": {
+    "id": 8014,
+    "seriesId": 80050,
+    "content": {
+      "Energy": 60
+    },
+    "weight": 100
+  },
+  "8015": {
+    "id": 8015,
+    "seriesId": 80098,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "8016": {
+    "id": 8016,
+    "seriesId": 80168,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "8017": {
+    "id": 8017,
+    "seriesId": 80328,
+    "content": {
+      "Energy": 200
+    },
+    "weight": 100
+  },
+  "8018": {
+    "id": 8018,
+    "seriesId": 80648,
+    "content": {
+      "Energy": 500
+    },
+    "weight": 100
+  },
+  "9001": {
+    "id": 9001,
+    "seriesId": 90008,
+    "content": {
+      "Energy": 5
+    },
+    "weight": 100
+  },
+  "9002": {
+    "id": 9002,
+    "seriesId": 90012,
+    "content": {
+      "Energy": 10
+    },
+    "weight": 100
+  },
+  "9003": {
+    "id": 9003,
+    "seriesId": 90025,
+    "content": {
+      "Energy": 10
+    },
+    "weight": 100
+  },
+  "9004": {
+    "id": 9004,
+    "seriesId": 90050,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "9005": {
+    "id": 9005,
+    "seriesId": 90098,
+    "content": {
+      "Energy": 40
+    },
+    "weight": 100
+  },
+  "9006": {
+    "id": 9006,
+    "seriesId": 90168,
+    "content": {
+      "Energy": 50
+    },
+    "weight": 100
+  },
+  "9007": {
+    "id": 9007,
+    "seriesId": 90328,
+    "content": {
+      "Energy": 200
+    },
+    "weight": 100
+  },
+  "9008": {
+    "id": 9008,
+    "seriesId": 90648,
+    "content": {
+      "Energy": 200
+    },
+    "weight": 100
+  },
+  "9011": {
+    "id": 9011,
+    "seriesId": 90008,
+    "content": {
+      "Diamond": 5
+    },
+    "weight": 100
+  },
+  "9012": {
+    "id": 9012,
+    "seriesId": 90012,
+    "content": {
+      "Diamond": 10
+    },
+    "weight": 100
+  },
+  "9013": {
+    "id": 9013,
+    "seriesId": 90025,
+    "content": {
+      "Diamond": 10
+    },
+    "weight": 100
+  },
+  "9014": {
+    "id": 9014,
+    "seriesId": 90050,
+    "content": {
+      "Diamond": 20
+    },
+    "weight": 100
+  },
+  "9015": {
+    "id": 9015,
+    "seriesId": 90098,
+    "content": {
+      "Diamond": 40
+    },
+    "weight": 100
+  },
+  "9016": {
+    "id": 9016,
+    "seriesId": 90168,
+    "content": {
+      "Diamond": 50
+    },
+    "weight": 100
+  },
+  "9017": {
+    "id": 9017,
+    "seriesId": 90328,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "9018": {
+    "id": 9018,
+    "seriesId": 90648,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "10003": {
+    "id": 10003,
+    "seriesId": 100008,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "10004": {
+    "id": 10004,
+    "seriesId": 100008,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "10013": {
+    "id": 10013,
+    "seriesId": 100012,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "10014": {
+    "id": 10014,
+    "seriesId": 100012,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "10023": {
+    "id": 10023,
+    "seriesId": 100025,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "10024": {
+    "id": 10024,
+    "seriesId": 100025,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "10025": {
+    "id": 10025,
+    "seriesId": 100025,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "10033": {
+    "id": 10033,
+    "seriesId": 100050,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "10034": {
+    "id": 10034,
+    "seriesId": 100050,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "10035": {
+    "id": 10035,
+    "seriesId": 100050,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "10043": {
+    "id": 10043,
+    "seriesId": 100098,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "10044": {
+    "id": 10044,
+    "seriesId": 100098,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "10045": {
+    "id": 10045,
+    "seriesId": 100098,
+    "content": {
+      "98302": 1
+    },
+    "weight": 10
+  },
+  "10053": {
+    "id": 10053,
+    "seriesId": 100168,
+    "content": {
+      "98103": 1
+    },
+    "weight": 10
+  },
+  "10054": {
+    "id": 10054,
+    "seriesId": 100168,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "10055": {
+    "id": 10055,
+    "seriesId": 100168,
+    "content": {
+      "98303": 1
+    },
+    "weight": 10
+  },
+  "10063": {
+    "id": 10063,
+    "seriesId": 100328,
+    "content": {
+      "98103": 3
+    },
+    "weight": 10
+  },
+  "10064": {
+    "id": 10064,
+    "seriesId": 100328,
+    "content": {
+      "98203": 3
+    },
+    "weight": 10
+  },
+  "10065": {
+    "id": 10065,
+    "seriesId": 100328,
+    "content": {
+      "98303": 2
+    },
+    "weight": 10
+  },
+  "10074": {
+    "id": 10074,
+    "seriesId": 100648,
+    "content": {
+      "98711": 1
+    },
+    "weight": 50
+  },
+  "10075": {
+    "id": 10075,
+    "seriesId": 100648,
+    "content": {
+      "98721": 1
+    },
+    "weight": 50
+  },
+  "11001": {
+    "id": 11001,
+    "seriesId": 110008,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "11002": {
+    "id": 11002,
+    "seriesId": 110012,
+    "content": {
+      "Diamond": 80
+    },
+    "weight": 100
+  },
+  "11003": {
+    "id": 11003,
+    "seriesId": 110025,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "11004": {
+    "id": 11004,
+    "seriesId": 110050,
+    "content": {
+      "Diamond": 400
+    },
+    "weight": 100
+  },
+  "11005": {
+    "id": 11005,
+    "seriesId": 110098,
+    "content": {
+      "Diamond": 900
+    },
+    "weight": 100
+  },
+  "11006": {
+    "id": 11006,
+    "seriesId": 110168,
+    "content": {
+      "Diamond": 1400
+    },
+    "weight": 100
+  },
+  "11007": {
+    "id": 11007,
+    "seriesId": 110328,
+    "content": {
+      "Diamond": 3000
+    },
+    "weight": 100
+  },
+  "11008": {
+    "id": 11008,
+    "seriesId": 110648,
+    "content": {
+      "Diamond": 6500
+    },
+    "weight": 100
+  },
+  "11011": {
+    "id": 11011,
+    "seriesId": 110008,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "11012": {
+    "id": 11012,
+    "seriesId": 110012,
+    "content": {
+      "Energy": 150
+    },
+    "weight": 100
+  },
+  "11013": {
+    "id": 11013,
+    "seriesId": 110025,
+    "content": {
+      "Energy": 240
+    },
+    "weight": 100
+  },
+  "11014": {
+    "id": 11014,
+    "seriesId": 110050,
+    "content": {
+      "Energy": 460
+    },
+    "weight": 100
+  },
+  "11015": {
+    "id": 11015,
+    "seriesId": 110098,
+    "content": {
+      "Energy": 800
+    },
+    "weight": 100
+  },
+  "11016": {
+    "id": 11016,
+    "seriesId": 110168,
+    "content": {
+      "Energy": 1000
+    },
+    "weight": 100
+  },
+  "11017": {
+    "id": 11017,
+    "seriesId": 110328,
+    "content": {
+      "Energy": 2400
+    },
+    "weight": 100
+  },
+  "11018": {
+    "id": 11018,
+    "seriesId": 110648,
+    "content": {
+      "Energy": 5500
+    },
+    "weight": 100
+  },
+  "12001": {
+    "id": 12001,
+    "seriesId": 120008,
+    "content": {
+      "Energy": 8
+    },
+    "weight": 100
+  },
+  "12002": {
+    "id": 12002,
+    "seriesId": 120012,
+    "content": {
+      "Energy": 18
+    },
+    "weight": 100
+  },
+  "12003": {
+    "id": 12003,
+    "seriesId": 120025,
+    "content": {
+      "Energy": 35
+    },
+    "weight": 100
+  },
+  "12004": {
+    "id": 12004,
+    "seriesId": 120050,
+    "content": {
+      "Energy": 160
+    },
+    "weight": 100
+  },
+  "12005": {
+    "id": 12005,
+    "seriesId": 120098,
+    "content": {
+      "Energy": 300
+    },
+    "weight": 100
+  },
+  "12006": {
+    "id": 12006,
+    "seriesId": 120168,
+    "content": {
+      "Energy": 700
+    },
+    "weight": 100
+  },
+  "12007": {
+    "id": 12007,
+    "seriesId": 120328,
+    "content": {
+      "Energy": 1000
+    },
+    "weight": 100
+  },
+  "12008": {
+    "id": 12008,
+    "seriesId": 120648,
+    "content": {
+      "Energy": 1200
+    },
+    "weight": 100
+  },
+  "12011": {
+    "id": 12011,
+    "seriesId": 120008,
+    "content": {
+      "Diamond": 25
+    },
+    "weight": 100
+  },
+  "12012": {
+    "id": 12012,
+    "seriesId": 120012,
+    "content": {
+      "Diamond": 30
+    },
+    "weight": 100
+  },
+  "12013": {
+    "id": 12013,
+    "seriesId": 120025,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "12014": {
+    "id": 12014,
+    "seriesId": 120050,
+    "content": {
+      "Diamond": 180
+    },
+    "weight": 100
+  },
+  "12015": {
+    "id": 12015,
+    "seriesId": 120098,
+    "content": {
+      "Diamond": 350
+    },
+    "weight": 100
+  },
+  "12016": {
+    "id": 12016,
+    "seriesId": 120168,
+    "content": {
+      "Diamond": 750
+    },
+    "weight": 100
+  },
+  "12017": {
+    "id": 12017,
+    "seriesId": 120328,
+    "content": {
+      "Diamond": 1000
+    },
+    "weight": 100
+  },
+  "12018": {
+    "id": 12018,
+    "seriesId": 120648,
+    "content": {
+      "Diamond": 1800
+    },
+    "weight": 100
+  },
+  "13001": {
+    "id": 13001,
+    "seriesId": 130008,
+    "content": {
+      "Coin": 80
+    },
+    "weight": 1000
+  },
+  "13002": {
+    "id": 13002,
+    "seriesId": 130008,
+    "content": {
+      "AdornCoupon": 15
+    },
+    "weight": 1000
+  },
+  "13005": {
+    "id": 13005,
+    "seriesId": 130008,
+    "content": {
+      "98808": 1
+    },
+    "weight": 10
+  },
+  "13011": {
+    "id": 13011,
+    "seriesId": 130012,
+    "content": {
+      "Coin": 220
+    },
+    "weight": 1000
+  },
+  "13012": {
+    "id": 13012,
+    "seriesId": 130012,
+    "content": {
+      "AdornCoupon": 40
+    },
+    "weight": 1000
+  },
+  "13015": {
+    "id": 13015,
+    "seriesId": 130012,
+    "content": {
+      "98802": 1
+    },
+    "weight": 10
+  },
+  "13021": {
+    "id": 13021,
+    "seriesId": 130025,
+    "content": {
+      "Coin": 450
+    },
+    "weight": 1000
+  },
+  "13022": {
+    "id": 13022,
+    "seriesId": 130025,
+    "content": {
+      "AdornCoupon": 90
+    },
+    "weight": 1000
+  },
+  "13026": {
+    "id": 13026,
+    "seriesId": 130025,
+    "content": {
+      "98801": 1
+    },
+    "weight": 10
+  },
+  "13031": {
+    "id": 13031,
+    "seriesId": 130050,
+    "content": {
+      "Coin": 1200
+    },
+    "weight": 1000
+  },
+  "13032": {
+    "id": 13032,
+    "seriesId": 130050,
+    "content": {
+      "AdornCoupon": 240
+    },
+    "weight": 1000
+  },
+  "13036": {
+    "id": 13036,
+    "seriesId": 130050,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "13037": {
+    "id": 13037,
+    "seriesId": 130050,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "13041": {
+    "id": 13041,
+    "seriesId": 130098,
+    "content": {
+      "Coin": 1250
+    },
+    "weight": 1000
+  },
+  "13042": {
+    "id": 13042,
+    "seriesId": 130098,
+    "content": {
+      "AdornCoupon": 260
+    },
+    "weight": 1000
+  },
+  "13046": {
+    "id": 13046,
+    "seriesId": 130098,
+    "content": {
+      "98401": 1
+    },
+    "weight": 10
+  },
+  "13047": {
+    "id": 13047,
+    "seriesId": 130098,
+    "content": {
+      "98803": 1
+    },
+    "weight": 10
+  },
+  "13051": {
+    "id": 13051,
+    "seriesId": 130168,
+    "content": {
+      "Coin": 2500
+    },
+    "weight": 1000
+  },
+  "13052": {
+    "id": 13052,
+    "seriesId": 130168,
+    "content": {
+      "AdornCoupon": 500
+    },
+    "weight": 1000
+  },
+  "13056": {
+    "id": 13056,
+    "seriesId": 130168,
+    "content": {
+      "98402": 1
+    },
+    "weight": 10
+  },
+  "13057": {
+    "id": 13057,
+    "seriesId": 130168,
+    "content": {
+      "98807": 1
+    },
+    "weight": 10
+  },
+  "13061": {
+    "id": 13061,
+    "seriesId": 130328,
+    "content": {
+      "Coin": 5000
+    },
+    "weight": 1000
+  },
+  "13062": {
+    "id": 13062,
+    "seriesId": 130328,
+    "content": {
+      "AdornCoupon": 1000
+    },
+    "weight": 1000
+  },
+  "13066": {
+    "id": 13066,
+    "seriesId": 130328,
+    "content": {
+      "98403": 1
+    },
+    "weight": 10
+  },
+  "13067": {
+    "id": 13067,
+    "seriesId": 130328,
+    "content": {
+      "98813": 1
+    },
+    "weight": 10
+  },
+  "13071": {
+    "id": 13071,
+    "seriesId": 130648,
+    "content": {
+      "Coin": 10000
+    },
+    "weight": 1000
+  },
+  "13072": {
+    "id": 13072,
+    "seriesId": 130648,
+    "content": {
+      "AdornCoupon": 2000
+    },
+    "weight": 1000
+  },
+  "13073": {
+    "id": 13073,
+    "seriesId": 130648,
+    "content": {
+      "98721": 1
+    },
+    "weight": 50
+  },
+  "14001": {
+    "id": 14001,
+    "seriesId": 140008,
+    "content": {
+      "Diamond": 6
+    },
+    "weight": 100
+  },
+  "14002": {
+    "id": 14002,
+    "seriesId": 140012,
+    "content": {
+      "Diamond": 20
+    },
+    "weight": 100
+  },
+  "14003": {
+    "id": 14003,
+    "seriesId": 140025,
+    "content": {
+      "Diamond": 25
+    },
+    "weight": 100
+  },
+  "14004": {
+    "id": 14004,
+    "seriesId": 140050,
+    "content": {
+      "Diamond": 50
+    },
+    "weight": 100
+  },
+  "14005": {
+    "id": 14005,
+    "seriesId": 140098,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "14006": {
+    "id": 14006,
+    "seriesId": 140168,
+    "content": {
+      "Diamond": 100
+    },
+    "weight": 100
+  },
+  "14007": {
+    "id": 14007,
+    "seriesId": 140328,
+    "content": {
+      "Diamond": 220
+    },
+    "weight": 100
+  },
+  "14008": {
+    "id": 14008,
+    "seriesId": 140648,
+    "content": {
+      "Diamond": 400
+    },
+    "weight": 100
+  },
+  "14011": {
+    "id": 14011,
+    "seriesId": 140008,
+    "content": {
+      "Energy": 6
+    },
+    "weight": 100
+  },
+  "14012": {
+    "id": 14012,
+    "seriesId": 140012,
+    "content": {
+      "Energy": 30
+    },
+    "weight": 100
+  },
+  "14013": {
+    "id": 14013,
+    "seriesId": 140025,
+    "content": {
+      "Energy": 55
+    },
+    "weight": 100
+  },
+  "14014": {
+    "id": 14014,
+    "seriesId": 140050,
+    "content": {
+      "Energy": 80
+    },
+    "weight": 100
+  },
+  "14015": {
+    "id": 14015,
+    "seriesId": 140098,
+    "content": {
+      "Energy": 160
+    },
+    "weight": 100
+  },
+  "14016": {
+    "id": 14016,
+    "seriesId": 140168,
+    "content": {
+      "Energy": 260
+    },
+    "weight": 100
+  },
+  "14017": {
+    "id": 14017,
+    "seriesId": 140328,
+    "content": {
+      "Energy": 500
+    },
+    "weight": 100
+  },
+  "14018": {
+    "id": 14018,
+    "seriesId": 140648,
+    "content": {
+      "Energy": 800
+    },
+    "weight": 100
+  },
+  "15001": {
+    "id": 15001,
+    "seriesId": 150008,
+    "content": {
+      "Energy": 6
+    },
+    "weight": 100
+  },
+  "15002": {
+    "id": 15002,
+    "seriesId": 150012,
+    "content": {
+      "Energy": 10
+    },
+    "weight": 100
+  },
+  "15003": {
+    "id": 15003,
+    "seriesId": 150025,
+    "content": {
+      "Energy": 10
+    },
+    "weight": 100
+  },
+  "15004": {
+    "id": 15004,
+    "seriesId": 150050,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "15005": {
+    "id": 15005,
+    "seriesId": 150098,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "15006": {
+    "id": 15006,
+    "seriesId": 150168,
+    "content": {
+      "Energy": 25
+    },
+    "weight": 100
+  },
+  "15007": {
+    "id": 15007,
+    "seriesId": 150328,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "15008": {
+    "id": 15008,
+    "seriesId": 150648,
+    "content": {
+      "Energy": 200
+    },
+    "weight": 100
+  },
+  "15011": {
+    "id": 15011,
+    "seriesId": 150008,
+    "content": {
+      "Diamond": 2
+    },
+    "weight": 100
+  },
+  "15012": {
+    "id": 15012,
+    "seriesId": 150012,
+    "content": {
+      "Diamond": 8
+    },
+    "weight": 100
+  },
+  "15013": {
+    "id": 15013,
+    "seriesId": 150025,
+    "content": {
+      "Diamond": 25
+    },
+    "weight": 100
+  },
+  "15014": {
+    "id": 15014,
+    "seriesId": 150050,
+    "content": {
+      "Diamond": 20
+    },
+    "weight": 100
+  },
+  "15015": {
+    "id": 15015,
+    "seriesId": 150098,
+    "content": {
+      "Diamond": 30
+    },
+    "weight": 100
+  },
+  "15016": {
+    "id": 15016,
+    "seriesId": 150168,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "15017": {
+    "id": 15017,
+    "seriesId": 150328,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "15018": {
+    "id": 15018,
+    "seriesId": 150648,
+    "content": {
+      "Diamond": 200
+    },
+    "weight": 100
+  },
+  "16003": {
+    "id": 16003,
+    "seriesId": 160008,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "16004": {
+    "id": 16004,
+    "seriesId": 160008,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "16013": {
+    "id": 16013,
+    "seriesId": 160012,
+    "content": {
+      "98101": 1
+    },
+    "weight": 10
+  },
+  "16014": {
+    "id": 16014,
+    "seriesId": 160012,
+    "content": {
+      "98201": 1
+    },
+    "weight": 10
+  },
+  "16023": {
+    "id": 16023,
+    "seriesId": 160025,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "16024": {
+    "id": 16024,
+    "seriesId": 160025,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "16025": {
+    "id": 16025,
+    "seriesId": 160025,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "16033": {
+    "id": 16033,
+    "seriesId": 160050,
+    "content": {
+      "98102": 1
+    },
+    "weight": 10
+  },
+  "16034": {
+    "id": 16034,
+    "seriesId": 160050,
+    "content": {
+      "98202": 1
+    },
+    "weight": 10
+  },
+  "16035": {
+    "id": 16035,
+    "seriesId": 160050,
+    "content": {
+      "98301": 1
+    },
+    "weight": 10
+  },
+  "16043": {
+    "id": 16043,
+    "seriesId": 160098,
+    "content": {
+      "98103": 1
+    },
+    "weight": 10
+  },
+  "16044": {
+    "id": 16044,
+    "seriesId": 160098,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "16045": {
+    "id": 16045,
+    "seriesId": 160098,
+    "content": {
+      "98302": 1
+    },
+    "weight": 10
+  },
+  "16053": {
+    "id": 16053,
+    "seriesId": 160168,
+    "content": {
+      "98103": 1
+    },
+    "weight": 10
+  },
+  "16054": {
+    "id": 16054,
+    "seriesId": 160168,
+    "content": {
+      "98203": 1
+    },
+    "weight": 10
+  },
+  "16055": {
+    "id": 16055,
+    "seriesId": 160168,
+    "content": {
+      "98302": 1
+    },
+    "weight": 10
+  },
+  "16063": {
+    "id": 16063,
+    "seriesId": 160328,
+    "content": {
+      "98103": 2
+    },
+    "weight": 10
+  },
+  "16064": {
+    "id": 16064,
+    "seriesId": 160328,
+    "content": {
+      "98203": 2
+    },
+    "weight": 10
+  },
+  "16065": {
+    "id": 16065,
+    "seriesId": 160328,
+    "content": {
+      "98303": 1
+    },
+    "weight": 10
+  },
+  "16074": {
+    "id": 16074,
+    "seriesId": 160648,
+    "content": {
+      "98701": 2
+    },
+    "weight": 50
+  },
+  "16075": {
+    "id": 16075,
+    "seriesId": 160648,
+    "content": {
+      "98711": 3
+    },
+    "weight": 50
+  },
+  "17001": {
+    "id": 17001,
+    "seriesId": 170008,
+    "content": {
+      "Diamond": 35
+    },
+    "weight": 100
+  },
+  "17002": {
+    "id": 17002,
+    "seriesId": 170012,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "17003": {
+    "id": 17003,
+    "seriesId": 170025,
+    "content": {
+      "Diamond": 130
+    },
+    "weight": 100
+  },
+  "17004": {
+    "id": 17004,
+    "seriesId": 170050,
+    "content": {
+      "Diamond": 250
+    },
+    "weight": 100
+  },
+  "17005": {
+    "id": 17005,
+    "seriesId": 170098,
+    "content": {
+      "Diamond": 490
+    },
+    "weight": 100
+  },
+  "17006": {
+    "id": 17006,
+    "seriesId": 170168,
+    "content": {
+      "Diamond": 820
+    },
+    "weight": 100
+  },
+  "17007": {
+    "id": 17007,
+    "seriesId": 170328,
+    "content": {
+      "Diamond": 1500
+    },
+    "weight": 100
+  },
+  "17008": {
+    "id": 17008,
+    "seriesId": 170648,
+    "content": {
+      "Diamond": 3000
+    },
+    "weight": 100
+  },
+  "17009": {
+    "id": 17009,
+    "seriesId": 170008,
+    "content": {
+      "Diamond": 18
+    },
+    "weight": 100
+  },
+  "17010": {
+    "id": 17010,
+    "seriesId": 170012,
+    "content": {
+      "Diamond": 28
+    },
+    "weight": 100
+  },
+  "17011": {
+    "id": 17011,
+    "seriesId": 170025,
+    "content": {
+      "Diamond": 60
+    },
+    "weight": 100
+  },
+  "17012": {
+    "id": 17012,
+    "seriesId": 170050,
+    "content": {
+      "Diamond": 120
+    },
+    "weight": 100
+  },
+  "17013": {
+    "id": 17013,
+    "seriesId": 170098,
+    "content": {
+      "Diamond": 230
+    },
+    "weight": 100
+  },
+  "17014": {
+    "id": 17014,
+    "seriesId": 170168,
+    "content": {
+      "Diamond": 390
+    },
+    "weight": 100
+  },
+  "17015": {
+    "id": 17015,
+    "seriesId": 170328,
+    "content": {
+      "Diamond": 1110
+    },
+    "weight": 100
+  },
+  "17016": {
+    "id": 17016,
+    "seriesId": 170648,
+    "content": {
+      "Diamond": 2880
+    },
+    "weight": 100
+  },
+  "18001": {
+    "id": 18001,
+    "seriesId": 180008,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "18002": {
+    "id": 18002,
+    "seriesId": 180012,
+    "content": {
+      "Energy": 20
+    },
+    "weight": 100
+  },
+  "18003": {
+    "id": 18003,
+    "seriesId": 180025,
+    "content": {
+      "Energy": 35
+    },
+    "weight": 100
+  },
+  "18004": {
+    "id": 18004,
+    "seriesId": 180050,
+    "content": {
+      "Energy": 100
+    },
+    "weight": 100
+  },
+  "18005": {
+    "id": 18005,
+    "seriesId": 180098,
+    "content": {
+      "Energy": 160
+    },
+    "weight": 100
+  },
+  "18006": {
+    "id": 18006,
+    "seriesId": 180168,
+    "content": {
+      "Energy": 290
+    },
+    "weight": 100
+  },
+  "18007": {
+    "id": 18007,
+    "seriesId": 180328,
+    "content": {
+      "Energy": 720
+    },
+    "weight": 100
+  },
+  "18008": {
+    "id": 18008,
+    "seriesId": 180648,
+    "content": {
+      "Energy": 1250
+    },
+    "weight": 100
+  },
+  "18009": {
+    "id": 18009,
+    "seriesId": 180008,
+    "content": {
+      "Energy": 55
+    },
+    "weight": 100
+  },
+  "18010": {
+    "id": 18010,
+    "seriesId": 180012,
+    "content": {
+      "Energy": 80
+    },
+    "weight": 100
+  },
+  "18011": {
+    "id": 18011,
+    "seriesId": 180025,
+    "content": {
+      "Energy": 175
+    },
+    "weight": 100
+  },
+  "18012": {
+    "id": 18012,
+    "seriesId": 180050,
+    "content": {
+      "Energy": 350
+    },
+    "weight": 100
+  },
+  "18013": {
+    "id": 18013,
+    "seriesId": 180098,
+    "content": {
+      "Energy": 680
+    },
+    "weight": 100
+  },
+  "18014": {
+    "id": 18014,
+    "seriesId": 180168,
+    "content": {
+      "Energy": 1150
+    },
+    "weight": 100
+  },
+  "18015": {
+    "id": 18015,
+    "seriesId": 180328,
+    "content": {
+      "Energy": 1500
+    },
+    "weight": 100
+  },
+  "18016": {
+    "id": 18016,
+    "seriesId": 180648,
+    "content": {
+      "Energy": 1500
+    },
+    "weight": 100
+  },
+  "19001": {
+    "id": 19001,
+    "seriesId": 190008,
+    "content": {
+      "Coin": 190
+    },
+    "weight": 50
+  },
+  "19002": {
+    "id": 19002,
+    "seriesId": 190012,
+    "content": {
+      "Coin": 190
+    },
+    "weight": 50
+  },
+  "19003": {
+    "id": 19003,
+    "seriesId": 190025,
+    "content": {
+      "Coin": 350
+    },
+    "weight": 50
+  },
+  "19004": {
+    "id": 19004,
+    "seriesId": 190050,
+    "content": {
+      "Coin": 480
+    },
+    "weight": 50
+  },
+  "19005": {
+    "id": 19005,
+    "seriesId": 190098,
+    "content": {
+      "Coin": 1020
+    },
+    "weight": 50
+  },
+  "19006": {
+    "id": 19006,
+    "seriesId": 190168,
+    "content": {
+      "Coin": 1440
+    },
+    "weight": 50
+  },
+  "19007": {
+    "id": 19007,
+    "seriesId": 190328,
+    "content": {
+      "Coin": 1940
+    },
+    "weight": 50
+  },
+  "19008": {
+    "id": 19008,
+    "seriesId": 190648,
+    "content": {
+      "Coin": 3880
+    },
+    "weight": 50
+  },
+  "19009": {
+    "id": 19009,
+    "seriesId": 190008,
+    "content": {
+      "Film1": 1
+    },
+    "weight": 100
+  },
+  "19010": {
+    "id": 19010,
+    "seriesId": 190012,
+    "content": {
+      "Film1": 1
+    },
+    "weight": 100
+  },
+  "19011": {
+    "id": 19011,
+    "seriesId": 190025,
+    "content": {
+      "Film2": 1
+    },
+    "weight": 100
+  },
+  "19012": {
+    "id": 19012,
+    "seriesId": 190050,
+    "content": {
+      "Film3": 1
+    },
+    "weight": 100
+  },
+  "19013": {
+    "id": 19013,
+    "seriesId": 190098,
+    "content": {
+      "Film4": 1
+    },
+    "weight": 100
+  },
+  "19014": {
+    "id": 19014,
+    "seriesId": 190168,
+    "content": {
+      "Film5": 1
+    },
+    "weight": 100
+  },
+  "19015": {
+    "id": 19015,
+    "seriesId": 190328,
+    "content": {
+      "Film14": 1
+    },
+    "weight": 100
+  },
+  "19016": {
+    "id": 19016,
+    "seriesId": 190648,
+    "content": {
+      "Film14": 2
+    },
+    "weight": 100
+  },
+  "20001": {
+    "id": 20001,
+    "seriesId": 200008,
+    "content": {
+      "Film1": 1
+    },
+    "weight": 100
+  },
+  "20002": {
+    "id": 20002,
+    "seriesId": 200012,
+    "content": {
+      "Film1": 1
+    },
+    "weight": 100
+  },
+  "20003": {
+    "id": 20003,
+    "seriesId": 200025,
+    "content": {
+      "Film2": 1
+    },
+    "weight": 100
+  },
+  "20004": {
+    "id": 20004,
+    "seriesId": 200050,
+    "content": {
+      "Film3": 1
+    },
+    "weight": 100
+  },
+  "20005": {
+    "id": 20005,
+    "seriesId": 200098,
+    "content": {
+      "Film4": 1
+    },
+    "weight": 100
+  },
+  "20006": {
+    "id": 20006,
+    "seriesId": 200168,
+    "content": {
+      "Film5": 1
+    },
+    "weight": 100
+  },
+  "20007": {
+    "id": 20007,
+    "seriesId": 200328,
+    "content": {
+      "Film14": 1
+    },
+    "weight": 100
+  },
+  "20008": {
+    "id": 20008,
+    "seriesId": 200648,
+    "content": {
+      "Film14": 2
+    },
+    "weight": 100
+  },
+  "21001": {
+    "id": 21001,
+    "seriesId": 210088,
+    "content": {
+      "Energy": 200
+    },
+    "weight": 100
+  },
+  "22001": {
+    "id": 22001,
+    "seriesId": 220088,
+    "content": {
+      "Uniform3010": 1
+    },
+    "weight": 100
+  },
+  "23001": {
+    "id": 23001,
+    "seriesId": 230088,
+    "content": {
+      "Uniform3009": 1
+    },
+    "weight": 100
+  },
+  "24001": {
+    "id": 24001,
+    "seriesId": 240088,
+    "content": {
+      "Film4": 1
+    },
+    "weight": 100
+  }
+}

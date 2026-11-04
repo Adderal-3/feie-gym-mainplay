@@ -1,0 +1,44 @@
+{
+  "trainOrder1_1": {
+    "gropId": "trainOrder1_1",
+    "includeTurn": [
+      1,
+      2
+    ]
+  },
+  "trainOrder1_2": {
+    "gropId": "trainOrder1_2",
+    "includeTurn": [
+      1,
+      2
+    ]
+  },
+  "trainOrder1_3": {
+    "gropId": "trainOrder1_3",
+    "includeTurn": [
+      1,
+      2
+    ]
+  },
+  "trainOrder2_1": {
+    "gropId": "trainOrder2_1",
+    "includeTurn": [
+      3,
+      4
+    ]
+  },
+  "trainOrder2_2": {
+    "gropId": "trainOrder2_2",
+    "includeTurn": [
+      3,
+      4
+    ]
+  },
+  "trainOrder2_3": {
+    "gropId": "trainOrder2_3",
+    "includeTurn": [
+      3,
+      4
+    ]
+  }
+}

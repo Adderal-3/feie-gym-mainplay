@@ -1,0 +1,346 @@
+{
+  "picnic2": {
+    "id": "picnic2",
+    "Title": "露营野趣",
+    "Description": "和肥鹅们一起去山野之中露营游乐吧！\n在露营野趣棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "露营野趣活动结束啦！请及时领取未收集的奖励！",
+    "prepareTips": "露营野趣即将开启～敬请期待～",
+    "EndDescription2": "露营野趣活动结束啦！敬请期待下一次活动的到来吧！"
+  },
+  "scry": {
+    "id": "scry",
+    "Title": "星愿占卜",
+    "Description": "欢迎来到神秘非凡的占卜世界！\n在星愿占卜棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "星愿占卜活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "星愿占卜活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "星愿占卜即将开启～敬请期待～"
+  },
+  "concert": {
+    "id": "concert",
+    "Title": "交响乐章",
+    "Description": "欢迎来到古典乐章的音乐世界！\n在交响乐章棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "交响乐章活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "交响乐章活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "交响乐章即将开启～敬请期待～"
+  },
+  "tajgame": {
+    "id": "tajgame",
+    "Title": "猫鼠游戏",
+    "Description": "欢迎来到猫鼠妙妙屋，和汤姆杰瑞一起玩躲猫猫，体验你逃我追的刺激吧！\n在猫鼠游戏棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "猫鼠游戏活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "猫鼠游戏活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "猫鼠游戏即将开启～敬请期待～"
+  },
+  "concert2": {
+    "id": "concert2",
+    "Title": "交响乐章",
+    "Description": "欢迎来到古典乐章的音乐世界！\n在交响乐章棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "交响乐章活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "交响乐章活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "交响乐章即将开启～敬请期待～"
+  },
+  "cindyprog": {
+    "id": "cindyprog",
+    "Title": "水晶舞会",
+    "Description": "欢迎来到华美璀璨的水晶舞会！\n在水晶舞会棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "水晶舞会活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "水晶舞会活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "水晶舞会即将开启～敬请期待～"
+  },
+  "picnic3": {
+    "id": "picnic3",
+    "Title": "露营野趣",
+    "Description": "和肥鹅们一起去山野之中露营游乐吧！\n在露营野趣棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "露营野趣活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "露营野趣活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "露营野趣即将开启～敬请期待～"
+  },
+  "springfest": {
+    "id": "springfest",
+    "Title": "恭贺新禧",
+    "Description": "欢迎来到喜庆热闹的新春聚会！\n在恭贺新禧棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "恭贺新禧活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "恭贺新禧活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "恭贺新禧即将开启～敬请期待～"
+  },
+  "scry2": {
+    "id": "scry2",
+    "Title": "星愿占卜",
+    "Description": "欢迎来到神秘非凡的占卜世界！\n在星愿占卜棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "星愿占卜活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "星愿占卜活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "星愿占卜即将开启～敬请期待～"
+  },
+  "love": {
+    "id": "love",
+    "Title": "爱情驿站",
+    "Description": "欢迎来到藏着尘封往事的爱情驿站！\n在爱情驿站棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "爱情驿站活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "爱情驿站活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "爱情驿站即将开启～敬请期待～"
+  },
+  "beachtrip": {
+    "id": "beachtrip",
+    "Title": "海滩团建",
+    "Description": "欢迎和肥鹅们前往海滩游玩，放松心情！\n在海滩团建棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "海滩团建活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "海滩团建活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "海滩团建即将开启～敬请期待～"
+  },
+  "toycastle": {
+    "id": "toycastle",
+    "Title": "童趣游园会",
+    "Description": "前往童趣游园会，寻回旧日梦想！\n在童趣游园会棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "童趣游园会活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "童趣游园会活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "童趣游园会即将开启～敬请期待～"
+  },
+  "doll": {
+    "id": "doll",
+    "Title": "玩偶派对",
+    "Description": "接受秘密邀约，前往玩偶们的派对吧！\n在玩偶派对棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "玩偶派对活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "玩偶派对活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "玩偶派对即将开启～敬请期待～"
+  },
+  "fairytale": {
+    "id": "fairytale",
+    "Title": "蘑菇森林",
+    "Description": "前往蘑菇森林，寻找传说中的裁缝木偶吧！\n在蘑菇森林棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "蘑菇森林活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "蘑菇森林活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "蘑菇森林即将开启～敬请期待～"
+  },
+  "picnic4": {
+    "id": "picnic4",
+    "Title": "踏青野炊",
+    "Description": "一起踏青野炊，尽情享受假日时光吧！\n在踏青野炊棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "踏青野炊活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "踏青野炊活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "踏青野炊即将开启～敬请期待～"
+  },
+  "concert3": {
+    "id": "concert3",
+    "Title": "交响乐章",
+    "Description": "欢迎来到古典乐章的音乐世界！\n在交响乐章棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "交响乐章活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "交响乐章活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "交响乐章即将开启～敬请期待～"
+  },
+  "nightcity": {
+    "id": "nightcity",
+    "Title": "夜幕珍宝橱",
+    "Description": "一起前往夜幕之城，揭开藏品背后的秘密吧！\n在夜幕珍宝橱棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "夜幕珍宝橱活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "夜幕珍宝橱活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "夜幕珍宝橱即将开启～敬请期待～"
+  },
+  "card": {
+    "id": "card",
+    "Title": "妙趣纸牌屋",
+    "Description": "欢迎来到纸牌屋！在马戏表演中放声大笑吧！\n在妙趣纸牌屋棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "妙趣纸牌屋活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "妙趣纸牌屋活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "妙趣纸牌屋即将开启～敬请期待～"
+  },
+  "moon3": {
+    "id": "moon3",
+    "Title": "宇宙之旅",
+    "Description": "飞船坏啦！快一起提炼月球矿石抢修吧！\n在宇宙之旅棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "宇宙之旅活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "宇宙之旅活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "宇宙之旅即将开启～敬请期待～"
+  },
+  "pirate2": {
+    "id": "pirate2",
+    "Title": "海上幽灵船",
+    "Description": "一起前往海上的幽灵船，探索船上的秘密吧！\n在海上幽灵船棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "海上幽灵船活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "海上幽灵船活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "海上幽灵船即将开启～敬请期待～"
+  },
+  "rocket": {
+    "id": "rocket",
+    "Title": "航空探秘",
+    "Description": "一起了解太空知识，徜徉于群星的海洋中吧！\n在航空探秘棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "航空探秘活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "航空探秘活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "航空探秘即将开启～敬请期待～"
+  },
+  "picnic5": {
+    "id": "picnic5",
+    "Title": "篝火夜话",
+    "Description": "一起在篝火旁讲故事，寻找天外来客的踪迹吧！\n在篝火夜话棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "篝火夜话活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "篝火夜话活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "篝火夜话即将开启～敬请期待～"
+  },
+  "zodiac": {
+    "id": "zodiac",
+    "Title": "逐日之旅",
+    "Description": "一起前往烈日升起处，探访神秘的太阳宫殿吧！\n在太阳宫殿棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "逐日之旅活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "逐日之旅活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "逐日之旅即将开启～敬请期待～"
+  },
+  "makeup": {
+    "id": "makeup",
+    "Title": "化妆派对",
+    "Description": "一起前往化妆派对，装扮愉悦的心情吧！\n在化妆派对棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "化妆派对活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "化妆派对活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "化妆派对即将开启～敬请期待～"
+  },
+  "theatre2": {
+    "id": "theatre2",
+    "Title": "戏剧之夜",
+    "Description": "剧院排练怪事频出，一起来解开秘密吧！\n在戏剧之夜棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "戏剧之夜活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "戏剧之夜活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "戏剧之夜即将开启～敬请期待～"
+  },
+  "castlesky2": {
+    "id": "castlesky2",
+    "Title": "蒸汽工坊",
+    "Description": "欢迎来到蒸汽工坊，和罗宾一起制造飞船吧！\n在蒸汽工坊棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "蒸汽工坊活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "蒸汽工坊活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "蒸汽工坊即将开启～敬请期待～"
+  },
+  "mistforest": {
+    "id": "mistforest",
+    "Title": "森林奇遇",
+    "Description": "阿菇迷路了！一起在森林中找到回家的路吧！\n在森林奇遇棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "森林奇遇活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "森林奇遇活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "森林奇遇即将开启～敬请期待～"
+  },
+  "snowwhite2": {
+    "id": "snowwhite2",
+    "Title": "童话之约",
+    "Description": "小先知带来了国王的神秘邀请，一起赴约吧！\n在童话之约棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "童话之约活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "童话之约活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "童话之约即将开启～敬请期待～"
+  },
+  "mooncastle": {
+    "id": "mooncastle",
+    "Title": "占星之旅",
+    "Description": "一起前往月辉照耀之处，探访星月塔楼吧！\n在占星之旅棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "占星之旅活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "占星之旅活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "占星之旅即将开启～敬请期待～"
+  },
+  "alice2": {
+    "id": "alice2",
+    "Title": "梦境喵影",
+    "Description": "一起前往梦境世界，寻找柴郡猫的踪迹吧！\n在梦境喵影棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "梦境喵影活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "梦境喵影活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "梦境喵影即将开启～敬请期待～"
+  },
+  "sport": {
+    "id": "sport",
+    "Title": "远行纪闻",
+    "Description": "远行在即，和阿泰一起做好出发准备吧！\n在远行纪闻棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "远行纪闻活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "远行纪闻活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "远行纪闻即将开启～敬请期待～"
+  },
+  "stadium": {
+    "id": "stadium",
+    "Title": "竞技实录",
+    "Description": "设备调试到位！一起见证赛场上的高光时刻吧！\n在竞技实录棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "竞技实录活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "竞技实录活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "竞技实录即将开启～敬请期待～"
+  },
+  "beachroll": {
+    "id": "beachroll",
+    "Title": "我们赶海去",
+    "Description": "健身房全体出动，一起去赶海吧！\n在我们赶海去棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "我们赶海去活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "我们赶海去活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "我们赶海去即将开启～敬请期待～"
+  },
+  "oceanvoice": {
+    "id": "oceanvoice",
+    "Title": "深海寻踪",
+    "Description": "深海之下怪物出没！一起寻找海怪的踪迹吧！\n在深海寻踪棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "深海寻踪活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "深海寻踪活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "深海寻踪即将开启～敬请期待～"
+  },
+  "flower": {
+    "id": "flower",
+    "Title": "解忧花店",
+    "Description": "解忧花店今日营业，来为自己挑一束花吧～\n在解忧花店棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "解忧花店活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "解忧花店活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "解忧花店即将开启～敬请期待～"
+  },
+  "btroyale2": {
+    "id": "btroyale2",
+    "Title": "奇迹马戏团",
+    "Description": "马戏团表演开始了，一起来观看精彩的表演吧！\n在奇迹马戏团棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "奇迹马戏团活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "奇迹马戏团活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "奇迹马戏团即将开启～敬请期待～"
+  },
+  "fairyroll": {
+    "id": "fairyroll",
+    "Title": "林间花语",
+    "Description": "幽暗林中玫瑰丛生，一起等待花朵绽放吧！\n在林间花语棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "林间花语活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "林间花语活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "林间花语即将开启～敬请期待～"
+  },
+  "pirate3": {
+    "id": "pirate3",
+    "Title": "海上奇遇",
+    "Description": "误上海盗船？那就一起展开海上大冒险吧！\n在海上奇遇棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "海上奇遇活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "海上奇遇活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "海上奇遇即将开启～敬请期待～"
+  },
+  "theatre3": {
+    "id": "theatre3",
+    "Title": "旧日时光",
+    "Description": "音像店今日营业，一起回顾旧日时光吧～\n在旧日时光棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "旧日时光活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "旧日时光活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "旧日时光即将开启～敬请期待～"
+  },
+  "potion": {
+    "id": "potion",
+    "Title": "魔药工坊",
+    "Description": "一起领悟魔法玄秘，炼制出奇妙药水吧！\n在魔药工坊棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "魔药工坊活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "魔药工坊活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "魔药工坊即将开启～敬请期待～"
+  },
+  "dishroll": {
+    "id": "dishroll",
+    "Title": "寻味甜蜜",
+    "Description": "寻找林间食材，一起做出美味的甜点吧！\n在寻味甜蜜棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "寻味甜蜜活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "寻味甜蜜活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "寻味甜蜜即将开启～敬请期待～"
+  },
+  "market": {
+    "id": "market",
+    "Title": "火辣夜市",
+    "Description": "夜市飘来迷人香味，一起品尝美味小吃吧！\n在火辣夜市棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "火辣夜市活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "火辣夜市活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "火辣夜市即将开启～敬请期待～"
+  },
+  "collection": {
+    "id": "collection",
+    "Title": "海上探险",
+    "Description": "呼朋唤友，一起在海上展开大冒险吧！\n在海上探险棋盘中不断升级元素，可获得丰厚奖励哦！",
+    "EndDescription": "海上探险活动结束啦！请及时领取未收集的奖励！",
+    "EndDescription2": "海上探险活动结束啦！敬请期待下一次活动的到来吧！",
+    "prepareTips": "海上探险即将开启～敬请期待～"
+  }
+}

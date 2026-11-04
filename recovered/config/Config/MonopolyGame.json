@@ -1,0 +1,144 @@
+{
+  "monopoly1": {
+    "id": "monopoly1",
+    "cardImage1": "act_2307_pic_ending",
+    "cardImage2": "act_2307_pic_ending",
+    "cardImage3": "act_2307_pic_ending",
+    "Prize1": [
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      }
+    ],
+    "Prize2": [
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      }
+    ],
+    "Prize3": [
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      }
+    ],
+    "Weight": [
+      100,
+      100,
+      100
+    ]
+  },
+  "monopoly2": {
+    "id": "monopoly2",
+    "cardImage1": "act_2307_pic_ending",
+    "cardImage2": "act_2307_pic_ending",
+    "cardImage3": "act_2307_pic_ending",
+    "Prize1": [
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      }
+    ],
+    "Prize2": [
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      },
+      {
+        "monopolyCoin": 400
+      }
+    ],
+    "Prize3": [
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      }
+    ],
+    "Weight": [
+      100,
+      100,
+      100
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "initPassPoint": 0,
+  "mergeTimes": [
+    5,
+    10,
+    15,
+    20,
+    25
+  ],
+  "passWeight": [
+    60,
+    80,
+    120,
+    160,
+    500,
+    1000
+  ],
+  "autoElementSeries": [
+    "F_0",
+    "F_1",
+    "D_0",
+    "F_5",
+    "G_4",
+    "I_2",
+    "Number_7",
+    "ActivityExp",
+    "Ornament_4"
+  ],
+  "autoMergeTimes": [
+    20,
+    40,
+    60,
+    80,
+    100
+  ],
+  "autoPassWeight": [
+    60,
+    80,
+    120,
+    160,
+    500,
+    1000
+  ],
+  "passInitTimes": [
+    2,
+    9,
+    1,
+    7,
+    4,
+    11,
+    4,
+    8
+  ],
+  "passDailyDiamond": 5,
+  "PointToDiamond": 2
+}

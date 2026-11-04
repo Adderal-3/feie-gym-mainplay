@@ -1,0 +1,101 @@
+{
+  "1": {
+    "id": 1,
+    "icon": "C8_court_1",
+    "chestReward": [
+      "Star[1_2]",
+      "Coin[50_100]",
+      "98802_1",
+      "MhdIIBlindBox1_1"
+    ],
+    "energyGoal": 190
+  },
+  "2": {
+    "id": 2,
+    "icon": "C8_court_2",
+    "chestReward": [
+      "Star[2_3]",
+      "Coin[50_150]",
+      "98801_1",
+      "MhdIIBlindBox1_1"
+    ],
+    "energyGoal": 220
+  },
+  "3": {
+    "id": 3,
+    "icon": "C8_court_3",
+    "chestReward": [
+      "Star[3_5]",
+      "Coin[100_200]",
+      "98810_1",
+      "MhdIIBlindBox1_1"
+    ],
+    "energyGoal": 240
+  },
+  "4": {
+    "id": 4,
+    "icon": "C8_court_4",
+    "chestReward": [
+      "Star[4_8]",
+      "Coin[100_300]",
+      "98803_1",
+      "MhdIIBlindBox2_1"
+    ],
+    "energyGoal": 280
+  },
+  "5": {
+    "id": 5,
+    "icon": "C8_upgrade_1",
+    "chestReward": [
+      "Diamond[5_5]",
+      "Energy[10_20]"
+    ],
+    "energyGoal": 46
+  },
+  "6": {
+    "id": 6,
+    "icon": "C8_upgrade_2",
+    "chestReward": [
+      "Diamond[5_15]",
+      "Energy[20_50]",
+      "98101_1"
+    ],
+    "energyGoal": 93
+  },
+  "7": {
+    "id": 7,
+    "icon": "C8_upgrade_3",
+    "chestReward": [
+      "Diamond[15_20]",
+      "Energy[40_60]",
+      "98102_1",
+      "98401_1"
+    ],
+    "energyGoal": 279
+  },
+  "8": {
+    "id": 8,
+    "icon": "C8_upgrade_4",
+    "chestReward": [
+      "Diamond[20_30]",
+      "Energy[50_80]",
+      "98103_1",
+      "98402_1",
+      "MhdIIBlindBox2_1"
+    ],
+    "energyGoal": 558
+  },
+  "9": {
+    "id": 9,
+    "icon": "C8_upgrade_5",
+    "chestReward": [
+      "Diamond[30_60]",
+      "Energy[100_300]",
+      "98104_1",
+      "98403_1",
+      "98731_1",
+      "MhdIIBlindBox3_1"
+    ],
+    "energyGoal": 930
+  }
+}

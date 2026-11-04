@@ -1,0 +1,16 @@
+{
+  "tower1_1": {
+    "id": "tower1_1",
+    "router": [
+      "tower1_3",
+      "tower1_2",
+      "tower1_1"
+    ],
+    "ratio": [
+      1,
+      0.88,
+      0.78
+    ],
+    "themeId": "t1"
+  }
+}

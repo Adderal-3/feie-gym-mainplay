@@ -1,0 +1,229 @@
+{
+  "monster": {
+    "101": {
+      "id": 101,
+      "needPoints": 20,
+      "reward": {
+        "98803147": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "102": {
+      "id": 102,
+      "needPoints": 40,
+      "reward": {
+        "Film1": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "103": {
+      "id": 103,
+      "needPoints": 45,
+      "reward": {
+        "Coin": 100
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "104": {
+      "id": 104,
+      "needPoints": 50,
+      "reward": {
+        "Film2": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "105": {
+      "id": 105,
+      "needPoints": 50,
+      "reward": {
+        "Energy": 10
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "106": {
+      "id": 106,
+      "needPoints": 50,
+      "reward": {
+        "Film2": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "107": {
+      "id": 107,
+      "needPoints": 50,
+      "reward": {
+        "98803147": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "108": {
+      "id": 108,
+      "needPoints": 50,
+      "reward": {
+        "Film3": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "109": {
+      "id": 109,
+      "needPoints": 50,
+      "reward": {
+        "Film3": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "110": {
+      "id": 110,
+      "needPoints": 50,
+      "reward": {
+        "Coin": 500
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "111": {
+      "id": 111,
+      "needPoints": 50,
+      "reward": {
+        "Film4": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "112": {
+      "id": 112,
+      "needPoints": 50,
+      "reward": {
+        "Film13": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "113": {
+      "id": 113,
+      "needPoints": 100,
+      "reward": {
+        "Diamond": 20
+      },
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "114": {
+      "id": 114,
+      "needPoints": 100,
+      "reward": {
+        "Film5": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "115": {
+      "id": 115,
+      "needPoints": 150,
+      "reward": {
+        "98731": 1
+      },
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "116": {
+      "id": 116,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "117": {
+      "id": 117,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "118": {
+      "id": 118,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "119": {
+      "id": 119,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "120": {
+      "id": 120,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "121": {
+      "id": 121,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "122": {
+      "id": 122,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "123": {
+      "id": 123,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "124": {
+      "id": 124,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "125": {
+      "id": 125,
+      "needPoints": 100,
+      "reward": {
+        "Coin": 200
+      },
+      "belongStageTwo": 1,
+      "specialBg": 0
+    }
+  }
+}

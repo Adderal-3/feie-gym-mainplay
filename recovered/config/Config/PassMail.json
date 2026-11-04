@@ -1,0 +1,170 @@
+{
+  "101": {
+    "id": 101,
+    "belong": "feather",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "201": {
+    "id": 201,
+    "belong": "balloon",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "301": {
+    "id": 301,
+    "belong": "bell",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "401": {
+    "id": 401,
+    "belong": "riceball",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "501": {
+    "id": 501,
+    "belong": "flower",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "601": {
+    "id": 601,
+    "belong": "honey",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "701": {
+    "id": 701,
+    "belong": "phoenix",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "801": {
+    "id": 801,
+    "belong": "sea",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "901": {
+    "id": 901,
+    "belong": "coal",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1001": {
+    "id": 1001,
+    "belong": "incense",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1101": {
+    "id": 1101,
+    "belong": "tale",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1201": {
+    "id": 1201,
+    "belong": "feather2",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1301": {
+    "id": 1301,
+    "belong": "feeder",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1401": {
+    "id": 1401,
+    "belong": "nian",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1501": {
+    "id": 1501,
+    "belong": "travel",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1601": {
+    "id": 1601,
+    "belong": "viking",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1701": {
+    "id": 1701,
+    "belong": "alice",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1801": {
+    "id": 1801,
+    "belong": "gourmet",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "1901": {
+    "id": 1901,
+    "belong": "zhenhuan1",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "2001": {
+    "id": 2001,
+    "belong": "zhenhuan2",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "2101": {
+    "id": 2101,
+    "belong": "broyale",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "2201": {
+    "id": 2201,
+    "belong": "mooncake",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "2301": {
+    "id": 2301,
+    "belong": "UFO",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  },
+  "2401": {
+    "id": 2401,
+    "belong": "mirror",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 15
+  }
+}

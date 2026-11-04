@@ -1,0 +1,80 @@
+{
+  "p1": {
+    "id": "p1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "wheelConfig": "partnerWheel1",
+    "robotScoreConfig": "partnerRobot1A",
+    "finishReward": {
+      "9820003": 1,
+      "Frame3114": 1,
+      "Energy": 200,
+      "Diamond": 20
+    },
+    "enterDialog": 18279,
+    "finishDialog": 18280,
+    "failDialog": 18281,
+    "LaunchMultipliers": [
+      1,
+      5,
+      10,
+      20,
+      50
+    ],
+    "mainToken": 1,
+    "refreshTime": 600,
+    "refreshNum": [
+      2,
+      5
+    ],
+    "accrptTime": [
+      30,
+      600
+    ],
+    "maxBuild": 3,
+    "initialToken": 5,
+    "giftSeriesId": 320,
+    "rightToken": 6,
+    "rightTokenMax": 300,
+    "reward": {
+      "Energy": 1
+    },
+    "mailId": "partnerMail1",
+    "robotType": [
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "lastFrame": [
+      3110,
+      3112
+    ],
+    "lastFrameWeight": [
+      10,
+      20
+    ]
+  }
+}

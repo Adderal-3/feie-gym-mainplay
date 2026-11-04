@@ -1,0 +1,118 @@
+{
+  "6001": {
+    "id": 6001,
+    "order": 100,
+    "isDefault": 1,
+    "canBuyHere": 1,
+    "img": "icon_jobbadge_01",
+    "getWay": {},
+    "actType": "",
+    "jobBadgeImg": "bg_jobbadge_01",
+    "jobTopLImg": "top_jobbadge_01",
+    "color1": "#4d7f3e",
+    "color2": "#a8d779",
+    "hideTimestamp": 0
+  },
+  "6002": {
+    "id": 6002,
+    "order": 98,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_jobbadge_02",
+    "getWay": {},
+    "actType": "dailySign_sign15",
+    "jobBadgeImg": "bg_jobbadge_02",
+    "jobTopLImg": "top_jobbadge_02",
+    "color1": "#f3e5b6",
+    "color2": "#778282",
+    "hideTimestamp": 0
+  },
+  "6003": {
+    "id": 6003,
+    "order": 97,
+    "isDefault": 0,
+    "canBuyHere": 1,
+    "img": "icon_jobbadge_03",
+    "getWay": {
+      "Diamond": 188
+    },
+    "actType": "",
+    "jobBadgeImg": "bg_jobbadge_03",
+    "jobTopLImg": "top_jobbadge_03",
+    "color1": "#93551d",
+    "color2": "#f0a55b",
+    "hideTimestamp": 1764518399
+  },
+  "6004": {
+    "id": 6004,
+    "order": 99,
+    "isDefault": 0,
+    "canBuyHere": 1,
+    "img": "icon_jobbadge_04",
+    "getWay": {
+      "AdornCoupon": 666
+    },
+    "actType": "",
+    "jobBadgeImg": "bg_jobbadge_04",
+    "jobTopLImg": "top_jobbadge_04",
+    "color1": "#731726",
+    "color2": "#da4c38",
+    "hideTimestamp": 0
+  },
+  "6005": {
+    "id": 6005,
+    "order": 96,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_jobbadge_05",
+    "getWay": {},
+    "actType": "dailySign_sign16",
+    "jobBadgeImg": "bg_jobbadge_05",
+    "jobTopLImg": "top_jobbadge_05",
+    "color1": "#bb814f",
+    "color2": "#f2c49b",
+    "hideTimestamp": 0
+  },
+  "6006": {
+    "id": 6006,
+    "order": 95,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_jobbadge_06",
+    "getWay": {},
+    "actType": "",
+    "jobBadgeImg": "bg_jobbadge_06",
+    "jobTopLImg": "top_jobbadge_06",
+    "color1": "#da7676",
+    "color2": "#ffbebe",
+    "hideTimestamp": 1769875199
+  },
+  "6007": {
+    "id": 6007,
+    "order": 94,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_jobbadge_07",
+    "getWay": {},
+    "actType": "dailySign_sign1",
+    "jobBadgeImg": "bg_jobbadge_07",
+    "jobTopLImg": "top_jobbadge_07",
+    "color1": "#ffedeb",
+    "color2": "#c1242c",
+    "hideTimestamp": 0
+  },
+  "6008": {
+    "id": 6008,
+    "order": 93,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_jobbadge_08",
+    "getWay": {},
+    "actType": "",
+    "jobBadgeImg": "bg_jobbadge_08",
+    "jobTopLImg": "top_jobbadge_08",
+    "color1": "#0e3b52",
+    "color2": "#3289b5",
+    "hideTimestamp": 1791388799
+  }
+}

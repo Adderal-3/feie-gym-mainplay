@@ -1,0 +1,34 @@
+{
+  "conpay1": {
+    "1001": {
+      "id": 1001,
+      "txt": "1",
+      "minPayment": 600,
+      "goodsId": 104,
+      "reward": {
+        "Energy": 20
+      },
+      "rewardPic": "Conpay/icon_Cpay_2307_01"
+    },
+    "1002": {
+      "id": 1002,
+      "txt": "2",
+      "minPayment": 800,
+      "goodsId": 127,
+      "reward": {
+        "90301": 1
+      },
+      "rewardPic": "Conpay/icon_Cpay_2307_02"
+    },
+    "1003": {
+      "id": 1003,
+      "txt": "3",
+      "minPayment": 1200,
+      "goodsId": 128,
+      "reward": {
+        "90902": 1
+      },
+      "rewardPic": "Conpay/icon_Cpay_2307_03"
+    }
+  }
+}

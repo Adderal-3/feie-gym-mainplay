@@ -1,0 +1,31 @@
+{
+  "SlotMultipliers": [
+    1,
+    2,
+    3,
+    10
+  ],
+  "LaunchMultipliers": [
+    1,
+    2,
+    5,
+    10
+  ],
+  "HitPoints": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    20
+  ],
+  "SaveLimitCount": 20,
+  "PercentageUpgrade": 88,
+  "PercentageDowngrade": 50,
+  "RandomNumCoef": 1.3
+}

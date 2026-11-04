@@ -1,0 +1,29 @@
+{
+  "Theme1": {
+    "id": "Theme1",
+    "title": "健身房冲刺",
+    "tipA": "如何获得[gymPoint]?"
+  },
+  "Theme2": {
+    "id": "Theme2",
+    "title": "装饰币狂欢",
+    "tipA": "完成活动一共可获得6000[mhdCoin]奖励"
+  },
+  "Theme3": {
+    "id": "Theme3",
+    "title": "泳池漂流",
+    "tipA": "收集[gymPoint]来赢取豪华大奖！",
+    "spine": "YongQuan"
+  },
+  "Theme4": {
+    "id": "Theme4",
+    "title": "阿秋超急送",
+    "tipA": "完成活动一共可获得10000[passNewPoint]积分奖励"
+  },
+  "Theme5": {
+    "id": "Theme5",
+    "title": "礼物工厂",
+    "tipA": "收集[gymPoint]来赢取豪华大奖！",
+    "spine": "JiangTai"
+  }
+}

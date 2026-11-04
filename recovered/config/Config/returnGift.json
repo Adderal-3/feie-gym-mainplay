@@ -1,0 +1,82 @@
+{
+  "10001": {
+    "id": 10001,
+    "seriesId": 66,
+    "returnDays": [],
+    "content": [
+      {
+        "InfiniteEnergy": 30
+      }
+    ],
+    "unlock": [
+      "Return"
+    ],
+    "inviteNum": 0,
+    "needAd": 0,
+    "adTimes": 0,
+    "refreshInventory": 1
+  },
+  "10002": {
+    "id": 10002,
+    "seriesId": 66,
+    "returnDays": [],
+    "content": [
+      {
+        "InfiniteEnergy": 30
+      }
+    ],
+    "unlock": [
+      "Return"
+    ],
+    "inviteNum": 1,
+    "needAd": 0,
+    "adTimes": 0,
+    "refreshInventory": 1
+  },
+  "10003": {
+    "id": 10003,
+    "seriesId": 66,
+    "returnDays": [],
+    "content": [
+      {
+        "Coin": 5000
+      }
+    ],
+    "unlock": [
+      "Return"
+    ],
+    "inviteNum": 0,
+    "needAd": 1,
+    "adTimes": 1,
+    "refreshInventory": 1
+  },
+  "10004": {
+    "id": 10004,
+    "seriesId": 66,
+    "returnDays": [
+      13,
+      20,
+      30
+    ],
+    "content": [
+      {
+        "98807": 1
+      },
+      {
+        "98811": 1,
+        "Energy": 50
+      },
+      {
+        "98812": 1,
+        "Energy": 100
+      }
+    ],
+    "unlock": [
+      "Return"
+    ],
+    "inviteNum": 0,
+    "needAd": 0,
+    "adTimes": 0,
+    "refreshInventory": 1
+  }
+}

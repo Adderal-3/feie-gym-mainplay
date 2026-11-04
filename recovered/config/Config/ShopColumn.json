@@ -1,0 +1,2241 @@
+{
+  "1": {
+    "id": 1,
+    "order": 90,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 0,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "2": {
+    "id": 2,
+    "order": 100,
+    "refreshType": 1,
+    "refreshTimes": 4,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 0,
+    "event": "",
+    "tutorialShopOrder": [
+      2098,
+      2099,
+      2100,
+      2101,
+      2102,
+      2103
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": 85,
+    "refreshType": 0,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "4": {
+    "id": 4,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "5": {
+    "id": 5,
+    "order": 60,
+    "refreshType": 0,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -1,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "6": {
+    "id": 6,
+    "order": 50,
+    "refreshType": 0,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -1,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "7": {
+    "id": 7,
+    "order": 80,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 0,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "8": {
+    "id": 8,
+    "order": 89,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "9": {
+    "id": 9,
+    "order": 80,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "10": {
+    "id": 10,
+    "order": 89,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 2,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "11": {
+    "id": 11,
+    "order": 80,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 2,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "12": {
+    "id": 12,
+    "order": 89,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 3,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "13": {
+    "id": 13,
+    "order": 80,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 3,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "14": {
+    "id": 14,
+    "order": 89,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 99,
+    "event": "duanwu",
+    "tutorialShopOrder": []
+  },
+  "15": {
+    "id": 15,
+    "order": 88,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 98,
+    "event": "food",
+    "tutorialShopOrder": []
+  },
+  "16": {
+    "id": 16,
+    "order": 87,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 98,
+    "event": "food",
+    "tutorialShopOrder": []
+  },
+  "17": {
+    "id": 17,
+    "order": 86,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 97,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "18": {
+    "id": 18,
+    "order": 85,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 97,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "19": {
+    "id": 19,
+    "order": 84,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 96,
+    "event": "kungfu",
+    "tutorialShopOrder": []
+  },
+  "20": {
+    "id": 20,
+    "order": 83,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "21": {
+    "id": 21,
+    "order": 82,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 95,
+    "event": "moon",
+    "tutorialShopOrder": []
+  },
+  "22": {
+    "id": 22,
+    "order": 81,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 94,
+    "event": "dream",
+    "tutorialShopOrder": []
+  },
+  "23": {
+    "id": 23,
+    "order": 80,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "24": {
+    "id": 24,
+    "order": 79,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 93,
+    "event": "unicorn",
+    "tutorialShopOrder": []
+  },
+  "25": {
+    "id": 25,
+    "order": 78,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "26": {
+    "id": 26,
+    "order": 77,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 92,
+    "event": "newyear",
+    "tutorialShopOrder": []
+  },
+  "27": {
+    "id": 27,
+    "order": 76,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 91,
+    "event": "healthy1",
+    "tutorialShopOrder": []
+  },
+  "28": {
+    "id": 28,
+    "order": 75,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 90,
+    "event": "hoggoose",
+    "tutorialShopOrder": []
+  },
+  "29": {
+    "id": 29,
+    "order": 74,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 90,
+    "event": "hoggoose",
+    "tutorialShopOrder": []
+  },
+  "30": {
+    "id": 30,
+    "order": 73,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "31": {
+    "id": 31,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 89,
+    "event": "blovers",
+    "tutorialShopOrder": []
+  },
+  "32": {
+    "id": 32,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 89,
+    "event": "blovers",
+    "tutorialShopOrder": []
+  },
+  "33": {
+    "id": 33,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 88,
+    "event": "undersea",
+    "tutorialShopOrder": []
+  },
+  "34": {
+    "id": 34,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 87,
+    "event": "picnic",
+    "tutorialShopOrder": []
+  },
+  "35": {
+    "id": 35,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 86,
+    "event": "moon2",
+    "tutorialShopOrder": []
+  },
+  "36": {
+    "id": 36,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "jewelry",
+    "tutorialShopOrder": []
+  },
+  "37": {
+    "id": 37,
+    "order": 73,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 85,
+    "event": "jewelry",
+    "tutorialShopOrder": []
+  },
+  "38": {
+    "id": 38,
+    "order": 74,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 84,
+    "event": "healthy2",
+    "tutorialShopOrder": []
+  },
+  "39": {
+    "id": 39,
+    "order": 75,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "40": {
+    "id": 40,
+    "order": 76,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 83,
+    "event": "misty",
+    "tutorialShopOrder": []
+  },
+  "41": {
+    "id": 41,
+    "order": 77,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 82,
+    "event": "snow",
+    "tutorialShopOrder": []
+  },
+  "42": {
+    "id": 42,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 81,
+    "event": "shin",
+    "tutorialShopOrder": []
+  },
+  "43": {
+    "id": 43,
+    "order": 69,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "wood",
+    "tutorialShopOrder": []
+  },
+  "44": {
+    "id": 44,
+    "order": 75,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 79,
+    "event": "door",
+    "tutorialShopOrder": []
+  },
+  "45": {
+    "id": 45,
+    "order": 76,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 78,
+    "event": "door",
+    "tutorialShopOrder": []
+  },
+  "46": {
+    "id": 46,
+    "order": 77,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 77,
+    "event": "door",
+    "tutorialShopOrder": []
+  },
+  "47": {
+    "id": 47,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 76,
+    "event": "wood",
+    "tutorialShopOrder": []
+  },
+  "48": {
+    "id": 48,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 75,
+    "event": "spring",
+    "tutorialShopOrder": []
+  },
+  "49": {
+    "id": 49,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "farm",
+    "tutorialShopOrder": []
+  },
+  "50": {
+    "id": 50,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 3,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 74,
+    "event": "farm",
+    "tutorialShopOrder": []
+  },
+  "51": {
+    "id": 51,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 73,
+    "event": "travel1",
+    "tutorialShopOrder": []
+  },
+  "53": {
+    "id": 53,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 72,
+    "event": "pirate",
+    "tutorialShopOrder": []
+  },
+  "55": {
+    "id": 55,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 72,
+    "event": "pirate",
+    "tutorialShopOrder": []
+  },
+  "56": {
+    "id": 56,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 72,
+    "event": "diggame",
+    "tutorialShopOrder": []
+  },
+  "57": {
+    "id": 57,
+    "order": 75,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 79,
+    "event": "duanwu1",
+    "tutorialShopOrder": []
+  },
+  "58": {
+    "id": 58,
+    "order": 76,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 78,
+    "event": "duanwu1",
+    "tutorialShopOrder": []
+  },
+  "59": {
+    "id": 59,
+    "order": 77,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 77,
+    "event": "duanwu1",
+    "tutorialShopOrder": []
+  },
+  "60": {
+    "id": 60,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "cookie",
+    "tutorialShopOrder": []
+  },
+  "61": {
+    "id": 61,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 72,
+    "event": "cookie",
+    "tutorialShopOrder": []
+  },
+  "62": {
+    "id": 62,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 71,
+    "event": "zhzboard",
+    "tutorialShopOrder": []
+  },
+  "64": {
+    "id": 64,
+    "order": 73,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "72": {
+    "id": 72,
+    "order": 69,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "banana",
+    "tutorialShopOrder": []
+  },
+  "73": {
+    "id": 73,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 61,
+    "event": "banana",
+    "tutorialShopOrder": []
+  },
+  "74": {
+    "id": 74,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 60,
+    "event": "premoon",
+    "tutorialShopOrder": []
+  },
+  "75": {
+    "id": 75,
+    "order": 89,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 0,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "79": {
+    "id": 79,
+    "order": 73,
+    "refreshType": 2,
+    "refreshTimes": 0,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "",
+    "tutorialShopOrder": []
+  },
+  "82": {
+    "id": 82,
+    "order": 67,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 70,
+    "event": "monopoly",
+    "tutorialShopOrder": []
+  },
+  "83": {
+    "id": 83,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 55,
+    "event": "dreamdoor",
+    "tutorialShopOrder": []
+  },
+  "84": {
+    "id": 84,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 4,
+    "refreshCost": {
+      "Diamond": 5
+    },
+    "CostNum": 5,
+    "refreshNummax": 50,
+    "show": 52,
+    "event": "snowwhite",
+    "tutorialShopOrder": []
+  },
+  "85": {
+    "id": 85,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "dragon",
+    "tutorialShopOrder": []
+  },
+  "86": {
+    "id": 86,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 3,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 43,
+    "event": "dragon",
+    "tutorialShopOrder": []
+  },
+  "87": {
+    "id": 87,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 4,
+    "refreshCost": {
+      "Diamond": 5
+    },
+    "CostNum": 5,
+    "refreshNummax": 50,
+    "show": 42,
+    "event": "castlesky",
+    "tutorialShopOrder": []
+  },
+  "88": {
+    "id": 88,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "picnic2",
+    "tutorialShopOrder": []
+  },
+  "89": {
+    "id": 89,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 41,
+    "event": "picnic2",
+    "tutorialShopOrder": []
+  },
+  "90": {
+    "id": 90,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "scry",
+    "tutorialShopOrder": []
+  },
+  "91": {
+    "id": 91,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 37,
+    "event": "scry",
+    "tutorialShopOrder": []
+  },
+  "92": {
+    "id": 92,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "concert",
+    "tutorialShopOrder": []
+  },
+  "93": {
+    "id": 93,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 34,
+    "event": "concert",
+    "tutorialShopOrder": []
+  },
+  "94": {
+    "id": 94,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "basketball",
+    "tutorialShopOrder": []
+  },
+  "95": {
+    "id": 95,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "tajgame",
+    "tutorialShopOrder": []
+  },
+  "96": {
+    "id": 96,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 30,
+    "event": "tajgame",
+    "tutorialShopOrder": []
+  },
+  "97": {
+    "id": 97,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "concert2",
+    "tutorialShopOrder": []
+  },
+  "98": {
+    "id": 98,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 28,
+    "event": "concert2",
+    "tutorialShopOrder": []
+  },
+  "99": {
+    "id": 99,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "101": {
+    "id": 101,
+    "order": 69,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 27,
+    "event": "concert2",
+    "tutorialShopOrder": []
+  },
+  "102": {
+    "id": 102,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "cindyprog",
+    "tutorialShopOrder": []
+  },
+  "103": {
+    "id": 103,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 22,
+    "event": "cindyprog",
+    "tutorialShopOrder": []
+  },
+  "104": {
+    "id": 104,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "picnic3",
+    "tutorialShopOrder": []
+  },
+  "105": {
+    "id": 105,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 22,
+    "event": "picnic3",
+    "tutorialShopOrder": []
+  },
+  "106": {
+    "id": 106,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "scry2",
+    "tutorialShopOrder": []
+  },
+  "107": {
+    "id": 107,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 22,
+    "event": "scry2",
+    "tutorialShopOrder": []
+  },
+  "108": {
+    "id": 108,
+    "order": 70,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": -99,
+    "event": "springfest",
+    "tutorialShopOrder": []
+  },
+  "109": {
+    "id": 109,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 19,
+    "event": "springfest",
+    "tutorialShopOrder": []
+  },
+  "1000": {
+    "id": 1000,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 69,
+    "event": "battleroyal",
+    "tutorialShopOrder": []
+  },
+  "1001": {
+    "id": 1001,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 72,
+    "event": "arch",
+    "tutorialShopOrder": []
+  },
+  "1002": {
+    "id": 1002,
+    "order": 73,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 57,
+    "event": "moon2024",
+    "tutorialShopOrder": []
+  },
+  "1004": {
+    "id": 1004,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 59,
+    "event": "premoon",
+    "tutorialShopOrder": []
+  },
+  "1005": {
+    "id": 1005,
+    "order": 73,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 58,
+    "event": "premoon",
+    "tutorialShopOrder": []
+  },
+  "1006": {
+    "id": 1006,
+    "order": 73,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 56,
+    "event": "spacedig",
+    "tutorialShopOrder": []
+  },
+  "1007": {
+    "id": 1007,
+    "order": 72,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 54,
+    "event": "dreamdoor",
+    "tutorialShopOrder": []
+  },
+  "1008": {
+    "id": 1008,
+    "order": 73,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 53,
+    "event": "dreamdoor",
+    "tutorialShopOrder": []
+  },
+  "1009": {
+    "id": 1009,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 47,
+    "event": "theatre",
+    "tutorialShopOrder": []
+  },
+  "1010": {
+    "id": 1010,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 46,
+    "event": "unicorndoor",
+    "tutorialShopOrder": []
+  },
+  "1011": {
+    "id": 1011,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 46,
+    "event": "unicorndoor",
+    "tutorialShopOrder": []
+  },
+  "1012": {
+    "id": 1012,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 46,
+    "event": "unicorndoor",
+    "tutorialShopOrder": []
+  },
+  "1013": {
+    "id": 1013,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 45,
+    "event": "monster",
+    "tutorialShopOrder": []
+  },
+  "1014": {
+    "id": 1014,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 44,
+    "event": "fooddoor",
+    "tutorialShopOrder": []
+  },
+  "1015": {
+    "id": 1015,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 44,
+    "event": "fooddoor",
+    "tutorialShopOrder": []
+  },
+  "1016": {
+    "id": 1016,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 44,
+    "event": "fooddoor",
+    "tutorialShopOrder": []
+  },
+  "1017": {
+    "id": 1017,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 40,
+    "event": "hoggoosedoor",
+    "tutorialShopOrder": []
+  },
+  "1018": {
+    "id": 1018,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 40,
+    "event": "hoggoosedoor",
+    "tutorialShopOrder": []
+  },
+  "1019": {
+    "id": 1019,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 40,
+    "event": "hoggoosedoor",
+    "tutorialShopOrder": []
+  },
+  "1020": {
+    "id": 1020,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 38,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "1021": {
+    "id": 1021,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 38,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "1022": {
+    "id": 1022,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 38,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "1023": {
+    "id": 1023,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 38,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "1024": {
+    "id": 1024,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 38,
+    "event": "holmes",
+    "tutorialShopOrder": []
+  },
+  "1031": {
+    "id": 1031,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 36,
+    "event": "bloverdoor",
+    "tutorialShopOrder": []
+  },
+  "1032": {
+    "id": 1032,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 36,
+    "event": "bloverdoor",
+    "tutorialShopOrder": []
+  },
+  "1033": {
+    "id": 1033,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 36,
+    "event": "bloverdoor",
+    "tutorialShopOrder": []
+  },
+  "1034": {
+    "id": 1034,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 144,
+    "refreshCost": {},
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 35,
+    "event": "basketball",
+    "tutorialShopOrder": []
+  },
+  "1035": {
+    "id": 1035,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 33,
+    "event": "seadoor",
+    "tutorialShopOrder": []
+  },
+  "1036": {
+    "id": 1036,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 33,
+    "event": "seadoor",
+    "tutorialShopOrder": []
+  },
+  "1037": {
+    "id": 1037,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 33,
+    "event": "seadoor",
+    "tutorialShopOrder": []
+  },
+  "1038": {
+    "id": 1038,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 32,
+    "event": "ghost",
+    "tutorialShopOrder": []
+  },
+  "1039": {
+    "id": 1039,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 31,
+    "event": "fashion",
+    "tutorialShopOrder": []
+  },
+  "1040": {
+    "id": 1040,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 28,
+    "event": "moon2door",
+    "tutorialShopOrder": []
+  },
+  "1041": {
+    "id": 1041,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 28,
+    "event": "moon2door",
+    "tutorialShopOrder": []
+  },
+  "1042": {
+    "id": 1042,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 28,
+    "event": "moon2door",
+    "tutorialShopOrder": []
+  },
+  "1043": {
+    "id": 1043,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 26,
+    "event": "cheese",
+    "tutorialShopOrder": []
+  },
+  "1044": {
+    "id": 1044,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 24,
+    "event": "mistydoor",
+    "tutorialShopOrder": []
+  },
+  "1045": {
+    "id": 1045,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 24,
+    "event": "mistydoor",
+    "tutorialShopOrder": []
+  },
+  "1046": {
+    "id": 1046,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 24,
+    "event": "mistydoor",
+    "tutorialShopOrder": []
+  },
+  "1047": {
+    "id": 1047,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 2,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 10,
+    "refreshNummax": 50,
+    "show": 23,
+    "event": "cinderella",
+    "tutorialShopOrder": []
+  },
+  "2000": {
+    "id": 2000,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 52,
+    "event": "warehouse1",
+    "tutorialShopOrder": []
+  },
+  "2001": {
+    "id": 2001,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 3,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 49,
+    "event": "coral1",
+    "tutorialShopOrder": []
+  },
+  "2002": {
+    "id": 2002,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 48,
+    "event": "warehouse2",
+    "tutorialShopOrder": []
+  },
+  "2003": {
+    "id": 2003,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 39,
+    "event": "warehouse3",
+    "tutorialShopOrder": []
+  },
+  "2004": {
+    "id": 2004,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 10
+    },
+    "CostNum": 20,
+    "refreshNummax": 50,
+    "show": 29,
+    "event": "warehouse4",
+    "tutorialShopOrder": []
+  },
+  "2005": {
+    "id": 2005,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 17,
+    "event": "love",
+    "tutorialShopOrder": []
+  },
+  "2006": {
+    "id": 2006,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 16,
+    "event": "beachtrip",
+    "tutorialShopOrder": []
+  },
+  "2007": {
+    "id": 2007,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 15,
+    "event": "toycastle",
+    "tutorialShopOrder": []
+  },
+  "2008": {
+    "id": 2008,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 14,
+    "event": "doll",
+    "tutorialShopOrder": []
+  },
+  "2009": {
+    "id": 2009,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 13,
+    "event": "fairytale",
+    "tutorialShopOrder": []
+  },
+  "2010": {
+    "id": 2010,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 12,
+    "event": "picnic4",
+    "tutorialShopOrder": []
+  },
+  "2011": {
+    "id": 2011,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 12,
+    "event": "concert3",
+    "tutorialShopOrder": []
+  },
+  "2012": {
+    "id": 2012,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 12,
+    "event": "nightcity",
+    "tutorialShopOrder": []
+  },
+  "2013": {
+    "id": 2013,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 9,
+    "event": "card",
+    "tutorialShopOrder": []
+  },
+  "2014": {
+    "id": 2014,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 12,
+    "event": "pirate2",
+    "tutorialShopOrder": []
+  },
+  "2015": {
+    "id": 2015,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 7,
+    "event": "moon3",
+    "tutorialShopOrder": []
+  },
+  "2016": {
+    "id": 2016,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 6,
+    "event": "rocket",
+    "tutorialShopOrder": []
+  },
+  "2017": {
+    "id": 2017,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 5,
+    "event": "picnic5",
+    "tutorialShopOrder": []
+  },
+  "2018": {
+    "id": 2018,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 4,
+    "event": "zodiac",
+    "tutorialShopOrder": []
+  },
+  "2019": {
+    "id": 2019,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 3,
+    "event": "makeup",
+    "tutorialShopOrder": []
+  },
+  "2020": {
+    "id": 2020,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 2,
+    "event": "theatre2",
+    "tutorialShopOrder": []
+  },
+  "2021": {
+    "id": 2021,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "castlesky2",
+    "tutorialShopOrder": []
+  },
+  "2022": {
+    "id": 2022,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "mistforest",
+    "tutorialShopOrder": []
+  },
+  "2023": {
+    "id": 2023,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "snowwhite2",
+    "tutorialShopOrder": []
+  },
+  "2024": {
+    "id": 2024,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "mooncastle",
+    "tutorialShopOrder": []
+  },
+  "2025": {
+    "id": 2025,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "alice2",
+    "tutorialShopOrder": []
+  },
+  "2026": {
+    "id": 2026,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "sport",
+    "tutorialShopOrder": []
+  },
+  "2027": {
+    "id": 2027,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "oceanvoice",
+    "tutorialShopOrder": []
+  },
+  "2028": {
+    "id": 2028,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "beachroll",
+    "tutorialShopOrder": []
+  },
+  "2029": {
+    "id": 2029,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "stadium",
+    "tutorialShopOrder": []
+  },
+  "2030": {
+    "id": 2030,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "flower",
+    "tutorialShopOrder": []
+  },
+  "2031": {
+    "id": 2031,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "btroyale2",
+    "tutorialShopOrder": []
+  },
+  "2032": {
+    "id": 2032,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "fairyroll",
+    "tutorialShopOrder": []
+  },
+  "2033": {
+    "id": 2033,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "pirate3",
+    "tutorialShopOrder": []
+  },
+  "2034": {
+    "id": 2034,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "theatre3",
+    "tutorialShopOrder": []
+  },
+  "2035": {
+    "id": 2035,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "potion",
+    "tutorialShopOrder": []
+  },
+  "2036": {
+    "id": 2036,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "dishroll",
+    "tutorialShopOrder": []
+  },
+  "2037": {
+    "id": 2037,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "market",
+    "tutorialShopOrder": []
+  },
+  "2038": {
+    "id": 2038,
+    "order": 71,
+    "refreshType": 1,
+    "refreshTimes": 1,
+    "refreshCost": {
+      "Diamond": 20
+    },
+    "CostNum": 0,
+    "refreshNummax": 0,
+    "show": 1,
+    "event": "collection",
+    "tutorialShopOrder": []
+  }
+}

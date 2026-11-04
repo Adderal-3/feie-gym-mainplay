@@ -1,0 +1,52 @@
+{
+  "14001": {
+    "id": 14001,
+    "unlockPlayerLevel": 8,
+    "duration": 3600,
+    "price": {
+      "Cash": 600
+    },
+    "reward": {
+      "Diamond": 50,
+      "Energy": 100
+    }
+  },
+  "14002": {
+    "id": 14002,
+    "unlockPlayerLevel": 8,
+    "duration": 3600,
+    "price": {
+      "Cash": 3000
+    },
+    "reward": {
+      "Diamond": 260,
+      "Energy": 300
+    }
+  },
+  "14003": {
+    "id": 14003,
+    "unlockPlayerLevel": 8,
+    "duration": 3600,
+    "price": {
+      "Cash": 9800
+    },
+    "reward": {
+      "90502": 1,
+      "Diamond": 600,
+      "Energy": 300
+    }
+  },
+  "14004": {
+    "id": 14004,
+    "unlockPlayerLevel": 8,
+    "duration": 3600,
+    "price": {
+      "Cash": 12800
+    },
+    "reward": {
+      "90602": 2,
+      "Diamond": 800,
+      "Energy": 300
+    }
+  }
+}

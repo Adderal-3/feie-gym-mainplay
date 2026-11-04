@@ -1,0 +1,338 @@
+{
+  "100010101": {
+    "id": 100010101,
+    "belongTo": "newmp0001",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100010102": {
+    "id": 100010102,
+    "belongTo": "newmp0001",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100010103": {
+    "id": 100010103,
+    "belongTo": "newmp0001",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100030101": {
+    "id": 100030101,
+    "belongTo": "newmp0002",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100030102": {
+    "id": 100030102,
+    "belongTo": "newmp0002",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100030103": {
+    "id": 100030103,
+    "belongTo": "newmp0002",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100040101": {
+    "id": 100040101,
+    "belongTo": "newmp0003",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100040102": {
+    "id": 100040102,
+    "belongTo": "newmp0003",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100040103": {
+    "id": 100040103,
+    "belongTo": "newmp0003",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100050101": {
+    "id": 100050101,
+    "belongTo": "newmp0004",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100050102": {
+    "id": 100050102,
+    "belongTo": "newmp0004",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100050103": {
+    "id": 100050103,
+    "belongTo": "newmp0004",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100060101": {
+    "id": 100060101,
+    "belongTo": "newmp0005",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100060102": {
+    "id": 100060102,
+    "belongTo": "newmp0005",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100060103": {
+    "id": 100060103,
+    "belongTo": "newmp0005",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100070101": {
+    "id": 100070101,
+    "belongTo": "newmp0006",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100070102": {
+    "id": 100070102,
+    "belongTo": "newmp0006",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100070103": {
+    "id": 100070103,
+    "belongTo": "newmp0006",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100080101": {
+    "id": 100080101,
+    "belongTo": "newmp0007",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100080102": {
+    "id": 100080102,
+    "belongTo": "newmp0007",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100080103": {
+    "id": 100080103,
+    "belongTo": "newmp0007",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100090101": {
+    "id": 100090101,
+    "belongTo": "newmp0008",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100090102": {
+    "id": 100090102,
+    "belongTo": "newmp0008",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100090103": {
+    "id": 100090103,
+    "belongTo": "newmp0008",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100100101": {
+    "id": 100100101,
+    "belongTo": "newmp0009",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100100102": {
+    "id": 100100102,
+    "belongTo": "newmp0009",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100100103": {
+    "id": 100100103,
+    "belongTo": "newmp0009",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100110101": {
+    "id": 100110101,
+    "belongTo": "newmp0010",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100110102": {
+    "id": 100110102,
+    "belongTo": "newmp0010",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100110103": {
+    "id": 100110103,
+    "belongTo": "newmp0010",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100120101": {
+    "id": 100120101,
+    "belongTo": "newmp0011",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100120102": {
+    "id": 100120102,
+    "belongTo": "newmp0011",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100120103": {
+    "id": 100120103,
+    "belongTo": "newmp0011",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100130101": {
+    "id": 100130101,
+    "belongTo": "newmp0012",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100130102": {
+    "id": 100130102,
+    "belongTo": "newmp0012",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100130103": {
+    "id": 100130103,
+    "belongTo": "newmp0012",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100140101": {
+    "id": 100140101,
+    "belongTo": "newmp0013",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100140102": {
+    "id": 100140102,
+    "belongTo": "newmp0013",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100140103": {
+    "id": 100140103,
+    "belongTo": "newmp0013",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100150101": {
+    "id": 100150101,
+    "belongTo": "newmp0014",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100150102": {
+    "id": 100150102,
+    "belongTo": "newmp0014",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100150103": {
+    "id": 100150103,
+    "belongTo": "newmp0014",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100160101": {
+    "id": 100160101,
+    "belongTo": "newmp0015",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100160102": {
+    "id": 100160102,
+    "belongTo": "newmp0015",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100160103": {
+    "id": 100160103,
+    "belongTo": "newmp0015",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  },
+  "100170101": {
+    "id": 100170101,
+    "belongTo": "newmp0016",
+    "passPrice": 5000,
+    "tagText": "600%",
+    "type": 1
+  },
+  "100170102": {
+    "id": 100170102,
+    "belongTo": "newmp0016",
+    "passPrice": 9800,
+    "tagText": "1000%",
+    "type": 2
+  },
+  "100170103": {
+    "id": 100170103,
+    "belongTo": "newmp0016",
+    "passPrice": 6800,
+    "tagText": "1000%",
+    "type": 3
+  }
+}

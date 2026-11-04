@@ -1,0 +1,1838 @@
+{
+  "feather": {
+    "id": "feather",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Feather"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 101,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99914,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "balloon": {
+    "id": "balloon",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Balloon",
+      "Pass_NumBalloon",
+      "Pass_BeachBalloon",
+      "Pass_OrBalloon"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 201,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99924,
+    "passDailyDiamond": 5,
+    "txtColor": "#6F401B",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "bell": {
+    "id": "bell",
+    "walkGoose": "aqiu",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu",
+    "taskgoose": "aqiuUI",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Bell",
+      "Pass_Number3",
+      "Pass_Beach3",
+      "Pass_Ornament3",
+      "Pass_Jewelry1"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 301,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99934,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "riceball": {
+    "id": "riceball",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Riceball"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 401,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99944,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "flower": {
+    "id": "flower",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Flower"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 501,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99954,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "honey": {
+    "id": "honey",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Honey",
+      "Pass_Number6",
+      "Pass_Beach6",
+      "Pass_Ornament6"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 601,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99964,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "phoenix": {
+    "id": "phoenix",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Phoenix",
+      "Pass_Hoggoose",
+      "Pass_Number7",
+      "Pass_Beach7",
+      "Pass_Ornament7"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 701,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99974,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "sea": {
+    "id": "sea",
+    "walkGoose": "aqiu3",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu3",
+    "taskgoose": "aqiuUI3",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Sea",
+      "Pass_Undersea",
+      "Pass_Number8",
+      "Pass_Beach8",
+      "Pass_Ornament8",
+      "Pass_Wood3",
+      "Pass_Travel2"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 801,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99986,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "coal": {
+    "id": "coal",
+    "walkGoose": "aqiu4",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu4",
+    "taskgoose": "aqiuUI4",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Coal",
+      "Pass_Picnic",
+      "Pass_Number9",
+      "Pass_Beach9",
+      "Pass_Ornament9"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 901,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99994,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "incense": {
+    "id": "incense",
+    "walkGoose": "aqiu5",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu5",
+    "taskgoose": "aqiuUI5",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Incense",
+      "Pass_Moon2",
+      "Pass_Number10",
+      "Pass_Beach10",
+      "Pass_Ornament10",
+      "Pass_Jewelry"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1001,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99894,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "tale": {
+    "id": "tale",
+    "walkGoose": "aqiu6",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Tale",
+      "Pass_Misty",
+      "Pass_Number11",
+      "Pass_Beach11",
+      "Pass_Ornament11"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1101,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99794,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "feather2": {
+    "id": "feather2",
+    "walkGoose": "aqiu2",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu2",
+    "taskgoose": "aqiuUI2",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Feather2",
+      "Pass_Snow",
+      "Pass_Number12",
+      "Pass_Beach12",
+      "Pass_Ornament12",
+      "Pass_Healthy1"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1201,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99694,
+    "passDailyDiamond": 5,
+    "txtColor": "#6F9CA7",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 0
+  },
+  "feeder": {
+    "id": "feeder",
+    "walkGoose": "aqiu7",
+    "enterIcon": "aqiuxiaokuirukou",
+    "boardAnim": "TimeOrderxiaokui",
+    "taskgoose": "aqiuxiaokuiUI",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Feeder",
+      "Pass_Shin",
+      "Pass_Number13",
+      "Pass_Beach13",
+      "Pass_Ornament13"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1301,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99494,
+    "passDailyDiamond": 5,
+    "txtColor": "#6F401B",
+    "DiamondToPoint": 0,
+    "CanDiamondBuy": 0,
+    "titleX": 25
+  },
+  "nian": {
+    "id": "nian",
+    "walkGoose": "aqiu8",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu8",
+    "taskgoose": "aqiuUI8",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Nian",
+      "Pass_Number14",
+      "Pass_Beach14",
+      "Pass_Ornament14",
+      "Pass_Wood",
+      "Pass_Door",
+      "Pass_Spring"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1401,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99394,
+    "passDailyDiamond": 5,
+    "txtColor": "#d39650",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "travel": {
+    "id": "travel",
+    "walkGoose": "aqiu3",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu3",
+    "taskgoose": "aqiuUI3",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Travel",
+      "Pass_Number15",
+      "Pass_Beach15",
+      "Pass_Ornament15",
+      "Pass_Jewelry1",
+      "Pass_Farm1",
+      "Pass_Wood1",
+      "Pass_Travel1"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1501,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99294,
+    "passDailyDiamond": 5,
+    "txtColor": "#be5c71",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "viking": {
+    "id": "viking",
+    "walkGoose": "aqiu9",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu9",
+    "taskgoose": "aqiuUI9",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Viking",
+      "Pass_Number16",
+      "Pass_Beach16",
+      "Pass_Ornament16",
+      "Pass_Farm2",
+      "Pass_Jewelry2",
+      "Pass_Pirate"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1601,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99194,
+    "passDailyDiamond": 5,
+    "txtColor": "#91adee",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "alice": {
+    "id": "alice",
+    "walkGoose": "aqiu6",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Alice",
+      "Pass_Number17",
+      "Pass_Beach17",
+      "Pass_Ornament17",
+      "Pass_Dream",
+      "Pass_Farm3"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1701,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99094,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "gourmet": {
+    "id": "gourmet",
+    "walkGoose": "aqiu3",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu3",
+    "taskgoose": "aqiuUI3",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Gourmet",
+      "Pass_Number18",
+      "Pass_Beach18",
+      "Pass_Ornament18",
+      "Pass_Food",
+      "Pass_Wood2",
+      "Pass_Farm4"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1801,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99084,
+    "passDailyDiamond": 5,
+    "txtColor": "",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "zhenhuan1": {
+    "id": "zhenhuan1",
+    "walkGoose": "aqiu11",
+    "enterIcon": "aqiuzhenhuanrukou",
+    "boardAnim": "TimeOrderaqiu11",
+    "taskgoose": "aqiuUI11",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Zhenhuan",
+      "Pass_Number19",
+      "Pass_Beach19",
+      "Pass_Ornament19",
+      "Pass_Farm4",
+      "Pass_Cookie",
+      "Pass_Duanwu1",
+      "Pass_Wood19"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 1901,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99884,
+    "passDailyDiamond": 5,
+    "txtColor": "#B6778A",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "zhenhuan2": {
+    "id": "zhenhuan2",
+    "walkGoose": "aqiu12",
+    "enterIcon": "aqiuzhenhuanrukou",
+    "boardAnim": "TimeOrderaqiu12",
+    "taskgoose": "aqiuUI12",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Zhenhuan2",
+      "Pass_Number20",
+      "Pass_Beach20",
+      "Pass_Ornament20",
+      "Pass_Farm20",
+      "Pass_Zhzboard",
+      "Pass_Wood20"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 2001,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99874,
+    "passDailyDiamond": 5,
+    "txtColor": "#e3b26d",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "broyale": {
+    "id": "broyale",
+    "walkGoose": "aqiu13",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu13",
+    "taskgoose": "aqiuUI13",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_battleroyale",
+      "Pass_Number21",
+      "Pass_Beach21",
+      "Pass_Ornament21",
+      "Pass_Jewelry21",
+      "Pass_Battleroyal21",
+      "Pass_Wood21"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 2101,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99864,
+    "passDailyDiamond": 5,
+    "txtColor": "#775da8",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "mooncake": {
+    "id": "mooncake",
+    "walkGoose": "aqiu5",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu5",
+    "taskgoose": "aqiuUI5",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Mooncake",
+      "Pass_Number22",
+      "Pass_Beach22",
+      "Pass_Ornament22",
+      "Pass_Arch",
+      "Pass_Healthy2",
+      "Pass_Premoon",
+      "Pass_Farm6",
+      "Pass_Banana"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 2201,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99844,
+    "passDailyDiamond": 5,
+    "txtColor": "#6f6dba",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "ufo": {
+    "id": "ufo",
+    "walkGoose": "aqiu14",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu14",
+    "taskgoose": "aqiuUI14",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_UFO",
+      "Pass_Number23",
+      "Pass_Beach24",
+      "Pass_Ornament23",
+      "Pass_Moon2024",
+      "Pass_Farm7"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 2301,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99834,
+    "passDailyDiamond": 5,
+    "txtColor": "#6f6dba",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  },
+  "mirror": {
+    "id": "mirror",
+    "walkGoose": "aqiu6",
+    "enterIcon": "kacherukou",
+    "boardAnim": "TimeOrderaqiu6",
+    "taskgoose": "aqiuUI6",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoMergeTimes": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "autoPassWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "autoElementSeries": [
+      "F_0",
+      "F_1",
+      "D_0",
+      "F_5",
+      "G_4",
+      "I_2",
+      "Number_7",
+      "ActivityExp",
+      "Ornament_4"
+    ],
+    "passInitTimes": [
+      2,
+      9,
+      1,
+      7,
+      4,
+      11,
+      4,
+      8
+    ],
+    "recoveryElementSeries": [
+      "Pass_Mirror",
+      "Pass_Number24",
+      "Pass_Beach25",
+      "Pass_Ornament24",
+      "Pass_Unhealthy"
+    ],
+    "recoveryChangeTo": 0,
+    "passRewardMailID": 2401,
+    "rankImg": "Texture/UI/EventPass/img_EPbg_paihang",
+    "worldRankImg": "Texture/UI/TimeOrderTask/ui_timeorder_rankworld",
+    "passElementForth": 99824,
+    "passDailyDiamond": 5,
+    "txtColor": "#6f6dba",
+    "DiamondToPoint": 2,
+    "CanDiamondBuy": 1,
+    "titleX": 0
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "frozenBubble1": {
+    "1105": {
+      "id": 1105,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "1106": {
+      "id": 1106,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "1107": {
+      "id": 1107,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "1108": {
+      "id": 1108,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "1109": {
+      "id": 1109,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "1110": {
+      "id": 1110,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "1111": {
+      "id": 1111,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "1112": {
+      "id": 1112,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "1113": {
+      "id": 1113,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "1114": {
+      "id": 1114,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "2105": {
+      "id": 2105,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "2106": {
+      "id": 2106,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "2107": {
+      "id": 2107,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "2108": {
+      "id": 2108,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "2109": {
+      "id": 2109,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "2110": {
+      "id": 2110,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "2111": {
+      "id": 2111,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "2112": {
+      "id": 2112,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "2113": {
+      "id": 2113,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "3105": {
+      "id": 3105,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "3106": {
+      "id": 3106,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "3107": {
+      "id": 3107,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "3108": {
+      "id": 3108,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "3109": {
+      "id": 3109,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "3110": {
+      "id": 3110,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "4202": {
+      "id": 4202,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "4203": {
+      "id": 4203,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "4204": {
+      "id": 4204,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "4205": {
+      "id": 4205,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "4206": {
+      "id": 4206,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "4207": {
+      "id": 4207,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "4208": {
+      "id": 4208,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "5105": {
+      "id": 5105,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "5106": {
+      "id": 5106,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "5107": {
+      "id": 5107,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "5108": {
+      "id": 5108,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "5109": {
+      "id": 5109,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "5110": {
+      "id": 5110,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "9105": {
+      "id": 9105,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "9106": {
+      "id": 9106,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "9107": {
+      "id": 9107,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "9109": {
+      "id": 9109,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "11013": {
+      "id": 11013,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "11014": {
+      "id": 11014,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "11015": {
+      "id": 11015,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "11016": {
+      "id": 11016,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "11017": {
+      "id": 11017,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "11018": {
+      "id": 11018,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "70825": {
+      "id": 70825,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "70826": {
+      "id": 70826,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "70827": {
+      "id": 70827,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "70829": {
+      "id": 70829,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    },
+    "70924": {
+      "id": 70924,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "70925": {
+      "id": 70925,
+      "elementConvert": 11011,
+      "elementTime": 300
+    },
+    "70926": {
+      "id": 70926,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "70927": {
+      "id": 70927,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "70928": {
+      "id": 70928,
+      "elementConvert": 11011,
+      "elementTime": 600
+    },
+    "70929": {
+      "id": 70929,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "70930": {
+      "id": 70930,
+      "elementConvert": 11011,
+      "elementTime": 900
+    },
+    "70931": {
+      "id": 70931,
+      "elementConvert": 11011,
+      "elementTime": 1200
+    }
+  }
+}

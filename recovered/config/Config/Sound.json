@@ -1,0 +1,146 @@
+{
+  "mergePutBag": {
+    "id": "mergePutBag",
+    "resName": "mergePutBag",
+    "vibrateCount": 1,
+    "vibrate": 2,
+    "time": [],
+    "isMusic": 0,
+    "cd": 0
+  },
+  "finish_order": {
+    "id": "finish_order",
+    "resName": "finish_order",
+    "vibrateCount": 1,
+    "vibrate": 1,
+    "time": [],
+    "isMusic": 0,
+    "cd": 0
+  },
+  "finish_order_low": {
+    "id": "finish_order_low",
+    "resName": "finish_order_low",
+    "vibrateCount": 1,
+    "vibrate": 1,
+    "time": [],
+    "isMusic": 0,
+    "cd": 0
+  },
+  "finish_order_mid": {
+    "id": "finish_order_mid",
+    "resName": "finish_order_mid",
+    "vibrateCount": 1,
+    "vibrate": 1,
+    "time": [],
+    "isMusic": 0,
+    "cd": 0
+  },
+  "finish_order_high": {
+    "id": "finish_order_high",
+    "resName": "finish_order_high",
+    "vibrateCount": 1,
+    "vibrate": 1,
+    "time": [],
+    "isMusic": 0,
+    "cd": 0
+  },
+  "bg_activity_79": {
+    "id": "bg_activity_79",
+    "resName": "bg_activity_7",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_17": {
+    "id": "bg_activity_17",
+    "resName": "bg_activity_7",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_66": {
+    "id": "bg_activity_66",
+    "resName": "bg_activity_13",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_45": {
+    "id": "bg_activity_45",
+    "resName": "bg_activity_10",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_30": {
+    "id": "bg_activity_30",
+    "resName": "bg_activity_14",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_68": {
+    "id": "bg_activity_68",
+    "resName": "bg_activity_14",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_72": {
+    "id": "bg_activity_72",
+    "resName": "bg_activity_15",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_25": {
+    "id": "bg_activity_25",
+    "resName": "bg_activity_21",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_35": {
+    "id": "bg_activity_35",
+    "resName": "bg_activity_27",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_36": {
+    "id": "bg_activity_36",
+    "resName": "bg_activity_27",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  },
+  "bg_activity_37": {
+    "id": "bg_activity_37",
+    "resName": "bg_activity_27",
+    "vibrateCount": 0,
+    "vibrate": 0,
+    "time": [],
+    "isMusic": 1,
+    "cd": 0
+  }
+}

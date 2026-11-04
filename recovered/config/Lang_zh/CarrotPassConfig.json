@@ -1,0 +1,13 @@
+{
+  "carrot": {
+    "id": "carrot",
+    "title": "萝卜荟萃",
+    "explainTitle": "活动说明",
+    "explainDesc": "在棋盘上完成合成后，有概率产出萝卜，收集萝卜领取奖励吧！成为会员后，还能获得额外奖励哦~",
+    "initReminder": "成为尊贵的会员，解锁超多额外奖励！",
+    "boughtReminder": "欢迎尊贵的会员！您真是慧眼如炬！",
+    "clickUnacquirableToast": "去棋盘获得积分吧！",
+    "clickAcquirableToast": "奖励已被领取了哦~",
+    "clickTerribleToast": "点击领取按钮可获得奖励！"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "jewelry": {
+    "id": "jewelry",
+    "BeginDialog": 17101,
+    "EnterBoard": 0,
+    "EndDialog": 17106,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "73310:17104"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "73001:17102",
+      "73206:17103"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "wood": {
+    "id": "wood",
+    "BeginDialog": 17201,
+    "EnterBoard": 17202,
+    "EndDialog": 17207,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "66402:17205"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "66206:17203",
+      "66310:17204"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "cookie": {
+    "id": "cookie",
+    "BeginDialog": 17301,
+    "EnterBoard": 0,
+    "EndDialog": 17306,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "56221:17303"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "56001:17302",
+      "56410:17304"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  },
+  "banana": {
+    "id": "banana",
+    "BeginDialog": 17211,
+    "EnterBoard": 0,
+    "EndDialog": 17217,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "48402:17215"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [
+      "4001:17212"
+    ],
+    "clickElement": [
+      "48206:17213",
+      "48310:17214"
+    ],
+    "getAllShopProgressReward": 0,
+    "getShopProgressReward": []
+  }
+}

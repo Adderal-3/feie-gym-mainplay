@@ -1,0 +1,355 @@
+{
+  "1001": {
+    "gachaID": 1001,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "filter": [],
+    "icon": "normal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "1002": {
+    "gachaID": 1002,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "filter": [
+      "instance401",
+      "instance402",
+      "instance403",
+      "instance404",
+      "instance405",
+      "instance406",
+      "event001",
+      "event002",
+      "event003",
+      "event004",
+      "event005",
+      "event006",
+      "event007",
+      "event008",
+      "event009",
+      "event010"
+    ],
+    "icon": "normal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "2001": {
+    "gachaID": 2001,
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "filter": [
+      "instance401",
+      "instance402",
+      "instance403",
+      "instance404",
+      "instance405",
+      "instance406",
+      "event001",
+      "event002",
+      "event003",
+      "event004",
+      "event005",
+      "event006",
+      "event007",
+      "event008",
+      "event009",
+      "event010"
+    ],
+    "icon": "normal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "2002": {
+    "gachaID": 2002,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "limit",
+    "upPool": "pool009",
+    "upBegin": 1710993600,
+    "upEnd": 1711468799
+  },
+  "2003": {
+    "gachaID": 2003,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool010",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "2004": {
+    "gachaID": 2004,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool011",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "2005": {
+    "gachaID": 2005,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool012",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "2006": {
+    "gachaID": 2006,
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool013",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6001": {
+    "gachaID": 6001,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "spring",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6002": {
+    "gachaID": 6002,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001",
+      "instance403"
+    ],
+    "icon": "spring",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6003": {
+    "gachaID": 6003,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001",
+      "instance403"
+    ],
+    "icon": "event",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6004": {
+    "gachaID": 6004,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6005": {
+    "gachaID": 6005,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6006": {
+    "gachaID": 6006,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "spring2",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6007": {
+    "gachaID": 6007,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "spring",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6008": {
+    "gachaID": 6008,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool014",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6009": {
+    "gachaID": 6009,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6010": {
+    "gachaID": 6010,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6011": {
+    "gachaID": 6011,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6012": {
+    "gachaID": 6012,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6013": {
+    "gachaID": 6013,
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool091",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6014": {
+    "gachaID": 6014,
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "normal",
+    "upPool": "pool090",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6015": {
+    "gachaID": 6015,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "6016": {
+    "gachaID": 6016,
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "filter": [
+      "goose0001"
+    ],
+    "icon": "eventNormal",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  },
+  "8888": {
+    "gachaID": 8888,
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "filter": [],
+    "icon": "joker",
+    "upPool": "",
+    "upBegin": 0,
+    "upEnd": 0
+  }
+}

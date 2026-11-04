@@ -1,0 +1,533 @@
+{
+  "gog1": {
+    "id": "gog1",
+    "enterDialog": 9322,
+    "endDialog": 9323,
+    "closeDialog": 9324,
+    "type": "Main",
+    "unlock": "PlayerLevel15",
+    "orderSpecialId1": 10001,
+    "EntranceIcon": "240699",
+    "progressBarStep": [
+      10,
+      40,
+      60,
+      50,
+      60,
+      60,
+      130,
+      140,
+      60,
+      90,
+      110,
+      140,
+      260,
+      280,
+      300,
+      300,
+      300,
+      330,
+      360,
+      390,
+      420,
+      450,
+      500,
+      540,
+      690,
+      780,
+      800,
+      810,
+      810,
+      840
+    ],
+    "progressReward": [
+      {
+        "Energy": 10
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 30
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Diamond": 100
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "roundOneScore": 6070,
+    "waterId": "999014",
+    "respawnOfferId": [
+      1511
+    ],
+    "PointId": 1,
+    "rankPointLeast": 6000,
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "roundTwoOrderId": 0,
+    "roundTwoStopOrderSeries": []
+  },
+  "gog2": {
+    "id": "gog2",
+    "enterDialog": 9322,
+    "endDialog": 9323,
+    "closeDialog": 9324,
+    "type": "Main",
+    "unlock": "PlayerLevel15",
+    "orderSpecialId1": 20001,
+    "EntranceIcon": "240699",
+    "progressBarStep": [
+      10,
+      40,
+      60,
+      50,
+      60,
+      60,
+      130,
+      140,
+      60,
+      90,
+      110,
+      140,
+      260,
+      280,
+      300,
+      300,
+      300,
+      330,
+      360,
+      390,
+      420,
+      450,
+      500,
+      540,
+      690,
+      780,
+      800,
+      810,
+      810,
+      840
+    ],
+    "progressReward": [
+      {
+        "Energy": 10
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 30
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Diamond": 100
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "roundOneScore": 6070,
+    "waterId": "999014",
+    "respawnOfferId": [
+      1511
+    ],
+    "PointId": 1,
+    "rankPointLeast": 6000,
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "roundTwoOrderId": 0,
+    "roundTwoStopOrderSeries": []
+  },
+  "gog3": {
+    "id": "gog3",
+    "enterDialog": 9322,
+    "endDialog": 9323,
+    "closeDialog": 9324,
+    "type": "Main",
+    "unlock": "PlayerLevel15",
+    "orderSpecialId1": 30001,
+    "EntranceIcon": "240699",
+    "progressBarStep": [
+      10,
+      40,
+      60,
+      50,
+      60,
+      60,
+      130,
+      140,
+      60,
+      90,
+      110,
+      140,
+      260,
+      280,
+      300,
+      300,
+      300,
+      330,
+      360,
+      390,
+      420,
+      450,
+      500,
+      540,
+      690,
+      780,
+      800,
+      810,
+      810,
+      840
+    ],
+    "progressReward": [
+      {
+        "Energy": 10
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 30
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "Energy": 80
+      },
+      {
+        "Energy": 100
+      },
+      {
+        "Energy": 200
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Diamond": 100
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      },
+      {
+        "Energy": 300
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "roundOneScore": 6070,
+    "waterId": "999014",
+    "respawnOfferId": [
+      1511
+    ],
+    "PointId": 1,
+    "rankPointLeast": 6000,
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "roundTwoOrderId": 0,
+    "roundTwoStopOrderSeries": []
+  }
+}

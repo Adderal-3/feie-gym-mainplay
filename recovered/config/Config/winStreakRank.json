@@ -1,0 +1,32 @@
+{
+  "rank1_1": {
+    "id": "rank1_1",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 1.208
+  },
+  "rank1_2": {
+    "id": "rank1_2",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 1
+  },
+  "rank1_3": {
+    "id": "rank1_3",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 0.762
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "monster": {
+    "id": "monster",
+    "unlockEntrance": 20,
+    "board": 67,
+    "initOrderId": [
+      10001
+    ],
+    "firstMonsterId": 101,
+    "includeHeros": [
+      36024,
+      36026,
+      36025,
+      36022,
+      36021,
+      36023
+    ],
+    "taskgoose": "feiezhuUI",
+    "UIFile": "250220",
+    "giftSeriesId": 231,
+    "monsterId": 36301,
+    "monsterHp": 99,
+    "excalibur": 36095,
+    "victoryReward": {
+      "90501": 1,
+      "90601": 1,
+      "Energy": 50,
+      "Diamond": 20
+    },
+    "weaponATK": 9,
+    "exchangeEleId": 36501,
+    "exchangeMonsterEleId": 36801,
+    "handbookReward": {
+      "Diamond": 20
+    }
+  }
+}

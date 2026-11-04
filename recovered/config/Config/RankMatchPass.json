@@ -1,0 +1,208 @@
+{
+  "s1": {
+    "1": {
+      "id": 1,
+      "star": 3,
+      "stageReward": {
+        "50001": 1
+      },
+      "stair": 1,
+      "stageId": 1001
+    },
+    "2": {
+      "id": 2,
+      "star": 3,
+      "stageReward": {
+        "98301": 1,
+        "Energy": 50,
+        "Film2": 1
+      },
+      "stair": 1,
+      "stageId": 1002
+    },
+    "3": {
+      "id": 3,
+      "star": 3,
+      "stageReward": {
+        "50001": 1
+      },
+      "stair": 1,
+      "stageId": 1003
+    },
+    "4": {
+      "id": 4,
+      "star": 3,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 50,
+        "Film2": 1
+      },
+      "stair": 2,
+      "stageId": 1004
+    },
+    "5": {
+      "id": 5,
+      "star": 3,
+      "stageReward": {
+        "50002": 1,
+        "9820002": 1
+      },
+      "stair": 2,
+      "stageId": 1005
+    },
+    "6": {
+      "id": 6,
+      "star": 4,
+      "stageReward": {
+        "9820021": 1,
+        "Energy": 100,
+        "Film3": 1
+      },
+      "stair": 2,
+      "stageId": 1006
+    },
+    "7": {
+      "id": 7,
+      "star": 3,
+      "stageReward": {
+        "77701": 1
+      },
+      "stair": 3,
+      "stageId": 1007
+    },
+    "8": {
+      "id": 8,
+      "star": 4,
+      "stageReward": {
+        "50003": 1,
+        "Film4": 1
+      },
+      "stair": 3,
+      "stageId": 1008
+    },
+    "9": {
+      "id": 9,
+      "star": 5,
+      "stageReward": {
+        "9820022": 1,
+        "Film5": 1
+      },
+      "stair": 3,
+      "stageId": 1009
+    },
+    "10": {
+      "id": 10,
+      "star": 5,
+      "stageReward": {
+        "77701": 1,
+        "Energy": 300,
+        "Diamond": 50
+      },
+      "stair": 3,
+      "stageId": 1010
+    }
+  },
+  "s2": {
+    "101": {
+      "id": 101,
+      "star": 3,
+      "stageReward": {
+        "50021": 1
+      },
+      "stair": 1,
+      "stageId": 1001
+    },
+    "102": {
+      "id": 102,
+      "star": 3,
+      "stageReward": {
+        "98301": 1,
+        "Energy": 50,
+        "Film2": 1
+      },
+      "stair": 1,
+      "stageId": 1002
+    },
+    "103": {
+      "id": 103,
+      "star": 3,
+      "stageReward": {
+        "50021": 1
+      },
+      "stair": 1,
+      "stageId": 1003
+    },
+    "104": {
+      "id": 104,
+      "star": 3,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 50,
+        "Film2": 1
+      },
+      "stair": 2,
+      "stageId": 1004
+    },
+    "105": {
+      "id": 105,
+      "star": 3,
+      "stageReward": {
+        "50022": 1,
+        "9820002": 1
+      },
+      "stair": 2,
+      "stageId": 1005
+    },
+    "106": {
+      "id": 106,
+      "star": 4,
+      "stageReward": {
+        "9820021": 1,
+        "Energy": 100,
+        "Film3": 1
+      },
+      "stair": 2,
+      "stageId": 1006
+    },
+    "107": {
+      "id": 107,
+      "star": 3,
+      "stageReward": {
+        "77702": 1
+      },
+      "stair": 3,
+      "stageId": 1007
+    },
+    "108": {
+      "id": 108,
+      "star": 4,
+      "stageReward": {
+        "50023": 1,
+        "Film4": 1
+      },
+      "stair": 3,
+      "stageId": 1008
+    },
+    "109": {
+      "id": 109,
+      "star": 5,
+      "stageReward": {
+        "9820022": 1,
+        "Film5": 1
+      },
+      "stair": 3,
+      "stageId": 1009
+    },
+    "110": {
+      "id": 110,
+      "star": 5,
+      "stageReward": {
+        "77702": 1,
+        "Energy": 300,
+        "Diamond": 50
+      },
+      "stair": 3,
+      "stageId": 1010
+    }
+  }
+}

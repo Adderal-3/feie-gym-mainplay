@@ -1,0 +1,47 @@
+{
+  "jungleFlip1_1": {
+    "flipId": "jungleFlip1_1",
+    "reward1": {
+      "Energy": 50
+    },
+    "weight1": 10,
+    "reward2": {
+      "Energy": 25
+    },
+    "weight2": 10,
+    "reward3": {
+      "Energy": 10
+    },
+    "weight3": 10
+  },
+  "jungleFlip1_2": {
+    "flipId": "jungleFlip1_2",
+    "reward1": {
+      "Energy": 100
+    },
+    "weight1": 10,
+    "reward2": {
+      "Energy": 50
+    },
+    "weight2": 10,
+    "reward3": {
+      "Energy": 20
+    },
+    "weight3": 10
+  },
+  "jungleFlip1_3": {
+    "flipId": "jungleFlip1_3",
+    "reward1": {
+      "Energy": 150
+    },
+    "weight1": 10,
+    "reward2": {
+      "Energy": 75
+    },
+    "weight2": 10,
+    "reward3": {
+      "Energy": 30
+    },
+    "weight3": 10
+  }
+}

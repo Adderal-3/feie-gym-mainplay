@@ -1,0 +1,29 @@
+{
+  "tournament1": {
+    "id": "tournament1",
+    "router": [
+      "tournament3",
+      "tournament2",
+      "tournament1"
+    ],
+    "orderPoint": 1.22
+  },
+  "tournament2": {
+    "id": "tournament2",
+    "router": [
+      "tournament3",
+      "tournament2",
+      "tournament1"
+    ],
+    "orderPoint": 1
+  },
+  "tournament3": {
+    "id": "tournament3",
+    "router": [
+      "tournament3",
+      "tournament2",
+      "tournament1"
+    ],
+    "orderPoint": 0.83
+  }
+}

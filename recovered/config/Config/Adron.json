@@ -1,0 +1,5776 @@
+{
+  "Main": {
+    "1001": {
+      "id": 1001,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1002": {
+      "id": 1002,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1003": {
+      "id": 1003,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1004": {
+      "id": 1004,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1005": {
+      "id": 1005,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1006": {
+      "id": 1006,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1007": {
+      "id": 1007,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1008": {
+      "id": 1008,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1009": {
+      "id": 1009,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1010": {
+      "id": 1010,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1011": {
+      "id": 1011,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1012": {
+      "id": 1012,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1013": {
+      "id": 1013,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1014": {
+      "id": 1014,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1015": {
+      "id": 1015,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1016": {
+      "id": 1016,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1017": {
+      "id": 1017,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1018": {
+      "id": 1018,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1019": {
+      "id": 1019,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1020": {
+      "id": 1020,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1021": {
+      "id": 1021,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1022": {
+      "id": 1022,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1023": {
+      "id": 1023,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1024": {
+      "id": 1024,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1025": {
+      "id": 1025,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1026": {
+      "id": 1026,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1027": {
+      "id": 1027,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1028": {
+      "id": 1028,
+      "area": 1,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "1029": {
+      "id": 1029,
+      "area": 0,
+      "buildCount": 0,
+      "buildWay": 1,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2001": {
+      "id": 2001,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2002": {
+      "id": 2002,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2003": {
+      "id": 2003,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2004": {
+      "id": 2004,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2005": {
+      "id": 2005,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2006": {
+      "id": 2006,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2007": {
+      "id": 2007,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2008": {
+      "id": 2008,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2009": {
+      "id": 2009,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2010": {
+      "id": 2010,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2011": {
+      "id": 2011,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2012": {
+      "id": 2012,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2013": {
+      "id": 2013,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2014": {
+      "id": 2014,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2015": {
+      "id": 2015,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2016": {
+      "id": 2016,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2017": {
+      "id": 2017,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2018": {
+      "id": 2018,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "2019": {
+      "id": 2019,
+      "area": 2,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3001": {
+      "id": 3001,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3002": {
+      "id": 3002,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3003": {
+      "id": 3003,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3004": {
+      "id": 3004,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3005": {
+      "id": 3005,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3006": {
+      "id": 3006,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3007": {
+      "id": 3007,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3008": {
+      "id": 3008,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3009": {
+      "id": 3009,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3010": {
+      "id": 3010,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3011": {
+      "id": 3011,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3012": {
+      "id": 3012,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3013": {
+      "id": 3013,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3014": {
+      "id": 3014,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3015": {
+      "id": 3015,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3016": {
+      "id": 3016,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3017": {
+      "id": 3017,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3018": {
+      "id": 3018,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3019": {
+      "id": 3019,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3020": {
+      "id": 3020,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "3021": {
+      "id": 3021,
+      "area": 3,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4001": {
+      "id": 4001,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4002": {
+      "id": 4002,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4003": {
+      "id": 4003,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4004": {
+      "id": 4004,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4005": {
+      "id": 4005,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4006": {
+      "id": 4006,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4007": {
+      "id": 4007,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4008": {
+      "id": 4008,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4009": {
+      "id": 4009,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4010": {
+      "id": 4010,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4011": {
+      "id": 4011,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4012": {
+      "id": 4012,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4013": {
+      "id": 4013,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4014": {
+      "id": 4014,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4015": {
+      "id": 4015,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4016": {
+      "id": 4016,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4017": {
+      "id": 4017,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "4018": {
+      "id": 4018,
+      "area": 4,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5001": {
+      "id": 5001,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5002": {
+      "id": 5002,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5003": {
+      "id": 5003,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5004": {
+      "id": 5004,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5005": {
+      "id": 5005,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5006": {
+      "id": 5006,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5007": {
+      "id": 5007,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5008": {
+      "id": 5008,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5009": {
+      "id": 5009,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5010": {
+      "id": 5010,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5011": {
+      "id": 5011,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5012": {
+      "id": 5012,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5013": {
+      "id": 5013,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5014": {
+      "id": 5014,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5015": {
+      "id": 5015,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5016": {
+      "id": 5016,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5017": {
+      "id": 5017,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5018": {
+      "id": 5018,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5019": {
+      "id": 5019,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5020": {
+      "id": 5020,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "5021": {
+      "id": 5021,
+      "area": 5,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6001": {
+      "id": 6001,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6002": {
+      "id": 6002,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6003": {
+      "id": 6003,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6004": {
+      "id": 6004,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6005": {
+      "id": 6005,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6006": {
+      "id": 6006,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6007": {
+      "id": 6007,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6008": {
+      "id": 6008,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6009": {
+      "id": 6009,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6010": {
+      "id": 6010,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6011": {
+      "id": 6011,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6012": {
+      "id": 6012,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6013": {
+      "id": 6013,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6014": {
+      "id": 6014,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6015": {
+      "id": 6015,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6016": {
+      "id": 6016,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6017": {
+      "id": 6017,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6018": {
+      "id": 6018,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6019": {
+      "id": 6019,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6020": {
+      "id": 6020,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6021": {
+      "id": 6021,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "6022": {
+      "id": 6022,
+      "area": 6,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7001": {
+      "id": 7001,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7002": {
+      "id": 7002,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7003": {
+      "id": 7003,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7004": {
+      "id": 7004,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7005": {
+      "id": 7005,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7006": {
+      "id": 7006,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7007": {
+      "id": 7007,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7008": {
+      "id": 7008,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7009": {
+      "id": 7009,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7010": {
+      "id": 7010,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7011": {
+      "id": 7011,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7012": {
+      "id": 7012,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7013": {
+      "id": 7013,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7014": {
+      "id": 7014,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7015": {
+      "id": 7015,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7016": {
+      "id": 7016,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7017": {
+      "id": 7017,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7018": {
+      "id": 7018,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7019": {
+      "id": 7019,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7020": {
+      "id": 7020,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7021": {
+      "id": 7021,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7022": {
+      "id": 7022,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "7023": {
+      "id": 7023,
+      "area": 7,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8001": {
+      "id": 8001,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8002": {
+      "id": 8002,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8003": {
+      "id": 8003,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8004": {
+      "id": 8004,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8005": {
+      "id": 8005,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8006": {
+      "id": 8006,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8007": {
+      "id": 8007,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8008": {
+      "id": 8008,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8009": {
+      "id": 8009,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8010": {
+      "id": 8010,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8011": {
+      "id": 8011,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8012": {
+      "id": 8012,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8013": {
+      "id": 8013,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8014": {
+      "id": 8014,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8015": {
+      "id": 8015,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8016": {
+      "id": 8016,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8017": {
+      "id": 8017,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8018": {
+      "id": 8018,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8019": {
+      "id": 8019,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8020": {
+      "id": 8020,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8021": {
+      "id": 8021,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8022": {
+      "id": 8022,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8023": {
+      "id": 8023,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8024": {
+      "id": 8024,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8025": {
+      "id": 8025,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8026": {
+      "id": 8026,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8027": {
+      "id": 8027,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8028": {
+      "id": 8028,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8029": {
+      "id": 8029,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "8030": {
+      "id": 8030,
+      "area": 8,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9001": {
+      "id": 9001,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9002": {
+      "id": 9002,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9003": {
+      "id": 9003,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9004": {
+      "id": 9004,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9005": {
+      "id": 9005,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9006": {
+      "id": 9006,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9007": {
+      "id": 9007,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9008": {
+      "id": 9008,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9009": {
+      "id": 9009,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9010": {
+      "id": 9010,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9011": {
+      "id": 9011,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9012": {
+      "id": 9012,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9013": {
+      "id": 9013,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9014": {
+      "id": 9014,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9015": {
+      "id": 9015,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9016": {
+      "id": 9016,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9017": {
+      "id": 9017,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9018": {
+      "id": 9018,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9019": {
+      "id": 9019,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9020": {
+      "id": 9020,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9021": {
+      "id": 9021,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9022": {
+      "id": 9022,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "9023": {
+      "id": 9023,
+      "area": 9,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10001": {
+      "id": 10001,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10002": {
+      "id": 10002,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10003": {
+      "id": 10003,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10004": {
+      "id": 10004,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10005": {
+      "id": 10005,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10006": {
+      "id": 10006,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10007": {
+      "id": 10007,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10008": {
+      "id": 10008,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10009": {
+      "id": 10009,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010": {
+      "id": 10010,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10011": {
+      "id": 10011,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10012": {
+      "id": 10012,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10013": {
+      "id": 10013,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10014": {
+      "id": 10014,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10015": {
+      "id": 10015,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10016": {
+      "id": 10016,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10017": {
+      "id": 10017,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10018": {
+      "id": 10018,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10019": {
+      "id": 10019,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020": {
+      "id": 10020,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10021": {
+      "id": 10021,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10022": {
+      "id": 10022,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10023": {
+      "id": 10023,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10024": {
+      "id": 10024,
+      "area": 10,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "11001": {
+      "id": 11001,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11002": {
+      "id": 11002,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11003": {
+      "id": 11003,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "11004": {
+      "id": 11004,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "11005": {
+      "id": 11005,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11006": {
+      "id": 11006,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11007": {
+      "id": 11007,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11008": {
+      "id": 11008,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11009": {
+      "id": 11009,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11010": {
+      "id": 11010,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11011": {
+      "id": 11011,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11012": {
+      "id": 11012,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11013": {
+      "id": 11013,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11014": {
+      "id": 11014,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11015": {
+      "id": 11015,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11016": {
+      "id": 11016,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11017": {
+      "id": 11017,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11018": {
+      "id": 11018,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11019": {
+      "id": 11019,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11020": {
+      "id": 11020,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11021": {
+      "id": 11021,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11022": {
+      "id": 11022,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11023": {
+      "id": 11023,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11024": {
+      "id": 11024,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11025": {
+      "id": 11025,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "11026": {
+      "id": 11026,
+      "area": 11,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift591"
+      ],
+      "buildDialog": 0
+    },
+    "12001": {
+      "id": 12001,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12002": {
+      "id": 12002,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12003": {
+      "id": 12003,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12004": {
+      "id": 12004,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12005": {
+      "id": 12005,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12006": {
+      "id": 12006,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12007": {
+      "id": 12007,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12008": {
+      "id": 12008,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12009": {
+      "id": 12009,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12010": {
+      "id": 12010,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12011": {
+      "id": 12011,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12012": {
+      "id": 12012,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12013": {
+      "id": 12013,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12014": {
+      "id": 12014,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12015": {
+      "id": 12015,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12016": {
+      "id": 12016,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12017": {
+      "id": 12017,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12018": {
+      "id": 12018,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12019": {
+      "id": 12019,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12020": {
+      "id": 12020,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12021": {
+      "id": 12021,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12022": {
+      "id": 12022,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "12023": {
+      "id": 12023,
+      "area": 12,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift592"
+      ],
+      "buildDialog": 0
+    },
+    "13001": {
+      "id": 13001,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13002": {
+      "id": 13002,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13003": {
+      "id": 13003,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13004": {
+      "id": 13004,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13005": {
+      "id": 13005,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13006": {
+      "id": 13006,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13007": {
+      "id": 13007,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13008": {
+      "id": 13008,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13009": {
+      "id": 13009,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13010": {
+      "id": 13010,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13011": {
+      "id": 13011,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13012": {
+      "id": 13012,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13013": {
+      "id": 13013,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13014": {
+      "id": 13014,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13015": {
+      "id": 13015,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13016": {
+      "id": 13016,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13017": {
+      "id": 13017,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13018": {
+      "id": 13018,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13019": {
+      "id": 13019,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13020": {
+      "id": 13020,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13021": {
+      "id": 13021,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13022": {
+      "id": 13022,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13023": {
+      "id": 13023,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13024": {
+      "id": 13024,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13025": {
+      "id": 13025,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13026": {
+      "id": 13026,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "13027": {
+      "id": 13027,
+      "area": 13,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [
+        "HolidayGift593"
+      ],
+      "buildDialog": 0
+    },
+    "14001": {
+      "id": 14001,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14002": {
+      "id": 14002,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14003": {
+      "id": 14003,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14004": {
+      "id": 14004,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14005": {
+      "id": 14005,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14006": {
+      "id": 14006,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14007": {
+      "id": 14007,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14008": {
+      "id": 14008,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14009": {
+      "id": 14009,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14010": {
+      "id": 14010,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14011": {
+      "id": 14011,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14012": {
+      "id": 14012,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14013": {
+      "id": 14013,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14014": {
+      "id": 14014,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14015": {
+      "id": 14015,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14016": {
+      "id": 14016,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14017": {
+      "id": 14017,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14018": {
+      "id": 14018,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14019": {
+      "id": 14019,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14020": {
+      "id": 14020,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14021": {
+      "id": 14021,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14022": {
+      "id": 14022,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14023": {
+      "id": 14023,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14024": {
+      "id": 14024,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "14025": {
+      "id": 14025,
+      "area": 14,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15001": {
+      "id": 15001,
+      "area": 15,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15002": {
+      "id": 15002,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15003": {
+      "id": 15003,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15004": {
+      "id": 15004,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15005": {
+      "id": 15005,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15006": {
+      "id": 15006,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15007": {
+      "id": 15007,
+      "area": 15,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15008": {
+      "id": 15008,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15009": {
+      "id": 15009,
+      "area": 15,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15010": {
+      "id": 15010,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15011": {
+      "id": 15011,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15012": {
+      "id": 15012,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15013": {
+      "id": 15013,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15014": {
+      "id": 15014,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15015": {
+      "id": 15015,
+      "area": 15,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15016": {
+      "id": 15016,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15017": {
+      "id": 15017,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15018": {
+      "id": 15018,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15019": {
+      "id": 15019,
+      "area": 15,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15020": {
+      "id": 15020,
+      "area": 15,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15021": {
+      "id": 15021,
+      "area": 15,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15022": {
+      "id": 15022,
+      "area": 15,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "15023": {
+      "id": 15023,
+      "area": 15,
+      "buildCount": 5,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16001": {
+      "id": 16001,
+      "area": 16,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16002": {
+      "id": 16002,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16003": {
+      "id": 16003,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16004": {
+      "id": 16004,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16005": {
+      "id": 16005,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16006": {
+      "id": 16006,
+      "area": 16,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16007": {
+      "id": 16007,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16008": {
+      "id": 16008,
+      "area": 16,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16009": {
+      "id": 16009,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16010": {
+      "id": 16010,
+      "area": 16,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16011": {
+      "id": 16011,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16012": {
+      "id": 16012,
+      "area": 16,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16013": {
+      "id": 16013,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16014": {
+      "id": 16014,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16015": {
+      "id": 16015,
+      "area": 16,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16016": {
+      "id": 16016,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16017": {
+      "id": 16017,
+      "area": 16,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "16018": {
+      "id": 16018,
+      "area": 16,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17001": {
+      "id": 17001,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17002": {
+      "id": 17002,
+      "area": 17,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17003": {
+      "id": 17003,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17004": {
+      "id": 17004,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17005": {
+      "id": 17005,
+      "area": 17,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17006": {
+      "id": 17006,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17007": {
+      "id": 17007,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17008": {
+      "id": 17008,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17009": {
+      "id": 17009,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17010": {
+      "id": 17010,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17011": {
+      "id": 17011,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17012": {
+      "id": 17012,
+      "area": 17,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17013": {
+      "id": 17013,
+      "area": 17,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17014": {
+      "id": 17014,
+      "area": 17,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17015": {
+      "id": 17015,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17016": {
+      "id": 17016,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17017": {
+      "id": 17017,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17018": {
+      "id": 17018,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17019": {
+      "id": 17019,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17020": {
+      "id": 17020,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17021": {
+      "id": 17021,
+      "area": 17,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17022": {
+      "id": 17022,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17023": {
+      "id": 17023,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "17024": {
+      "id": 17024,
+      "area": 17,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18001": {
+      "id": 18001,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18002": {
+      "id": 18002,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18003": {
+      "id": 18003,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18004": {
+      "id": 18004,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18005": {
+      "id": 18005,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18006": {
+      "id": 18006,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18007": {
+      "id": 18007,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18008": {
+      "id": 18008,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18009": {
+      "id": 18009,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18010": {
+      "id": 18010,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18011": {
+      "id": 18011,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18012": {
+      "id": 18012,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18013": {
+      "id": 18013,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18014": {
+      "id": 18014,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18015": {
+      "id": 18015,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18016": {
+      "id": 18016,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18017": {
+      "id": 18017,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18018": {
+      "id": 18018,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18019": {
+      "id": 18019,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18020": {
+      "id": 18020,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18021": {
+      "id": 18021,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18022": {
+      "id": 18022,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "18023": {
+      "id": 18023,
+      "area": 18,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19001": {
+      "id": 19001,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19002": {
+      "id": 19002,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19003": {
+      "id": 19003,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19004": {
+      "id": 19004,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19005": {
+      "id": 19005,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19006": {
+      "id": 19006,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19007": {
+      "id": 19007,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19008": {
+      "id": 19008,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19009": {
+      "id": 19009,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19010": {
+      "id": 19010,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19011": {
+      "id": 19011,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19012": {
+      "id": 19012,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19013": {
+      "id": 19013,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19014": {
+      "id": 19014,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19015": {
+      "id": 19015,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19016": {
+      "id": 19016,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19017": {
+      "id": 19017,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19018": {
+      "id": 19018,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "19019": {
+      "id": 19019,
+      "area": 19,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20001": {
+      "id": 20001,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20002": {
+      "id": 20002,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20003": {
+      "id": 20003,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20004": {
+      "id": 20004,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20005": {
+      "id": 20005,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20006": {
+      "id": 20006,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20007": {
+      "id": 20007,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20008": {
+      "id": 20008,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20009": {
+      "id": 20009,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20010": {
+      "id": 20010,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20011": {
+      "id": 20011,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20012": {
+      "id": 20012,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20013": {
+      "id": 20013,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20014": {
+      "id": 20014,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20015": {
+      "id": 20015,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20016": {
+      "id": 20016,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20017": {
+      "id": 20017,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20018": {
+      "id": 20018,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20019": {
+      "id": 20019,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20020": {
+      "id": 20020,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20021": {
+      "id": 20021,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20022": {
+      "id": 20022,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20023": {
+      "id": 20023,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20024": {
+      "id": 20024,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20025": {
+      "id": 20025,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20026": {
+      "id": 20026,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20027": {
+      "id": 20027,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20028": {
+      "id": 20028,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "20029": {
+      "id": 20029,
+      "area": 20,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21001": {
+      "id": 21001,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21002": {
+      "id": 21002,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21003": {
+      "id": 21003,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21004": {
+      "id": 21004,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21005": {
+      "id": 21005,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21006": {
+      "id": 21006,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21007": {
+      "id": 21007,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21008": {
+      "id": 21008,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21009": {
+      "id": 21009,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21010": {
+      "id": 21010,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21011": {
+      "id": 21011,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21012": {
+      "id": 21012,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21013": {
+      "id": 21013,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21014": {
+      "id": 21014,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21015": {
+      "id": 21015,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21016": {
+      "id": 21016,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21017": {
+      "id": 21017,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21018": {
+      "id": 21018,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21019": {
+      "id": 21019,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "21020": {
+      "id": 21020,
+      "area": 21,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22001": {
+      "id": 22001,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22002": {
+      "id": 22002,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22003": {
+      "id": 22003,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22004": {
+      "id": 22004,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22005": {
+      "id": 22005,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22006": {
+      "id": 22006,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22007": {
+      "id": 22007,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22008": {
+      "id": 22008,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22009": {
+      "id": 22009,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22010": {
+      "id": 22010,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22011": {
+      "id": 22011,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22012": {
+      "id": 22012,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22013": {
+      "id": 22013,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22014": {
+      "id": 22014,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22015": {
+      "id": 22015,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22016": {
+      "id": 22016,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22017": {
+      "id": 22017,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "22018": {
+      "id": 22018,
+      "area": 22,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28001": {
+      "id": 28001,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28002": {
+      "id": 28002,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28003": {
+      "id": 28003,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28004": {
+      "id": 28004,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28005": {
+      "id": 28005,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28006": {
+      "id": 28006,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28007": {
+      "id": 28007,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28008": {
+      "id": 28008,
+      "area": 28,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28009": {
+      "id": 28009,
+      "area": 28,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28010": {
+      "id": 28010,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28011": {
+      "id": 28011,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28012": {
+      "id": 28012,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28013": {
+      "id": 28013,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28014": {
+      "id": 28014,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28015": {
+      "id": 28015,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28016": {
+      "id": 28016,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28017": {
+      "id": 28017,
+      "area": 28,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28018": {
+      "id": 28018,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28019": {
+      "id": 28019,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28020": {
+      "id": 28020,
+      "area": 28,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28021": {
+      "id": 28021,
+      "area": 28,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "28022": {
+      "id": 28022,
+      "area": 28,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29001": {
+      "id": 29001,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29002": {
+      "id": 29002,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29003": {
+      "id": 29003,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29004": {
+      "id": 29004,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29005": {
+      "id": 29005,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29006": {
+      "id": 29006,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29007": {
+      "id": 29007,
+      "area": 29,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29008": {
+      "id": 29008,
+      "area": 29,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29009": {
+      "id": 29009,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29010": {
+      "id": 29010,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29011": {
+      "id": 29011,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29012": {
+      "id": 29012,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29013": {
+      "id": 29013,
+      "area": 29,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29014": {
+      "id": 29014,
+      "area": 29,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29015": {
+      "id": 29015,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29016": {
+      "id": 29016,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29017": {
+      "id": 29017,
+      "area": 29,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29018": {
+      "id": 29018,
+      "area": 29,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "29019": {
+      "id": 29019,
+      "area": 29,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "51001": {
+      "id": 51001,
+      "area": 51,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 16301
+    },
+    "51002": {
+      "id": 51002,
+      "area": 51,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 16302
+    },
+    "51003": {
+      "id": 51003,
+      "area": 51,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 16303
+    },
+    "51004": {
+      "id": 51004,
+      "area": 51,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 16304
+    },
+    "51005": {
+      "id": 51005,
+      "area": 51,
+      "buildCount": 0,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 16305
+    },
+    "99001": {
+      "id": 99001,
+      "area": 99,
+      "buildCount": 0,
+      "buildWay": 1,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "99002": {
+      "id": 99002,
+      "area": 99,
+      "buildCount": 0,
+      "buildWay": 1,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "99003": {
+      "id": 99003,
+      "area": 99,
+      "buildCount": 0,
+      "buildWay": 1,
+      "skinPackage": [],
+      "buildDialog": 0
+    }
+  },
+  "Room1": {
+    "10010101": {
+      "id": 10010101,
+      "area": 100101,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010102": {
+      "id": 10010102,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010103": {
+      "id": 10010103,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010104": {
+      "id": 10010104,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010105": {
+      "id": 10010105,
+      "area": 100101,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010106": {
+      "id": 10010106,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010107": {
+      "id": 10010107,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010108": {
+      "id": 10010108,
+      "area": 100101,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010109": {
+      "id": 10010109,
+      "area": 100101,
+      "buildCount": 4,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010201": {
+      "id": 10010201,
+      "area": 100102,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010202": {
+      "id": 10010202,
+      "area": 100102,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010203": {
+      "id": 10010203,
+      "area": 100102,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010204": {
+      "id": 10010204,
+      "area": 100102,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010205": {
+      "id": 10010205,
+      "area": 100102,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010206": {
+      "id": 10010206,
+      "area": 100102,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010207": {
+      "id": 10010207,
+      "area": 100102,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010301": {
+      "id": 10010301,
+      "area": 100103,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010302": {
+      "id": 10010302,
+      "area": 100103,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010303": {
+      "id": 10010303,
+      "area": 100103,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010304": {
+      "id": 10010304,
+      "area": 100103,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010305": {
+      "id": 10010305,
+      "area": 100103,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010306": {
+      "id": 10010306,
+      "area": 100103,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010307": {
+      "id": 10010307,
+      "area": 100103,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010308": {
+      "id": 10010308,
+      "area": 100103,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010401": {
+      "id": 10010401,
+      "area": 100104,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010402": {
+      "id": 10010402,
+      "area": 100104,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010403": {
+      "id": 10010403,
+      "area": 100104,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010404": {
+      "id": 10010404,
+      "area": 100104,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010405": {
+      "id": 10010405,
+      "area": 100104,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010406": {
+      "id": 10010406,
+      "area": 100104,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10010407": {
+      "id": 10010407,
+      "area": 100104,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    }
+  },
+  "Room2": {
+    "10020101": {
+      "id": 10020101,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020102": {
+      "id": 10020102,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020103": {
+      "id": 10020103,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020104": {
+      "id": 10020104,
+      "area": 100201,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020105": {
+      "id": 10020105,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020106": {
+      "id": 10020106,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020107": {
+      "id": 10020107,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020108": {
+      "id": 10020108,
+      "area": 100201,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020109": {
+      "id": 10020109,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020110": {
+      "id": 10020110,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020111": {
+      "id": 10020111,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020112": {
+      "id": 10020112,
+      "area": 100201,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020201": {
+      "id": 10020201,
+      "area": 100202,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020202": {
+      "id": 10020202,
+      "area": 100202,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020203": {
+      "id": 10020203,
+      "area": 100202,
+      "buildCount": 5,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020204": {
+      "id": 10020204,
+      "area": 100202,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020205": {
+      "id": 10020205,
+      "area": 100202,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020206": {
+      "id": 10020206,
+      "area": 100202,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020301": {
+      "id": 10020301,
+      "area": 100203,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020302": {
+      "id": 10020302,
+      "area": 100203,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020303": {
+      "id": 10020303,
+      "area": 100203,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020304": {
+      "id": 10020304,
+      "area": 100203,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020305": {
+      "id": 10020305,
+      "area": 100203,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020306": {
+      "id": 10020306,
+      "area": 100203,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020307": {
+      "id": 10020307,
+      "area": 100203,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020401": {
+      "id": 10020401,
+      "area": 100204,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020402": {
+      "id": 10020402,
+      "area": 100204,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020403": {
+      "id": 10020403,
+      "area": 100204,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020404": {
+      "id": 10020404,
+      "area": 100204,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020405": {
+      "id": 10020405,
+      "area": 100204,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10020406": {
+      "id": 10020406,
+      "area": 100204,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    }
+  },
+  "Room3": {
+    "10030101": {
+      "id": 10030101,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030102": {
+      "id": 10030102,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030103": {
+      "id": 10030103,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030104": {
+      "id": 10030104,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030105": {
+      "id": 10030105,
+      "area": 100301,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030106": {
+      "id": 10030106,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030107": {
+      "id": 10030107,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030108": {
+      "id": 10030108,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030109": {
+      "id": 10030109,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030110": {
+      "id": 10030110,
+      "area": 100301,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030201": {
+      "id": 10030201,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030202": {
+      "id": 10030202,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030203": {
+      "id": 10030203,
+      "area": 100302,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030204": {
+      "id": 10030204,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030205": {
+      "id": 10030205,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030206": {
+      "id": 10030206,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030207": {
+      "id": 10030207,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030208": {
+      "id": 10030208,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030209": {
+      "id": 10030209,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030210": {
+      "id": 10030210,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030211": {
+      "id": 10030211,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030212": {
+      "id": 10030212,
+      "area": 100302,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030301": {
+      "id": 10030301,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030302": {
+      "id": 10030302,
+      "area": 100303,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030303": {
+      "id": 10030303,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030304": {
+      "id": 10030304,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030305": {
+      "id": 10030305,
+      "area": 100303,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030306": {
+      "id": 10030306,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030307": {
+      "id": 10030307,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030308": {
+      "id": 10030308,
+      "area": 100303,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030401": {
+      "id": 10030401,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030402": {
+      "id": 10030402,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030403": {
+      "id": 10030403,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030404": {
+      "id": 10030404,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030405": {
+      "id": 10030405,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030406": {
+      "id": 10030406,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030407": {
+      "id": 10030407,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030408": {
+      "id": 10030408,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030409": {
+      "id": 10030409,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030410": {
+      "id": 10030410,
+      "area": 100304,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030411": {
+      "id": 10030411,
+      "area": 100304,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10030412": {
+      "id": 10030412,
+      "area": 100304,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    }
+  },
+  "Room4": {
+    "10040101": {
+      "id": 10040101,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040102": {
+      "id": 10040102,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040103": {
+      "id": 10040103,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040104": {
+      "id": 10040104,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040105": {
+      "id": 10040105,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040106": {
+      "id": 10040106,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040107": {
+      "id": 10040107,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040108": {
+      "id": 10040108,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040109": {
+      "id": 10040109,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040110": {
+      "id": 10040110,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040111": {
+      "id": 10040111,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040112": {
+      "id": 10040112,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040113": {
+      "id": 10040113,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040114": {
+      "id": 10040114,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040115": {
+      "id": 10040115,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040116": {
+      "id": 10040116,
+      "area": 100401,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040201": {
+      "id": 10040201,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040202": {
+      "id": 10040202,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040203": {
+      "id": 10040203,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040204": {
+      "id": 10040204,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040205": {
+      "id": 10040205,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040206": {
+      "id": 10040206,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040207": {
+      "id": 10040207,
+      "area": 100402,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040208": {
+      "id": 10040208,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040209": {
+      "id": 10040209,
+      "area": 100402,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040301": {
+      "id": 10040301,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040302": {
+      "id": 10040302,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040303": {
+      "id": 10040303,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040304": {
+      "id": 10040304,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040305": {
+      "id": 10040305,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040306": {
+      "id": 10040306,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040307": {
+      "id": 10040307,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040308": {
+      "id": 10040308,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040309": {
+      "id": 10040309,
+      "area": 100403,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040401": {
+      "id": 10040401,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040402": {
+      "id": 10040402,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040403": {
+      "id": 10040403,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040404": {
+      "id": 10040404,
+      "area": 100404,
+      "buildCount": 3,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040406": {
+      "id": 10040406,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040407": {
+      "id": 10040407,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040408": {
+      "id": 10040408,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040409": {
+      "id": 10040409,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040410": {
+      "id": 10040410,
+      "area": 100404,
+      "buildCount": 2,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    },
+    "10040411": {
+      "id": 10040411,
+      "area": 100404,
+      "buildCount": 1,
+      "buildWay": 0,
+      "skinPackage": [],
+      "buildDialog": 0
+    }
+  }
+}

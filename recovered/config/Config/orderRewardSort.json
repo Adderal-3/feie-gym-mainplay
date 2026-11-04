@@ -1,0 +1,44 @@
+{
+  "leftUpRewardRank": [
+    "SmileOrder"
+  ],
+  "upRewardRank": [
+    "tennisParty",
+    "maskChallenge",
+    "diveOrder"
+  ],
+  "downRewardRank": [
+    "star",
+    "masterMatchPoint",
+    "dailyChallenge",
+    "gogV2",
+    "screwPoint",
+    "chooseOrder",
+    "jungleAdventure",
+    "buffProp",
+    "diamond",
+    "energy",
+    "adornCoupon",
+    "mhdIIBlindBox",
+    "film",
+    "element",
+    "weightRace",
+    "climbTower",
+    "partnerEvent",
+    "fireRank",
+    "teamVersus",
+    "collectionAct",
+    "floatRace",
+    "oneVsOne",
+    "tournament",
+    "gymSprint",
+    "adornReward"
+  ],
+  "leftDownRewardRank": [
+    "chessBoard7",
+    "pinball",
+    "diggame",
+    "magiccauldron",
+    "openBox"
+  ]
+}

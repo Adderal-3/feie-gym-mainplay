@@ -1,0 +1,106 @@
+{
+  "1": {
+    "id": 1,
+    "prob": [
+      "90%",
+      "8%",
+      "2%"
+    ],
+    "cardNum": 2,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "2": {
+    "id": 2,
+    "prob": [
+      "72%",
+      "22%",
+      "6%"
+    ],
+    "cardNum": 3,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "3": {
+    "id": 3,
+    "prob": [
+      "45%",
+      "43%",
+      "12%"
+    ],
+    "cardNum": 5,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "4": {
+    "id": 4,
+    "prob": [
+      "0%",
+      "70%",
+      "30%"
+    ],
+    "cardNum": 7,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "5": {
+    "id": 5,
+    "prob": [
+      "90%",
+      "8%",
+      "2%"
+    ],
+    "cardNum": 4,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "6": {
+    "id": 6,
+    "prob": [
+      "72%",
+      "22%",
+      "6%"
+    ],
+    "cardNum": 6,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "7": {
+    "id": 7,
+    "prob": [
+      "45%",
+      "43%",
+      "12%"
+    ],
+    "cardNum": 7,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "8": {
+    "id": 8,
+    "prob": [
+      "0%",
+      "70%",
+      "30%"
+    ],
+    "cardNum": 9,
+    "maxStar": 3,
+    "mustStar": 0,
+    "intactAdorn": 0
+  },
+  "9": {
+    "id": 9,
+    "prob": [],
+    "cardNum": 1,
+    "maxStar": 0,
+    "mustStar": 0,
+    "intactAdorn": 1
+  }
+}

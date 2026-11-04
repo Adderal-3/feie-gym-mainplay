@@ -1,0 +1,212 @@
+{
+  "31712": {
+    "id": 31712,
+    "order": 96,
+    "starTag": 2,
+    "c_item_rareBelong": 102,
+    "vegetableDialog": "8885"
+  },
+  "31713": {
+    "id": 31713,
+    "order": 93,
+    "starTag": 3,
+    "c_item_rareBelong": 103,
+    "vegetableDialog": "8886"
+  },
+  "31715": {
+    "id": 31715,
+    "order": 87,
+    "starTag": 5,
+    "c_item_rareBelong": 105,
+    "vegetableDialog": "8888"
+  },
+  "31716": {
+    "id": 31716,
+    "order": 84,
+    "starTag": 6,
+    "c_item_rareBelong": 106,
+    "vegetableDialog": "8889"
+  },
+  "34601": {
+    "id": 34601,
+    "order": 100,
+    "starTag": 0,
+    "c_item_rareBelong": 200,
+    "vegetableDialog": ""
+  },
+  "34711": {
+    "id": 34711,
+    "order": 99,
+    "starTag": 1,
+    "c_item_rareBelong": 201,
+    "vegetableDialog": "18436"
+  },
+  "34712": {
+    "id": 34712,
+    "order": 98,
+    "starTag": 2,
+    "c_item_rareBelong": 202,
+    "vegetableDialog": "18437"
+  },
+  "34713": {
+    "id": 34713,
+    "order": 97,
+    "starTag": 3,
+    "c_item_rareBelong": 203,
+    "vegetableDialog": "18438"
+  },
+  "34714": {
+    "id": 34714,
+    "order": 96,
+    "starTag": 4,
+    "c_item_rareBelong": 204,
+    "vegetableDialog": "18439"
+  },
+  "34715": {
+    "id": 34715,
+    "order": 95,
+    "starTag": 5,
+    "c_item_rareBelong": 205,
+    "vegetableDialog": "18440"
+  },
+  "34716": {
+    "id": 34716,
+    "order": 94,
+    "starTag": 6,
+    "c_item_rareBelong": 206,
+    "vegetableDialog": "18441"
+  },
+  "34717": {
+    "id": 34717,
+    "order": 93,
+    "starTag": 7,
+    "c_item_rareBelong": 207,
+    "vegetableDialog": "18442"
+  },
+  "41712": {
+    "id": 41712,
+    "order": 95,
+    "starTag": 2,
+    "c_item_rareBelong": 102,
+    "vegetableDialog": "8878"
+  },
+  "41713": {
+    "id": 41713,
+    "order": 92,
+    "starTag": 3,
+    "c_item_rareBelong": 103,
+    "vegetableDialog": "8879"
+  },
+  "41715": {
+    "id": 41715,
+    "order": 86,
+    "starTag": 5,
+    "c_item_rareBelong": 105,
+    "vegetableDialog": "8881"
+  },
+  "41716": {
+    "id": 41716,
+    "order": 83,
+    "starTag": 6,
+    "c_item_rareBelong": 106,
+    "vegetableDialog": "8882"
+  },
+  "49711": {
+    "id": 49711,
+    "order": 97,
+    "starTag": 1,
+    "c_item_rareBelong": 101,
+    "vegetableDialog": "8884"
+  },
+  "49714": {
+    "id": 49714,
+    "order": 88,
+    "starTag": 4,
+    "c_item_rareBelong": 104,
+    "vegetableDialog": "8887"
+  },
+  "49717": {
+    "id": 49717,
+    "order": 79,
+    "starTag": 7,
+    "c_item_rareBelong": 107,
+    "vegetableDialog": "8883"
+  },
+  "51711": {
+    "id": 51711,
+    "order": 99,
+    "starTag": 1,
+    "c_item_rareBelong": 101,
+    "vegetableDialog": "8877"
+  },
+  "51714": {
+    "id": 51714,
+    "order": 90,
+    "starTag": 4,
+    "c_item_rareBelong": 104,
+    "vegetableDialog": "8880"
+  },
+  "51717": {
+    "id": 51717,
+    "order": 81,
+    "starTag": 7,
+    "c_item_rareBelong": 107,
+    "vegetableDialog": "8890"
+  },
+  "63601": {
+    "id": 63601,
+    "order": 100,
+    "starTag": 0,
+    "c_item_rareBelong": 100,
+    "vegetableDialog": ""
+  },
+  "63711": {
+    "id": 63711,
+    "order": 98,
+    "starTag": 1,
+    "c_item_rareBelong": 101,
+    "vegetableDialog": "8822"
+  },
+  "63712": {
+    "id": 63712,
+    "order": 94,
+    "starTag": 2,
+    "c_item_rareBelong": 102,
+    "vegetableDialog": "8823"
+  },
+  "63713": {
+    "id": 63713,
+    "order": 91,
+    "starTag": 3,
+    "c_item_rareBelong": 103,
+    "vegetableDialog": "8824"
+  },
+  "63714": {
+    "id": 63714,
+    "order": 89,
+    "starTag": 4,
+    "c_item_rareBelong": 104,
+    "vegetableDialog": "8825"
+  },
+  "63715": {
+    "id": 63715,
+    "order": 85,
+    "starTag": 5,
+    "c_item_rareBelong": 105,
+    "vegetableDialog": "8826"
+  },
+  "63716": {
+    "id": 63716,
+    "order": 82,
+    "starTag": 6,
+    "c_item_rareBelong": 106,
+    "vegetableDialog": "8827"
+  },
+  "63717": {
+    "id": 63717,
+    "order": 80,
+    "starTag": 7,
+    "c_item_rareBelong": 107,
+    "vegetableDialog": "8828"
+  }
+}

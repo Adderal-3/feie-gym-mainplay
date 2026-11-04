@@ -1,0 +1,12 @@
+{
+  "doubleButton1": {
+    "id": "doubleButton1",
+    "name": "疯狂能量实验室",
+    "Directions": "活动期间领取实验型小按钮\n可开启双倍能量，提升物品产出等级！"
+  },
+  "doubleButton2": {
+    "id": "doubleButton2",
+    "name": "疯狂能量实验室",
+    "Directions": "活动期间可开启双倍能量，提升物品产出等级"
+  }
+}

@@ -1,0 +1,3236 @@
+{
+  "race1_1": {
+    "101": {
+      "id": 101,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 102,
+      "finishScore": 50
+    },
+    "102": {
+      "id": 102,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 103,
+      "finishScore": 100
+    },
+    "103": {
+      "id": 103,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 104,
+      "finishScore": 100
+    },
+    "104": {
+      "id": 104,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 105,
+      "finishScore": 150
+    },
+    "105": {
+      "id": 105,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 106,
+      "finishScore": 150
+    },
+    "106": {
+      "id": 106,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 107,
+      "finishScore": 200
+    },
+    "107": {
+      "id": 107,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 108,
+      "finishScore": 200
+    },
+    "108": {
+      "id": 108,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 109,
+      "finishScore": 300
+    },
+    "109": {
+      "id": 109,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 110,
+      "finishScore": 300
+    },
+    "110": {
+      "id": 110,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 111,
+      "finishScore": 300
+    },
+    "111": {
+      "id": 111,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 112,
+      "finishScore": 350
+    },
+    "112": {
+      "id": 112,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 113,
+      "finishScore": 350
+    },
+    "113": {
+      "id": 113,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 114,
+      "finishScore": 400
+    },
+    "114": {
+      "id": 114,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 115,
+      "finishScore": 500
+    },
+    "115": {
+      "id": 115,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 116,
+      "finishScore": 500
+    },
+    "116": {
+      "id": 116,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 117,
+      "finishScore": 400
+    },
+    "117": {
+      "id": 117,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 118,
+      "finishScore": 500
+    },
+    "118": {
+      "id": 118,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 116,
+      "finishScore": 500
+    }
+  },
+  "race1_2": {
+    "201": {
+      "id": 201,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 202,
+      "finishScore": 50
+    },
+    "202": {
+      "id": 202,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 203,
+      "finishScore": 100
+    },
+    "203": {
+      "id": 203,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 204,
+      "finishScore": 100
+    },
+    "204": {
+      "id": 204,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 205,
+      "finishScore": 150
+    },
+    "205": {
+      "id": 205,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 206,
+      "finishScore": 150
+    },
+    "206": {
+      "id": 206,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 207,
+      "finishScore": 200
+    },
+    "207": {
+      "id": 207,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 208,
+      "finishScore": 200
+    },
+    "208": {
+      "id": 208,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 209,
+      "finishScore": 300
+    },
+    "209": {
+      "id": 209,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 210,
+      "finishScore": 300
+    },
+    "210": {
+      "id": 210,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 211,
+      "finishScore": 300
+    },
+    "211": {
+      "id": 211,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 212,
+      "finishScore": 350
+    },
+    "212": {
+      "id": 212,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 213,
+      "finishScore": 350
+    },
+    "213": {
+      "id": 213,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 214,
+      "finishScore": 400
+    },
+    "214": {
+      "id": 214,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 215,
+      "finishScore": 500
+    },
+    "215": {
+      "id": 215,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 216,
+      "finishScore": 500
+    },
+    "216": {
+      "id": 216,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 217,
+      "finishScore": 400
+    },
+    "217": {
+      "id": 217,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 218,
+      "finishScore": 500
+    },
+    "218": {
+      "id": 218,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 216,
+      "finishScore": 500
+    }
+  },
+  "race1_3": {
+    "301": {
+      "id": 301,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 302,
+      "finishScore": 50
+    },
+    "302": {
+      "id": 302,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 303,
+      "finishScore": 100
+    },
+    "303": {
+      "id": 303,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 304,
+      "finishScore": 100
+    },
+    "304": {
+      "id": 304,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 305,
+      "finishScore": 150
+    },
+    "305": {
+      "id": 305,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 306,
+      "finishScore": 150
+    },
+    "306": {
+      "id": 306,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 307,
+      "finishScore": 200
+    },
+    "307": {
+      "id": 307,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 308,
+      "finishScore": 200
+    },
+    "308": {
+      "id": 308,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 309,
+      "finishScore": 300
+    },
+    "309": {
+      "id": 309,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 310,
+      "finishScore": 300
+    },
+    "310": {
+      "id": 310,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 311,
+      "finishScore": 300
+    },
+    "311": {
+      "id": 311,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 312,
+      "finishScore": 350
+    },
+    "312": {
+      "id": 312,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 313,
+      "finishScore": 350
+    },
+    "313": {
+      "id": 313,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 314,
+      "finishScore": 400
+    },
+    "314": {
+      "id": 314,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 315,
+      "finishScore": 500
+    },
+    "315": {
+      "id": 315,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 316,
+      "finishScore": 500
+    },
+    "316": {
+      "id": 316,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 317,
+      "finishScore": 400
+    },
+    "317": {
+      "id": 317,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 318,
+      "finishScore": 500
+    },
+    "318": {
+      "id": 318,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 316,
+      "finishScore": 500
+    }
+  },
+  "race1_4": {
+    "401": {
+      "id": 401,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 402,
+      "finishScore": 50
+    },
+    "402": {
+      "id": 402,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 403,
+      "finishScore": 100
+    },
+    "403": {
+      "id": 403,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 404,
+      "finishScore": 100
+    },
+    "404": {
+      "id": 404,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 405,
+      "finishScore": 150
+    },
+    "405": {
+      "id": 405,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 406,
+      "finishScore": 150
+    },
+    "406": {
+      "id": 406,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 407,
+      "finishScore": 200
+    },
+    "407": {
+      "id": 407,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 408,
+      "finishScore": 200
+    },
+    "408": {
+      "id": 408,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 409,
+      "finishScore": 300
+    },
+    "409": {
+      "id": 409,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 410,
+      "finishScore": 300
+    },
+    "410": {
+      "id": 410,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 411,
+      "finishScore": 300
+    },
+    "411": {
+      "id": 411,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 412,
+      "finishScore": 350
+    },
+    "412": {
+      "id": 412,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 413,
+      "finishScore": 350
+    },
+    "413": {
+      "id": 413,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 414,
+      "finishScore": 400
+    },
+    "414": {
+      "id": 414,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 415,
+      "finishScore": 500
+    },
+    "415": {
+      "id": 415,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 416,
+      "finishScore": 500
+    },
+    "416": {
+      "id": 416,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 417,
+      "finishScore": 400
+    },
+    "417": {
+      "id": 417,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 418,
+      "finishScore": 500
+    },
+    "418": {
+      "id": 418,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 416,
+      "finishScore": 500
+    }
+  },
+  "race1_5": {
+    "501": {
+      "id": 501,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 502,
+      "finishScore": 50
+    },
+    "502": {
+      "id": 502,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 503,
+      "finishScore": 100
+    },
+    "503": {
+      "id": 503,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 504,
+      "finishScore": 100
+    },
+    "504": {
+      "id": 504,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 505,
+      "finishScore": 150
+    },
+    "505": {
+      "id": 505,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 506,
+      "finishScore": 150
+    },
+    "506": {
+      "id": 506,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 507,
+      "finishScore": 200
+    },
+    "507": {
+      "id": 507,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 508,
+      "finishScore": 200
+    },
+    "508": {
+      "id": 508,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 509,
+      "finishScore": 300
+    },
+    "509": {
+      "id": 509,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 510,
+      "finishScore": 300
+    },
+    "510": {
+      "id": 510,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 511,
+      "finishScore": 300
+    },
+    "511": {
+      "id": 511,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 512,
+      "finishScore": 350
+    },
+    "512": {
+      "id": 512,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 513,
+      "finishScore": 350
+    },
+    "513": {
+      "id": 513,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 514,
+      "finishScore": 400
+    },
+    "514": {
+      "id": 514,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 515,
+      "finishScore": 500
+    },
+    "515": {
+      "id": 515,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 516,
+      "finishScore": 500
+    },
+    "516": {
+      "id": 516,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 517,
+      "finishScore": 400
+    },
+    "517": {
+      "id": 517,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 518,
+      "finishScore": 500
+    },
+    "518": {
+      "id": 518,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 516,
+      "finishScore": 500
+    }
+  },
+  "race1_6": {
+    "601": {
+      "id": 601,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 602,
+      "finishScore": 50
+    },
+    "602": {
+      "id": 602,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 603,
+      "finishScore": 100
+    },
+    "603": {
+      "id": 603,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 604,
+      "finishScore": 100
+    },
+    "604": {
+      "id": 604,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 605,
+      "finishScore": 150
+    },
+    "605": {
+      "id": 605,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 606,
+      "finishScore": 150
+    },
+    "606": {
+      "id": 606,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 607,
+      "finishScore": 200
+    },
+    "607": {
+      "id": 607,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 608,
+      "finishScore": 200
+    },
+    "608": {
+      "id": 608,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 609,
+      "finishScore": 300
+    },
+    "609": {
+      "id": 609,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 610,
+      "finishScore": 300
+    },
+    "610": {
+      "id": 610,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 611,
+      "finishScore": 300
+    },
+    "611": {
+      "id": 611,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 612,
+      "finishScore": 350
+    },
+    "612": {
+      "id": 612,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 613,
+      "finishScore": 350
+    },
+    "613": {
+      "id": 613,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 614,
+      "finishScore": 400
+    },
+    "614": {
+      "id": 614,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 615,
+      "finishScore": 500
+    },
+    "615": {
+      "id": 615,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 616,
+      "finishScore": 500
+    },
+    "616": {
+      "id": 616,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 617,
+      "finishScore": 400
+    },
+    "617": {
+      "id": 617,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 618,
+      "finishScore": 500
+    },
+    "618": {
+      "id": 618,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 616,
+      "finishScore": 500
+    }
+  },
+  "race1_7": {
+    "701": {
+      "id": 701,
+      "robotRankName": "advanceRace1",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 50,
+      "expectCost": 50,
+      "reward": [
+        {
+          "Energy": 15,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp2": 1
+        },
+        {
+          "Energy": 5,
+          "BuffProp2": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 702,
+      "finishScore": 50
+    },
+    "702": {
+      "id": 702,
+      "robotRankName": "advanceRace2",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Energy": 5,
+          "Element9820001": 1,
+          "BuffProp3": 1
+        },
+        {
+          "Element9820001": 1,
+          "BuffProp3": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 703,
+      "finishScore": 100
+    },
+    "703": {
+      "id": 703,
+      "robotRankName": "advanceRace3",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 100,
+      "expectCost": 100,
+      "reward": [
+        {
+          "Energy": 10,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 704,
+      "finishScore": 100
+    },
+    "704": {
+      "id": 704,
+      "robotRankName": "advanceRace4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Energy": 5,
+          "Film3": 1,
+          "BuffProp4": 1
+        },
+        {
+          "Film3": 1,
+          "BuffProp4": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 705,
+      "finishScore": 150
+    },
+    "705": {
+      "id": 705,
+      "robotRankName": "advanceRace5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 150,
+      "expectCost": 150,
+      "reward": [
+        {
+          "Energy": 15,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 5,
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox1": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 706,
+      "finishScore": 150
+    },
+    "706": {
+      "id": 706,
+      "robotRankName": "advanceRace6",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 707,
+      "finishScore": 200
+    },
+    "707": {
+      "id": 707,
+      "robotRankName": "advanceRace7",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 200,
+      "expectCost": 200,
+      "reward": [
+        {
+          "Energy": 20,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 708,
+      "finishScore": 200
+    },
+    "708": {
+      "id": 708,
+      "robotRankName": "advanceRace8",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox2": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 709,
+      "finishScore": 300
+    },
+    "709": {
+      "id": 709,
+      "robotRankName": "advanceRace9",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Element9820002": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820002": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 710,
+      "finishScore": 300
+    },
+    "710": {
+      "id": 710,
+      "robotRankName": "advanceRace10",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 300,
+      "expectCost": 300,
+      "reward": [
+        {
+          "Energy": 30,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 711,
+      "finishScore": 300
+    },
+    "711": {
+      "id": 711,
+      "robotRankName": "advanceRace11",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film4": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film4": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 712,
+      "finishScore": 350
+    },
+    "712": {
+      "id": 712,
+      "robotRankName": "advanceRace12",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 350,
+      "expectCost": 350,
+      "reward": [
+        {
+          "Energy": 35,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        },
+        {
+          "MhdIIBlindBox3": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 713,
+      "finishScore": 350
+    },
+    "713": {
+      "id": 713,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 40,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Element9820003": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Element9820003": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 714,
+      "finishScore": 400
+    },
+    "714": {
+      "id": 714,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film5": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film5": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 715,
+      "finishScore": 500
+    },
+    "715": {
+      "id": 715,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 15,
+          "Film14": 1,
+          "BuffProp5": 1
+        },
+        {
+          "Film14": 1,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 0,
+      "nextRaceId": 716,
+      "finishScore": 500
+    },
+    "716": {
+      "id": 716,
+      "robotRankName": "advanceRace13",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 400,
+      "expectCost": 400,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 717,
+      "finishScore": 400
+    },
+    "717": {
+      "id": 717,
+      "robotRankName": "advanceRace14",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 718,
+      "finishScore": 500
+    },
+    "718": {
+      "id": 718,
+      "robotRankName": "advanceRace15",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 500,
+      "expectCost": 500,
+      "reward": [
+        {
+          "Energy": 50,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 25,
+          "BuffProp5": 1
+        },
+        {
+          "Energy": 10,
+          "BuffProp5": 1
+        }
+      ],
+      "isStage2": 1,
+      "nextRaceId": 716,
+      "finishScore": 500
+    }
+  }
+}

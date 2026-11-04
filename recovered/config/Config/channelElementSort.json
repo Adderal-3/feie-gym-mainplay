@@ -1,0 +1,985 @@
+{
+  "main": {
+    "Bag": {
+      "series": "Bag"
+    },
+    "RankMatch_1": {
+      "series": "RankMatch_1"
+    },
+    "RankMatch_2": {
+      "series": "RankMatch_2"
+    },
+    "Chest_EventPass5": {
+      "series": "Chest_EventPass5"
+    },
+    "Chest_EventPass4": {
+      "series": "Chest_EventPass4"
+    },
+    "Chest_EventPass3": {
+      "series": "Chest_EventPass3"
+    },
+    "Chest_EventPass2": {
+      "series": "Chest_EventPass2"
+    },
+    "Chest_EventPass1": {
+      "series": "Chest_EventPass1"
+    },
+    "Chest_EPVIP1": {
+      "series": "Chest_EPVIP1"
+    },
+    "Chest_EPVIP2": {
+      "series": "Chest_EPVIP2"
+    },
+    "Chest_EPVIP3": {
+      "series": "Chest_EPVIP3"
+    },
+    "Chest_EPVIP4": {
+      "series": "Chest_EPVIP4"
+    },
+    "Chest_EPVIP5": {
+      "series": "Chest_EPVIP5"
+    },
+    "Chest_EPVIP6": {
+      "series": "Chest_EPVIP6"
+    },
+    "Chest_EPVIP7": {
+      "series": "Chest_EPVIP7"
+    },
+    "Chest_EPVIP8": {
+      "series": "Chest_EPVIP8"
+    },
+    "Chest_EPVIP9": {
+      "series": "Chest_EPVIP9"
+    },
+    "Chest_EPVIP10": {
+      "series": "Chest_EPVIP10"
+    },
+    "Chest_EPVIP11": {
+      "series": "Chest_EPVIP11"
+    },
+    "Chest_EPVIP12": {
+      "series": "Chest_EPVIP12"
+    },
+    "Chest_EPVIP13": {
+      "series": "Chest_EPVIP13"
+    },
+    "Chest_EPVIP14": {
+      "series": "Chest_EPVIP14"
+    },
+    "Chest_EPVIP15": {
+      "series": "Chest_EPVIP15"
+    },
+    "Chest_EPVIP16": {
+      "series": "Chest_EPVIP16"
+    },
+    "Chest_EPVIP17": {
+      "series": "Chest_EPVIP17"
+    },
+    "Chest_EPVIP18": {
+      "series": "Chest_EPVIP18"
+    },
+    "Chest_EPVIP19": {
+      "series": "Chest_EPVIP19"
+    },
+    "Chest_EPVIP20": {
+      "series": "Chest_EPVIP20"
+    },
+    "Chest_EPVIP21": {
+      "series": "Chest_EPVIP21"
+    },
+    "Chest_EPVIP22": {
+      "series": "Chest_EPVIP22"
+    },
+    "Chest_EPVIP23": {
+      "series": "Chest_EPVIP23"
+    },
+    "Chest_EPVIP24": {
+      "series": "Chest_EPVIP24"
+    },
+    "Chest_EPVIP25": {
+      "series": "Chest_EPVIP25"
+    },
+    "Chest_EPVIP26": {
+      "series": "Chest_EPVIP26"
+    },
+    "Chest_EPVIP27": {
+      "series": "Chest_EPVIP27"
+    },
+    "Chest_EPVIP28": {
+      "series": "Chest_EPVIP28"
+    },
+    "Chest_EPVIP29": {
+      "series": "Chest_EPVIP29"
+    },
+    "Chest_EPVIP30": {
+      "series": "Chest_EPVIP30"
+    },
+    "Chest_EPVIP31": {
+      "series": "Chest_EPVIP31"
+    },
+    "Chest_EPVIP32": {
+      "series": "Chest_EPVIP32"
+    },
+    "Chest_DailyGift1": {
+      "series": "Chest_DailyGift1"
+    },
+    "Chest_DailyGift2": {
+      "series": "Chest_DailyGift2"
+    },
+    "Chest_DailyGift3": {
+      "series": "Chest_DailyGift3"
+    },
+    "Chest_DailyGift4": {
+      "series": "Chest_DailyGift4"
+    },
+    "Chest_DailyGift5": {
+      "series": "Chest_DailyGift5"
+    },
+    "Store": {
+      "series": "Store"
+    },
+    "Prop_9": {
+      "series": "Prop_9"
+    },
+    "Chest_5": {
+      "series": "Chest_5"
+    },
+    "Prop_Lamp_1": {
+      "series": "Prop_Lamp_1"
+    },
+    "Lamp_1": {
+      "series": "Lamp_1"
+    },
+    "Dlc_11": {
+      "series": "Dlc_11"
+    },
+    "Prop_2000": {
+      "series": "Prop_2000"
+    },
+    "Magic": {
+      "series": "Magic"
+    },
+    "Bingo_1": {
+      "series": "Bingo_1"
+    },
+    "Butterfly_1": {
+      "series": "Butterfly_1"
+    },
+    "TheaterInvite_1": {
+      "series": "TheaterInvite_1"
+    },
+    "TheaterInvite_2": {
+      "series": "TheaterInvite_2"
+    },
+    "TheaterInvite_3": {
+      "series": "TheaterInvite_3"
+    },
+    "TheaterInvite_4": {
+      "series": "TheaterInvite_4"
+    },
+    "TheaterInvite_5": {
+      "series": "TheaterInvite_5"
+    },
+    "Aquarium_1": {
+      "series": "Aquarium_1"
+    },
+    "Aquarium_2": {
+      "series": "Aquarium_2"
+    },
+    "Aquarium_3": {
+      "series": "Aquarium_3"
+    },
+    "Aquarium_4": {
+      "series": "Aquarium_4"
+    },
+    "Aquarium_5": {
+      "series": "Aquarium_5"
+    },
+    "Zoo_1": {
+      "series": "Zoo_1"
+    },
+    "Zoo_2": {
+      "series": "Zoo_2"
+    },
+    "Zoo_3": {
+      "series": "Zoo_3"
+    },
+    "Zoo_4": {
+      "series": "Zoo_4"
+    },
+    "Zoo_5": {
+      "series": "Zoo_5"
+    },
+    "Zoo_6": {
+      "series": "Zoo_6"
+    },
+    "Order_Fish_1": {
+      "series": "Order_Fish_1"
+    },
+    "Order_Fish_2": {
+      "series": "Order_Fish_2"
+    },
+    "Order_Fish_3": {
+      "series": "Order_Fish_3"
+    },
+    "Order_Fish_4": {
+      "series": "Order_Fish_4"
+    },
+    "Order_Fish_5": {
+      "series": "Order_Fish_5"
+    },
+    "Order_Fish_6": {
+      "series": "Order_Fish_6"
+    },
+    "Order_Fish_7": {
+      "series": "Order_Fish_7"
+    },
+    "Order_Fish_8": {
+      "series": "Order_Fish_8"
+    },
+    "Order_Fish_9": {
+      "series": "Order_Fish_9"
+    },
+    "Order_Fish_10": {
+      "series": "Order_Fish_10"
+    },
+    "Order_Fish_11": {
+      "series": "Order_Fish_11"
+    },
+    "Order_Fish_12": {
+      "series": "Order_Fish_12"
+    },
+    "Order_Fish_13": {
+      "series": "Order_Fish_13"
+    },
+    "Order_Fish_14": {
+      "series": "Order_Fish_14"
+    },
+    "Fish_1": {
+      "series": "Fish_1"
+    },
+    "Fish_2": {
+      "series": "Fish_2"
+    },
+    "Fish_3": {
+      "series": "Fish_3"
+    },
+    "Fish_4": {
+      "series": "Fish_4"
+    },
+    "Fish_5": {
+      "series": "Fish_5"
+    },
+    "Fish_6": {
+      "series": "Fish_6"
+    },
+    "Fish_7": {
+      "series": "Fish_7"
+    },
+    "World_1": {
+      "series": "World_1"
+    },
+    "Zhenhuan_1_1": {
+      "series": "Zhenhuan_1_1"
+    },
+    "Zhenhuan_1_2": {
+      "series": "Zhenhuan_1_2"
+    },
+    "Zhenhuan_1_3": {
+      "series": "Zhenhuan_1_3"
+    },
+    "Zhzzongzi_1_1": {
+      "series": "Zhzzongzi_1_1"
+    },
+    "Zhzzongzi_1_2": {
+      "series": "Zhzzongzi_1_2"
+    },
+    "Order_Zhzzongzi_1": {
+      "series": "Order_Zhzzongzi_1"
+    },
+    "Battleroyal_1": {
+      "series": "Battleroyal_1"
+    },
+    "Battleroyal_2": {
+      "series": "Battleroyal_2"
+    },
+    "Order_Battleroyal_1": {
+      "series": "Order_Battleroyal_1"
+    },
+    "SpaceDog_1": {
+      "series": "SpaceDog_1"
+    },
+    "Order_AppleTree": {
+      "series": "Order_AppleTree"
+    },
+    "AppleTree_1": {
+      "series": "AppleTree_1"
+    },
+    "AppleTree_2": {
+      "series": "AppleTree_2"
+    },
+    "AppleTree_3": {
+      "series": "AppleTree_3"
+    },
+    "AppleTree_4": {
+      "series": "AppleTree_4"
+    },
+    "AppleTree_5": {
+      "series": "AppleTree_5"
+    },
+    "Timeflies_1": {
+      "series": "Timeflies_1"
+    },
+    "Timeflies_2": {
+      "series": "Timeflies_2"
+    },
+    "Timeflies_3": {
+      "series": "Timeflies_3"
+    },
+    "Timeflies_4": {
+      "series": "Timeflies_4"
+    },
+    "Timeflies_5": {
+      "series": "Timeflies_5"
+    },
+    "Timeflies_6": {
+      "series": "Timeflies_6"
+    },
+    "Timeflies_7": {
+      "series": "Timeflies_7"
+    },
+    "Timeflies_8": {
+      "series": "Timeflies_8"
+    },
+    "Timeflies_9": {
+      "series": "Timeflies_9"
+    },
+    "Apple2_1": {
+      "series": "Apple2_1"
+    },
+    "Apple2_2": {
+      "series": "Apple2_2"
+    },
+    "Apple2_3": {
+      "series": "Apple2_3"
+    },
+    "Apple2_4": {
+      "series": "Apple2_4"
+    },
+    "Apple2_5": {
+      "series": "Apple2_5"
+    },
+    "Apple2_2_1": {
+      "series": "Apple2_2_1"
+    },
+    "Zoo2_1": {
+      "series": "Zoo2_1"
+    },
+    "Zoo2_2": {
+      "series": "Zoo2_2"
+    },
+    "Zoo2_3": {
+      "series": "Zoo2_3"
+    },
+    "Zoo2_4": {
+      "series": "Zoo2_4"
+    },
+    "Zoo2_5": {
+      "series": "Zoo2_5"
+    },
+    "Zoo2_6": {
+      "series": "Zoo2_6"
+    },
+    "Zoo2_7": {
+      "series": "Zoo2_7"
+    },
+    "Dog2_1": {
+      "series": "Dog2_1"
+    },
+    "Dog2_2": {
+      "series": "Dog2_2"
+    },
+    "Dog2_3": {
+      "series": "Dog2_3"
+    },
+    "Dog2_4": {
+      "series": "Dog2_4"
+    },
+    "Dog2_5": {
+      "series": "Dog2_5"
+    },
+    "Dog2_6": {
+      "series": "Dog2_6"
+    },
+    "Dog2_7": {
+      "series": "Dog2_7"
+    },
+    "Dog2_8": {
+      "series": "Dog2_8"
+    },
+    "Dog2_9": {
+      "series": "Dog2_9"
+    },
+    "Prop_Zoo_1": {
+      "series": "Prop_Zoo_1"
+    },
+    "Prop_Zoo_1_0": {
+      "series": "Prop_Zoo_1_0"
+    },
+    "Prop_Zoo_2": {
+      "series": "Prop_Zoo_2"
+    },
+    "Prop_Zoo_3": {
+      "series": "Prop_Zoo_3"
+    },
+    "Prop_Limit_1": {
+      "series": "Prop_Limit_1"
+    },
+    "Prop_Limit_1_0": {
+      "series": "Prop_Limit_1_0"
+    },
+    "Prop_Limit_2": {
+      "series": "Prop_Limit_2"
+    },
+    "Prop_Limit_3": {
+      "series": "Prop_Limit_3"
+    },
+    "Prop_Limit_3_0": {
+      "series": "Prop_Limit_3_0"
+    },
+    "Prop_Limit_4": {
+      "series": "Prop_Limit_4"
+    },
+    "Prop_Limit_6": {
+      "series": "Prop_Limit_6"
+    },
+    "Prop_Limit_6_0": {
+      "series": "Prop_Limit_6_0"
+    },
+    "Prop_Limit_7": {
+      "series": "Prop_Limit_7"
+    },
+    "Prop_AppleTree_1": {
+      "series": "Prop_AppleTree_1"
+    },
+    "Prop_AppleTree_1_0": {
+      "series": "Prop_AppleTree_1_0"
+    },
+    "Prop_AppleTree_2": {
+      "series": "Prop_AppleTree_2"
+    },
+    "Prop_Limit_114": {
+      "series": "Prop_Limit_114"
+    },
+    "Prop_Limit_9": {
+      "series": "Prop_Limit_9"
+    },
+    "Prop_Limit_9_0": {
+      "series": "Prop_Limit_9_0"
+    },
+    "Prop_Limit_10": {
+      "series": "Prop_Limit_10"
+    },
+    "Prop_Timeflies_1": {
+      "series": "Prop_Timeflies_1"
+    },
+    "Prop_Timeflies_1_0": {
+      "series": "Prop_Timeflies_1_0"
+    },
+    "Prop_Timeflies_2": {
+      "series": "Prop_Timeflies_2"
+    },
+    "Prop_Limit_11": {
+      "series": "Prop_Limit_11"
+    },
+    "Scene_1": {
+      "series": "Scene_1"
+    },
+    "Scene_2": {
+      "series": "Scene_2"
+    },
+    "Chest_ShinGift": {
+      "series": "Chest_ShinGift"
+    },
+    "Chest_HuanGift": {
+      "series": "Chest_HuanGift"
+    },
+    "Chest_HongBao": {
+      "series": "Chest_HongBao"
+    },
+    "Dlc_1": {
+      "series": "Dlc_1"
+    },
+    "Dlc_2": {
+      "series": "Dlc_2"
+    },
+    "Dlc_19": {
+      "series": "Dlc_19"
+    },
+    "Dlc_3": {
+      "series": "Dlc_3"
+    },
+    "Dlc_4": {
+      "series": "Dlc_4"
+    },
+    "Dlc_5": {
+      "series": "Dlc_5"
+    },
+    "Dlc_6": {
+      "series": "Dlc_6"
+    },
+    "Dlc_7": {
+      "series": "Dlc_7"
+    },
+    "Dlc_8": {
+      "series": "Dlc_8"
+    },
+    "Dlc_9": {
+      "series": "Dlc_9"
+    },
+    "Order_Doll": {
+      "series": "Order_Doll"
+    },
+    "Dlc_10": {
+      "series": "Dlc_10"
+    },
+    "Dlc_12": {
+      "series": "Dlc_12"
+    },
+    "Dlc_13": {
+      "series": "Dlc_13"
+    },
+    "Dlc_14": {
+      "series": "Dlc_14"
+    },
+    "Dlc_15": {
+      "series": "Dlc_15"
+    },
+    "Dlc_16": {
+      "series": "Dlc_16"
+    },
+    "Dlc_17": {
+      "series": "Dlc_17"
+    },
+    "Dlc_18": {
+      "series": "Dlc_18"
+    },
+    "Dlc_20": {
+      "series": "Dlc_20"
+    },
+    "Dlc_23": {
+      "series": "Dlc_23"
+    },
+    "Dlc_21": {
+      "series": "Dlc_21"
+    },
+    "Dlc_22": {
+      "series": "Dlc_22"
+    },
+    "Order_Dlc_24": {
+      "series": "Order_Dlc_24"
+    },
+    "Dlc_25": {
+      "series": "Dlc_25"
+    },
+    "Dlc_26": {
+      "series": "Dlc_26"
+    },
+    "Dlc_27": {
+      "series": "Dlc_27"
+    },
+    "Dlc_28": {
+      "series": "Dlc_28"
+    },
+    "Dlc_29": {
+      "series": "Dlc_29"
+    },
+    "Dlc_30": {
+      "series": "Dlc_30"
+    },
+    "Dlc_31": {
+      "series": "Dlc_31"
+    },
+    "Dlc_32": {
+      "series": "Dlc_32"
+    },
+    "Dlc_33": {
+      "series": "Dlc_33"
+    },
+    "Dlc_34": {
+      "series": "Dlc_34"
+    },
+    "Dlc_35": {
+      "series": "Dlc_35"
+    },
+    "Dlc_36": {
+      "series": "Dlc_36"
+    },
+    "Dlc_37": {
+      "series": "Dlc_37"
+    },
+    "Dlc_38": {
+      "series": "Dlc_38"
+    },
+    "Dlc_39": {
+      "series": "Dlc_39"
+    },
+    "Dlc_40": {
+      "series": "Dlc_40"
+    },
+    "Dlc_41": {
+      "series": "Dlc_41"
+    },
+    "Dlc_42": {
+      "series": "Dlc_42"
+    },
+    "Dlc_43": {
+      "series": "Dlc_43"
+    },
+    "Dlc_44": {
+      "series": "Dlc_44"
+    },
+    "Dlc_45": {
+      "series": "Dlc_45"
+    },
+    "Dlc_46": {
+      "series": "Dlc_46"
+    },
+    "Dlc_47": {
+      "series": "Dlc_47"
+    },
+    "Dlc_48": {
+      "series": "Dlc_48"
+    },
+    "Dlc_49": {
+      "series": "Dlc_49"
+    },
+    "Dlc_50": {
+      "series": "Dlc_50"
+    },
+    "Dlc_51": {
+      "series": "Dlc_51"
+    },
+    "Dlc_52": {
+      "series": "Dlc_52"
+    },
+    "Dlc_53": {
+      "series": "Dlc_53"
+    },
+    "Dlc_54": {
+      "series": "Dlc_54"
+    },
+    "Dlc_55": {
+      "series": "Dlc_55"
+    },
+    "Dlc_56": {
+      "series": "Dlc_56"
+    },
+    "Dlc_57": {
+      "series": "Dlc_57"
+    },
+    "Order_Dlc_58": {
+      "series": "Order_Dlc_58"
+    },
+    "Dlc_59": {
+      "series": "Dlc_59"
+    },
+    "Order_Dlc_60": {
+      "series": "Order_Dlc_60"
+    },
+    "Order_Dlc_61": {
+      "series": "Order_Dlc_61"
+    },
+    "Dlc_62": {
+      "series": "Dlc_62"
+    },
+    "Dlc_63": {
+      "series": "Dlc_63"
+    },
+    "Dlc_64": {
+      "series": "Dlc_64"
+    },
+    "Dlc_65": {
+      "series": "Dlc_65"
+    },
+    "Dlc_66": {
+      "series": "Dlc_66"
+    },
+    "Dlc_67": {
+      "series": "Dlc_67"
+    },
+    "Dlc_68": {
+      "series": "Dlc_68"
+    },
+    "Dlc_69": {
+      "series": "Dlc_69"
+    },
+    "Dlc_70": {
+      "series": "Dlc_70"
+    },
+    "Dlc_71": {
+      "series": "Dlc_71"
+    },
+    "Dlc_72": {
+      "series": "Dlc_72"
+    },
+    "Dlc_73": {
+      "series": "Dlc_73"
+    },
+    "Dlc_74": {
+      "series": "Dlc_74"
+    },
+    "Dlc_75": {
+      "series": "Dlc_75"
+    },
+    "Dlc_76": {
+      "series": "Dlc_76"
+    },
+    "Dlc_77": {
+      "series": "Dlc_77"
+    },
+    "Dlc_78": {
+      "series": "Dlc_78"
+    },
+    "Dlc_79": {
+      "series": "Dlc_79"
+    },
+    "Dlc_80": {
+      "series": "Dlc_80"
+    },
+    "Dlc_81": {
+      "series": "Dlc_81"
+    },
+    "Phone_1": {
+      "series": "Phone_1"
+    },
+    "Phone_2": {
+      "series": "Phone_2"
+    },
+    "Phone_3": {
+      "series": "Phone_3"
+    },
+    "Phone_4": {
+      "series": "Phone_4"
+    },
+    "Order_Phone_1": {
+      "series": "Order_Phone_1"
+    },
+    "Order_Phone_2": {
+      "series": "Order_Phone_2"
+    },
+    "Order_Phone_3": {
+      "series": "Order_Phone_3"
+    },
+    "Planting_1": {
+      "series": "Planting_1"
+    },
+    "Planting_2": {
+      "series": "Planting_2"
+    },
+    "Order_Planting_1": {
+      "series": "Order_Planting_1"
+    },
+    "Order_Planting_2": {
+      "series": "Order_Planting_2"
+    },
+    "Order_Planting_3": {
+      "series": "Order_Planting_3"
+    },
+    "Order_Planting_4": {
+      "series": "Order_Planting_4"
+    },
+    "Order_Handwork": {
+      "series": "Order_Handwork"
+    },
+    "Handwork_1": {
+      "series": "Handwork_1"
+    },
+    "Handwork_2": {
+      "series": "Handwork_2"
+    },
+    "Order_Hiphop": {
+      "series": "Order_Hiphop"
+    },
+    "Hiphop_1": {
+      "series": "Hiphop_1"
+    },
+    "Hiphop_2": {
+      "series": "Hiphop_2"
+    },
+    "Prop_707": {
+      "series": "Prop_707"
+    },
+    "Prop_11": {
+      "series": "Prop_11"
+    },
+    "Prop_8": {
+      "series": "Prop_8"
+    },
+    "Prop_7": {
+      "series": "Prop_7"
+    },
+    "Chest_GymSprint1": {
+      "series": "Chest_GymSprint1"
+    },
+    "Chest_GymSprint2": {
+      "series": "Chest_GymSprint2"
+    },
+    "Chest_GymSprint3": {
+      "series": "Chest_GymSprint3"
+    },
+    "Chest_GymSprint4": {
+      "series": "Chest_GymSprint4"
+    },
+    "Chest_GymSprint5": {
+      "series": "Chest_GymSprint5"
+    },
+    "Chest_GymSprint6": {
+      "series": "Chest_GymSprint6"
+    },
+    "Chest_GymSprint7": {
+      "series": "Chest_GymSprint7"
+    },
+    "Chest_GymSprint8": {
+      "series": "Chest_GymSprint8"
+    },
+    "Chest_GymSprint9": {
+      "series": "Chest_GymSprint9"
+    },
+    "Chest_GymSprint10": {
+      "series": "Chest_GymSprint10"
+    },
+    "Chest_GymSprint11": {
+      "series": "Chest_GymSprint11"
+    },
+    "Chest_GymSprint12": {
+      "series": "Chest_GymSprint12"
+    },
+    "Chest_MasterMatch": {
+      "series": "Chest_MasterMatch"
+    },
+    "Chest_ActivityChest": {
+      "series": "Chest_ActivityChest"
+    },
+    "Mirror_1": {
+      "series": "Mirror_1"
+    },
+    "Mail_Mooncake": {
+      "series": "Mail_Mooncake"
+    },
+    "Pass_Apple": {
+      "series": "Pass_Apple"
+    },
+    "Pass_Orange": {
+      "series": "Pass_Orange"
+    },
+    "Pass_Sweater": {
+      "series": "Pass_Sweater"
+    },
+    "Pass_Lollipop": {
+      "series": "Pass_Lollipop"
+    },
+    "Pass_Icecream": {
+      "series": "Pass_Icecream"
+    },
+    "Pass_Chabaidao": {
+      "series": "Pass_Chabaidao"
+    },
+    "Mail_Tangyuan": {
+      "series": "Mail_Tangyuan"
+    },
+    "Mail_Chocolate": {
+      "series": "Mail_Chocolate"
+    },
+    "Mail_Zongzi": {
+      "series": "Mail_Zongzi"
+    },
+    "Mail_Birthdaycake": {
+      "series": "Mail_Birthdaycake"
+    },
+    "Mail_Mooncake2": {
+      "series": "Mail_Mooncake2"
+    },
+    "Mail_Mooncake3": {
+      "series": "Mail_Mooncake3"
+    },
+    "H_1": {
+      "series": "H_1"
+    },
+    "Number_9": {
+      "series": "Number_9"
+    },
+    "Number_10": {
+      "series": "Number_10"
+    },
+    "Ornament_8": {
+      "series": "Ornament_8"
+    },
+    "Ornament_9": {
+      "series": "Ornament_9"
+    },
+    "Ornament_10": {
+      "series": "Ornament_10"
+    },
+    "Order_PoolToy": {
+      "series": "Order_PoolToy"
+    },
+    "Beach_9": {
+      "series": "Beach_9"
+    },
+    "Ornament_11": {
+      "series": "Ornament_11"
+    },
+    "Number_12": {
+      "series": "Number_12"
+    },
+    "Order_PoolToy3": {
+      "series": "Order_PoolToy3"
+    },
+    "Spring_1": {
+      "series": "Spring_1"
+    },
+    "warehouse1_0": {
+      "series": "warehouse1_0"
+    },
+    "warehouse1_3": {
+      "series": "warehouse1_3"
+    },
+    "warehouse1_6": {
+      "series": "warehouse1_6"
+    },
+    "warehouse1_10": {
+      "series": "warehouse1_10"
+    },
+    "warehouse1_14": {
+      "series": "warehouse1_14"
+    },
+    "warehouse2_0": {
+      "series": "warehouse2_0"
+    },
+    "warehouse2_3": {
+      "series": "warehouse2_3"
+    },
+    "warehouse2_6": {
+      "series": "warehouse2_6"
+    },
+    "warehouse2_10": {
+      "series": "warehouse2_10"
+    },
+    "Holmes_1": {
+      "series": "Holmes_1"
+    },
+    "Holmes_2": {
+      "series": "Holmes_2"
+    },
+    "Holmes_3": {
+      "series": "Holmes_3"
+    },
+    "Holmes_4": {
+      "series": "Holmes_4"
+    },
+    "Holmes_5": {
+      "series": "Holmes_5"
+    }
+  }
+}

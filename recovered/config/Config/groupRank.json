@@ -1,0 +1,783 @@
+{
+  "azhen2": {
+    "1301": {
+      "id": 1301,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin200207": 1,
+        "AdornSkin102205": 1,
+        "Frame3051": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1302": {
+      "id": 1302,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin102205": 1,
+        "Frame3051": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1303": {
+      "id": 1303,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3051": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "agu": {
+    "101": {
+      "id": 101,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin201904": 1,
+        "AdornSkin101005": 1
+      },
+      "mailIcon": "icon_apologize",
+      "mailBg": "bg_agu"
+    },
+    "102": {
+      "id": 102,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin101005": 1
+      },
+      "mailIcon": "icon_apologize",
+      "mailBg": "bg_agu"
+    }
+  },
+  "agu2": {
+    "501": {
+      "id": 501,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "98701": 1,
+        "98901": 1,
+        "Coin": 5000
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "502": {
+      "id": 502,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "98701": 1,
+        "Coin": 5000
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "503": {
+      "id": 503,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 50,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 5000
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "agu3": {
+    "1101": {
+      "id": 1101,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin1102005": 1,
+        "AdornSkin1100703": 1,
+        "Frame3044": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1102": {
+      "id": 1102,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin1100703": 1,
+        "Frame3044": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1103": {
+      "id": 1103,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3044": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "agu4": {
+    "1201": {
+      "id": 1201,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkinRebate201904": 1,
+        "AdornSkinRebate101005": 1
+      },
+      "mailIcon": "icon_apologize",
+      "mailBg": "bg_agu"
+    },
+    "1202": {
+      "id": 1202,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkinRebate101005": 1
+      },
+      "mailIcon": "icon_apologize",
+      "mailBg": "bg_agu"
+    }
+  },
+  "amiao": {
+    "301": {
+      "id": 301,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin501505": 1,
+        "AdornSkin200505": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "302": {
+      "id": 302,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin200505": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "amiao3": {
+    "1901": {
+      "id": 1901,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin501506": 1,
+        "AdornSkinRebate501505": 1,
+        "AdornSkinRebate200505": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1902": {
+      "id": 1902,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkinRebate501505": 1,
+        "AdornSkinRebate200505": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1903": {
+      "id": 1903,
+      "rankId": 3,
+      "startRank": 3,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkinRebate200505": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "amiao2": {
+    "9901": {
+      "id": 9901,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin501505": 1,
+        "AdornSkin501504": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "9902": {
+      "id": 9902,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin501504": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "aqiang": {
+    "201": {
+      "id": 201,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin700205": 1,
+        "AdornSkin201805": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "202": {
+      "id": 202,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin201805": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "aqiang2": {
+    "701": {
+      "id": 701,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin702305": 1,
+        "AdornSkin700704": 1,
+        "Frame3027": 1,
+        "Frame3026": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "702": {
+      "id": 702,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin702305": 1,
+        "AdornSkin700704": 1,
+        "Frame3026": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "703": {
+      "id": 703,
+      "rankId": 3,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin700704": 1,
+        "Frame3026": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "704": {
+      "id": 704,
+      "rankId": 4,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Frame3026": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "bobo": {
+    "401": {
+      "id": 401,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin100706": 1,
+        "AdornSkin201507": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "402": {
+      "id": 402,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin100706": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "bobo2": {
+    "601": {
+      "id": 601,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin102807": 1,
+        "AdornSkin102706": 1,
+        "Frame3021": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "602": {
+      "id": 602,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin102706": 1,
+        "Frame3020": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "603": {
+      "id": 603,
+      "rankId": 3,
+      "startRank": 21,
+      "endRank": 50,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Frame3020": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "bobo3": {
+    "901": {
+      "id": 901,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin300106": 1,
+        "AdornSkin701705": 1,
+        "Frame3034": 1,
+        "Frame3035": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "902": {
+      "id": 902,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin300106": 1,
+        "AdornSkin701705": 1,
+        "Frame3034": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "903": {
+      "id": 903,
+      "rankId": 3,
+      "startRank": 4,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin701705": 1,
+        "Frame3034": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "904": {
+      "id": 904,
+      "rankId": 4,
+      "startRank": 21,
+      "endRank": 50,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Frame3034": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "fish": {
+    "1001": {
+      "id": 1001,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "Uniform2022": 1,
+        "AdornSkin702005": 1,
+        "Frame3040": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1002": {
+      "id": 1002,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin702005": 1,
+        "Frame3040": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1003": {
+      "id": 1003,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3040": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "holmes": {
+    "801": {
+      "id": 801,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin500108": 1,
+        "AdornSkin102707": 1,
+        "Frame3028": 1,
+        "Frame3029": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "802": {
+      "id": 802,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 3,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin500108": 1,
+        "AdornSkin102707": 1,
+        "Frame3028": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "803": {
+      "id": 803,
+      "rankId": 3,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "AdornSkin102707": 1,
+        "Frame3028": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "804": {
+      "id": 804,
+      "rankId": 4,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Frame3028": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "fish2": {
+    "1401": {
+      "id": 1401,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin701407": 1,
+        "AdornSkin701708": 1,
+        "Frame3057": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1402": {
+      "id": 1402,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin701708": 1,
+        "Frame3057": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1403": {
+      "id": 1403,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3057": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "bobo4": {
+    "1501": {
+      "id": 1501,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin901305": 1,
+        "AdornSkin901703": 1,
+        "Frame3058": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1502": {
+      "id": 1502,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin901703": 1,
+        "Frame3058": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1503": {
+      "id": 1503,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3058": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "zhenhuan": {
+    "1601": {
+      "id": 1601,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin5100110": 1,
+        "AdornSkin5100210": 1,
+        "Frame3061": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1602": {
+      "id": 1602,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin5100210": 1,
+        "Frame3061": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1603": {
+      "id": 1603,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3061": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "zhzzongzi": {
+    "1701": {
+      "id": 1701,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "Uniform3007": 1,
+        "AdornSkin1402102": 1,
+        "Frame3064": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1702": {
+      "id": 1702,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin1402102": 1,
+        "Frame3064": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1703": {
+      "id": 1703,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3064": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "br1": {
+    "1801": {
+      "id": 1801,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 3,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "AdornSkin1001103": 1,
+        "AdornSkin1001802": 1,
+        "Frame3066": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1802": {
+      "id": 1802,
+      "rankId": 2,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "AdornSkin1001802": 1,
+        "Frame3066": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1803": {
+      "id": 1803,
+      "rankId": 3,
+      "startRank": 11,
+      "endRank": 20,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Frame3066": 1
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  }
+}

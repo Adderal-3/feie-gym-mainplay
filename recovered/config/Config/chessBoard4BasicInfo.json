@@ -1,0 +1,84 @@
+{
+  "unlockEntrance": 15,
+  "eventEnergyName": "EventEnergyII",
+  "initEventEnergy": 50,
+  "eventEnergyRecoverRate": 1200,
+  "eventEnergyMax": 50,
+  "eventEnergyTimes": [
+    5,
+    15,
+    30
+  ],
+  "eventEnergyWeight": [
+    50,
+    110,
+    300
+  ],
+  "orderReward": {
+    "chessIVPoint": 10
+  },
+  "noEnergySeries": [
+    "Chest_Coin",
+    "Chest_Energy",
+    "Chest_Energy1",
+    "Chest_1",
+    "Chest_2",
+    "Chest_Pig",
+    "Prop_7",
+    "Prop_8",
+    "Prop_11",
+    "Prop_10",
+    "Prop_12",
+    "Energy",
+    "Energy_Number",
+    "Energy_Farm_1",
+    "Energy_Farm_0",
+    "Chest_5",
+    "Monster_47"
+  ],
+  "progressBarStepOne": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    25,
+    25,
+    25,
+    30,
+    30
+  ],
+  "progressRewardOne": [
+    {
+      "MhdIIBlindBox1": 1
+    },
+    {
+      "MhdIIBlindBox1": 1
+    },
+    {
+      "Film1": 1
+    },
+    {
+      "MhdIIBlindBox5": 1
+    },
+    {
+      "Film2": 1
+    },
+    {
+      "MhdIIBlindBox2": 1
+    },
+    {
+      "Film3": 1
+    },
+    {
+      "MhdIIBlindBox3": 1
+    },
+    {
+      "Film4": 1
+    },
+    {
+      "63906": 1
+    }
+  ],
+  "progressBarStepTwo": 50
+}

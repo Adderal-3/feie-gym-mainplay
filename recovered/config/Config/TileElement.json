@@ -1,0 +1,178 @@
+{
+  "1001": {
+    "id": 1001,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1001",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 3
+    },
+    "passLevel": 1
+  },
+  "1002": {
+    "id": 1002,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1002",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 9
+    },
+    "passLevel": 2
+  },
+  "1003": {
+    "id": 1003,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1003",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 24
+    },
+    "passLevel": 3
+  },
+  "1004": {
+    "id": 1004,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1004",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1005": {
+    "id": 1005,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1005",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1006": {
+    "id": 1006,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1006",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1007": {
+    "id": 1007,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1007",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1008": {
+    "id": 1008,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1008",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1009": {
+    "id": 1009,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1009",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1010": {
+    "id": 1010,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1010",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1011": {
+    "id": 1011,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1011",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1012": {
+    "id": 1012,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1012",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1013": {
+    "id": 1013,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1013",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1014": {
+    "id": 1014,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1014",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1015": {
+    "id": 1015,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1015",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "1016": {
+    "id": 1016,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/{0}/icon_tile_1016",
+    "matchReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9999": {
+    "id": 9999,
+    "elementId": 0,
+    "resUrl": "Tile/TileIcon/Common/icon_tile_energy",
+    "matchReward": {
+      "Energy": 9
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  }
+}

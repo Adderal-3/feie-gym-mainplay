@@ -1,0 +1,202 @@
+{
+  "warehouse1": {
+    "id": "warehouse1",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "board": 59,
+    "initOrderId": [
+      3001
+    ],
+    "initTaskId": 101,
+    "EntranceIcon": 241129,
+    "recycleElementId": {
+      "450112": 1,
+      "450206": 3,
+      "450412": 1,
+      "450506": 3,
+      "450809": 1,
+      "450906": 3,
+      "451207": 3,
+      "451305": 2,
+      "451708": 1
+    },
+    "recycleCoef": 0.9,
+    "finalTaskCost": 500,
+    "finalTaskReward": {
+      "Coin_100": 10,
+      "Coin_200": 20,
+      "Coin_300": 30,
+      "Coin_400": 40,
+      "Coin_500": 40,
+      "Coin_600": 40,
+      "Coin_700": 40,
+      "Coin_800": 20,
+      "Coin_900": 20,
+      "Coin_1000": 10
+    },
+    "worldRank": 100,
+    "shopId": 2000,
+    "waterId": "221",
+    "unlockOrderElement": {
+      "3013": "warehouse1_3"
+    },
+    "boardId": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "worldRankScore": 12000
+  },
+  "warehouse2": {
+    "id": "warehouse2",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "board": 65,
+    "initOrderId": [
+      5001
+    ],
+    "initTaskId": 201,
+    "EntranceIcon": 241129,
+    "recycleElementId": {
+      "710111": 2,
+      "710205": 3,
+      "710411": 2,
+      "710506": 3,
+      "710810": 1,
+      "710905": 3,
+      "711105": 3,
+      "711309": 2
+    },
+    "recycleCoef": 0.9,
+    "finalTaskCost": 500,
+    "finalTaskReward": {
+      "Coin_100": 10,
+      "Coin_200": 20,
+      "Coin_300": 30,
+      "Coin_400": 40,
+      "Coin_500": 40,
+      "Coin_600": 40,
+      "Coin_700": 40,
+      "Coin_800": 20,
+      "Coin_900": 20,
+      "Coin_1000": 10
+    },
+    "worldRank": 100,
+    "shopId": 2002,
+    "waterId": "221",
+    "unlockOrderElement": {
+      "5008": "warehouse2_3",
+      "5017": "warehouse2_6"
+    },
+    "boardId": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "worldRankScore": 12000
+  },
+  "warehouse3": {
+    "id": "warehouse3",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "board": 77,
+    "initOrderId": [
+      8001
+    ],
+    "initTaskId": 301,
+    "EntranceIcon": 241129,
+    "recycleElementId": {
+      "711527": 3,
+      "711540": 1,
+      "711558": 2,
+      "711579": 2,
+      "711599": 2,
+      "711621": 1,
+      "711677": 2,
+      "711698": 3
+    },
+    "recycleCoef": 0.9,
+    "finalTaskCost": 500,
+    "finalTaskReward": {
+      "Coin_100": 10,
+      "Coin_200": 20,
+      "Coin_300": 30,
+      "Coin_400": 40,
+      "Coin_500": 40,
+      "Coin_600": 40,
+      "Coin_700": 40,
+      "Coin_800": 20,
+      "Coin_900": 20,
+      "Coin_1000": 10
+    },
+    "worldRank": 100,
+    "shopId": 2003,
+    "waterId": "221",
+    "unlockOrderElement": {
+      "8011": "Warehouse3_5",
+      "9001": "Warehouse3_9"
+    },
+    "boardId": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "worldRankScore": 12000
+  },
+  "warehouse4": {
+    "id": "warehouse4",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "board": 98,
+    "initOrderId": [
+      11001
+    ],
+    "initTaskId": 401,
+    "EntranceIcon": 241129,
+    "recycleElementId": {
+      "711729": 3,
+      "711739": 1,
+      "711752": 2,
+      "711765": 2,
+      "711782": 2,
+      "711794": 1,
+      "711801": 1,
+      "711833": 1,
+      "711839": 3
+    },
+    "recycleCoef": 0.9,
+    "finalTaskCost": 500,
+    "finalTaskReward": {
+      "Coin_100": 10,
+      "Coin_200": 20,
+      "Coin_300": 30,
+      "Coin_400": 40,
+      "Coin_500": 40,
+      "Coin_600": 40,
+      "Coin_700": 40,
+      "Coin_800": 20,
+      "Coin_900": 20,
+      "Coin_1000": 10
+    },
+    "worldRank": 100,
+    "shopId": 2004,
+    "waterId": "221",
+    "unlockOrderElement": {
+      "11013": "Warehouse4_31"
+    },
+    "boardId": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "worldRankScore": 12000
+  }
+}

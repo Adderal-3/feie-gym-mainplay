@@ -1,0 +1,143 @@
+{
+  "unlockLevel": 11,
+  "finishPrize": [
+    {
+      "RwChest101": 1
+    },
+    {
+      "RwChest201": 1
+    },
+    {
+      "RwChest301": 1
+    },
+    {
+      "RwChest401": 1
+    }
+  ],
+  "finishPrizeBlueBag": [
+    {
+      "RwChest102": 1
+    },
+    {
+      "RwChest202": 1
+    },
+    {
+      "RwChest302": 1
+    },
+    {
+      "RwChest402": 1
+    }
+  ],
+  "keepStreakGoingCost": [
+    0,
+    5,
+    10,
+    20,
+    20
+  ],
+  "streakLength": 4,
+  "refreshPrice": [
+    [
+      0,
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      5,
+      10
+    ],
+    [
+      0,
+      1,
+      5,
+      10,
+      20
+    ],
+    [
+      1,
+      5,
+      10,
+      20
+    ],
+    [
+      5,
+      10,
+      20
+    ],
+    [
+      10,
+      20
+    ]
+  ],
+  "originalElementSeries": [
+    "A_1",
+    "A_2",
+    "B_1",
+    "B_2",
+    "B_3",
+    "C_1",
+    "C_2",
+    "D_1",
+    "D_2",
+    "E_1",
+    "E_3",
+    "E_4",
+    "F_0",
+    "F_1",
+    "F_2",
+    "G_0",
+    "G_1",
+    "G_2",
+    "G_3",
+    "G_4",
+    "I_1",
+    "I_2",
+    "I_3",
+    "I_4"
+  ],
+  "adRefresTimes": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+  ],
+  "dialog": 6001,
+  "weight": [
+    60,
+    40
+  ],
+  "levelDown": 3,
+  "specialElementSeries": [
+    "F_3",
+    "F_4",
+    "F_5",
+    "E_5",
+    "G_4",
+    "I_2",
+    "I_3",
+    "F_2",
+    "I_4"
+  ],
+  "notBelongToBoard": 50,
+  "LimitedElement": [
+    "G_4",
+    "I_2",
+    "F_0",
+    "F_1",
+    "F_2"
+  ],
+  "LimitedCounts": 150,
+  "blockOrder": [
+    30000,
+    30015,
+    170000,
+    170001,
+    210000,
+    210001
+  ]
+}

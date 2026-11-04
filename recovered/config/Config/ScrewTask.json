@@ -1,0 +1,134 @@
+{
+  "screw1": {
+    "10001": {
+      "id": 10001,
+      "unlockOrderId": [
+        10002
+      ],
+      "reward": {
+        "Star": 1,
+        "ScrewPoint": 30,
+        "DCTaskVal": 30
+      },
+      "screwLevel": 1,
+      "smileCount": 1
+    },
+    "10002": {
+      "id": 10002,
+      "unlockOrderId": [
+        10003
+      ],
+      "reward": {
+        "Star": 2,
+        "ScrewPoint": 100,
+        "DCTaskVal": 100
+      },
+      "screwLevel": 2,
+      "smileCount": 2
+    },
+    "10003": {
+      "id": 10003,
+      "unlockOrderId": [
+        10004
+      ],
+      "reward": {
+        "Star": 1,
+        "ScrewPoint": 70,
+        "DCTaskVal": 70
+      },
+      "screwLevel": 3,
+      "smileCount": 2
+    },
+    "10004": {
+      "id": 10004,
+      "unlockOrderId": [
+        10005
+      ],
+      "reward": {
+        "Star": 3,
+        "ScrewPoint": 160,
+        "DCTaskVal": 160
+      },
+      "screwLevel": 4,
+      "smileCount": 2
+    },
+    "10005": {
+      "id": 10005,
+      "unlockOrderId": [
+        10006
+      ],
+      "reward": {
+        "Star": 1,
+        "ScrewPoint": 70,
+        "DCTaskVal": 70
+      },
+      "screwLevel": 5,
+      "smileCount": 2
+    },
+    "10006": {
+      "id": 10006,
+      "unlockOrderId": [
+        10007
+      ],
+      "reward": {
+        "Star": 2,
+        "ScrewPoint": 100,
+        "DCTaskVal": 100
+      },
+      "screwLevel": 6,
+      "smileCount": 2
+    },
+    "10007": {
+      "id": 10007,
+      "unlockOrderId": [
+        10008
+      ],
+      "reward": {
+        "Star": 4,
+        "ScrewPoint": 200,
+        "DCTaskVal": 200
+      },
+      "screwLevel": 7,
+      "smileCount": 2
+    },
+    "10008": {
+      "id": 10008,
+      "unlockOrderId": [
+        10009
+      ],
+      "reward": {
+        "Star": 1,
+        "ScrewPoint": 40,
+        "DCTaskVal": 40
+      },
+      "screwLevel": 8,
+      "smileCount": 1
+    },
+    "10009": {
+      "id": 10009,
+      "unlockOrderId": [
+        10010
+      ],
+      "reward": {
+        "Star": 3,
+        "ScrewPoint": 130,
+        "DCTaskVal": 130
+      },
+      "screwLevel": 9,
+      "smileCount": 2
+    },
+    "10010": {
+      "id": 10010,
+      "unlockOrderId": [
+        10001
+      ],
+      "reward": {
+        "Star": 2,
+        "ScrewPoint": 100,
+        "DCTaskVal": 100
+      },
+      "screwLevel": 10,
+      "smileCount": 2
+    }
+  }
+}

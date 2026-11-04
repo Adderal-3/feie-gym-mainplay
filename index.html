@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>肥鹅健身房 · 主玩法资源工作台</title><link rel="stylesheet" href="viewer/style.css"></head>
+<body>
+<header><a class="brand" href="/">鹅<span>肥鹅健身房 <small>CLIENT ARCHIVE</small></span></a><span class="status"><i></i>本地资源 · v6.2.2</span></header>
+<main>
+<section class="intro"><div class="eyebrow">CACHE RECOVERY / 主玩法</div><h1>合成的每一步，<br>都在这里。</h1><p>从当前微信小游戏缓存恢复的客户端代码、玩法配置与原始素材。<br>用可读的结构，重新打开这间健身房。</p><div class="pills"><span>7 × 9 合成棋盘</span><span>原始道具素材</span><span>配置表已解码</span></div></section>
+<section class="stats" aria-label="恢复统计"><div><b id="modules">—</b><span>客户端注册模块</span></div><div><b id="sprites">—</b><span>具名素材 PNG</span></div><div><b>913</b><span>可读配置表</span></div><div><b>100 / 120s</b><span>体力上限 / 恢复间隔</span></div></section>
+<nav aria-label="资源类别"><button class="active" data-tab="assets">美术素材 <span>↗</span></button><button data-tab="code">核心源码</button><button data-tab="board">初始棋盘</button><a href="README.md" target="_blank">交付说明 ↗</a></nav>
+<section id="assets" class="tab"><div class="section-head"><div><h2>原始素材库</h2><p>按原资源路径整理，可查看透明 PNG 与尺寸。</p></div><label class="search">⌕ <input id="search" placeholder="搜索道具 ID、名称或路径" aria-label="搜索素材"></label></div><div id="filters" class="filters"><button class="active" data-filter="all">全部素材</button><button data-filter="Element">合成道具</button><button data-filter="MergeUi">棋盘界面</button><button data-filter="Goose">鹅角色</button><button data-filter="Home">健身房</button></div><p id="count" class="muted"></p><div id="asset-grid" class="asset-grid"></div><button id="more" class="more">加载更多素材</button></section>
+<section id="code" class="tab" hidden><div class="section-head"><div><h2>主玩法代码</h2><p>原编译代码的可读片段；完整共享上下文保存在 game.formatted.js。</p></div><a href="readable/MAINPLAY.md" target="_blank">完整模块索引 ↗</a></div><div id="code-grid" class="code-grid"></div><pre id="source" hidden></pre></section>
+<section id="board" class="tab" hidden><div class="section-head"><div><h2>初始主棋盘</h2><p>直接读取 Board.json 中的 1 号棋盘；用于核对配置与素材，不运行原游戏。</p></div><a href="recovered/config/Config/Board.json" target="_blank">查看配置 ↗</a></div><div class="board-layout"><div id="board-grid" class="board-grid"></div><aside><span class="eyebrow">BOARD / 1</span><h3>9 行 · 7 列</h3><p>点击格子查看道具 ID 和原始状态。遮盖格显示配置中的 coverVariant。</p><p id="cell-info">选择一个格子</p><p class="muted">原版交互和结算依赖服务器；这里展示恢复的配置，不模拟服务器响应。</p></aside></div></section>
+<footer>仅执行资源查看器自身的代码。恢复的游戏脚本不在此页面运行。<a href="docs/RECOVERY.md" target="_blank">恢复范围与差异 ↗</a></footer>
+</main>
+<dialog id="detail"><button id="close" class="close" aria-label="关闭">×</button><div class="detail-image"><img id="detail-img" alt="素材大图"></div><h3 id="detail-name"></h3><p id="detail-path"></p><p id="detail-size"></p><a id="download" download>下载 PNG ↓</a></dialog>
+<script type="module" src="viewer/app.js"></script>
+</body></html>

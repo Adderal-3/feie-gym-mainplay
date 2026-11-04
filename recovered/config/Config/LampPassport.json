@@ -1,0 +1,14 @@
+{
+  "300000": {
+    "id": 300000,
+    "belongTo": "lamp1",
+    "passPrice": 3000,
+    "originalPrice": 30000
+  },
+  "300001": {
+    "id": 300001,
+    "belongTo": "lamp2",
+    "passPrice": 3000,
+    "originalPrice": 30000
+  }
+}

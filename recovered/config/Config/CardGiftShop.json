@@ -1,0 +1,70 @@
+{
+  "1001": {
+    "100101": {
+      "id": 100101,
+      "content": {
+        "CardBag30006": 6
+      },
+      "price": {
+        "Cash": 6000
+      },
+      "goodsid": 877771,
+      "specialLabel": 0
+    },
+    "100102": {
+      "id": 100102,
+      "content": {
+        "CardBag30006": 36
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "goodsid": 877772,
+      "specialLabel": 0
+    },
+    "100103": {
+      "id": 100103,
+      "content": {
+        "CardBag30006": 66
+      },
+      "price": {
+        "Cash": 64800
+      },
+      "goodsid": 877773,
+      "specialLabel": 1
+    },
+    "100104": {
+      "id": 100104,
+      "content": {
+        "CardBag30007": 6
+      },
+      "price": {
+        "Cash": 6000
+      },
+      "goodsid": 877774,
+      "specialLabel": 0
+    },
+    "100105": {
+      "id": 100105,
+      "content": {
+        "CardBag30007": 36
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "goodsid": 877775,
+      "specialLabel": 0
+    },
+    "100106": {
+      "id": 100106,
+      "content": {
+        "CardBag30007": 66
+      },
+      "price": {
+        "Cash": 64800
+      },
+      "goodsid": 877776,
+      "specialLabel": 1
+    }
+  }
+}

@@ -1,0 +1,1102 @@
+{
+  "Main": {
+    "1": {
+      "id": 1,
+      "roomId": 0,
+      "preDisplay": [],
+      "unlock": [
+        "PlayerLevel1"
+      ],
+      "autoUnlock": 1,
+      "capacity": 9,
+      "gooseOrderNum": 1,
+      "icon": "",
+      "picture": "area_pic_01",
+      "detailPicture": "area_detail_pic_01",
+      "reward": {
+        "Coin": 500,
+        "Diamond": 20
+      },
+      "unlockAreaDialog": 0,
+      "dialog": 16101
+    },
+    "2": {
+      "id": 2,
+      "roomId": 0,
+      "preDisplay": [
+        "PlayerLevel1"
+      ],
+      "unlock": [
+        "FinishArea1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_02",
+      "picture": "area_pic_02",
+      "detailPicture": "area_detail_pic_02",
+      "reward": {
+        "Diamond": 25,
+        "AdornCoupon": 200
+      },
+      "unlockAreaDialog": 16148,
+      "dialog": 16102
+    },
+    "3": {
+      "id": 3,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea2"
+      ],
+      "unlock": [
+        "FinishArea51"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_03",
+      "picture": "area_pic_03",
+      "detailPicture": "area_detail_pic_03",
+      "reward": {
+        "AdornCoupon": 200,
+        "Coin": 600
+      },
+      "unlockAreaDialog": 16149,
+      "dialog": 16103
+    },
+    "4": {
+      "id": 4,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea51"
+      ],
+      "unlock": [
+        "FinishArea3"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_04",
+      "picture": "area_pic_04",
+      "detailPicture": "area_detail_pic_04",
+      "reward": {
+        "Coin": 1200,
+        "Diamond": 30
+      },
+      "unlockAreaDialog": 16150,
+      "dialog": 16104
+    },
+    "5": {
+      "id": 5,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea3"
+      ],
+      "unlock": [
+        "FinishArea4"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_05",
+      "picture": "area_pic_05",
+      "detailPicture": "area_detail_pic_05",
+      "reward": {
+        "CardPoint": 300,
+        "Coin": 1200
+      },
+      "unlockAreaDialog": 16151,
+      "dialog": 16105
+    },
+    "6": {
+      "id": 6,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea5"
+      ],
+      "unlock": [
+        "FinishArea7"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_06",
+      "picture": "area_pic_06",
+      "detailPicture": "area_detail_pic_06",
+      "reward": {
+        "CardPoint": 400,
+        "AdornCoupon": 300
+      },
+      "unlockAreaDialog": 16152,
+      "dialog": 16106
+    },
+    "7": {
+      "id": 7,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea4"
+      ],
+      "unlock": [
+        "FinishArea5"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_07",
+      "picture": "area_pic_07",
+      "detailPicture": "area_detail_pic_07",
+      "reward": {
+        "CardPoint": 550
+      },
+      "unlockAreaDialog": 16153,
+      "dialog": 16107
+    },
+    "8": {
+      "id": 8,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea7"
+      ],
+      "unlock": [
+        "FinishArea6"
+      ],
+      "autoUnlock": 0,
+      "capacity": 9,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_08",
+      "picture": "area_pic_08",
+      "detailPicture": "area_detail_pic_08",
+      "reward": {
+        "CardPoint": 360,
+        "AdornCoupon": 660
+      },
+      "unlockAreaDialog": 16154,
+      "dialog": 16108
+    },
+    "9": {
+      "id": 9,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea6"
+      ],
+      "unlock": [
+        "FinishArea8"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_09",
+      "picture": "area_pic_09",
+      "detailPicture": "area_detail_pic_09",
+      "reward": {
+        "CardPoint": 500,
+        "AdornCoupon": 300
+      },
+      "unlockAreaDialog": 16158,
+      "dialog": 16114
+    },
+    "10": {
+      "id": 10,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea9"
+      ],
+      "unlock": [
+        "FinishArea11"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_10",
+      "picture": "area_pic_10",
+      "detailPicture": "area_detail_pic_10",
+      "reward": {
+        "CardPoint": 500,
+        "AdornCoupon": 300
+      },
+      "unlockAreaDialog": 16159,
+      "dialog": 16115
+    },
+    "11": {
+      "id": 11,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea8"
+      ],
+      "unlock": [
+        "FinishArea9"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_11",
+      "picture": "area_pic_11",
+      "detailPicture": "area_detail_pic_11",
+      "reward": {
+        "CardPoint": 700,
+        "Diamond": 40
+      },
+      "unlockAreaDialog": 16155,
+      "dialog": 16109
+    },
+    "12": {
+      "id": 12,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea11"
+      ],
+      "unlock": [
+        "FinishArea10"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_12",
+      "picture": "area_pic_12",
+      "detailPicture": "area_detail_pic_12",
+      "reward": {
+        "CardPoint": 500,
+        "AdornCoupon": 300
+      },
+      "unlockAreaDialog": 16156,
+      "dialog": 16110
+    },
+    "13": {
+      "id": 13,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea10"
+      ],
+      "unlock": [
+        "FinishArea12"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_13",
+      "picture": "area_pic_13",
+      "detailPicture": "area_detail_pic_13",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16157,
+      "dialog": 16113
+    },
+    "14": {
+      "id": 14,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea12"
+      ],
+      "unlock": [
+        "FinishArea13"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_14",
+      "picture": "area_pic_14",
+      "detailPicture": "area_detail_pic_14",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16160,
+      "dialog": 16116
+    },
+    "15": {
+      "id": 15,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea17"
+      ],
+      "unlock": [
+        "FinishArea16"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_15",
+      "picture": "area_pic_15",
+      "detailPicture": "area_detail_pic_15",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16165,
+      "dialog": 16166
+    },
+    "16": {
+      "id": 16,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea22"
+      ],
+      "unlock": [
+        "FinishArea17"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_16",
+      "picture": "area_pic_16",
+      "detailPicture": "area_detail_pic_16",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16164,
+      "dialog": 16139
+    },
+    "17": {
+      "id": 17,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea21"
+      ],
+      "unlock": [
+        "FinishArea22"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_17",
+      "picture": "area_pic_17",
+      "detailPicture": "area_detail_pic_17",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16135,
+      "dialog": 16136
+    },
+    "18": {
+      "id": 18,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea13"
+      ],
+      "unlock": [
+        "FinishArea14"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_18",
+      "picture": "area_pic_18",
+      "detailPicture": "area_detail_pic_18",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16161,
+      "dialog": 16117
+    },
+    "19": {
+      "id": 19,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea14"
+      ],
+      "unlock": [
+        "FinishArea18"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_19",
+      "picture": "area_pic_19",
+      "detailPicture": "area_detail_pic_19",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16162,
+      "dialog": 16118
+    },
+    "20": {
+      "id": 20,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea18"
+      ],
+      "unlock": [
+        "FinishArea19"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_20",
+      "picture": "area_pic_20",
+      "detailPicture": "area_detail_pic_20",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16163,
+      "dialog": 16119
+    },
+    "21": {
+      "id": 21,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea19"
+      ],
+      "unlock": [
+        "FinishArea20"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_21",
+      "picture": "area_pic_21",
+      "detailPicture": "area_detail_pic_21",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16121,
+      "dialog": 16120
+    },
+    "22": {
+      "id": 22,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea20"
+      ],
+      "unlock": [
+        "FinishArea21"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 1,
+      "icon": "area_icon_22",
+      "picture": "area_pic_22",
+      "detailPicture": "area_detail_pic_22",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16124,
+      "dialog": 16125
+    },
+    "23": {
+      "id": 23,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "24": {
+      "id": 24,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "25": {
+      "id": 25,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "26": {
+      "id": 26,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "27": {
+      "id": 27,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "28": {
+      "id": 28,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea16"
+      ],
+      "unlock": [
+        "FinishArea15"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_28",
+      "picture": "area_pic_28",
+      "detailPicture": "area_detail_pic_28",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16201,
+      "dialog": 16202
+    },
+    "29": {
+      "id": 29,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea15"
+      ],
+      "unlock": [
+        "FinishArea28"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_29",
+      "picture": "area_pic_29",
+      "detailPicture": "area_detail_pic_29",
+      "reward": {
+        "CardPoint": 600,
+        "AdornCoupon": 400
+      },
+      "unlockAreaDialog": 16224,
+      "dialog": 16225
+    },
+    "30": {
+      "id": 30,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "31": {
+      "id": 31,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "32": {
+      "id": 32,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishBuild290003"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 7,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_00",
+      "picture": "area_pic_999",
+      "detailPicture": "area_detail_pic_999",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    },
+    "51": {
+      "id": 51,
+      "roomId": 0,
+      "preDisplay": [
+        "FinishArea1"
+      ],
+      "unlock": [
+        "FinishArea2"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "",
+      "picture": "area_pic_51",
+      "detailPicture": "area_detail_pic_51",
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "unlockAreaDialog": 0,
+      "dialog": 16111
+    },
+    "99": {
+      "id": 99,
+      "roomId": 0,
+      "preDisplay": [],
+      "unlock": [
+        "GetOrder30000/GetOrder30015/GetOrder170000/GetOrder170001/GetOrder210000/GetOrder210001"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "",
+      "picture": "area_pic_99",
+      "detailPicture": "area_detail_pic_99",
+      "reward": {
+        "CardPoint": 350
+      },
+      "unlockAreaDialog": 0,
+      "dialog": 16112
+    }
+  },
+  "Room1": {
+    "100101": {
+      "id": 100101,
+      "roomId": 1,
+      "preDisplay": [
+        "PlayerLevel157"
+      ],
+      "unlock": [
+        "PlayerLevel157"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100101",
+      "picture": "area_pic_100101",
+      "detailPicture": "area_detail_pic_100101",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16191,
+      "dialog": 16195
+    },
+    "100102": {
+      "id": 100102,
+      "roomId": 1,
+      "preDisplay": [
+        "PlayerLevel157"
+      ],
+      "unlock": [
+        "PlayerLevel157"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100102",
+      "picture": "area_pic_100102",
+      "detailPicture": "area_detail_pic_100102",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16192,
+      "dialog": 16196
+    },
+    "100103": {
+      "id": 100103,
+      "roomId": 1,
+      "preDisplay": [
+        "PlayerLevel157"
+      ],
+      "unlock": [
+        "PlayerLevel157"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100103",
+      "picture": "area_pic_100103",
+      "detailPicture": "area_detail_pic_100103",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16193,
+      "dialog": 16197
+    },
+    "100104": {
+      "id": 100104,
+      "roomId": 1,
+      "preDisplay": [
+        "PlayerLevel157"
+      ],
+      "unlock": [
+        "PlayerLevel157"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100104",
+      "picture": "area_pic_100104",
+      "detailPicture": "area_detail_pic_100104",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16194,
+      "dialog": 16198
+    }
+  },
+  "Room2": {
+    "100201": {
+      "id": 100201,
+      "roomId": 2,
+      "preDisplay": [
+        "FinishBuildRoom1"
+      ],
+      "unlock": [
+        "FinishBuildRoom1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100101",
+      "picture": "area_pic_100101",
+      "detailPicture": "area_detail_pic_100101",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16211,
+      "dialog": 16215
+    },
+    "100202": {
+      "id": 100202,
+      "roomId": 2,
+      "preDisplay": [
+        "FinishBuildRoom1"
+      ],
+      "unlock": [
+        "FinishBuildRoom1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100102",
+      "picture": "area_pic_100102",
+      "detailPicture": "area_detail_pic_100102",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16212,
+      "dialog": 16216
+    },
+    "100203": {
+      "id": 100203,
+      "roomId": 2,
+      "preDisplay": [
+        "FinishBuildRoom1"
+      ],
+      "unlock": [
+        "FinishBuildRoom1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_toyCorner",
+      "picture": "area_pic_100103",
+      "detailPicture": "area_detail_pic_100103",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16213,
+      "dialog": 16217
+    },
+    "100204": {
+      "id": 100204,
+      "roomId": 2,
+      "preDisplay": [
+        "FinishBuildRoom1"
+      ],
+      "unlock": [
+        "FinishBuildRoom1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100104",
+      "picture": "area_pic_100104",
+      "detailPicture": "area_detail_pic_100104",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16214,
+      "dialog": 16218
+    }
+  },
+  "Room3": {
+    "100301": {
+      "id": 100301,
+      "roomId": 3,
+      "preDisplay": [
+        "FinishBuildRoom2"
+      ],
+      "unlock": [
+        "FinishBuildRoom2"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100103",
+      "picture": "area_pic_100103",
+      "detailPicture": "area_detail_pic_100301",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16306,
+      "dialog": 16307
+    },
+    "100302": {
+      "id": 100302,
+      "roomId": 3,
+      "preDisplay": [
+        "FinishBuildRoom2"
+      ],
+      "unlock": [
+        "FinishBuildRoom2"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100101",
+      "picture": "area_pic_100101",
+      "detailPicture": "area_detail_pic_100101",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16309,
+      "dialog": 16310
+    },
+    "100303": {
+      "id": 100303,
+      "roomId": 3,
+      "preDisplay": [
+        "FinishBuildRoom2"
+      ],
+      "unlock": [
+        "FinishBuildRoom2"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100102",
+      "picture": "area_pic_100102",
+      "detailPicture": "area_detail_pic_100102",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16311,
+      "dialog": 16312
+    },
+    "100304": {
+      "id": 100304,
+      "roomId": 3,
+      "preDisplay": [
+        "FinishBuildRoom2"
+      ],
+      "unlock": [
+        "FinishBuildRoom2"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_kitchen",
+      "picture": "area_detail_pic_100103",
+      "detailPicture": "area_detail_pic_100103",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16313,
+      "dialog": 16314
+    }
+  },
+  "Room4": {
+    "100401": {
+      "id": 100401,
+      "roomId": 4,
+      "preDisplay": [
+        "FinishBuildRoom3"
+      ],
+      "unlock": [
+        "FinishBuildRoom3"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_work",
+      "picture": "area_pic_work",
+      "detailPicture": "area_detail_pic_work",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16316,
+      "dialog": 16320
+    },
+    "100402": {
+      "id": 100402,
+      "roomId": 4,
+      "preDisplay": [
+        "FinishBuildRoom3"
+      ],
+      "unlock": [
+        "FinishBuildRoom3"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_work",
+      "picture": "area_pic_work",
+      "detailPicture": "area_detail_pic_work",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16317,
+      "dialog": 16321
+    },
+    "100403": {
+      "id": 100403,
+      "roomId": 4,
+      "preDisplay": [
+        "FinishBuildRoom3"
+      ],
+      "unlock": [
+        "FinishBuildRoom3"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100101",
+      "picture": "area_pic_100101",
+      "detailPicture": "area_detail_pic_100101",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16318,
+      "dialog": 16322
+    },
+    "100404": {
+      "id": 100404,
+      "roomId": 4,
+      "preDisplay": [
+        "FinishBuildRoom3"
+      ],
+      "unlock": [
+        "FinishBuildRoom3"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "area_icon_100102",
+      "picture": "area_pic_100102",
+      "detailPicture": "area_detail_pic_100102",
+      "reward": {
+        "90501": 1,
+        "90601": 1
+      },
+      "unlockAreaDialog": 16319,
+      "dialog": 16323
+    }
+  },
+  "Room5": {
+    "100501": {
+      "id": 100501,
+      "roomId": 5,
+      "preDisplay": [
+        "FinishBuildRoom4"
+      ],
+      "unlock": [
+        "-1"
+      ],
+      "autoUnlock": 0,
+      "capacity": 0,
+      "gooseOrderNum": 0,
+      "icon": "",
+      "picture": "",
+      "detailPicture": "",
+      "reward": {},
+      "unlockAreaDialog": 0,
+      "dialog": 0
+    }
+  }
+}

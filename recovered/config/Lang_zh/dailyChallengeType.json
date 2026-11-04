@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "dailytaskName": "合成{0}个物品"
+  },
+  "2": {
+    "id": 2,
+    "dailytaskName": "花费{0}个钻石"
+  },
+  "3": {
+    "id": 3,
+    "dailytaskName": "购买{0}个气泡"
+  },
+  "4": {
+    "id": 4,
+    "dailytaskName": "消耗{0}枚金币"
+  },
+  "5": {
+    "id": 5,
+    "dailytaskName": "合成{0}个物品"
+  },
+  "6": {
+    "id": 6,
+    "dailytaskName": "收集{0}个好评"
+  },
+  "7": {
+    "id": 7,
+    "dailytaskName": "收集{0}个好评"
+  }
+}

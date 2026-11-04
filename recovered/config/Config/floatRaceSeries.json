@@ -1,0 +1,14 @@
+{
+  "101": {
+    "gropId": "101",
+    "orderPoint": 1.05
+  },
+  "102": {
+    "gropId": "102",
+    "orderPoint": 1
+  },
+  "103": {
+    "gropId": "103",
+    "orderPoint": 0.95
+  }
+}

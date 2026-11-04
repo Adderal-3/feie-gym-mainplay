@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "hashedFiles": 4490,
+  "parsedScripts": 114,
+  "verifiedImages": 2260,
+  "registrationCount": 1571,
+  "primaryRegisteredModules": 70,
+  "sharedCoreDeclarations": 13,
+  "configTables": 913,
+  "textures": 1037,
+  "sprites": 1223,
+  "ordinaryChainPaths": 347,
+  "ordinaryChainMissing": 0,
+  "remainingOutOfScopeSpriteReferences": 12953,
+  "missingSubpackages": [
+    "miniGame",
+    "playable_tool",
+    "playable_pool",
+    "playable_drop",
+    "playable_blast",
+    "playable_infinite",
+    "playable_build",
+    "playable_build2"
+  ],
+  "runtimeVerified": false,
+  "runtimeNote": "Static recovery checks only; original game was not executed in isolation and requires its backend.",
+  "errors": []
+}

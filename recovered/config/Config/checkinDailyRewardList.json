@@ -1,0 +1,114 @@
+{
+  "checkin_reward1": {
+    "ListId": "checkin_reward1",
+    "reward": [
+      {
+        "Coin": 50
+      },
+      {
+        "Energy": 10
+      },
+      {
+        "Element_1": 0
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Coin": 80
+      },
+      {
+        "Energy": 15
+      },
+      {
+        "90901": 1
+      }
+    ],
+    "minPlayerLevel": 0,
+    "maxPlayerLevel": 15
+  },
+  "checkin_reward2": {
+    "ListId": "checkin_reward2",
+    "reward": [
+      {
+        "Diamond": 3
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "90902": 1
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Coin": 120
+      },
+      {
+        "Energy": 25
+      },
+      {
+        "90902": 1
+      }
+    ],
+    "minPlayerLevel": 16,
+    "maxPlayerLevel": 999
+  },
+  "checkin_reward3": {
+    "ListId": "checkin_reward3",
+    "reward": [
+      {
+        "Diamond": 5
+      },
+      {
+        "Energy": 30
+      },
+      {
+        "91101": 1
+      },
+      {
+        "98803": 1
+      },
+      {
+        "Coin": 200
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "91101": 1
+      }
+    ],
+    "minPlayerLevel": 16,
+    "maxPlayerLevel": 999
+  },
+  "checkin_reward4": {
+    "ListId": "checkin_reward4",
+    "reward": [
+      {
+        "Coin": 200
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "91101": 1
+      },
+      {
+        "98803": 1
+      },
+      {
+        "Diamond": 10
+      },
+      {
+        "Energy": 60
+      },
+      {
+        "91201": 1
+      }
+    ],
+    "minPlayerLevel": 16,
+    "maxPlayerLevel": 999
+  }
+}
