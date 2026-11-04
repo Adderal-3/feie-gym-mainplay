@@ -50,6 +50,8 @@ def crop_sprites(source: Path, output: Path, texture_records: list[dict], packag
     configs = list(source.rglob("config*.json"))
     if package and package.exists():
         configs += list(package.rglob("config*.json"))
+    if downloads and downloads.exists():
+        configs += list(downloads.rglob("config*.json"))
     # Cocos moves shared assets into another bundle and leaves UUID aliases.
     # Recover original paths even when the owning bundle has no path entry.
     aliases = {}
@@ -158,7 +160,9 @@ def convert(source: Path, target: Path) -> dict:
     # texture2ddecoder returns BGRA, whereas Pillow's destination mode is RGBA.
     image = Image.frombytes("RGBA", (width, height), decoded, "raw", "BGRA")
     target.parent.mkdir(parents=True, exist_ok=True)
-    image.save(target)
+    temporary = target.with_name(target.name + ".tmp")
+    image.save(temporary, format="PNG")
+    temporary.replace(target)
     return {
         "width": width, "height": height, "format": "ASTC",
         "block": [bx, by, bz], "sourceSha256": hashlib.sha256(data).hexdigest(),
@@ -199,6 +203,9 @@ def main() -> None:
         raise ValueError("output must be outside the original exported resource directory")
     output.mkdir(parents=True, exist_ok=True)
     records, errors = [], []
+    previous = output / "textures.json"
+    cached = {record["source"]: record for record in json.loads(previous.read_text(encoding="utf-8")).get("files", [])} if previous.exists() else {}
+    reused = 0
     texture_sources = [(file, file.relative_to(source)) for file in sorted(source.rglob("*.pvr"))]
     if args.packages.exists():
         texture_sources += [(file, Path("packages") / file.relative_to(args.packages)) for file in sorted(args.packages.rglob("*.pvr"))]
@@ -207,16 +214,24 @@ def main() -> None:
     for file, relative in texture_sources:
         png = relative.with_suffix(".png")
         try:
-            record = convert(file, output / png)
+            prior = cached.get(relative.as_posix())
+            destination = output / png
+            if prior and prior.get("png") == png.as_posix() and destination.exists() and hashlib.sha256(file.read_bytes()).hexdigest() == prior.get("sourceSha256") and hashlib.sha256(destination.read_bytes()).hexdigest() == prior.get("pngSha256"):
+                record = prior
+                reused += 1
+            else:
+                record = convert(file, destination)
             records.append({"source": relative.as_posix(), "png": png.as_posix(), **record})
         except Exception as error:
             errors.append({"source": relative.as_posix(), "error": str(error)})
     manifest = {"format": "ASTC decoded to RGBA PNG; orientation unchanged", "converted": len(records), "failed": len(errors), "files": records, "errors": errors}
-    (output / "textures.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    temporary_manifest = output / "textures.json.tmp"
+    temporary_manifest.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    temporary_manifest.replace(output / "textures.json")
     if args.contact_sheets and records:
         contact_sheet(records, output)
     sprite_summary = crop_sprites(source, output, records, args.packages, args.downloads) if args.sprites else {}
-    print(json.dumps({"converted": len(records), "failed": len(errors), "output": str(output), **sprite_summary}, ensure_ascii=False))
+    print(json.dumps({"converted": len(records), "reused": reused, "failed": len(errors), "output": str(output), **sprite_summary}, ensure_ascii=False))
     if errors:
         raise SystemExit(1)
 

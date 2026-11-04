@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "source": "client/subpackages/main/game.js",
+  "sha256": "faff18cba45e0fe7a2a37db48c276d773846b8fb7a4e5500cc931f3f746dc2a2",
+  "utf16Length": 11103901,
+  "insertionOffset": 11103857,
+  "method": "Acorn statically locates the final body brace of the original outer gameplay closure. Runtime verifies the entire source SHA-256 before inserting bridge exports."
+}

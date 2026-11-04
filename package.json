@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Local cached client code and asset recovery for analysis",
+  "description": "Recovered original Cocos client with local runtime and settlement adaptation",
   "scripts": {
     "analyze": "node tools/analyze-bundles.mjs",
     "verify": "node tools/verify-recovery.mjs",
-    "preview": "node tools/preview-server.mjs"
+    "preview": "node tools/preview-server.mjs",
+    "start": "node tools/original-server.mjs",
+    "play": "node tools/launch-original.mjs",
+    "test:original": "node --test tests/original-backend.test.mjs tests/original-server.test.mjs"
   },
   "devDependencies": {
     "acorn": "^8.15.0",

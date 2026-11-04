@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "scope": "Original cached mainplay, ordinary A-I item prefabs, full original TC animation enum, original loading/tips, HUD, guide and voices, all declared Texture/Npc poses across restored bundles, transitions, core build windows, initial room geometry and default furnishings",
+  "animationEnumCount": 167,
+  "missingAnimationPaths": [],
+  "seeds": 2171,
+  "assetDefinitions": 4087,
+  "nativeDefinitions": 1733,
+  "verifiedNativeFiles": 1733,
+  "verifiedDecodedPngs": 1554,
+  "missingNative": 0,
+  "unresolvedReferences": 0,
+  "textureCount": 1908,
+  "spriteCount": 2110,
+  "issues": []
+}
