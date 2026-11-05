@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "source": "built-in image_gen",
+  "description": "New 2D chibi artwork generated from the user-provided style reference; not official original game sprites.",
+  "reference": "user-provided chibi screenshot",
+  "referenceSha256": "8944a15c3b3af93bfd0cc062542768c2d2804b1b4a89057db078b6fe83be4bd4",
+  "promptDocument": "docs/TAILOR_ART_PROMPTS.md",
+  "assets": [
+    {
+      "file": "tailor/assets/chibi/workshop.png",
+      "src": "/tailor/assets/chibi/workshop.png",
+      "title": "见微衣坊 · 木屋内景",
+      "role": "scene",
+      "source": "built-in image_gen",
+      "tool": "built-in image_gen",
+      "reference": "user-provided chibi screenshot",
+      "referenceSha256": "8944a15c3b3af93bfd0cc062542768c2d2804b1b4a89057db078b6fe83be4bd4",
+      "promptDocument": "docs/TAILOR_ART_PROMPTS.md",
+      "originalDimensions": {
+        "width": 1086,
+        "height": 1448
+      },
+      "bytes": 2179666,
+      "sha256": "6e6f9c31fc65c78581476e0baf9e09a8ee9aca99cf8f8b72f3a056a7cfcc959d",
+      "transform": "none"
+    },
+    {
+      "file": "tailor/assets/chibi/characters.png",
+      "src": "/tailor/assets/chibi/characters.png",
+      "title": "六位衣坊人物 · 3×2图集",
+      "role": "characterAtlas",
+      "source": "built-in image_gen",
+      "tool": "built-in image_gen",
+      "reference": "user-provided chibi screenshot",
+      "referenceSha256": "8944a15c3b3af93bfd0cc062542768c2d2804b1b4a89057db078b6fe83be4bd4",
+      "promptDocument": "docs/TAILOR_ART_PROMPTS.md",
+      "originalDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "bytes": 1701441,
+      "sha256": "88b43177201e18263c68f5b05fd38cfe27d81092a3a44dd66c39e9477196fea7",
+      "transform": "none"
+    },
+    {
+      "file": "tailor/assets/chibi/items.png",
+      "src": "/tailor/assets/chibi/items.png",
+      "title": "三十六件制衣道具 · 6×6图集",
+      "role": "itemAtlas",
+      "source": "built-in image_gen",
+      "tool": "built-in image_gen",
+      "reference": "user-provided chibi screenshot",
+      "referenceSha256": "8944a15c3b3af93bfd0cc062542768c2d2804b1b4a89057db078b6fe83be4bd4",
+      "promptDocument": "docs/TAILOR_ART_PROMPTS.md",
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 1837800,
+      "sha256": "5ef75e8b8e50220eb260dd477a948c171671eae257f0ada910c18cf220dc01cf",
+      "transform": "none"
+    },
+    {
+      "file": "tailor/assets/chibi/workshop-opening.png",
+      "src": "/tailor/assets/chibi/workshop-opening.png",
+      "title": "见微衣坊 · 修缮前雨夜旧坊",
+      "role": "openingScene",
+      "source": "built-in image_gen",
+      "tool": "built-in image_gen",
+      "reference": "user-provided chibi screenshot",
+      "referenceSha256": "8944a15c3b3af93bfd0cc062542768c2d2804b1b4a89057db078b6fe83be4bd4",
+      "promptDocument": "docs/TAILOR_ART_PROMPTS.md",
+      "originalDimensions": {
+        "width": 1086,
+        "height": 1448
+      },
+      "bytes": 2236095,
+      "sha256": "172b68afabc755ec7980b0ea9432d01c13cfba675337033b7223d4efdf967bfa",
+      "transform": "none"
+    }
+  ]
+}

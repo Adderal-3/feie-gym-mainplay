@@ -30,7 +30,7 @@ before(async () => {
     child.stderr.on('data', chunk => { log += chunk; });
     child.stdout.on('data', chunk => {
       log += chunk;
-      if (log.includes('Original local client harness:')) { clearTimeout(timer); resolve(); }
+      if (log.includes('Local game server ready:')) { clearTimeout(timer); resolve(); }
     });
   });
 });
@@ -44,7 +44,7 @@ after(async () => {
 });
 
 test('original entry and scripts are local and enforce a self-only connection policy', async () => {
-  const entry = await fetch(origin + '/');
+  const entry = await fetch(origin + '/original/');
   assert.equal(entry.status, 200);
   assert.match(entry.headers.get('content-security-policy'), /connect-src 'self'(?:;|$)/);
   assert.match(entry.headers.get('content-security-policy'), /script-src 'self'/);

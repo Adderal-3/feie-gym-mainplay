@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "direction": "用户提供的逆水寒游历聊天室参考：2D豆豆眼、大头短身、清楚描边、暖木内景。",
+  "scene": "/tailor/assets/chibi/workshop.png",
+  "nightScene": "/tailor/assets/chibi/workshop-opening.png",
+  "itemAtlas": {
+    "src": "/tailor/assets/chibi/items.png",
+    "columns": 6,
+    "rows": 6
+  },
+  "characterAtlas": {
+    "src": "/tailor/assets/chibi/characters.png",
+    "columns": 3,
+    "rows": 2
+  },
+  "itemSprites": {
+    "toolbox": [0, 0, 1, 1],
+    "fabric": [6, 7, 8, 9, 10],
+    "accessory": [17, 16, 21],
+    "spinning": [3],
+    "thread": [11],
+    "button": [15],
+    "tassel": [16],
+    "dyevat": [4],
+    "dye": [4],
+    "herb": [26],
+    "embroideryframe": [5],
+    "sewing": [12, 13, 14],
+    "embroidery": [5, 10],
+    "cutting": [1],
+    "garment": [18, 19],
+    "robe": [19],
+    "apron": [20],
+    "dress": [21],
+    "ceremony": [21],
+    "loom": [2],
+    "patternfabric": [9, 10],
+    "pouch": [17],
+    "belt": [16],
+    "cape": [22],
+    "shoe": [23],
+    "timber": [24],
+    "lantern": [25],
+    "plant": [26],
+    "furnishing": [24, 25],
+    "tea": [32],
+    "chest": [35],
+    "travel": [22],
+    "wrap": [7, 9],
+    "patternbook": [33],
+    "letter": [34],
+    "jade": [31],
+    "collection": [33],
+    "basket": [35],
+    "padding": [6, 7, 7],
+    "rope": [27],
+    "roof": [28, 29],
+    "coin": [30],
+    "jadecoin": [31],
+    "reputation": [33],
+    "voucher": [34],
+    "energy": [32],
+    "diamond": [31],
+    "star": [34]
+  },
+  "itemOverrides": {
+    "11011": 6,
+    "11012": 7,
+    "11013": 7,
+    "11014": 27,
+    "11015": 27,
+    "11016": 27,
+    "11017": 28,
+    "11018": 29
+  },
+  "characterSprites": {
+    "keeper": 0,
+    "aheng": 2,
+    "weizhou": 3,
+    "master": 4,
+    "aunt": 4,
+    "lan": 1,
+    "qinghe": 1,
+    "yun": 5
+  },
+  "characters": [
+    {
+      "sprite": 0,
+      "label": "青衣掌柜",
+      "unlockBuilds": 0
+    },
+    {
+      "sprite": 1,
+      "label": "月白行装",
+      "unlockBuilds": 0
+    },
+    {
+      "sprite": 2,
+      "label": "青芷春衣",
+      "unlockBuilds": 3
+    },
+    {
+      "sprite": 3,
+      "label": "渡口短衣",
+      "unlockBuilds": 0
+    },
+    {
+      "sprite": 4,
+      "label": "旧坊手艺",
+      "unlockBuilds": 3
+    },
+    {
+      "sprite": 5,
+      "label": "桃枝学徒",
+      "unlockBuilds": 6
+    }
+  ]
+}

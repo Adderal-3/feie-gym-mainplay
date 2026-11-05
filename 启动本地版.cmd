@@ -1,5 +1,6 @@
 @echo off
 chcp 65001 >nul
+title 江湖布坊 · 本地游戏
 cd /d "%~dp0"
 where node >nul 2>nul
 if errorlevel 1 (

@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Recovered original Cocos client with local runtime and settlement adaptation",
+  "description": "江湖布坊：宋韵江湖服装坊本地经营游戏，附原客户端行为参考归档",
   "scripts": {
     "analyze": "node tools/analyze-bundles.mjs",
     "verify": "node tools/verify-recovery.mjs",
     "preview": "node tools/preview-server.mjs",
     "start": "node tools/original-server.mjs",
     "play": "node tools/launch-original.mjs",
-    "test:original": "node --test tests/original-*.test.mjs"
+    "test:original": "node --test tests/original-*.test.mjs",
+    "test:tailor": "node --test tests/tailor-*.test.mjs"
   },
   "devDependencies": {
     "acorn": "^8.15.0",

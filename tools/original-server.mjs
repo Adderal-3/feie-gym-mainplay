@@ -54,7 +54,7 @@ function refreshNativeFallbacks() {
   }
   for(const p of sources)manifestVersions.set(p,fs.statSync(path.join(root,p)).mtimeMs);
 }
-const mime = {'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.ttf':'font/ttf','.mp3':'audio/mpeg','.wav':'audio/wav','.ogg':'audio/ogg','.m4a':'audio/mp4','.bin':'application/octet-stream','.pvr':'application/octet-stream'};
+const mime = {'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.svg':'image/svg+xml','.ttf':'font/ttf','.woff2':'font/woff2','.mp3':'audio/mpeg','.wav':'audio/wav','.ogg':'audio/ogg','.m4a':'audio/mp4','.bin':'application/octet-stream','.pvr':'application/octet-stream'};
 const safe = relative => {
   if (relative.includes('\0') || relative.replaceAll('\\','/').split('/').some(s => s === '..' || s.startsWith('.'))) return null;
   const result = path.resolve(root, relative.replace(/^\/+/, ''));
@@ -63,6 +63,7 @@ const safe = relative => {
 const file = candidates => candidates.map(safe).find(p => p && fs.existsSync(p) && fs.statSync(p).isFile());
 function resourcePath(url) {
   let pathname = url;
+  if (pathname.startsWith('/tailor/')) return file([pathname]);
   if (pathname.startsWith('/decoded/')) {
     pathname = pathname.slice('/decoded'.length).replace(/\.pvr$/i, '.png');
     if (pathname.startsWith('/remote/')) return file(['recovered/previews/asset'+pathname]);
@@ -91,8 +92,12 @@ http.createServer((req, res) => {
   try {
     const url = new URL(req.url, 'http://127.0.0.1');
     let pathname = decodeURIComponent(url.pathname);
-    if (pathname === '/') pathname = '/original/index.html';
+    if (pathname === '/' || pathname === '/tailor' || pathname === '/tailor/') pathname = '/tailor/index.html';
+    if (pathname === '/original' || pathname === '/original/') pathname = '/original/index.html';
     const headers = {'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; connect-src 'self'; img-src 'self' data: blob:; media-src 'self' data: blob:; font-src 'self' data:; style-src 'self' 'unsafe-inline'; worker-src 'self' blob:"};
+    if (pathname === '/__app') {
+      res.writeHead(200, {...headers,'Content-Type':mime['.json']});res.end(JSON.stringify({application:'jianghu-bufang',version:1,entry:'/',originalEntry:'/original/'}));return;
+    }
     if (pathname === '/original/instrumented-game.js') {
       res.writeHead(200, {...headers,'Content-Type':mime['.js']}); res.end(instrumented); return;
     }
@@ -117,4 +122,4 @@ http.createServer((req, res) => {
     res.writeHead(200,{...headers,'Content-Type':mime[path.extname(target).toLowerCase()]||'application/octet-stream'});
     fs.createReadStream(target).pipe(res);
   } catch(e) {res.writeHead(500,{'Content-Type':'text/plain'});res.end(String(e.message));}
-}).listen(port,'127.0.0.1',()=>console.log(`Original local client harness: http://127.0.0.1:${port}/?debug=1`));
+}).listen(port,'127.0.0.1',()=>console.log(`Local game server ready: http://127.0.0.1:${port}/ (江湖布坊; 原版归档 /original/)`));
