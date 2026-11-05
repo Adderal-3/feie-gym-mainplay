@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { parse } from 'acorn';
 const root=path.resolve(import.meta.dirname,'..');
 const json=async p=>JSON.parse(await fs.readFile(p,'utf8'));
 async function files(dir){const out=[];for(const d of await fs.readdir(dir,{withFileTypes:true})){const p=path.join(dir,d.name);if(d.isDirectory())out.push(...await files(p));else out.push(p);}return out;}
@@ -11,20 +12,36 @@ function uuid(s){
   return out.slice(0,8)+'-'+out.slice(8,12)+'-'+out.slice(12,16)+'-'+out.slice(16,20)+'-'+out.slice(20);
 }
 const roots=[path.join(root,'recovered/remote/asset/remote'),path.join(root,'client/assets'),path.join(root,'client/subpackages'),path.join(root,'recovered/downloads/asset/remote')];
+const referenceArg=process.argv.find(arg=>arg.startsWith('--reference='));
+const reference=referenceArg&&path.resolve(root,referenceArg.slice('--reference='.length));
+let activeVersions=null;
+if(reference){
+  const ast=parse(await fs.readFile(path.join(reference,'client/src/settings.js'),'utf8'),{ecmaVersion:'latest'});
+  const settings=ast.body.find(statement=>statement.expression?.type==='AssignmentExpression')?.expression.right;
+  const versions=settings?.properties.find(property=>property.key.name==='bundleVers')?.value;
+  if(versions?.type!=='ObjectExpression')throw new Error('Missing reference bundle versions');
+  activeVersions=Object.fromEntries(versions.properties.map(property=>[property.key.name??property.key.value,property.value.value]));
+  roots.unshift(path.join(reference,'remote/asset/remote'),path.join(reference,'client/assets'),path.join(reference,'client/subpackages'));
+}
 const allFiles=(await Promise.all(roots.map(files))).flat();
-const configs=allFiles.filter(p=>/config\.[^.]+\.json$/.test(p));
+let configs=allFiles.filter(p=>/config\.[^.]+\.json$/.test(p));
+if(activeVersions){const chosen=new Map();for(const file of configs){const c=await json(file);if(path.basename(file)==='config.'+activeVersions[c.name]+'.json'&&!chosen.has(c.name))chosen.set(c.name,file);}configs=[...chosen.values()];}
+const importFiles=new Map();
+for(const file of allFiles){const match=/\/([^/]+)\/import\/[^/]+\/([^/]+)$/.exec(file.replaceAll('\\','/'));if(match)importFiles.set(match[1]+':'+match[2],file);}
 const assets=[],byUuid=new Map(),byPath=new Map(),byAssetPath=new Map(),nativeFiles=new Map();
 const diskFiles=[...new Set([...allFiles,...await files(path.join(root,'recovered/downloads'))])];
 for(const file of diskFiles){const p=file.replaceAll('\\','/');const match=/\/native\/[^/]+\/([^/]+)/.exec(p);if(match){const u=match[1].split('.')[0];if(!nativeFiles.has(u))nativeFiles.set(u,[]);nativeFiles.get(u).push(path.relative(root,file).replaceAll('\\','/'));}}
 for(const cf of configs){
-  const c=await json(cf),dir=path.dirname(cf),versions=new Map();
+  const c=await json(cf),dir=path.dirname(cf),versions=new Map(),importVersions=new Map();
   for(let i=0;i<(c.versions?.native||[]).length;i+=2)versions.set(String(c.versions.native[i]),c.versions.native[i+1]);
+  for(let i=0;i<(c.versions?.import||[]).length;i+=2)importVersions.set(String(c.versions.import[i]),c.versions.import[i+1]);
   const packData=new Map();
   for(const [pack,indexes]of Object.entries(c.packs||{})){
-    const candidates=(await files(path.join(dir,'import')).catch(()=>[])).filter(p=>path.basename(p).startsWith(pack+'.'));
-    if(candidates[0]){const data=await json(candidates[0]);if(data.length===6&&Array.isArray(data[5]))for(let n=0;n<indexes.length;n++)packData.set(String(indexes[n]),{section:data[5][n],shared:data[1],classes:data[3],masks:data[4]});}
+    const file=importFiles.get(c.name+':'+pack+'.'+importVersions.get(pack)+'.json');
+    if(file){const data=await json(file);if(data.length===6&&Array.isArray(data[5]))for(let n=0;n<indexes.length;n++)packData.set(String(indexes[n]),{section:data[5][n],shared:data[1],classes:data[3],masks:data[4]});else if(data.type==='cc.Texture2D'&&typeof data.data==='string'){const entries=data.data.split('|');if(entries.length!==indexes.length)throw new Error('Original texture pack length mismatch');for(let n=0;n<indexes.length;n++)packData.set(String(indexes[n]),{textureMeta:entries[n]});}}
   }
   for(let index=0;index<c.uuids.length;index++){
+    if(!packData.has(String(index))){const version=importVersions.get(String(index)),file=version&&importFiles.get(c.name+':'+uuid(c.uuids[index])+'.'+version+'.json');if(file){const data=await json(file);if(data.length===11)packData.set(String(index),{section:data.slice(5),shared:data[1],classes:data[3],masks:data[4]});}}
     const id=uuid(c.uuids[index]),meta=c.paths?.[index],record=packData.get(String(index)),section=record?.section;
     const nativeVersion=versions.get(String(index))??versions.get(String(c.uuids[index]));
     let inferred='';
@@ -32,20 +49,31 @@ for(const cf of configs){
     const type=meta?c.types[meta[1]]:inferred;
     const originalNative=Array.isArray(section?.[0]?.[0])?section[0][0].find(v=>typeof v==='string'&&/^\.(?:mp3|wav|ogg|m4a|bin|ttf|atlas|fnt|txt|json)$/.test(v)):null;
     const nativeExt=originalNative||(type==='cc.Texture2D'?'.pvr':type==='sp.SkeletonData'||type==='cc.BufferAsset'?'.bin':type==='cc.AudioClip'?'.mp3':type==='cc.TTFFont'?'.ttf':'');
-    const a={bundle:c.name,index,uuid:id,path:meta?.[0]||'',type,nativeExt,config:path.relative(root,cf).replaceAll('\\','/'),nativeVersion,dependencies:section&&Array.isArray(section[5])?[...new Set(section[5].map(i=>uuid(record.shared[i])))].filter(Boolean):[],hasSection:!!section};
+    const a={bundle:c.name,index,uuid:id,path:meta?.[0]||'',type,nativeExt,config:path.relative(root,cf).replaceAll('\\','/'),nativeVersion,dependencies:section&&Array.isArray(section[5])?[...new Set(section[5].map(i=>uuid(record.shared[i])))].filter(Boolean):[],hasSection:!!section||typeof record?.textureMeta==='string',importFormat:record?.textureMeta?'cc.Texture2D-pack':undefined};
     a.hasNative=!!nativeVersion||!!(section&&typeof section[0]?.at(-1)==='number'&&section[0].at(-1)<0);
-    a.nativeFiles=nativeFiles.get(id)||[];
+    a.nativeFiles=(nativeFiles.get(id)||[]).filter(file=>!nativeVersion||file.includes('.'+nativeVersion+'.'));
     assets.push(a);if(!byUuid.has(id)||(!byUuid.get(id).hasSection&&a.hasSection))byUuid.set(id,a);
     if(a.path){byPath.set(c.name+':'+a.path,a);const paths=byAssetPath.get(a.path)||[];if(!paths.some(x=>x.uuid===a.uuid))paths.push(a);byAssetPath.set(a.path,paths);}
   }
 }
 const seedNames=['Prefab/UI/Merge/MergeScreen','Prefab/UI/Home/HomeScreen','Prefab/UI/Home/MainUi','Prefab/Merge/Board/MergeCell','Prefab/UI/Merge/orderItem','Prefab/UI/Merge/orderListItem','Prefab/UI/Merge/channelItem','Prefab/UI/Merge/OrderDrawerWindow'];
 seedNames.push('Prefab/UI/Home/SwitchWindow','Prefab/UI/LevelGift/LevelGiftWindow','Prefab/UI/Merge/ClosetWindow','Prefab/UI/Merge/ElementDetailWindow','Prefab/UI/Home/EnergyWindow','Prefab/UI/Home/LevelUpWindow','Prefab/UI/Home/LevelUpRewardWindow','Prefab/UI/Merge/OrderDrawerDetailWindow','Prefab/UI/Merge/OrderDrawerUnlockWindow');
+// First Board_14 -> Build1_13 chain invokes AF.processShowFirstMerge(1005,1004).
+// This window is dynamically opened by FirstMergeUtil, not by the board prefab.
+seedNames.push('Prefab/UI/FirstMerge/FirstMergeWindow');
+// ComplexFlyer._registItemUrl dynamically loads currency/reward fly prefabs.
+// Build completion awaits these effects before the level-up presentation.
+seedNames.push('Prefab/UI/Home/jinbi','Prefab/UI/Home/zuanshi','Prefab/UI/Home/tili','Prefab/UI/Home/star','Sound/getItem');
+// Shop_13 opens ShopWindow(1009); its content and previews are dynamic windows.
+seedNames.push('Prefab/UI/Shop/ShopWindow','Prefab/UI/Shop/GoodsPreviewWindow','Prefab/UI/Shop/RefreshWindow','Prefab/UI/Shop/shopCountItem','Prefab/UI/Shop/OrderTips','Prefab/UI/Shop/ShopExtraBubble','Prefab/UI/Shop/ShopExtraPointBubble','Texture/UI/Shop/ui_title_shop','Texture/UI/Shop/ui_title_shop_bg');
 seedNames.push('Prefab/Map/mainMap','Prefab/Map/streetMap','Prefab/UI/Build/BuildEditEnter','Prefab/LoadingMini/BuildLoad','Texture/Bg/ui_bg_Switch','Texture/Bg/ui_bg_SwitchHome');
 seedNames.push('Prefab/UI/Build/BuildDetailsWindow');
 seedNames.push('Prefab/UI/Build/AdornWindow','Prefab/UI/Build/BuildEdit','Prefab/UI/Build/BuildWindow','Prefab/UI/Home/TaskBtn','Prefab/UI/Build/AdornGetWindow','Prefab/UI/Build/AreaFinishWindow','Prefab/UI/Build/AreaDetailsWindow','Prefab/UI/Build/BuildStar','Prefab/UI/Build/BuildStepProgress','Prefab/UI/Build/Tile','Prefab/UI/Build/QualityHud','Prefab/UI/Build/newDay');
 seedNames.push('Texture/Npc/npc_goose_01');
 seedNames.push('Spine/Player/player2','Texture/Head/icon_tx_02','Texture/Headbox/pi_txk_01');
+// Standard new-player story: DialogueGroup 991/992 -> PlayableBoard_14, Board9000.
+seedNames.push('Prefab/Merge/MergePlayableWindow','Spine/UiSpine/fanghuoe','Sound/gym_fire','Sound/water_to_fire');
+for(const a of assets)if(/^Prefab\/Element\/Scene_[12]\/\d+$/.test(a.path))seedNames.push(a.path);
 const animationNames=['Cover1','Cover2','Cover3','Cover4','CoverEnd1','CoverEnd2','CoverEnd3','CoverEnd4','Lock','Selected','SelectedNot','SelectedOrder','SelectedTimeOrder','CanMerge','ManuCreator','ManuCreatorEnergy','AutoCreator','AutoCreatorEnergy','GetEnergy','Putin','Merge1','Merge2','Merge3','Merge4','MergeEnd','MergeComplete','ElementMerge','ElementDisappear','Disappear','Bubble','BubbleEnd','BubbleUnlock','Order','ClickTips','BagTips','ClockDisappear','ManuOpen','ManuOpened','SpeedUp','SuperSpeedUp','ChestLockTips','PutBagEnd','GetBagEnd'];
 seedNames.push(...animationNames.map(n=>'Prefab/layerAnim/'+n+'Anim'),'Prefab/NewElement/element','Prefab/NewElement/element_ready','Prefab/NewElement/element_finish');
 seedNames.push('Prefab/Common/Loading','Common/UI/alertDefault','Common/UI/toastDefault','Common/UI/weakNetDefault','Common/UI/ItemTipsDefault','Common/UI/PopDefault');
@@ -68,9 +96,25 @@ for(const a of assets)if(a.path.startsWith('Prefab/UI/Merge/OrderExtraReward/'))
 // Main-story dialogue dynamically chooses NPC poses; include every declared pose
 // across restored original bundles so subsequent dialogue does not miss an alias.
 for(const a of assets)if(a.path.startsWith('Texture/Npc/'))seedNames.push(a.path);
+// Home selects these by the local clock; they are dynamic runtime requests.
+for(const a of assets)if(a.path.startsWith('Texture/Map/daynight/'))seedNames.push(a.path);
 // Broken initial room pieces and default first-room furnishing are selected from original config.
 for(const a of assets)if(/^Prefab\/Map\/area01\/\d{4}00(?:_effect)?$/.test(a.path))seedNames.push(a.path);
 const skinGroups=await json(path.join(root,'recovered/config/Config/AdronSkin.json'));
+const mainAdorns=(await json(path.join(root,'recovered/config/Config/Adron.json'))).Main;
+const chapterAdorns=new Set(Object.values(mainAdorns).filter(adorn=>adorn.area===1).map(adorn=>adorn.id));
+const dynamicSkinSeeds=[];
+const ordinaryChapterSkins=Object.values(skinGroups.all||{}).filter(skin=>chapterAdorns.has(skin.adornId)&&!skin.actType&&!(skin.skinPackage?.length));
+function addSkinSeed(assetPath,skinId,field){seedNames.push(assetPath);dynamicSkinSeeds.push({assetPath,skinId,source:'Config/AdronSkin.all',field});}
+// First-area standard decoration screens show ordinary skin thumbnails dynamically.
+// Floor/wall entries live outside area01 and are also used by default build previews.
+for(const skin of ordinaryChapterSkins){
+  if(skin.icon)addSkinSeed('Texture/Map/'+skin.icon,skin.id,'icon');
+  if(skin.prefab&&(skin.isDefault||skin.prefab.startsWith('floorandwall/'))){
+    addSkinSeed('Prefab/Map/'+skin.prefab,skin.id,'prefab');
+    if(byAssetPath.has('Prefab/Map/'+skin.prefab+'_effect'))addSkinSeed('Prefab/Map/'+skin.prefab+'_effect',skin.id,'prefab_effect');
+  }
+}
 for(const group of Object.values(skinGroups))for(const skin of Object.values(group))if(skin.isDefault&&skin.prefab?.startsWith('area01/')){
   seedNames.push('Prefab/Map/'+skin.prefab,'Prefab/Map/'+skin.prefab+'_effect');
   if(skin.icon)seedNames.push('Texture/Map/'+skin.icon);
@@ -95,6 +139,6 @@ for(const id of extra)if(byUuid.has(id))rootMap.set(id,byUuid.get(id));
 const rootsFound=[...rootMap.values()],visited=new Map(),queue=[...rootsFound],unresolved=[];
 while(queue.length){const seed=queue.pop(),a=byUuid.get(seed.uuid)||seed;if(visited.has(a.uuid))continue;visited.set(a.uuid,a);for(const dependency of a.dependencies){if(byUuid.has(dependency))queue.push(byUuid.get(dependency));else unresolved.push({source:a.path||a.uuid,dependency});}}
 const native=[...visited.values()].filter(a=>a.hasNative),missing=native.filter(a=>!a.nativeFiles.length);
-const result={method:'Independent static dependency reader based on Cocos compiled JSON section[5] UUID indices; no recovered script execution',animationEnumCount:allAnimationNames.length,missingAnimationPaths:allAnimationPaths.filter(p=>!byAssetPath.has(p)),seeds:rootsFound.map(a=>({path:a.path,uuid:a.uuid})),assets:[...visited.values()],nativeCount:native.length,missingNative:missing,unresolvedDependencies:unresolved};
+const result={method:'Independent static dependency reader based on Cocos compiled JSON section[5] UUID indices; no recovered script execution',referenceSnapshot:reference?path.relative(root,reference).replaceAll('\\','/'):undefined,bundleVersions:activeVersions||undefined,firstAreaDecorations:{adornIds:[...chapterAdorns],ordinarySkinCount:ordinaryChapterSkins.length,uniqueIcons:new Set(dynamicSkinSeeds.filter(s=>s.field==='icon').map(s=>s.assetPath)).size,defaultPrefabCount:ordinaryChapterSkins.filter(s=>s.isDefault).length,scope:'Area1 ordinary skin thumbnails, all default furniture and ordinary floorandwall previews; actType and skinPackage entries excluded; later areas not included'},undeclaredDynamicSeeds:dynamicSkinSeeds.filter(seed=>!byAssetPath.has(seed.assetPath)),animationEnumCount:allAnimationNames.length,missingAnimationPaths:allAnimationPaths.filter(p=>!byAssetPath.has(p)),seeds:rootsFound.map(a=>({path:a.path,uuid:a.uuid})),assets:[...visited.values()],nativeCount:native.length,missingNative:missing,unresolvedDependencies:unresolved};
 await fs.writeFile(path.join(root,'docs/original-mainplay-dependencies.json'),JSON.stringify(result,null,2)+'\n');
 console.log(JSON.stringify({animationEnumCount:result.animationEnumCount,missingAnimationPaths:result.missingAnimationPaths,seeds:rootsFound.length,assets:visited.size,native:native.length,missingNative:missing.length,missingByType:Object.fromEntries([...new Set(missing.map(a=>a.type))].map(t=>[t,missing.filter(a=>a.type===t).length])),unresolved:unresolved.length,examples:missing.slice(0,12).map(a=>({bundle:a.bundle,path:a.path,type:a.type,uuid:a.uuid,version:a.nativeVersion}))},null,2));

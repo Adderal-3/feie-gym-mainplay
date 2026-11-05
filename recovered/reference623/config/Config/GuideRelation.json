@@ -1,0 +1,346 @@
+{
+  "Board": {
+    "id": "Board",
+    "unlock": [
+      "CreateVersionDefault"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Build": {
+    "id": "Build",
+    "unlock": [
+      "CreateVersionDefault"
+    ],
+    "need": [
+      "Board"
+    ],
+    "trigger": "orderId:10003/20001",
+    "param": "10003/20001",
+    "notSkip": 0
+  },
+  "Buy": {
+    "id": "Buy",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Skin": {
+    "id": "Skin",
+    "unlock": [
+      "CreateVersionDefault"
+    ],
+    "need": [
+      "Build"
+    ],
+    "trigger": "buildId:10007",
+    "param": "10007-1007-100702",
+    "notSkip": 0
+  },
+  "Bag": {
+    "id": "Bag",
+    "unlock": [
+      "CreateVersionDefault"
+    ],
+    "need": [
+      "Board",
+      "Build"
+    ],
+    "trigger": "elementId:99901",
+    "param": "99901",
+    "notSkip": 0
+  },
+  "Dlc": {
+    "id": "Dlc",
+    "unlock": [
+      "CreateVersionDefault"
+    ],
+    "need": [
+      "Board",
+      "Build"
+    ],
+    "trigger": "orderId:101",
+    "param": "101",
+    "notSkip": 0
+  },
+  "DailyTask": {
+    "id": "DailyTask",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "FirstActivity": {
+    "id": "FirstActivity",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "GooseCard": {
+    "id": "GooseCard",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "cauldron": {
+    "id": "cauldron",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "STActivity": {
+    "id": "STActivity",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Gog": {
+    "id": "Gog",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "GogBubble": {
+    "id": "GogBubble",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Monopoly": {
+    "id": "Monopoly",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Monopoly2": {
+    "id": "Monopoly2",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "SeasonCardEnter": {
+    "id": "SeasonCardEnter",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "SeasonCardPack": {
+    "id": "SeasonCardPack",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "SeasonCardGolden": {
+    "id": "SeasonCardGolden",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "PinballGuide1": {
+    "id": "PinballGuide1",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "PinballGuide2": {
+    "id": "PinballGuide2",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "House": {
+    "id": "House",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 1
+  },
+  "Board_13": {
+    "id": "Board_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Build1_13": {
+    "id": "Build1_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [
+      "Board"
+    ],
+    "trigger": "orderId:1002",
+    "param": "",
+    "notSkip": 0
+  },
+  "Shop_13": {
+    "id": "Shop_13",
+    "unlock": [
+      "CreateVersionGte13",
+      "PlayerLevel3"
+    ],
+    "need": [
+      "Build1"
+    ],
+    "trigger": "level:3",
+    "param": "",
+    "notSkip": 0
+  },
+  "Build2_13": {
+    "id": "Build2_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "elementId:2001",
+    "param": "",
+    "notSkip": 0
+  },
+  "Generator_13": {
+    "id": "Generator_13",
+    "unlock": [
+      "CreateVersionGte13",
+      "PlayerLevel4"
+    ],
+    "need": [
+      "Build2"
+    ],
+    "trigger": "elementId:2004",
+    "param": "",
+    "notSkip": 0
+  },
+  "Bag_13": {
+    "id": "Bag_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "elementId:99901",
+    "param": "",
+    "notSkip": 0
+  },
+  "Bubble_13": {
+    "id": "Bubble_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "Hourglass_13": {
+    "id": "Hourglass_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "series:Prop_10/Prop_12",
+    "param": "2111",
+    "notSkip": 0
+  },
+  "BlackPack_13": {
+    "id": "BlackPack_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "elementId:90501/90502/90601/90602",
+    "param": "",
+    "notSkip": 0
+  },
+  "Charger_13": {
+    "id": "Charger_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "series:Prop_2",
+    "param": "",
+    "notSkip": 0
+  },
+  "AQiu_13": {
+    "id": "AQiu_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "level:9",
+    "param": "",
+    "notSkip": 0
+  },
+  "NoEnergy_13": {
+    "id": "NoEnergy_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "StoreElement": {
+    "id": "StoreElement",
+    "unlock": [],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "SkipCd_13": {
+    "id": "SkipCd_13",
+    "unlock": [
+      "CreateVersionGte13"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  },
+  "PlayableBoard_14": {
+    "id": "PlayableBoard_14",
+    "unlock": [
+      "CreateVersionGte14"
+    ],
+    "need": [],
+    "trigger": "",
+    "param": "",
+    "notSkip": 0
+  }
+}

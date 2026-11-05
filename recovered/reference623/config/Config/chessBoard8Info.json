@@ -1,0 +1,60 @@
+{
+  "basketball": {
+    "id": "basketball",
+    "unlockEntrance": 15,
+    "board": 70,
+    "boardId": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "task": [
+      101,
+      201,
+      301,
+      401
+    ],
+    "unlockShop": 27014,
+    "eventEnergyID": 94,
+    "shopSeries": 1034,
+    "shopSpecialOffer": [
+      25001,
+      25002,
+      25003,
+      25004,
+      25005,
+      25006,
+      25007
+    ],
+    "robotRankName": [
+      "basketball1",
+      "basketball2",
+      "basketball3",
+      "basketball4"
+    ],
+    "playerExpectRank": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "playerExpectConsume": [
+      190,
+      202,
+      177,
+      151
+    ],
+    "expectCost": [
+      190,
+      202,
+      177,
+      151
+    ],
+    "boardAnim": "lanqiurukou",
+    "taskgoose": "fensheUI",
+    "resourceFolder": "250719",
+    "rankGoose": "TimeOrderlaladui",
+    "waterId": "999031"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "volcano1": {
+    "id": "volcano1",
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "rankPointLeast": 170,
+    "level": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "progressMatchNum": [
+      70,
+      140,
+      240,
+      360,
+      500,
+      750,
+      1300,
+      1900,
+      2700,
+      3500,
+      4200,
+      4900,
+      5600,
+      6300,
+      7000
+    ],
+    "progressMatchReward": [
+      {
+        "TileProp101": 1
+      },
+      {
+        "TileProp102": 1
+      },
+      {
+        "TileProp103": 1
+      },
+      {
+        "TileProp104": 1
+      },
+      {
+        "Film7": 1
+      },
+      {
+        "TileProp102": 2
+      },
+      {
+        "Film8": 1
+      },
+      {
+        "TileProp103": 2
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "TileProp104": 2
+      },
+      {
+        "Film12": 1
+      },
+      {
+        "TileProp103": 2
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "TileProp104": 2
+      },
+      {
+        "Film6": 1
+      }
+    ],
+    "waterId": "999021",
+    "respawnOfferId": [
+      1512
+    ],
+    "PointId": 1,
+    "offerId": [
+      99902104,
+      99902110,
+      99902116,
+      99902122,
+      99902128,
+      99902134,
+      1512
+    ]
+  },
+  "volcano2": {
+    "id": "volcano2",
+    "type": "Main",
+    "unlock": "PlayerLevel15",
+    "rankPointLeast": 300,
+    "level": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "progressMatchNum": [
+      70,
+      140,
+      200,
+      300,
+      500,
+      750,
+      1200,
+      1800,
+      3000,
+      5000,
+      7000,
+      10000
+    ],
+    "progressMatchReward": [
+      {
+        "TileProp101": 1
+      },
+      {
+        "TileProp102": 1
+      },
+      {
+        "TileProp103": 1
+      },
+      {
+        "TileProp104": 1
+      },
+      {
+        "Film7": 1
+      },
+      {
+        "TileProp102": 2
+      },
+      {
+        "Film8": 1
+      },
+      {
+        "TileProp103": 2
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "TileProp104": 2
+      },
+      {
+        "Film12": 1
+      },
+      {
+        "TileProp103": 2
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "TileProp104": 2
+      },
+      {
+        "Film6": 1
+      }
+    ],
+    "waterId": "999021",
+    "respawnOfferId": [
+      1512
+    ],
+    "PointId": 1,
+    "offerId": [
+      99902104,
+      99902110,
+      99902116,
+      99902122,
+      99902128,
+      99902134,
+      1512
+    ]
+  }
+}

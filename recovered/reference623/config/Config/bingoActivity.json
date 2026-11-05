@@ -1,0 +1,585 @@
+{
+  "bingo40": {
+    "id": "bingo40",
+    "unlock": 20,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Cheese",
+    "allowBoard": [
+      "Cheese"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {
+        "0": 0
+      },
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 20
+      }
+    ],
+    "bingoOrderId": [
+      4901,
+      4902,
+      4903
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [],
+    "recycleElement": 0,
+    "recycleChangeTo": 0,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 251016,
+    "txtColor": "#c06026",
+    "TaskGoose": "1102",
+    "entranceAnim": "TimeOrderchushimao",
+    "EntryGoose": "nailaorukou"
+  },
+  "bingo41": {
+    "id": "bingo41",
+    "unlock": 20,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Cheese",
+    "allowBoard": [
+      "Cheese"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {
+        "0": 0
+      },
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 20
+      }
+    ],
+    "bingoOrderId": [
+      5001,
+      5002,
+      5003
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [],
+    "recycleElement": 0,
+    "recycleChangeTo": 0,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 251016,
+    "txtColor": "#c06026",
+    "TaskGoose": "1102",
+    "entranceAnim": "TimeOrderchushimao",
+    "EntryGoose": "nailaorukou"
+  },
+  "bingo42": {
+    "id": "bingo42",
+    "unlock": 20,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Cinderella",
+    "allowBoard": [
+      "Cinderella"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {
+        "0": 0
+      },
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 20
+      }
+    ],
+    "bingoOrderId": [
+      5101,
+      5102,
+      5103
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [],
+    "recycleElement": 0,
+    "recycleChangeTo": 0,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 251217,
+    "txtColor": "#935bb6",
+    "TaskGoose": "2121",
+    "entranceAnim": "TimeOrderjijie2",
+    "EntryGoose": "bingoruilarukou"
+  },
+  "bingo43": {
+    "id": "bingo43",
+    "unlock": 20,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Cinderella",
+    "allowBoard": [
+      "Cinderella"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {
+        "0": 0
+      },
+      {
+        "Diamond": 20
+      },
+      {
+        "Diamond": 20
+      }
+    ],
+    "bingoOrderId": [
+      5201,
+      5202,
+      5203
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [],
+    "recycleElement": 0,
+    "recycleChangeTo": 0,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 251217,
+    "txtColor": "#935bb6",
+    "TaskGoose": "2121",
+    "entranceAnim": "TimeOrderjijie2",
+    "EntryGoose": "bingoruilarukou"
+  },
+  "bingo44": {
+    "id": "bingo44",
+    "unlock": 15,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {},
+      {},
+      {}
+    ],
+    "bingoOrderId": [
+      53011,
+      53021,
+      53031,
+      53041,
+      53012,
+      53022,
+      53032,
+      53042,
+      53013,
+      53023,
+      53033,
+      53043
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 0,
+    "generatorId": [
+      "1006",
+      "1008",
+      "1010"
+    ],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  },
+  "bingo45": {
+    "id": "bingo45",
+    "unlock": 15,
+    "router": [],
+    "routerUnlock": [],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 43200,
+    "bingoBoardNum": 3,
+    "hatCost": [
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      },
+      {
+        "0": 0
+      }
+    ],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [
+      {},
+      {},
+      {}
+    ],
+    "bingoOrderId": [
+      54011,
+      54021,
+      54031,
+      54041,
+      54012,
+      54022,
+      54032,
+      54042,
+      54013,
+      54023,
+      54033,
+      54043
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 0,
+    "generatorId": [
+      "3006",
+      "3008",
+      "3010"
+    ],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  },
+  "bingoAuto1_1": {
+    "id": "bingoAuto1_1",
+    "unlock": 15,
+    "router": [
+      "bingoAuto1_1",
+      "bingoAuto1_2",
+      "bingoOld1_1",
+      "bingoOld1_2"
+    ],
+    "routerUnlock": [
+      "rid%4==0"
+    ],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 0,
+    "bingoBoardNum": 3,
+    "hatCost": [],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [],
+    "bingoOrderId": [
+      1,
+      2,
+      3
+    ],
+    "elementGraphId": "bingoOrder1",
+    "sendGeneratorId": [
+      20001,
+      0,
+      0
+    ],
+    "recycleSeries": [
+      [],
+      [],
+      [
+        "Bingo_1",
+        "Bingo_2",
+        "Bingo_3"
+      ]
+    ],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 99101,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  },
+  "bingoAuto1_2": {
+    "id": "bingoAuto1_2",
+    "unlock": 15,
+    "router": [
+      "bingoAuto1_1",
+      "bingoAuto1_2",
+      "bingoOld1_1",
+      "bingoOld1_2"
+    ],
+    "routerUnlock": [
+      "rid%4==1"
+    ],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 0,
+    "bingoBoardNum": 3,
+    "hatCost": [],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [],
+    "bingoOrderId": [
+      1,
+      2,
+      3
+    ],
+    "elementGraphId": "bingoOrder1",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 99101,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  },
+  "bingoOld1_1": {
+    "id": "bingoOld1_1",
+    "unlock": 15,
+    "router": [
+      "bingoAuto1_1",
+      "bingoAuto1_2",
+      "bingoOld1_1",
+      "bingoOld1_2"
+    ],
+    "routerUnlock": [
+      "rid%4==2"
+    ],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 0,
+    "bingoBoardNum": 3,
+    "hatCost": [],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [],
+    "bingoOrderId": [
+      7,
+      8,
+      9
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [
+      20001,
+      0,
+      0
+    ],
+    "recycleSeries": [
+      [],
+      [],
+      [
+        "Bingo_1",
+        "Bingo_2",
+        "Bingo_3"
+      ]
+    ],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 99101,
+    "generatorId": [],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  },
+  "bingoOld1_2": {
+    "id": "bingoOld1_2",
+    "unlock": 15,
+    "router": [
+      "bingoAuto1_1",
+      "bingoAuto1_2",
+      "bingoOld1_1",
+      "bingoOld1_2"
+    ],
+    "routerUnlock": [
+      "rid%4==3"
+    ],
+    "boardType": "Main",
+    "allowBoard": [
+      "Main"
+    ],
+    "prepareDuration": 0,
+    "bingoBoardNum": 3,
+    "hatCost": [],
+    "bingoBoardTime": 0,
+    "bingoBoardCost": [],
+    "bingoOrderId": [
+      10,
+      13,
+      16,
+      19,
+      11,
+      14,
+      17,
+      20,
+      12,
+      15,
+      18,
+      21
+    ],
+    "elementGraphId": "",
+    "sendGeneratorId": [],
+    "recycleSeries": [],
+    "magicHatId": [
+      99902,
+      99902,
+      99902
+    ],
+    "recycleElement": 99902,
+    "recycleChangeTo": 99101,
+    "generatorId": [
+      "1006",
+      "1008",
+      "1010"
+    ],
+    "img": "ui_timeorder_pic_01",
+    "image": "bingo_pic_explain",
+    "cellSize": 0,
+    "board": "",
+    "activityDate": 0,
+    "txtColor": "",
+    "TaskGoose": "",
+    "entranceAnim": "",
+    "EntryGoose": ""
+  }
+}

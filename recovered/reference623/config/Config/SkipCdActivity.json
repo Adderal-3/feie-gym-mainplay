@@ -1,0 +1,31 @@
+{
+  "skip1": {
+    "id": "skip1",
+    "router": [
+      "skip1",
+      "skip2"
+    ],
+    "unlock": [
+      "PlayerLevel5"
+    ]
+  },
+  "skip2": {
+    "id": "skip2",
+    "router": [
+      "skip1",
+      "skip2"
+    ],
+    "unlock": [
+      "PlayerLevel5"
+    ]
+  },
+  "skip3": {
+    "id": "skip3",
+    "router": [
+      "skip3"
+    ],
+    "unlock": [
+      "PlayerLevel5"
+    ]
+  }
+}

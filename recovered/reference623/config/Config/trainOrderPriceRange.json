@@ -1,0 +1,27 @@
+{
+  "0": {
+    "rangeLeft": 0,
+    "rangeRight": 30,
+    "point": 0
+  },
+  "30": {
+    "rangeLeft": 30,
+    "rangeRight": 75,
+    "point": 1
+  },
+  "75": {
+    "rangeLeft": 75,
+    "rangeRight": 160,
+    "point": 2
+  },
+  "160": {
+    "rangeLeft": 160,
+    "rangeRight": 320,
+    "point": 3
+  },
+  "320": {
+    "rangeLeft": 320,
+    "rangeRight": 999999,
+    "point": 4
+  }
+}

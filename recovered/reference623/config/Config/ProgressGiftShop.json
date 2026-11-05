@@ -1,0 +1,330 @@
+{
+  "10001": {
+    "1000101": {
+      "id": 1000101,
+      "content": {
+        "AdornSkinRebate900102": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 12000
+      },
+      "point": 1
+    },
+    "1000102": {
+      "id": 1000102,
+      "content": {
+        "AdornSkinRebate900202": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1000
+      },
+      "point": 1
+    },
+    "1000103": {
+      "id": 1000103,
+      "content": {
+        "AdornSkinRebate900502": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 7000
+      },
+      "point": 1
+    },
+    "1000104": {
+      "id": 1000104,
+      "content": {
+        "AdornSkinRebate900602": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 7000
+      },
+      "point": 1
+    },
+    "1000105": {
+      "id": 1000105,
+      "content": {
+        "AdornSkinRebate900702": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1800
+      },
+      "point": 1
+    },
+    "1000106": {
+      "id": 1000106,
+      "content": {
+        "AdornSkinRebate900802": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1800
+      },
+      "point": 1
+    },
+    "1000107": {
+      "id": 1000107,
+      "content": {
+        "AdornSkinRebate901002": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1000
+      },
+      "point": 1
+    },
+    "1000108": {
+      "id": 1000108,
+      "content": {
+        "AdornSkinRebate901102": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1000
+      },
+      "point": 1
+    },
+    "1000109": {
+      "id": 1000109,
+      "content": {
+        "AdornSkinRebate901202": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 3500
+      },
+      "point": 1
+    },
+    "1000110": {
+      "id": 1000110,
+      "content": {
+        "AdornSkinRebate901302": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1500
+      },
+      "point": 1
+    },
+    "1000111": {
+      "id": 1000111,
+      "content": {
+        "AdornSkinRebate901402": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 2800
+      },
+      "point": 1
+    },
+    "1000112": {
+      "id": 1000112,
+      "content": {
+        "AdornSkinRebate901502": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 2500
+      },
+      "point": 1
+    },
+    "1000113": {
+      "id": 1000113,
+      "content": {
+        "AdornSkinRebate901602": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 2500
+      },
+      "point": 1
+    },
+    "1000114": {
+      "id": 1000114,
+      "content": {
+        "AdornSkinRebate901702": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 2500
+      },
+      "point": 1
+    },
+    "1000115": {
+      "id": 1000115,
+      "content": {
+        "AdornSkinRebate901902": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1500
+      },
+      "point": 1
+    },
+    "1000116": {
+      "id": 1000116,
+      "content": {
+        "AdornSkinRebate902102": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 12000
+      },
+      "point": 1
+    },
+    "1000117": {
+      "id": 1000117,
+      "content": {
+        "AdornSkinRebate902202": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 1600
+      },
+      "point": 1
+    },
+    "1000118": {
+      "id": 1000118,
+      "content": {
+        "AdornSkinRebate902302": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "AdornCoupon": 7000
+      },
+      "point": 1
+    }
+  },
+  "10002": {
+    "1000201": {
+      "id": 1000201,
+      "content": {
+        "AdornSkinRebate801404": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 4000
+      },
+      "point": 1
+    },
+    "1000202": {
+      "id": 1000202,
+      "content": {
+        "AdornSkinRebate802704": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 1500
+      },
+      "point": 1
+    },
+    "1000203": {
+      "id": 1000203,
+      "content": {
+        "AdornSkinRebate802804": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 3000
+      },
+      "point": 1
+    },
+    "1000204": {
+      "id": 1000204,
+      "content": {
+        "AdornSkinRebate803004": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 3000
+      },
+      "point": 1
+    },
+    "1000205": {
+      "id": 1000205,
+      "content": {
+        "AdornSkinRebate800904": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 1000
+      },
+      "point": 1
+    },
+    "1000206": {
+      "id": 1000206,
+      "content": {
+        "AdornSkinRebate801804": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 1000
+      },
+      "point": 1
+    },
+    "1000207": {
+      "id": 1000207,
+      "content": {
+        "AdornSkinRebate801904": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 1500
+      },
+      "point": 1
+    },
+    "1000208": {
+      "id": 1000208,
+      "content": {
+        "AdornSkinRebate802104": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 3000
+      },
+      "point": 1
+    },
+    "1000209": {
+      "id": 1000209,
+      "content": {
+        "AdornSkinRebate802204": 1
+      },
+      "goodsId": 0,
+      "goodsName": "",
+      "price": {
+        "Diamond": 2600
+      },
+      "point": 1
+    }
+  }
+}

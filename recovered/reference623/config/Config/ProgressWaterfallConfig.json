@@ -1,0 +1,26 @@
+{
+  "66660001": {
+    "id": 66660001,
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "autoOpenFlag": 1,
+    "progressNum": [
+      6,
+      12,
+      18
+    ],
+    "progressReward": [
+      {
+        "AdornSkin600906": 1
+      },
+      {
+        "AdornSkin600806": 1
+      },
+      {
+        "AdornSkin602006": 1
+      }
+    ],
+    "hideInhome": 0
+  }
+}

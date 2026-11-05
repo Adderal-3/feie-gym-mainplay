@@ -9,7 +9,7 @@
   var contexts = null;
   var pendingPersist = false;
   var log = [];
-  var knownTypes = ['ll', 'pl', 'el', 'Za', 'Zc', 'Mc', 'Hc', 'gl'];
+  var knownTypes = ['ll', 'pl', 'el', 'Za', 'Zc', 'Mc', 'Hc', 'gl', 'wl', 'rl'];
   var predicted = new Set([
     'game_cellmove', 'game_multiplecellmove', 'game_cellproduct', 'game_multiplecellproduct',
     'game_cellcollect', 'game_multiplecellcollect', 'game_cellsell', 'game_cellundo',
@@ -29,6 +29,63 @@
   function set(value, key, content) { if (value && typeof value.set === 'function') value.set(key, content); else if (value) value[key] = content; }
   function remove(value, key) { if (value && typeof value.delete === 'function') value.delete(key); else if (value) delete value[key]; }
   function values(value) { return entries(value).map(function (entry) { return entry[1]; }); }
+  var appearanceFields = [
+    ['img', 'ManagerPhoto', 'img'], ['boxes', 'ManagerFrame', 'imgBox'],
+    ['uniform', 'ManagerUniform', 'uniform'], ['pet', 'Pet', 'pet'], ['jobBadge', 'ManagerJobBadge', 'jobBadge'],
+  ];
+  function appearanceOwnership() {
+    var state = contexts.appearance;
+    if (!state) {
+      state = { id: role().id };
+      appearanceFields.forEach(function (field) { state[field[0]] = new Map(); });
+      contexts.appearance = state;
+    }
+    var info = role().userInfo || {};
+    appearanceFields.forEach(function (field) {
+      var owned = state[field[0]], equipped = Number(info[field[2]]);
+      allConfigs(field[1]).forEach(function (row) {
+        if (row.isDefault === 1 && !get(owned, row.id)) set(owned, row.id, { count: 1 });
+      });
+      if (validInteger(equipped, 1) && lookup(field[1], equipped) && !get(owned, equipped)) set(owned, equipped, { count: 1 });
+    });
+    return state;
+  }
+  function cardCollection() {
+    // A new local role owns no collectible cards. Their original bs wire state
+    // is retained independently from the UI cache; this query grants nothing.
+    return contexts.card || (contexts.card = { id: role().id, cardPoint: 0, jokerCard: 0,
+      gambleCounts: new Map(), rewarded: new Map(), news: new Map(), cards: new Map() });
+  }
+  function queryWireValue(value) {
+    if (Array.isArray(value)) return value.map(queryWireValue);
+    if (value instanceof Map || value && typeof value.entries === 'function') {
+      var mapped = {};entries(value).forEach(function (entry) { mapped[entry[0]] = queryWireValue(entry[1]); });return mapped;
+    }
+    if (value && typeof value === 'object') {
+      var result = {};Object.keys(value).forEach(function (key) { result[key] = queryWireValue(value[key]); });return result;
+    }
+    return value;
+  }
+  function queryOriginalModel(request, field, state) {
+    var response = typeof request.respType === 'function' && new request.respType();
+    var model = response && response[field];
+    if (!model || typeof model.setValue !== 'function') throw new Error('原只读查询响应模型尚未加载：' + field);
+    // Use the original If.Nu / Mh.bs setValue decoder, retaining original typed
+    // Map/count records instead of returning a success-shaped empty object.
+    model.setValue(queryWireValue(state));
+    return model;
+  }
+  function globalActivitySnapshot(request) {
+    var current = role().globalActivity;
+    if (!current || typeof current.entries !== 'function') throw new Error('本地活动状态尚未初始化');
+    var response = typeof request.respType === 'function' && new request.respType();
+    if (!response || !Array.isArray(response.globalActivity) || typeof response.setValue !== 'function') throw new Error('原活动查询响应模型尚未加载');
+    // Mp.globalActivity is the original ql[] protocol field. An empty local Map
+    // means no active campaigns; never create campaigns or rewards from Config.
+    // Decode existing saved rows through Mp so restored plain records become ql.
+    response.setValue({ globalActivity: values(current).map(queryWireValue) });
+    return response.globalActivity;
+  }
   function originalHandbookData() {
     var api = bridge(), Ctor = api.HandbookWindow || api.v$;
     if (!Ctor && global.cc && global.cc.js) Ctor = global.cc.js.getClassByName('HandbookWindow');
@@ -41,11 +98,13 @@
       // CommonElement.onInitElement only discovers STAND, non-bubble cells.
       // Seed the exact initially exposed cells so a direct merge-screen boot retains
       // discoveries which the usual original home-login request would have supplied.
-      var initial = lookup('Board', 1);
-      if (initial && Array.isArray(initial.element)) initial.element.forEach(function (row) {
-        row.forEach(function (encoded) {
-          var parts = String(encoded).split(':'), id = Number(parts[0]);
-          if (Number(parts[1]) === 0 && lookup('Element', id)) history.set(id, 0);
+      values(role().boards).forEach(function (board) {
+        var initial = lookup('Board', board.boardId);
+        if (initial && Array.isArray(initial.element)) initial.element.forEach(function (row) {
+          row.forEach(function (encoded) {
+            var parts = String(encoded).split(':'), id = Number(parts[0]);
+            if (Number(parts[1]) === 0 && lookup('Element', id)) history.set(id, 0);
+          });
         });
       });
     }
@@ -78,6 +137,16 @@
     var current = bridge().G2.Data;
     var boards = role().boards;
     return get(boards, id) || (current && (!id || current.id === id) ? current : null);
+  }
+  function syncOrderGotFlags(target) {
+    values(target && target.boards).forEach(function (board) {
+      values(board.orders).forEach(function (order) {
+        // Original UT.checkOrderGot/getDrawerAlreadyHave use ordered.has(id),
+        // while checkOrderFinished tests the stored boolean. An active order is
+        // acquired but unfinished; omitting false wrongly exposes manual unlock.
+        if (order.orderId > 0 && !board.ordered.has(order.orderId)) set(board.ordered, order.orderId, false);
+      });
+    });
   }
   function ensureInitialBuildRecord(target) {
     var data = target && target.build, Ctor = bridge().classes.Hc;
@@ -168,12 +237,15 @@
     return result;
   }
   function snapshot() {
-    return { version: VERSION, savedAt: now(), role: encode(role(), new WeakSet(), 0),
-      localServices: { elementHandbook: encode(syncElementHandbook(), new WeakSet(), 0) } };
+    var services = { elementHandbook: encode(syncElementHandbook(), new WeakSet(), 0) };
+    if (contexts.appearance) services.appearance = encode(contexts.appearance, new WeakSet(), 0);
+    if (contexts.card) services.card = encode(contexts.card, new WeakSet(), 0);
+    return { version: VERSION, savedAt: now(), role: encode(role(), new WeakSet(), 0), localServices: services };
   }
   function persist() {
     if (!contexts || !role()) return false;
     try {
+      migrateStandardPlayableGuide(role());
       var state = snapshot();
       validateSavedState(state);
       global.localStorage.setItem(contexts.storageKey, JSON.stringify(state));
@@ -188,6 +260,27 @@
   }
   function validInteger(value, minimum, maximum) {
     return Number.isSafeInteger(value) && value >= minimum && value <= (maximum == null ? Number.MAX_SAFE_INTEGER : maximum);
+  }
+  function isStandardPlayableKeyStep(target, step) {
+    if (!validInteger(step, 1)) return false;
+    var api = bridge(), resolver = api.q6 && api.q6.instance;
+    if (!resolver || typeof resolver.getGuideStep !== 'function') return false;
+    try {
+      var guide = resolver.getGuideStep(target.createVersion, 'PlayableBoard');
+      return !!guide && Array.isArray(guide.allSteps) && guide.allSteps.some(function (row) {
+        return row.id === step && row.keyStep === 1;
+      });
+    } catch (_) { return false; }
+  }
+  function migrateStandardPlayableGuide(target) {
+    var record = entries(target.guide).find(function (entry) { return entry[0] === 'PlayableBoard'; });
+    // Native Z7 tests only Map.has(), so even an early hand-authored step would
+    // suppress the entire opening. Native Guider persists keyStep rows only.
+    if (record && !isStandardPlayableKeyStep(target, record[1])) {
+      remove(target.guide, 'PlayableBoard');
+      return true;
+    }
+    return false;
   }
   function encodedMap(value, label) {
     if (!value || !Array.isArray(value.$map) || Object.keys(value).length !== 1 || value.$map.length > 100000) throw new Error('存档 Map 无效：' + label);
@@ -235,11 +328,46 @@
       encodedBytes(record.data, 'onceData.data');
     });
     if (state.localServices != null) {
-      if (!state.localServices || typeof state.localServices !== 'object' || Object.keys(state.localServices).some(function (key) { return key !== 'elementHandbook'; })) throw new Error('存档本地服务数据无效');
+      if (!state.localServices || typeof state.localServices !== 'object' || Object.keys(state.localServices).some(function (key) { return !['elementHandbook', 'appearance', 'card'].includes(key); })) throw new Error('存档本地服务数据无效');
       encodedMap(state.localServices.elementHandbook, 'localServices.elementHandbook').forEach(function (entry) {
         if (!validInteger(entry[0], 1) || !lookup('Element', entry[0]) || (entry[1] !== 0 && entry[1] !== 1)) throw new Error('存档原版图鉴记录无效');
       });
+      var appearance = state.localServices.appearance;
+      if (appearance != null) {
+        if (appearance.id !== state.role.id || Object.keys(appearance).some(function (key) { return !['id', 'img', 'boxes', 'uniform', 'pet', 'jobBadge'].includes(key); })) throw new Error('存档外观所有权结构无效');
+        appearanceFields.forEach(function (field) {
+          encodedMap(appearance[field[0]], 'appearance.' + field[0]).forEach(function (entry) {
+            if (!validInteger(entry[0], 1) || !lookup(field[1], entry[0]) || !entry[1] || !validInteger(entry[1].count, 1) || Object.keys(entry[1]).some(function (key) { return key !== 'count'; })) throw new Error('存档外观所有权无效');
+          });
+        });
+      }
+      var card = state.localServices.card;
+      if (card != null) {
+        if (card.id !== state.role.id || !validInteger(card.cardPoint, 0) || !validInteger(card.jokerCard, 0) || Object.keys(card).some(function (key) { return !['id', 'cardPoint', 'jokerCard', 'gambleCounts', 'rewarded', 'news', 'cards'].includes(key); })) throw new Error('存档收藏卡数据无效');
+        encodedMap(card.cards, 'card.cards').forEach(function (entry) {
+          if (!validInteger(entry[0], 1) || !lookup('GooseCard', entry[0]) || !entry[1] || !validInteger(entry[1].count, 1) || Object.keys(entry[1]).some(function (key) { return key !== 'count'; })) throw new Error('存档收藏卡所有权无效');
+        });
+        encodedMap(card.news, 'card.news').forEach(function (entry) {
+          if (!validInteger(entry[0], 1) || !lookup('GooseCard', entry[0]) || typeof entry[1] !== 'boolean') throw new Error('存档收藏卡新标记无效');
+        });
+        encodedMap(card.rewarded, 'card.rewarded').forEach(function (entry) {
+          if (!lookup('GooseCardSeries', entry[0]) || typeof entry[1] !== 'boolean') throw new Error('存档收藏卡系列奖励标记无效');
+        });
+        encodedMap(card.gambleCounts, 'card.gambleCounts').forEach(function (entry) {
+          if (!validInteger(entry[0], 0, 100) || !validInteger(entry[1], 0)) throw new Error('存档收藏卡抽取计数无效');
+        });
+      }
     }
+    if (state.role.shop != null) encodedMap(state.role.shop, 'role.shop').forEach(function (entry) {
+      var group = entry[1];
+      if (!lookup('ShopColumn', entry[0]) || !group || group.$type !== 'wl' || group.groupId !== entry[0] || group.aid !== 0 || !validInteger(group.refreshTime, 0) || !Array.isArray(group.goods)) throw new Error('存档本地商店货架无效');
+      var seen = new Set();
+      group.goods.forEach(function (item) {
+        var cfg = lookup('Shop', item.id), fixed = fixedShopPrice(cfg);
+        if (item.$type !== 'rl' || !cfg || cfg.columnId !== group.groupId || !fixed || seen.has(item.id) || item.priceType !== fixed.type || item.priceValue !== fixed.value || !validInteger(item.buyedCount, 0) || cfg.refreshInventory > 0 && item.buyedCount > cfg.refreshInventory) throw new Error('存档本地商店商品无效');
+        seen.add(item.id);
+      });
+    });
     ['coin', 'diamond', 'star', 'starCost', 'expLevel'].forEach(function (key) {
       if (!validInteger(state.role[key], 0)) throw new Error('存档资源无效：' + key);
     });
@@ -327,8 +455,13 @@
       // G2.convertRecovery only after the Cocos clock/board services are bound;
       // that method constructs and starts the original U$ (RecoverTimer).
       normalizeOnceData(restoredRole);
+      migrateStandardPlayableGuide(restoredRole);
+      syncOrderGotFlags(restoredRole);
       ensureInitialBuildRecord(restoredRole);
+      ensureLocalShop(restoredRole);
       contexts.elementHandbook = saved.localServices ? decode(saved.localServices.elementHandbook, null, 0) : null;
+      contexts.appearance = saved.localServices && saved.localServices.appearance ? decode(saved.localServices.appearance, null, 0) : null;
+      contexts.card = saved.localServices && saved.localServices.card ? decode(saved.localServices.card, null, 0) : null;
       if (restoredRole === role()) refreshMainBuildRecords();
       return true;
     } catch (error) { if (contexts) contexts.lastStorageError = String(error.message || error); return false; }
@@ -397,6 +530,92 @@
   function resourceProperty(name) {
     return { Coin: 'coin', Diamond: 'diamond', Exp: 'expLevel', Star: 'star', Energy: 'energy', AdornCoupon: 'build.adornCoupon' }[name];
   }
+  function fixedShopPrice(cfg) {
+    if (!cfg || cfg.cash || cfg.ad || cfg.extraFirst || (cfg.Energy && cfg.Energy.length)) return null;
+    var coin = cfg.coinRange || [], diamond = cfg.diamondRange || [];
+    if (coin.length === 1 && !diamond.length && validInteger(coin[0], 1)) return { type: 3, value: coin[0], resource: 'Coin' };
+    if (diamond.length === 1 && !coin.length && validInteger(diamond[0], 1)) return { type: 4, value: diamond[0], resource: 'Diamond' };
+    return null; // Random ranges / mixed-currency rolls belong to the unknown server selection.
+  }
+  function localShopUnlocked(target, groupId) {
+    var gate = lookup('Unlock', groupId === 1 ? 'shopShowPig' : groupId === 2 ? 'shopShowItem' : '');
+    var cfg = bridge().config.Config && bridge().config.Config.config;
+    return target.level >= (gate ? gate.level : cfg ? cfg.shopUnlockPlayerLevel : 3);
+  }
+  function localShopCandidates(target, groupId) {
+    return allConfigs('Shop').filter(function (cfg) {
+      if (cfg.columnId !== groupId || cfg.isOnline !== 1 || !fixedShopPrice(cfg)) return false;
+      if ((cfg.unlock || []).length) {
+        try { if (!bridge().K6 || !bridge().K6.CheckUnlock(cfg.unlock)) return false; }
+        catch (_) { return false; }
+      }
+      try { validateBasicRewards(cfg.goods); } catch (_) { return false; }
+      return entries(cfg.goods).length > 0;
+    }).sort(function (a, b) { return a.id - b.id; }).slice(0, groupId === 2 ? 6 : 20);
+  }
+  function createLocalShopGroup(target, groupId) {
+    var api = bridge(), Group = api.wl || api.classes.wl, Item = api.rl || api.classes.rl;
+    if (!Group || !Item) throw new Error('原商店 wl/rl 模型尚未加载');
+    var group = new Group();group.groupId = groupId;group.aid = 0;group.refreshTime = 0;
+    group.goods = localShopCandidates(target, groupId).map(function (cfg) {
+      var price = fixedShopPrice(cfg), item = new Item();
+      item.id = cfg.id;item.priceType = price.type;item.priceValue = price.value;
+      return item;
+    });
+    return group;
+  }
+  function ensureLocalShop(target) {
+    if (!bridge().config.Shop || !bridge().config.ShopColumn) return;
+    if (!target.shop) target.shop = new Map();
+    [1, 2, 4].forEach(function (id) {
+      if (localShopUnlocked(target, id) && !get(target.shop, id)) {
+        var group = createLocalShopGroup(target, id);
+        if (group.goods.length) set(target.shop, id, group);
+      }
+    });
+  }
+  function checkMainShop(p) {
+    if (p.actType || p.boardType != null && p.boardType !== bridge().ar?.main && p.boardType !== 1) throw new Error('本地商店仅接入主棋盘虚拟货币货架');
+    ensureLocalShop(role());
+    if (!localShopUnlocked(role(), 2)) throw new Error('原商店尚未达到解锁等级');
+    return { actShopBanner: new Map() };
+  }
+  function buyLocalShop(p) {
+    if (!validInteger(p.itemId, 1)) throw new Error('原商品 ID 无效');
+    var cfg = lookup('Shop', p.itemId), fixed = fixedShopPrice(cfg);
+    if (!fixed || ![1, 2, 4].includes(cfg.columnId)) throw new Error('本地商店不结算现金、广告或未知随机商品');
+    var group = get(role().shop, cfg.columnId), item = group && group.goods.find(function (row) { return row.id === p.itemId; });
+    if (!localShopUnlocked(role(), cfg.columnId) || !item || !localShopCandidates(role(), cfg.columnId).some(function (row) { return row.id === p.itemId; })) throw new Error('原商品尚未解锁或未在本地货架');
+    if (item.priceType !== fixed.type || item.priceValue !== fixed.value || !validInteger(item.buyedCount, 0)) throw new Error('本地商品价格或库存状态无效');
+    if (cfg.refreshInventory > 0 && item.buyedCount >= cfg.refreshInventory) throw new Error('原商品本轮库存已售完');
+    var cost = fixed.value;
+    if (cfg.plusNum > 0) cost += cfg.plusNum * item.buyedCount;
+    else if (cfg.multiplyNum > 0) cost *= Math.pow(cfg.multiplyNum, item.buyedCount);
+    var ab = bridge().q6?.instance?.getShopAB ? bridge().q6.instance.getShopAB(cfg.id) : cfg;
+    if (ab.maxPrice > 0) cost = Math.min(cost, ab.maxPrice);
+    var board = boardById(1);
+    if (!validInteger(cost, 1) || !board || resourceValue(fixed.resource) < cost) throw new Error('原商品购买资源不足或价格无效');
+    validateBasicRewards(cfg.goods);
+    adjustResource(fixed.resource, -cost);
+    var rewards = entries(cfg.goods).map(function (entry) { return rewardItem(entry[0], Number(entry[1]), board); });
+    item.buyedCount += 1;
+    return { rewards: rewards };
+  }
+  function refreshLocalShop(p) {
+    var id = p.groupId, cfg = lookup('ShopColumn', id), group = get(role().shop, id);
+    if (![1, 2, 4].includes(id) || !cfg || !group || !localShopUnlocked(role(), id) || !entries(cfg.refreshCost).length) throw new Error('此本地货架没有已验证的手动刷新');
+    var daily = role().daily00Event || new Map(), key = 'shop#r#c#' + id, count = get(daily, key) || 0;
+    if (cfg.refreshNummax > 0 && count >= cfg.refreshNummax) throw new Error('原货架本日刷新次数已达上限');
+    var costs = entries(cfg.refreshCost).map(function (entry) { return [entry[0], Number(entry[1]) + count * (cfg.CostNum || 0)]; });
+    costs.forEach(function (entry) {
+      if (!['Coin', 'Diamond'].includes(entry[0]) || !validInteger(entry[1], 1) || resourceValue(entry[0]) < entry[1]) throw new Error('原货架刷新资源不足或类型未接入');
+    });
+    var replacement = createLocalShopGroup(role(), id);
+    costs.forEach(function (entry) { adjustResource(entry[0], -entry[1]); });
+    group.goods = replacement.goods;
+    role().daily00Event = daily;set(daily, key, count + 1);
+    return {};
+  }
   function resourceValue(name) {
     var property = resourceProperty(name);
     if (property === 'energy') return role().energy.value;
@@ -464,6 +683,7 @@
       order.id = cfg.id;order.orderId = cfg.id;
       entries(cfg.demand).forEach(function (entry) { set(order.demand, Number(entry[0]), Number(entry[1])); });
       set(board.orders, order.id, order);
+      if (!board.ordered.has(order.orderId)) set(board.ordered, order.orderId, false);
     });
     if (bridge().G2.Data && bridge().G2.Data.id === board.id) {
       bridge().G2.Data.orders = board.orders;
@@ -577,6 +797,7 @@
     plan.forEach(function (entry) { entries(entry.reward).forEach(function (item) { rewards.push(rewardItem(item[0], Number(item[1]), board)); }); });
     nextOrders(board);
     refreshMainBuildRecords();
+    ensureLocalShop(role());
     return { rewards: rewards };
   }
   function claimElementHandbook(p) {
@@ -660,7 +881,15 @@
       var board = boardById(p.boardId || (b.G2.Data && b.G2.Data.id));
       if (!board) throw new Error('本地棋盘尚未初始化');
       data = { cells: board.cells, tutorialOrder: board.tutorialOrder, incrementId: board.incrementId, seed: board.seed };
-    } else if (command === 'game_getelementhandbook') data = { handbook: syncElementHandbook() };
+    } else if (command === 'game_shopcheck') data = checkMainShop(p);
+    else if (command === 'game_shopbuy') data = buyLocalShop(p);
+    else if (command === 'game_shoprefresh') data = refreshLocalShop(p);
+    else if (command === 'game_shoplook') {
+      values(role().shop).forEach(function (group) { group.goods.forEach(function (item) { item.redDot = false; }); });
+    } else if (command === 'imgbox_show') data = { boxes: queryOriginalModel(request, 'boxes', appearanceOwnership()) };
+    else if (command === 'card_show') data = { card: queryOriginalModel(request, 'card', cardCollection()) };
+    else if (command === 'game_refreshglobalactivity') data = { globalActivity: globalActivitySnapshot(request) };
+    else if (command === 'game_getelementhandbook') data = { handbook: syncElementHandbook() };
     else if (command === 'game_elementhandbookreward') data = claimElementHandbook(p);
     else if (command === 'game_completeorder') data = completeOrder(p);
     else if (command === 'game_build') data = buildOriginal(p);
@@ -668,6 +897,7 @@
     else if (command === 'game_levelup') data = levelUpOriginal(p);
     else if (command === 'game_guidesave' || command === 'game_guidestart') {
       if (p.id == null || p.step == null) throw new Error('缺少原版引导参数');
+      if (p.id === 'PlayableBoard' && !isStandardPlayableKeyStep(role(), p.step)) throw new Error('原标准剧情仅可保存配置中的关键步骤');
       set(role().guide, p.id, p.step);
     } else if (command === 'game_setguideonce') setOriginalGuideOnce(p);
     else if (command === 'game_setoncedata') setOriginalOnceData(p);
@@ -697,8 +927,10 @@
     var api = options.bridge || global.OriginalGameBridge || global.__ORIGINAL__;
     if (!api || !api.Xo || !api.E8 || !api.G2 || !api.classes) throw new Error('原客户端桥接尚未就绪');
     contexts = Object.assign({ bridge: api, storageKey: DEFAULT_KEY }, options, { bridge: api });
+    syncOrderGotFlags(role());
     ensureInitialBuildRecord(role());
     refreshMainBuildRecords();
+    ensureLocalShop(role());
     var sender = {
       sendAsync: sendAsync,
       sendHttpAsync: sendAsync,
@@ -713,8 +945,9 @@
     restore: restore, getLog: function () { return log.slice(); },
     getUnlockErrors: function () { return contexts && contexts.unlockErrors ? contexts.unlockErrors.slice() : []; },
     getBuildUnlockErrors: function () { return contexts && contexts.buildUnlockErrors ? contexts.buildUnlockErrors.slice() : []; },
+    getShopEvidence: function () { return { mode: 'LOCAL_CONFIG_CATALOG_RECONSTRUCTION', selection: 'Lowest-ID fixed single-currency eligible rows; up to six goods in column2. No legacy tutorial stock is copied.', automaticRefresh: 'Unknown server refresh deadlines are not reconstructed; refreshTime remains zero.', manualRefresh: 'Original ShopColumn virtual currency costs and counters.', catalogs: values(role().shop).filter(function (group) { return [1, 2, 4].includes(group.groupId); }).map(function (group) { return { groupId: group.groupId, goods: group.goods.map(function (item) { return item.id; }) }; }) }; },
     clearSave: function () { global.localStorage.removeItem(contexts ? contexts.storageKey : DEFAULT_KEY); },
-    getSupportedCommands: function () { return Array.from(predicted).concat(Array.from(query), ['game_getboard', 'game_getelementhandbook', 'game_elementhandbookreward', 'game_completeorder', 'game_build', 'game_adornedit', 'game_levelup', 'game_guidesave', 'game_guidestart', 'game_setguideonce', 'game_setoncedata']); },
+    getSupportedCommands: function () { return Array.from(predicted).concat(Array.from(query), ['game_shopcheck', 'game_shopbuy', 'game_shoprefresh', 'game_shoplook', 'imgbox_show', 'card_show', 'game_refreshglobalactivity', 'game_getboard', 'game_getelementhandbook', 'game_elementhandbookreward', 'game_completeorder', 'game_build', 'game_adornedit', 'game_levelup', 'game_guidesave', 'game_guidestart', 'game_setguideonce', 'game_setoncedata']); },
   };
   global.LocalBackend = LocalBackend;
 })(window);

@@ -1,0 +1,1610 @@
+{
+  "1101": {
+    "id": 1101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1102": {
+    "id": 1102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1103": {
+    "id": 1103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1104": {
+    "id": 1104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1105": {
+    "id": 1105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1106": {
+    "id": 1106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1107": {
+    "id": 1107,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "1108": {
+    "id": 1108,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "1109": {
+    "id": 1109,
+    "bubble3Rate": 1,
+    "bubble3Level": 10004,
+    "canBubble3": 1
+  },
+  "1110": {
+    "id": 1110,
+    "bubble3Rate": 1,
+    "bubble3Level": 10007,
+    "canBubble3": 1
+  },
+  "1111": {
+    "id": 1111,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1112": {
+    "id": 1112,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1113": {
+    "id": 1113,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1114": {
+    "id": 1114,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1201": {
+    "id": 1201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1202": {
+    "id": 1202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "1203": {
+    "id": 1203,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "2101": {
+    "id": 2101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2102": {
+    "id": 2102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2103": {
+    "id": 2103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2104": {
+    "id": 2104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2105": {
+    "id": 2105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2106": {
+    "id": 2106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2107": {
+    "id": 2107,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "2108": {
+    "id": 2108,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "2109": {
+    "id": 2109,
+    "bubble3Rate": 1,
+    "bubble3Level": 10005,
+    "canBubble3": 1
+  },
+  "2110": {
+    "id": 2110,
+    "bubble3Rate": 1,
+    "bubble3Level": 10008,
+    "canBubble3": 1
+  },
+  "2111": {
+    "id": 2111,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2201": {
+    "id": 2201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2202": {
+    "id": 2202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "2203": {
+    "id": 2203,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "2204": {
+    "id": 2204,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "2205": {
+    "id": 2205,
+    "bubble3Rate": 1,
+    "bubble3Level": 10004,
+    "canBubble3": 1
+  },
+  "2301": {
+    "id": 2301,
+    "bubble3Rate": 0,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "2302": {
+    "id": 2302,
+    "bubble3Rate": 0,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "2303": {
+    "id": 2303,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "2304": {
+    "id": 2304,
+    "bubble3Rate": 1,
+    "bubble3Level": 10006,
+    "canBubble3": 1
+  },
+  "3101": {
+    "id": 3101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3102": {
+    "id": 3102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3103": {
+    "id": 3103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3104": {
+    "id": 3104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3105": {
+    "id": 3105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3106": {
+    "id": 3106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3107": {
+    "id": 3107,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "3108": {
+    "id": 3108,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "3109": {
+    "id": 3109,
+    "bubble3Rate": 1,
+    "bubble3Level": 10005,
+    "canBubble3": 1
+  },
+  "3110": {
+    "id": 3110,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3111": {
+    "id": 3111,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3201": {
+    "id": 3201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3202": {
+    "id": 3202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "3203": {
+    "id": 3203,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "3204": {
+    "id": 3204,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "3205": {
+    "id": 3205,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "3206": {
+    "id": 3206,
+    "bubble3Rate": 1,
+    "bubble3Level": 10006,
+    "canBubble3": 1
+  },
+  "3207": {
+    "id": 3207,
+    "bubble3Rate": 1,
+    "bubble3Level": 10009,
+    "canBubble3": 1
+  },
+  "4001": {
+    "id": 4001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4002": {
+    "id": 4002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4003": {
+    "id": 4003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4004": {
+    "id": 4004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4005": {
+    "id": 4005,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4006": {
+    "id": 4006,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4101": {
+    "id": 4101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4102": {
+    "id": 4102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4103": {
+    "id": 4103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4104": {
+    "id": 4104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4105": {
+    "id": 4105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4106": {
+    "id": 4106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4201": {
+    "id": 4201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4202": {
+    "id": 4202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4203": {
+    "id": 4203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4204": {
+    "id": 4204,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "4205": {
+    "id": 4205,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "4206": {
+    "id": 4206,
+    "bubble3Rate": 1,
+    "bubble3Level": 10004,
+    "canBubble3": 1
+  },
+  "4207": {
+    "id": 4207,
+    "bubble3Rate": 1,
+    "bubble3Level": 10008,
+    "canBubble3": 1
+  },
+  "4208": {
+    "id": 4208,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "4209": {
+    "id": 4209,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5001": {
+    "id": 5001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5002": {
+    "id": 5002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5003": {
+    "id": 5003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5004": {
+    "id": 5004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5005": {
+    "id": 5005,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5006": {
+    "id": 5006,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5007": {
+    "id": 5007,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5101": {
+    "id": 5101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5102": {
+    "id": 5102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5103": {
+    "id": 5103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5104": {
+    "id": 5104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5105": {
+    "id": 5105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5106": {
+    "id": 5106,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "5107": {
+    "id": 5107,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "5108": {
+    "id": 5108,
+    "bubble3Rate": 1,
+    "bubble3Level": 10006,
+    "canBubble3": 1
+  },
+  "5109": {
+    "id": 5109,
+    "bubble3Rate": 1,
+    "bubble3Level": 10009,
+    "canBubble3": 1
+  },
+  "5110": {
+    "id": 5110,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5111": {
+    "id": 5111,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5201": {
+    "id": 5201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5202": {
+    "id": 5202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5203": {
+    "id": 5203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5204": {
+    "id": 5204,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5205": {
+    "id": 5205,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5206": {
+    "id": 5206,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5207": {
+    "id": 5207,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5208": {
+    "id": 5208,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5209": {
+    "id": 5209,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5210": {
+    "id": 5210,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5301": {
+    "id": 5301,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5302": {
+    "id": 5302,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5303": {
+    "id": 5303,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5304": {
+    "id": 5304,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5305": {
+    "id": 5305,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5401": {
+    "id": 5401,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5402": {
+    "id": 5402,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5403": {
+    "id": 5403,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5404": {
+    "id": 5404,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5405": {
+    "id": 5405,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5406": {
+    "id": 5406,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5407": {
+    "id": 5407,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5408": {
+    "id": 5408,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5409": {
+    "id": 5409,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5410": {
+    "id": 5410,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5411": {
+    "id": 5411,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5412": {
+    "id": 5412,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5413": {
+    "id": 5413,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5501": {
+    "id": 5501,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5502": {
+    "id": 5502,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5503": {
+    "id": 5503,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5504": {
+    "id": 5504,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5505": {
+    "id": 5505,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5506": {
+    "id": 5506,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5507": {
+    "id": 5507,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5508": {
+    "id": 5508,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5509": {
+    "id": 5509,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5510": {
+    "id": 5510,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5511": {
+    "id": 5511,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "5512": {
+    "id": 5512,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6001": {
+    "id": 6001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6002": {
+    "id": 6002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6003": {
+    "id": 6003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6004": {
+    "id": 6004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6005": {
+    "id": 6005,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6006": {
+    "id": 6006,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6101": {
+    "id": 6101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6102": {
+    "id": 6102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6103": {
+    "id": 6103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6104": {
+    "id": 6104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6105": {
+    "id": 6105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6106": {
+    "id": 6106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6107": {
+    "id": 6107,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6108": {
+    "id": 6108,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6201": {
+    "id": 6201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6202": {
+    "id": 6202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6203": {
+    "id": 6203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6204": {
+    "id": 6204,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6301": {
+    "id": 6301,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6302": {
+    "id": 6302,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6303": {
+    "id": 6303,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6304": {
+    "id": 6304,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6305": {
+    "id": 6305,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6401": {
+    "id": 6401,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6402": {
+    "id": 6402,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6403": {
+    "id": 6403,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6404": {
+    "id": 6404,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6405": {
+    "id": 6405,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6501": {
+    "id": 6501,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6502": {
+    "id": 6502,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6503": {
+    "id": 6503,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6504": {
+    "id": 6504,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6505": {
+    "id": 6505,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "6506": {
+    "id": 6506,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7001": {
+    "id": 7001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7002": {
+    "id": 7002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7003": {
+    "id": 7003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7004": {
+    "id": 7004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7101": {
+    "id": 7101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7102": {
+    "id": 7102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7103": {
+    "id": 7103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7104": {
+    "id": 7104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7201": {
+    "id": 7201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7202": {
+    "id": 7202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7203": {
+    "id": 7203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7204": {
+    "id": 7204,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7205": {
+    "id": 7205,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7206": {
+    "id": 7206,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7207": {
+    "id": 7207,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7208": {
+    "id": 7208,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7301": {
+    "id": 7301,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7302": {
+    "id": 7302,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7303": {
+    "id": 7303,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7304": {
+    "id": 7304,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7305": {
+    "id": 7305,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "7306": {
+    "id": 7306,
+    "bubble3Rate": 1,
+    "bubble3Level": 10004,
+    "canBubble3": 1
+  },
+  "7401": {
+    "id": 7401,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7402": {
+    "id": 7402,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7403": {
+    "id": 7403,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7404": {
+    "id": 7404,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7405": {
+    "id": 7405,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "7406": {
+    "id": 7406,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8001": {
+    "id": 8001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8002": {
+    "id": 8002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8003": {
+    "id": 8003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8004": {
+    "id": 8004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8005": {
+    "id": 8005,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8006": {
+    "id": 8006,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8007": {
+    "id": 8007,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8008": {
+    "id": 8008,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8009": {
+    "id": 8009,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8101": {
+    "id": 8101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8102": {
+    "id": 8102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8103": {
+    "id": 8103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8104": {
+    "id": 8104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8105": {
+    "id": 8105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8106": {
+    "id": 8106,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8107": {
+    "id": 8107,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8108": {
+    "id": 8108,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8109": {
+    "id": 8109,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8110": {
+    "id": 8110,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8111": {
+    "id": 8111,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8112": {
+    "id": 8112,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8113": {
+    "id": 8113,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8201": {
+    "id": 8201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8202": {
+    "id": 8202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8203": {
+    "id": 8203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8204": {
+    "id": 8204,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8205": {
+    "id": 8205,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "8206": {
+    "id": 8206,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "8207": {
+    "id": 8207,
+    "bubble3Rate": 1,
+    "bubble3Level": 10002,
+    "canBubble3": 1
+  },
+  "8208": {
+    "id": 8208,
+    "bubble3Rate": 1,
+    "bubble3Level": 10003,
+    "canBubble3": 1
+  },
+  "8209": {
+    "id": 8209,
+    "bubble3Rate": 1,
+    "bubble3Level": 10006,
+    "canBubble3": 1
+  },
+  "9001": {
+    "id": 9001,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9002": {
+    "id": 9002,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9003": {
+    "id": 9003,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9004": {
+    "id": 9004,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9005": {
+    "id": 9005,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9006": {
+    "id": 9006,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9007": {
+    "id": 9007,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9008": {
+    "id": 9008,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9009": {
+    "id": 9009,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9010": {
+    "id": 9010,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9011": {
+    "id": 9011,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9012": {
+    "id": 9012,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9101": {
+    "id": 9101,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9102": {
+    "id": 9102,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9103": {
+    "id": 9103,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9104": {
+    "id": 9104,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9105": {
+    "id": 9105,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9106": {
+    "id": 9106,
+    "bubble3Rate": 1,
+    "bubble3Level": 10004,
+    "canBubble3": 1
+  },
+  "9107": {
+    "id": 9107,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9108": {
+    "id": 9108,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9109": {
+    "id": 9109,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9110": {
+    "id": 9110,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9201": {
+    "id": 9201,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9202": {
+    "id": 9202,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9203": {
+    "id": 9203,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9204": {
+    "id": 9204,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9205": {
+    "id": 9205,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9206": {
+    "id": 9206,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9207": {
+    "id": 9207,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9301": {
+    "id": 9301,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9302": {
+    "id": 9302,
+    "bubble3Rate": 0,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9303": {
+    "id": 9303,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9304": {
+    "id": 9304,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9305": {
+    "id": 9305,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9306": {
+    "id": 9306,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9307": {
+    "id": 9307,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9308": {
+    "id": 9308,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9309": {
+    "id": 9309,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9310": {
+    "id": 9310,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9311": {
+    "id": 9311,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  },
+  "9312": {
+    "id": 9312,
+    "bubble3Rate": 1,
+    "bubble3Level": 0,
+    "canBubble3": 0
+  }
+}

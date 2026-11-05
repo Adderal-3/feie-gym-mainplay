@@ -1,0 +1,1734 @@
+{
+  "Main": {
+    "1": {
+      "id": 1,
+      "unlock": [
+        "CreateVersionDefault+PlayerLevel1"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault"
+      ],
+      "picture": "story_pic_01",
+      "detailPicture": "story_detail_pic_01",
+      "reward": {
+        "98103": 1,
+        "Star": 5
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "2": {
+      "id": 2,
+      "unlock": [
+        "CreateVersionDefault+PlayerLevel6+FinishDrawer101"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault+PlayerLevel4"
+      ],
+      "picture": "story_pic_02",
+      "detailPicture": "story_detail_pic_02",
+      "reward": {
+        "98203": 1,
+        "98606": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "3": {
+      "id": 3,
+      "unlock": [
+        "CreateVersionDefault+PlayerLevel12+FinishDrawer2"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault+FinishOrder30001"
+      ],
+      "picture": "story_pic_03",
+      "detailPicture": "story_detail_pic_03",
+      "reward": {
+        "Star": 5,
+        "Coin": 500,
+        "AdornCoupon": 188
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "4": {
+      "id": 4,
+      "unlock": [
+        "CreateVersionDefault+FinishOrder48007+PlayerLevel18/CreateVersionGte13+FinishDrawer994"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault+FinishOrder40001/CreateVersionGte13+FinishOrder3001"
+      ],
+      "picture": "story_pic_04",
+      "detailPicture": "story_detail_pic_04",
+      "reward": {
+        "98403": 1,
+        "98804": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "5": {
+      "id": 5,
+      "unlock": [
+        "CreateVersionDefault+FinishDrawer1+FinishDrawer4/CreateVersionGte13+FinishDrawer4"
+      ],
+      "preDisplay": [
+        "FinishOrder50001"
+      ],
+      "picture": "story_pic_05",
+      "detailPicture": "story_detail_pic_05",
+      "reward": {
+        "98804": 1,
+        "AdornCoupon": 300
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "6": {
+      "id": 6,
+      "unlock": [
+        "PlayerLevel18",
+        "FinishDrawer5"
+      ],
+      "preDisplay": [
+        "FinishOrder60001"
+      ],
+      "picture": "story_pic_06",
+      "detailPicture": "story_detail_pic_06",
+      "reward": {
+        "98701": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "7": {
+      "id": 7,
+      "unlock": [
+        "PlayerLevel41",
+        "FinishDrawer18"
+      ],
+      "preDisplay": [
+        "PlayerLevel39",
+        "FinishOrder230001"
+      ],
+      "picture": "story_pic_07",
+      "detailPicture": "story_detail_pic_07",
+      "reward": {
+        "98303": 1,
+        "98606": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "8": {
+      "id": 8,
+      "unlock": [
+        "PlayerLevel23",
+        "FinishDrawer14"
+      ],
+      "preDisplay": [
+        "PlayerLevel21",
+        "FinishOrder160001"
+      ],
+      "picture": "story_pic_08",
+      "detailPicture": "story_detail_pic_08",
+      "reward": {
+        "Star": 15,
+        "Coin": 600,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "9": {
+      "id": 9,
+      "unlock": [
+        "PlayerLevel28",
+        "FinishDrawer8"
+      ],
+      "preDisplay": [
+        "FinishOrder100001"
+      ],
+      "picture": "story_pic_09",
+      "detailPicture": "story_detail_pic_09",
+      "reward": {
+        "Star": 15,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "10": {
+      "id": 10,
+      "unlock": [
+        "FinishDrawer9"
+      ],
+      "preDisplay": [
+        "FinishOrder110000"
+      ],
+      "picture": "story_pic_10",
+      "detailPicture": "story_detail_pic_10",
+      "reward": {
+        "98711": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "11": {
+      "id": 11,
+      "unlock": [
+        "FinishDrawer10"
+      ],
+      "preDisplay": [
+        "FinishOrder120001"
+      ],
+      "picture": "story_pic_11",
+      "detailPicture": "story_detail_pic_11",
+      "reward": {
+        "Star": 20,
+        "Coin": 800,
+        "AdornCoupon": 500,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "12": {
+      "id": 12,
+      "unlock": [
+        "PlayerLevel36",
+        "FinishDrawer11"
+      ],
+      "preDisplay": [
+        "FinishOrder130001"
+      ],
+      "picture": "story_pic_12",
+      "detailPicture": "story_detail_pic_12",
+      "reward": {
+        "98303": 1,
+        "98606": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "13": {
+      "id": 13,
+      "unlock": [
+        "PlayerLevel38",
+        "FinishDrawer11"
+      ],
+      "preDisplay": [
+        "FinishOrder130001"
+      ],
+      "picture": "story_pic_13",
+      "detailPicture": "story_detail_pic_13",
+      "reward": {
+        "Star": 20,
+        "Coin": 1200,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "14": {
+      "id": 14,
+      "unlock": [
+        "FinishDrawer6"
+      ],
+      "preDisplay": [
+        "FinishOrder70001"
+      ],
+      "picture": "story_pic_14",
+      "detailPicture": "story_detail_pic_14",
+      "reward": {
+        "98303": 1,
+        "98606": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "15": {
+      "id": 15,
+      "unlock": [
+        "PlayerLevel50",
+        "FinishDrawer13",
+        "FinishDrawer7"
+      ],
+      "preDisplay": [
+        "PlayerLevel38",
+        "FinishOrder150033"
+      ],
+      "picture": "story_pic_15",
+      "detailPicture": "story_detail_pic_15",
+      "reward": {
+        "98721": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "16": {
+      "id": 16,
+      "unlock": [
+        "PlayerLevel57",
+        "FinishDrawer15",
+        "FinishDrawer19"
+      ],
+      "preDisplay": [
+        "PlayerLevel50",
+        "FinishOrder240008"
+      ],
+      "picture": "story_pic_16",
+      "detailPicture": "story_detail_pic_16",
+      "reward": {
+        "98203": 1,
+        "98303": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "17": {
+      "id": 17,
+      "unlock": [
+        "PlayerLevel60",
+        "FinishDrawer16"
+      ],
+      "preDisplay": [
+        "PlayerLevel53",
+        "FinishOrder200004"
+      ],
+      "picture": "story_pic_17",
+      "detailPicture": "story_detail_pic_17",
+      "reward": {
+        "Star": 15,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "18": {
+      "id": 18,
+      "unlock": [
+        "PlayerLevel39",
+        "FinishDrawer12"
+      ],
+      "preDisplay": [
+        "PlayerLevel36",
+        "FinishOrder140007"
+      ],
+      "picture": "story_pic_18",
+      "detailPicture": "story_detail_pic_18",
+      "reward": {
+        "Star": 15,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "19": {
+      "id": 19,
+      "unlock": [
+        "PlayerLevel53",
+        "FinishDrawer203/FinishBranch461"
+      ],
+      "preDisplay": [
+        "PlayerLevel39",
+        "FinishOrder80001"
+      ],
+      "picture": "story_pic_19",
+      "detailPicture": "story_detail_pic_19",
+      "reward": {
+        "98203": 1,
+        "98804": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "20": {
+      "id": 20,
+      "unlock": [
+        "PlayerLevel73",
+        "FinishDrawer21"
+      ],
+      "preDisplay": [
+        "FinishOrder300001"
+      ],
+      "picture": "story_pic_20",
+      "detailPicture": "story_detail_pic_20",
+      "reward": {
+        "Star": 30,
+        "Coin": 3000,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "21": {
+      "id": 21,
+      "unlock": [
+        "PlayerLevel67",
+        "FinishDrawer17"
+      ],
+      "preDisplay": [
+        "FinishOrder220001",
+        "PlayerLevel58"
+      ],
+      "picture": "story_pic_21",
+      "detailPicture": "story_detail_pic_21",
+      "reward": {
+        "Star": 30,
+        "Coin": 1800,
+        "AdornCoupon": 520,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "22": {
+      "id": 22,
+      "unlock": [
+        "PlayerLevel77",
+        "FinishDrawer20"
+      ],
+      "preDisplay": [
+        "PlayerLevel73",
+        "FinishOrder271029"
+      ],
+      "picture": "story_pic_22",
+      "detailPicture": "story_detail_pic_22",
+      "reward": {
+        "Star": 30,
+        "Coin": 2200,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "23": {
+      "id": 23,
+      "unlock": [
+        "PlayerLevel83",
+        "FinishDrawer22"
+      ],
+      "preDisplay": [
+        "PlayerLevel77",
+        "FinishOrder501014"
+      ],
+      "picture": "story_pic_23",
+      "detailPicture": "story_detail_pic_23",
+      "reward": {
+        "98203": 1,
+        "98606": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "24": {
+      "id": 24,
+      "unlock": [
+        "PlayerLevel87",
+        "FinishDrawer23"
+      ],
+      "preDisplay": [
+        "PlayerLevel83",
+        "FinishOrder311001"
+      ],
+      "picture": "story_pic_24",
+      "detailPicture": "story_detail_pic_24",
+      "reward": {
+        "Star": 20,
+        "Coin": 2000,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "25": {
+      "id": 25,
+      "unlock": [
+        "PlayerLevel90",
+        "FinishDrawer213/FinishBranch801"
+      ],
+      "preDisplay": [
+        "PlayerLevel87",
+        "FinishOrder320019"
+      ],
+      "picture": "story_pic_25",
+      "detailPicture": "story_detail_pic_25",
+      "reward": {
+        "Star": 20,
+        "Coin": 1500,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [
+        9110,
+        1205
+      ],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "26": {
+      "id": 26,
+      "unlock": [
+        "PlayerLevel92",
+        "FinishDrawer25"
+      ],
+      "preDisplay": [
+        "PlayerLevel90",
+        "FinishOrder330027"
+      ],
+      "picture": "story_pic_26",
+      "detailPicture": "story_detail_pic_26",
+      "reward": {
+        "98804": 1,
+        "Star": 15,
+        "AdornCoupon": 288
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "27": {
+      "id": 27,
+      "unlock": [
+        "PlayerLevel94",
+        "FinishDrawer26"
+      ],
+      "preDisplay": [
+        "PlayerLevel92",
+        "FinishOrder340025"
+      ],
+      "picture": "story_pic_27",
+      "detailPicture": "story_detail_pic_27",
+      "reward": {
+        "98203": 1,
+        "98606": 1,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "28": {
+      "id": 28,
+      "unlock": [
+        "PlayerLevel95",
+        "FinishDrawer27"
+      ],
+      "preDisplay": [
+        "PlayerLevel94",
+        "FinishOrder350018"
+      ],
+      "picture": "story_pic_28",
+      "detailPicture": "story_detail_pic_28",
+      "reward": {
+        "Star": 20,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "29": {
+      "id": 29,
+      "unlock": [
+        "PlayerLevel97",
+        "FinishDrawer28"
+      ],
+      "preDisplay": [
+        "PlayerLevel95",
+        "FinishOrder360014"
+      ],
+      "picture": "story_pic_29",
+      "detailPicture": "story_detail_pic_29",
+      "reward": {
+        "98103": 1,
+        "98403": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "30": {
+      "id": 30,
+      "unlock": [
+        "PlayerLevel99",
+        "FinishDrawer29"
+      ],
+      "preDisplay": [
+        "PlayerLevel97",
+        "FinishOrder361058",
+        "FinishOrder362039",
+        "FinishOrder363022"
+      ],
+      "picture": "story_pic_30",
+      "detailPicture": "story_detail_pic_30",
+      "reward": {
+        "Star": 15,
+        "Coin": 2000,
+        "AdornCoupon": 600
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "31": {
+      "id": 31,
+      "unlock": [
+        "PlayerLevel102",
+        "FinishDrawer30"
+      ],
+      "preDisplay": [
+        "PlayerLevel99",
+        "FinishOrder371025",
+        "FinishOrder372014",
+        "FinishOrder373006",
+        "FinishOrder374004",
+        "FinishOrder375009"
+      ],
+      "picture": "story_pic_31",
+      "detailPicture": "story_detail_pic_31",
+      "reward": {
+        "Star": 20,
+        "Coin": 2000,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "32": {
+      "id": 32,
+      "unlock": [
+        "PlayerLevel109",
+        "UnlockElement5511",
+        "FinishDrawer35"
+      ],
+      "preDisplay": [
+        "PlayerLevel102"
+      ],
+      "picture": "story_pic_32",
+      "detailPicture": "story_detail_pic_32",
+      "reward": {
+        "98804": 1,
+        "AdornCoupon": 400,
+        "Coin": 2000,
+        "CardPoint": 200,
+        "Star": 15
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "33": {
+      "id": 33,
+      "unlock": [
+        "PlayerLevel115",
+        "FinishDrawer32"
+      ],
+      "preDisplay": [
+        "PlayerLevel112"
+      ],
+      "picture": "story_pic_33",
+      "detailPicture": "story_detail_pic_33",
+      "reward": {
+        "Star": 10,
+        "Coin": 2000,
+        "AdornCoupon": 288,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "34": {
+      "id": 34,
+      "unlock": [
+        "PlayerLevel81",
+        "UnlockElement70101"
+      ],
+      "preDisplay": [
+        "PlayerLevel81",
+        "UnlockElement70101"
+      ],
+      "picture": "story_pic_34",
+      "detailPicture": "story_detail_pic_34",
+      "reward": {
+        "Star": 10,
+        "Coin": 2000,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "35": {
+      "id": 35,
+      "unlock": [
+        "PlayerLevel107",
+        "FinishDrawer31"
+      ],
+      "preDisplay": [
+        "PlayerLevel102",
+        "FinishOrder390001",
+        "FinishOrder420001"
+      ],
+      "picture": "story_pic_35",
+      "detailPicture": "story_detail_pic_35",
+      "reward": {
+        "Star": 30,
+        "Coin": 10000,
+        "AdornCoupon": 600,
+        "CardPoint": 400
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70201
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "36": {
+      "id": 36,
+      "unlock": [
+        "PlayerLevel125",
+        "FinishDrawer35"
+      ],
+      "preDisplay": [
+        "PlayerLevel122"
+      ],
+      "picture": "story_pic_36",
+      "detailPicture": "story_detail_pic_36",
+      "reward": {
+        "Star": 30,
+        "Coin": 10000,
+        "AdornCoupon": 688,
+        "CardPoint": 400
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70311
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "37": {
+      "id": 37,
+      "unlock": [
+        "PlayerLevel14"
+      ],
+      "preDisplay": [
+        "PlayerLevel12"
+      ],
+      "picture": "story_pic_37",
+      "detailPicture": "story_detail_pic_37",
+      "reward": {
+        "Star": 5,
+        "Coin": 2000,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "38": {
+      "id": 38,
+      "unlock": [
+        "PlayerLevel30",
+        "FinishDrawer9",
+        "FinishDrawer37"
+      ],
+      "preDisplay": [
+        "FinishOrder110000",
+        "FinishOrder450001"
+      ],
+      "picture": "story_pic_38",
+      "detailPicture": "story_detail_pic_38",
+      "reward": {
+        "Star": 10,
+        "Coin": 2000,
+        "AdornCoupon": 400,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "39": {
+      "id": 39,
+      "unlock": [
+        "PlayerLevel63",
+        "FinishDrawer17",
+        "FinishDrawer38"
+      ],
+      "preDisplay": [
+        "FinishOrder220001",
+        "PlayerLevel58",
+        "FinishOrder460001"
+      ],
+      "picture": "story_pic_39",
+      "detailPicture": "story_detail_pic_39",
+      "reward": {
+        "Star": 5,
+        "Coin": 4000,
+        "CardPoint": 400
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "40": {
+      "id": 40,
+      "unlock": [
+        "PlayerLevel80",
+        "FinishDrawer22",
+        "FinishDrawer39"
+      ],
+      "preDisplay": [
+        "PlayerLevel77",
+        "FinishOrder501014",
+        "FinishOrder470001"
+      ],
+      "picture": "story_pic_40",
+      "detailPicture": "story_detail_pic_40",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 200,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "41": {
+      "id": 41,
+      "unlock": [
+        "PlayerLevel105",
+        "FinishDrawer31",
+        "FinishDrawer40"
+      ],
+      "preDisplay": [
+        "PlayerLevel102",
+        "FinishOrder390001",
+        "FinishOrder420001",
+        "FinishOrder480001"
+      ],
+      "picture": "story_pic_41",
+      "detailPicture": "story_detail_pic_41",
+      "reward": {
+        "Star": 15,
+        "Coin": 4000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "43": {
+      "id": 43,
+      "unlock": [
+        "PlayerLevel125",
+        "FinishDrawer33",
+        "FinishDrawer36"
+      ],
+      "preDisplay": [
+        "PlayerLevel110",
+        "FinishOrder490001"
+      ],
+      "picture": "story_pic_43",
+      "detailPicture": "story_detail_pic_43",
+      "reward": {
+        "Star": 15,
+        "Coin": 4000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70501
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "44": {
+      "id": 44,
+      "unlock": [
+        "PlayerLevel125",
+        "FinishDrawer43"
+      ],
+      "preDisplay": [
+        "PlayerLevel115",
+        "FinishOrder510001"
+      ],
+      "picture": "story_pic_44",
+      "detailPicture": "story_detail_pic_44",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70601
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "45": {
+      "id": 45,
+      "unlock": [
+        "PlayerLevel130",
+        "FinishDrawer44"
+      ],
+      "preDisplay": [
+        "PlayerLevel125",
+        "FinishOrder520001"
+      ],
+      "picture": "story_pic_45",
+      "detailPicture": "story_detail_pic_45",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70701
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "46": {
+      "id": 46,
+      "unlock": [
+        "PlayerLevel130",
+        "FinishDrawer45"
+      ],
+      "preDisplay": [
+        "PlayerLevel130",
+        "FinishOrder530001"
+      ],
+      "picture": "story_pic_46",
+      "detailPicture": "story_detail_pic_46",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70805,
+        70905,
+        90701
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "47": {
+      "id": 47,
+      "unlock": [
+        "PlayerLevel130",
+        "FinishDrawer46"
+      ],
+      "preDisplay": [
+        "PlayerLevel130",
+        "FinishOrder540001"
+      ],
+      "picture": "story_pic_47",
+      "detailPicture": "story_detail_pic_47",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "48": {
+      "id": 48,
+      "unlock": [
+        "PlayerLevel135",
+        "FinishDrawer47"
+      ],
+      "preDisplay": [
+        "PlayerLevel135",
+        "FinishOrder550001"
+      ],
+      "picture": "story_pic_48",
+      "detailPicture": "story_detail_pic_48",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        39001
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "49": {
+      "id": 49,
+      "unlock": [
+        "PlayerLevel135",
+        "FinishDrawer48"
+      ],
+      "preDisplay": [
+        "PlayerLevel135",
+        "FinishOrder560001"
+      ],
+      "picture": "story_pic_49",
+      "detailPicture": "story_detail_pic_49",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        39204
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "50": {
+      "id": 50,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer49"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder570001"
+      ],
+      "picture": "story_pic_50",
+      "detailPicture": "story_detail_pic_50",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83001
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "51": {
+      "id": 51,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer50"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder580001"
+      ],
+      "picture": "story_pic_51",
+      "detailPicture": "story_detail_pic_51",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83041,
+        83042,
+        83043
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "52": {
+      "id": 52,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer51"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder590001"
+      ],
+      "picture": "story_pic_52",
+      "detailPicture": "story_detail_pic_52",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83111
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "53": {
+      "id": 53,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer52"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder600001"
+      ],
+      "picture": "story_pic_53",
+      "detailPicture": "story_detail_pic_53",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83161
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "54": {
+      "id": 54,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer53"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder610001"
+      ],
+      "picture": "story_pic_54",
+      "detailPicture": "story_detail_pic_54",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83286
+      ],
+      "levelUpEleId": [
+        4110,
+        6012
+      ],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "55": {
+      "id": 55,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer54"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder620001"
+      ],
+      "picture": "story_pic_55",
+      "detailPicture": "story_detail_pic_55",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        83361
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "56": {
+      "id": 56,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer55"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder630001"
+      ],
+      "picture": "story_pic_56",
+      "detailPicture": "story_detail_pic_56",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        60211
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "57": {
+      "id": 57,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer56"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder640001"
+      ],
+      "picture": "story_pic_57",
+      "detailPicture": "story_detail_pic_57",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        60251
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 60251,
+      "orderSeriesShowGoose": 0
+    },
+    "58": {
+      "id": 58,
+      "unlock": [
+        "PlayerLevel140",
+        "FinishDrawer57"
+      ],
+      "preDisplay": [
+        "PlayerLevel140",
+        "FinishOrder650001"
+      ],
+      "picture": "story_pic_58",
+      "detailPicture": "story_detail_pic_58",
+      "reward": {
+        "Star": 15,
+        "Coin": 3000,
+        "AdornCoupon": 300,
+        "CardPoint": 200
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        60291
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 60291,
+      "orderSeriesShowGoose": 0
+    },
+    "99": {
+      "id": 99,
+      "unlock": [
+        "FinishDrawer101"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault+PlayerLevel5/CreateVersionGte13+FinishOrder101"
+      ],
+      "picture": "story_pic_099",
+      "detailPicture": "story_detail_pic_099",
+      "reward": {
+        "98731": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        80906,
+        83805,
+        82006
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "100": {
+      "id": 100,
+      "unlock": [
+        "Return",
+        "PlayerLevel10000"
+      ],
+      "preDisplay": [
+        "PlayerLevel10000"
+      ],
+      "picture": "story_pic_100",
+      "detailPicture": "story_detail_pic_100",
+      "reward": {
+        "Star": 20
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "101": {
+      "id": 101,
+      "unlock": [
+        "CreateVersionDefault+PlayerLevel5/CreateVersionGte13+FinishDrawer4"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault/CreateVersionGte13+FinishOrder50001"
+      ],
+      "picture": "adjust_pic01",
+      "detailPicture": "adjust_detail_pic_01",
+      "reward": {
+        "Coin": 1000
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70001
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "102": {
+      "id": 102,
+      "unlock": [
+        "PlayerLevel18",
+        "FinishDrawer5",
+        "FinishDrawer101"
+      ],
+      "preDisplay": [
+        "FinishOrder60001"
+      ],
+      "picture": "story_pic_102",
+      "detailPicture": "story_detail_pic_102",
+      "reward": {
+        "Coin": 1000
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70002
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "103": {
+      "id": 103,
+      "unlock": [
+        "FinishDrawer9",
+        "FinishDrawer102"
+      ],
+      "preDisplay": [
+        "FinishOrder110000"
+      ],
+      "picture": "story_pic_103",
+      "detailPicture": "story_detail_pic_103",
+      "reward": {
+        "Coin": 2000
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70003
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "104": {
+      "id": 104,
+      "unlock": [
+        "PlayerLevel60",
+        "FinishDrawer16",
+        "FinishDrawer103"
+      ],
+      "preDisplay": [
+        "PlayerLevel53",
+        "FinishOrder200004"
+      ],
+      "picture": "story_pic_104",
+      "detailPicture": "story_detail_pic_104",
+      "reward": {
+        "Coin": 3000
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        70004
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "203": {
+      "id": 203,
+      "unlock": [
+        "UnenteredBranchDrawer461",
+        "FinishDrawer7"
+      ],
+      "preDisplay": [
+        "UnenteredBranchDrawer461",
+        "PlayerLevel39",
+        "FinishOrder230001"
+      ],
+      "picture": "story_pic_203",
+      "detailPicture": "story_detail_pic_203",
+      "reward": {
+        "Adorn1029": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        60001
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 60001,
+      "orderSeriesShowGoose": 0
+    },
+    "213": {
+      "id": 213,
+      "unlock": [
+        "UnenteredBranchDrawer801",
+        "FinishDrawer34",
+        "FinishDrawer24"
+      ],
+      "preDisplay": [
+        "UnenteredBranchDrawer801",
+        "PlayerLevel83",
+        "FinishOrder311001"
+      ],
+      "picture": "story_pic_213",
+      "detailPicture": "story_detail_pic_213",
+      "reward": {
+        "AdornSkin800104": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [
+        60002
+      ],
+      "levelUpEleId": [],
+      "giveGeneratorId": 60002,
+      "orderSeriesShowGoose": 0
+    },
+    "993": {
+      "id": 993,
+      "unlock": [
+        "PlayerLevel8"
+      ],
+      "preDisplay": [
+        "CreateVersionDefault/CreateVersionGte13"
+      ],
+      "picture": "story_pic_993",
+      "detailPicture": "story_detail_pic_993",
+      "reward": {},
+      "isGog": 0,
+      "isSystemOrder": 1,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "994": {
+      "id": 994,
+      "unlock": [
+        "CreateVersionGte13+PlayerLevel14+FinishDrawer995"
+      ],
+      "preDisplay": [
+        "CreateVersionGte13+FinishOrder2001"
+      ],
+      "picture": "story_pic_03",
+      "detailPicture": "story_detail_pic_03",
+      "reward": {
+        "Star": 5,
+        "Coin": 500,
+        "AdornCoupon": 188
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "995": {
+      "id": 995,
+      "unlock": [
+        "CreateVersionGte13+PlayerLevel10+FinishDrawer996"
+      ],
+      "preDisplay": [
+        "CreateVersionGte13+FinishOrder1034"
+      ],
+      "picture": "story_pic_02",
+      "detailPicture": "story_detail_pic_02",
+      "reward": {
+        "Energy": 40,
+        "Coin": 350,
+        "AdornCoupon": 100
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "996": {
+      "id": 996,
+      "unlock": [
+        "CreateVersionGte13+PlayerLevel1"
+      ],
+      "preDisplay": [
+        "CreateVersionGte13"
+      ],
+      "picture": "story_pic_01",
+      "detailPicture": "story_detail_pic_01",
+      "reward": {
+        "Energy": 30,
+        "Coin": 200,
+        "AdornCoupon": 66
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "997": {
+      "id": 997,
+      "unlock": [
+        "FinishOrder20002",
+        "CreateVersion10"
+      ],
+      "preDisplay": [
+        "CreateVersion10"
+      ],
+      "picture": "story_pic_997",
+      "detailPicture": "story_detail_pic_997",
+      "reward": {},
+      "isGog": 1,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    },
+    "998": {
+      "id": 998,
+      "unlock": [
+        "Return",
+        "PlayerLevel4"
+      ],
+      "preDisplay": [
+        "Return",
+        "PlayerLevel4"
+      ],
+      "picture": "story_pic_100",
+      "detailPicture": "story_detail_pic_100",
+      "reward": {
+        "98404": 1
+      },
+      "isGog": 0,
+      "isSystemOrder": 0,
+      "newGeneratorId": [],
+      "levelUpEleId": [],
+      "giveGeneratorId": 0,
+      "orderSeriesShowGoose": 0
+    }
+  }
+}

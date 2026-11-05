@@ -1,0 +1,832 @@
+{
+  "bobo": {
+    "id": "bobo",
+    "mainTitle": "Texture/UI/AtaiQuestion/AQ_bg_02",
+    "mainForeground": "Texture/UI/AtaiQuestion/AQ_bg_01",
+    "mainBackground": "Texture/UI/AtaiQuestion/AQ_pic_01",
+    "upGiftSeries": 0,
+    "downGiftSeries": 0,
+    "leftGiftSeriesPic": "",
+    "rightGiftSeriesPic": "",
+    "dowmGiftSeriesPic": "",
+    "explainImagePath": "Texture/UI/AtaiQuestion/AQ_pic_explain",
+    "rankImgPath": "Texture/UI/AtaiQuestion/AQ_rankpic_01",
+    "pointIconPath": "Texture/UI/AtaiQuestion/AQ_icon_point",
+    "rankinPath": "",
+    "initPoint": 0,
+    "rankRedLine": 300,
+    "worldProgressPoint": [],
+    "worldProgressReward": [],
+    "rankRewardImage": "",
+    "personalProgressPoint": [
+      3,
+      47,
+      50,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      200
+    ],
+    "personalProgressReward": [
+      {
+        "Coin": 50,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "98103": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "Diamond": 15,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin100705": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 30,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin201506": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "initWorldElementID": 71101,
+    "upGradeElementWorldPoint": [],
+    "upGradeElementKillMonster": [
+      10,
+      28
+    ],
+    "upGradeElementID": [
+      71101,
+      71102
+    ],
+    "recoveryElementSeries": [
+      "World_1",
+      "Order_World_2",
+      "World_3",
+      "Order_Monster",
+      "Chest_World1"
+    ],
+    "recoveryChangeTo": 99101,
+    "orderElementID": [
+      71001,
+      71002,
+      71003,
+      71004,
+      71005,
+      71204,
+      71006,
+      71007
+    ],
+    "displayElementID": [
+      71001,
+      71002,
+      71003,
+      71004,
+      71005,
+      71204,
+      71006,
+      71007
+    ],
+    "fillElementID": [],
+    "personalRewardMailID": "101",
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000
+  },
+  "bobo2": {
+    "id": "bobo2",
+    "mainTitle": "Texture/UI/AtaiQuestion/AQ_bg_02",
+    "mainForeground": "Texture/UI/AtaiQuestion/AQ_bg_03",
+    "mainBackground": "Texture/UI/AtaiQuestion/AQ_pic_01",
+    "upGiftSeries": 69,
+    "downGiftSeries": 70,
+    "leftGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform01",
+    "rightGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform02",
+    "dowmGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_gift",
+    "explainImagePath": "Texture/UI/AtaiQuestion/AQ_pic_explain_02",
+    "rankImgPath": "Texture/UI/AtaiQuestion/AQ_rankpic_02",
+    "pointIconPath": "Texture/UI/AtaiQuestion/AQ_icon_point",
+    "rankinPath": "Texture/UI/AtaiQuestion/AQ_rankin_02",
+    "initPoint": 0,
+    "rankRedLine": 300,
+    "worldProgressPoint": [],
+    "worldProgressReward": [],
+    "rankRewardImage": "",
+    "personalProgressPoint": [
+      3,
+      47,
+      50,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      200
+    ],
+    "personalProgressReward": [
+      {
+        "CardPoint": 20,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "CardPoint": 30,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "CardPoint": 50,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin102705": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardPoint": 100,
+        "Star": 2
+      },
+      {
+        "Diamond": 30,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 2
+      },
+      {
+        "CardPoint": 200,
+        "Star": 2
+      },
+      {
+        "AdornSkin102806": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "initWorldElementID": 71101,
+    "upGradeElementWorldPoint": [],
+    "upGradeElementKillMonster": [
+      10,
+      28
+    ],
+    "upGradeElementID": [
+      71101,
+      71102
+    ],
+    "recoveryElementSeries": [
+      "World_1",
+      "Order_World_2",
+      "World_3",
+      "World_2",
+      "Order_Monster",
+      "Chest_World1",
+      "Order_Braveman",
+      "Order_World_3"
+    ],
+    "recoveryChangeTo": 99101,
+    "orderElementID": [
+      71001,
+      71002,
+      71004,
+      71005,
+      71601,
+      71007,
+      71008,
+      71009
+    ],
+    "displayElementID": [
+      71002,
+      71004,
+      71005,
+      71602,
+      71603,
+      71006,
+      71007,
+      71008,
+      71009,
+      71601
+    ],
+    "fillElementID": [
+      71001,
+      71002,
+      71004,
+      71005,
+      71007,
+      71008,
+      71009,
+      71010,
+      71601,
+      71602,
+      71603,
+      71501,
+      71502,
+      71503
+    ],
+    "personalRewardMailID": "102",
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000
+  },
+  "bobo3": {
+    "id": "bobo3",
+    "mainTitle": "Texture/UI/AtaiQuestion/AQ_bg_04",
+    "mainForeground": "Texture/UI/AtaiQuestion/AQ_bg_05",
+    "mainBackground": "Texture/UI/AtaiQuestion/AQ_pic_01",
+    "upGiftSeries": 0,
+    "downGiftSeries": 999004,
+    "leftGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform01",
+    "rightGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform02",
+    "dowmGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_gift_520",
+    "explainImagePath": "Texture/UI/AtaiQuestion/AQ_pic_explain_03",
+    "rankImgPath": "Texture/UI/AtaiQuestion/AQ_rankpic_03",
+    "pointIconPath": "Texture/UI/AtaiQuestion/AQ_icon_point",
+    "rankinPath": "Texture/UI/AtaiQuestion/AQ_rankin_03",
+    "initPoint": 0,
+    "rankRedLine": 2000,
+    "worldProgressPoint": [],
+    "worldProgressReward": [],
+    "rankRewardImage": "",
+    "personalProgressPoint": [
+      3,
+      47,
+      50,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      200
+    ],
+    "personalProgressReward": [
+      {
+        "CardPoint": 20,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "CardPoint": 30,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "CardPoint": 50,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "98701": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardPoint": 100,
+        "Star": 2
+      },
+      {
+        "Diamond": 30,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 2
+      },
+      {
+        "CardPoint": 200,
+        "Star": 2
+      },
+      {
+        "AdornSkin300105": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "initWorldElementID": 71101,
+    "upGradeElementWorldPoint": [],
+    "upGradeElementKillMonster": [
+      10,
+      28
+    ],
+    "upGradeElementID": [
+      71101,
+      71102
+    ],
+    "recoveryElementSeries": [
+      "World_1",
+      "Order_World_2",
+      "World_3",
+      "World_2",
+      "Order_Monster",
+      "Chest_World1",
+      "Order_Braveman",
+      "Order_World_3",
+      "Order_World_4",
+      "Chest_World_4"
+    ],
+    "recoveryChangeTo": 99101,
+    "orderElementID": [
+      71001,
+      71002,
+      71003,
+      71004,
+      71005,
+      71011,
+      71008,
+      71011
+    ],
+    "displayElementID": [
+      71002,
+      71003,
+      71004,
+      71005,
+      71011,
+      71006,
+      71007,
+      71008,
+      71009,
+      71701
+    ],
+    "fillElementID": [
+      71001,
+      71002,
+      71003,
+      71004,
+      71005,
+      71008,
+      71010,
+      71011,
+      71501,
+      71502,
+      71503,
+      71701
+    ],
+    "personalRewardMailID": "103",
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000
+  },
+  "bobo4": {
+    "id": "bobo4",
+    "mainTitle": "Texture/UI/AtaiQuestion/AQ_bg_general",
+    "mainForeground": "Texture/UI/AtaiQuestion/AQ_bg_foreground",
+    "mainBackground": "Texture/UI/AtaiQuestion/AQ_pic_01",
+    "upGiftSeries": 50,
+    "downGiftSeries": 129,
+    "leftGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform01",
+    "rightGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_uniform02",
+    "dowmGiftSeriesPic": "Texture/UI/AtaiQuestion/AQ_icon_gift_down",
+    "explainImagePath": "Texture/UI/AtaiQuestion/AQ_pic_explain_03",
+    "rankImgPath": "Texture/UI/AtaiQuestion/AQ_rankpic_general",
+    "pointIconPath": "Texture/UI/AtaiQuestion/AQ_icon_point",
+    "rankinPath": "Texture/UI/AtaiQuestion/AQ_rankin_general",
+    "initPoint": 0,
+    "rankRedLine": 3000,
+    "worldProgressPoint": [],
+    "worldProgressReward": [],
+    "rankRewardImage": "",
+    "personalProgressPoint": [
+      3,
+      47,
+      50,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      200,
+      200,
+      200,
+      200,
+      400
+    ],
+    "personalProgressReward": [
+      {
+        "Coin": 50,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "CardBag30008": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "CardBag30008": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98803": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "CardBag30008": 2,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98402": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 3
+      },
+      {
+        "90501": 1,
+        "Star": 3
+      },
+      {
+        "98809": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin901303": 1,
+        "Star": 4
+      },
+      {
+        "98402": 1,
+        "Star": 3
+      },
+      {
+        "90902": 1,
+        "Star": 3
+      },
+      {
+        "98809": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin901304": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "initPersonalGetLike": 0,
+    "maxGiveLike": 0,
+    "giveLikeReward": {},
+    "initWorldElementID": 71101,
+    "upGradeElementWorldPoint": [],
+    "upGradeElementKillMonster": [
+      10,
+      28
+    ],
+    "upGradeElementID": [
+      71101,
+      71102
+    ],
+    "recoveryElementSeries": [
+      "World_1",
+      "Order_World_2",
+      "World_3",
+      "World_2",
+      "Order_Monster",
+      "Chest_World1",
+      "Order_Braveman",
+      "Order_World_3",
+      "Order_World_4",
+      "Chest_World_4",
+      "Prop_Limit_5",
+      "Order_Bobo4",
+      "World_5",
+      "World_6",
+      "World_7",
+      "Order_Monster1"
+    ],
+    "recoveryChangeTo": 99101,
+    "orderElementID": [
+      71001,
+      71005,
+      71007,
+      71008,
+      71009,
+      71011,
+      71801,
+      71802
+    ],
+    "displayElementID": [
+      71002,
+      71003,
+      71004,
+      71005,
+      71011,
+      71006,
+      71007,
+      71008,
+      71009,
+      71801,
+      71802
+    ],
+    "fillElementID": [
+      71002,
+      71003,
+      71004,
+      71005,
+      71006,
+      71007,
+      71008,
+      71009,
+      71011,
+      71801,
+      71802
+    ],
+    "personalRewardMailID": "104",
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "2001": {
+    "id": 2001,
+    "requiredDays": 8,
+    "reward": {
+      "Coin": 200,
+      "Energy": 20
+    }
+  },
+  "2002": {
+    "id": 2002,
+    "requiredDays": 15,
+    "reward": {
+      "98802": 1,
+      "Diamond": 5,
+      "Energy": 40
+    }
+  },
+  "2003": {
+    "id": 2003,
+    "requiredDays": 22,
+    "reward": {
+      "98803": 1,
+      "Diamond": 8,
+      "Energy": 60
+    }
+  },
+  "2004": {
+    "id": 2004,
+    "requiredDays": 28,
+    "reward": {
+      "98804": 1,
+      "Energy": 100,
+      "Diamond": 10
+    }
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "match1_1": {
+    "101": {
+      "id": 101,
+      "nextmatchId": 102,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "102": {
+      "id": 102,
+      "nextmatchId": 103,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "103": {
+      "id": 103,
+      "nextmatchId": 104,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "104": {
+      "id": 104,
+      "nextmatchId": 105,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "105": {
+      "id": 105,
+      "nextmatchId": 106,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "106": {
+      "id": 106,
+      "nextmatchId": 107,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "107": {
+      "id": 107,
+      "nextmatchId": 108,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "108": {
+      "id": 108,
+      "nextmatchId": 109,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "109": {
+      "id": 109,
+      "nextmatchId": 110,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "110": {
+      "id": 110,
+      "nextmatchId": 111,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "111": {
+      "id": 111,
+      "nextmatchId": 112,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "112": {
+      "id": 112,
+      "nextmatchId": 113,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "113": {
+      "id": 113,
+      "nextmatchId": 114,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "114": {
+      "id": 114,
+      "nextmatchId": 115,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    },
+    "115": {
+      "id": 115,
+      "nextmatchId": 115,
+      "robotRankName": "oneVsOne1",
+      "playerExpectConsume": 125,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 131.25
+    }
+  },
+  "match1_2": {
+    "201": {
+      "id": 201,
+      "nextmatchId": 202,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "202": {
+      "id": 202,
+      "nextmatchId": 203,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "203": {
+      "id": 203,
+      "nextmatchId": 204,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "204": {
+      "id": 204,
+      "nextmatchId": 205,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "205": {
+      "id": 205,
+      "nextmatchId": 206,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "206": {
+      "id": 206,
+      "nextmatchId": 207,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "207": {
+      "id": 207,
+      "nextmatchId": 208,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "208": {
+      "id": 208,
+      "nextmatchId": 209,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "209": {
+      "id": 209,
+      "nextmatchId": 210,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "210": {
+      "id": 210,
+      "nextmatchId": 211,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "211": {
+      "id": 211,
+      "nextmatchId": 212,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "212": {
+      "id": 212,
+      "nextmatchId": 213,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "213": {
+      "id": 213,
+      "nextmatchId": 214,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "214": {
+      "id": 214,
+      "nextmatchId": 215,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    },
+    "215": {
+      "id": 215,
+      "nextmatchId": 215,
+      "robotRankName": "oneVsOne2",
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 157.5
+    }
+  },
+  "match1_3": {
+    "301": {
+      "id": 301,
+      "nextmatchId": 302,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "302": {
+      "id": 302,
+      "nextmatchId": 303,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "303": {
+      "id": 303,
+      "nextmatchId": 304,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "304": {
+      "id": 304,
+      "nextmatchId": 305,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "305": {
+      "id": 305,
+      "nextmatchId": 306,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "306": {
+      "id": 306,
+      "nextmatchId": 307,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "307": {
+      "id": 307,
+      "nextmatchId": 308,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "308": {
+      "id": 308,
+      "nextmatchId": 309,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "309": {
+      "id": 309,
+      "nextmatchId": 310,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "310": {
+      "id": 310,
+      "nextmatchId": 311,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "311": {
+      "id": 311,
+      "nextmatchId": 312,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "312": {
+      "id": 312,
+      "nextmatchId": 313,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "313": {
+      "id": 313,
+      "nextmatchId": 314,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "314": {
+      "id": 314,
+      "nextmatchId": 315,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    },
+    "315": {
+      "id": 315,
+      "nextmatchId": 315,
+      "robotRankName": "oneVsOne3",
+      "playerExpectConsume": 183,
+      "expectCost": 100,
+      "reward": {
+        "Energy": 10
+      },
+      "finishScore": 100,
+      "turnDiff": 192.15
+    }
+  }
+}

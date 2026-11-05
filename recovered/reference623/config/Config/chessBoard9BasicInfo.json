@@ -1,0 +1,57 @@
+{
+  "holmes2": {
+    "id": "holmes2",
+    "unlockEntrance": 15,
+    "board": 67,
+    "boardId": [
+      101
+    ],
+    "eventEnergyID": 99,
+    "task": [
+      1001
+    ],
+    "prepareDuration": 3,
+    "isTitle": 1,
+    "rightSideBtn": 1,
+    "isRank": 1,
+    "isNewEnter": 1,
+    "finishScore": 0,
+    "worldRankScore": 0,
+    "taskgoose": "1089",
+    "EntranceIcon": "250522",
+    "unlockHappyEnd": [],
+    "giftSeriesId": [
+      270
+    ],
+    "endGameImagePath": "act_pic_ending",
+    "exchangeCoinOffer": [],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "textColor": "#764F4B",
+    "rankColor": "#AF6D31",
+    "rankLineColor": "#BDA38B",
+    "extraShop": 0,
+    "rankAnim": "TimeOrderhuashenge",
+    "showStageTwo": 0,
+    "canSell": 0,
+    "canBingo": 0,
+    "switchMp3": "",
+    "waterId": "",
+    "progressWaterId": "",
+    "rollingId": "",
+    "claimTime": 7200,
+    "extendExpires": 0,
+    "extendTime": 0,
+    "extendGiftID": 0,
+    "boardAnim": "fuermosirukou",
+    "TitleArea": [
+      0,
+      -11
+    ]
+  }
+}

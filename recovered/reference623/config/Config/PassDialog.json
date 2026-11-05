@@ -1,0 +1,323 @@
+{
+  "feather": {
+    "id": "feather",
+    "beginDialog": 15001,
+    "firstGetElement": [
+      "99914:15003",
+      "999141:15003",
+      "999142:15003",
+      "999143:15003"
+    ],
+    "getPassport": 15002,
+    "endDialog": 15004
+  },
+  "balloon": {
+    "id": "balloon",
+    "beginDialog": 15101,
+    "firstGetElement": [
+      "99924:15103",
+      "999241:15103",
+      "999242:15103",
+      "999243:15103"
+    ],
+    "getPassport": 15102,
+    "endDialog": 15104
+  },
+  "bell": {
+    "id": "bell",
+    "beginDialog": 15201,
+    "firstGetElement": [
+      "99934:15203"
+    ],
+    "getPassport": 15202,
+    "endDialog": 15204
+  },
+  "riceball": {
+    "id": "riceball",
+    "beginDialog": 15301,
+    "firstGetElement": [
+      "99944:15303"
+    ],
+    "getPassport": 15302,
+    "endDialog": 15304
+  },
+  "flower": {
+    "id": "flower",
+    "beginDialog": 15401,
+    "firstGetElement": [
+      "99954:15403"
+    ],
+    "getPassport": 15402,
+    "endDialog": 15404
+  },
+  "honey": {
+    "id": "honey",
+    "beginDialog": 15501,
+    "firstGetElement": [
+      "99964:15503",
+      "999641:15503",
+      "999642:15503",
+      "999643:15503"
+    ],
+    "getPassport": 15502,
+    "endDialog": 15504
+  },
+  "phoenix": {
+    "id": "phoenix",
+    "beginDialog": 15601,
+    "firstGetElement": [
+      "99974:15603",
+      "999741:15603",
+      "999742:15603",
+      "999743:15603",
+      "999744:15603"
+    ],
+    "getPassport": 15602,
+    "endDialog": 15604
+  },
+  "sea": {
+    "id": "sea",
+    "beginDialog": 15801,
+    "firstGetElement": [
+      "99986:15803",
+      "999861:15803",
+      "999862:15803",
+      "999863:15803",
+      "999864:15803",
+      "999865:15803",
+      "999866:15803"
+    ],
+    "getPassport": 15802,
+    "endDialog": 15804
+  },
+  "coal": {
+    "id": "coal",
+    "beginDialog": 15901,
+    "firstGetElement": [
+      "99994:15903",
+      "9999114:15903",
+      "9999124:15903",
+      "9999134:15903",
+      "9999144:15903"
+    ],
+    "getPassport": 15902,
+    "endDialog": 15904
+  },
+  "incense": {
+    "id": "incense",
+    "beginDialog": 15111,
+    "firstGetElement": [
+      "99894:15113",
+      "998941:15113",
+      "998942:15113",
+      "998943:15113",
+      "998944:15113"
+    ],
+    "getPassport": 15112,
+    "endDialog": 15114
+  },
+  "tale": {
+    "id": "tale",
+    "beginDialog": 15721,
+    "firstGetElement": [
+      "99794:15723",
+      "997941:15723",
+      "997942:15723",
+      "997943:15723",
+      "997944:15723"
+    ],
+    "getPassport": 15722,
+    "endDialog": 15724
+  },
+  "feather2": {
+    "id": "feather2",
+    "beginDialog": 15741,
+    "firstGetElement": [
+      "99694:15743",
+      "996941:15743",
+      "996942:15743",
+      "996943:15743",
+      "996944:15743"
+    ],
+    "getPassport": 15742,
+    "endDialog": 15744
+  },
+  "feeder": {
+    "id": "feeder",
+    "beginDialog": 15751,
+    "firstGetElement": [
+      "994942:15753",
+      "994943:15753",
+      "994944:15753",
+      "99494:15753",
+      "994941:15753"
+    ],
+    "getPassport": 15752,
+    "endDialog": 15754
+  },
+  "nian": {
+    "id": "nian",
+    "beginDialog": 15761,
+    "firstGetElement": [
+      "99394:15763",
+      "993942:15763",
+      "993943:15763",
+      "993944:15763",
+      "993945:15763",
+      "993946:15763",
+      "993947:15763"
+    ],
+    "getPassport": 15762,
+    "endDialog": 15764
+  },
+  "travel": {
+    "id": "travel",
+    "beginDialog": 15821,
+    "firstGetElement": [
+      "99294:15823",
+      "992942:15823",
+      "992943:15823",
+      "992944:15823",
+      "992945:15823",
+      "992946:15823",
+      "992947:15823",
+      "992948:15823"
+    ],
+    "getPassport": 15822,
+    "endDialog": 15824
+  },
+  "viking": {
+    "id": "viking",
+    "beginDialog": 15781,
+    "firstGetElement": [
+      "99194:15783",
+      "991942:15783",
+      "991943:15783",
+      "991944:15783",
+      "991945:15783",
+      "991946:15783",
+      "991947:15783"
+    ],
+    "getPassport": 15782,
+    "endDialog": 15784
+  },
+  "alice": {
+    "id": "alice",
+    "beginDialog": 15831,
+    "firstGetElement": [
+      "99094:15833",
+      "990941:15833",
+      "990942:15833",
+      "990943:15833",
+      "990944:15833",
+      "990945:15833"
+    ],
+    "getPassport": 15832,
+    "endDialog": 15834
+  },
+  "gourmet": {
+    "id": "gourmet",
+    "beginDialog": 15841,
+    "firstGetElement": [
+      "99084:15843",
+      "990841:15843",
+      "990842:15843",
+      "990843:15843",
+      "990844:15843",
+      "990845:15843",
+      "990846:15843"
+    ],
+    "getPassport": 15842,
+    "endDialog": 15844
+  },
+  "zhenhuan1": {
+    "id": "zhenhuan1",
+    "beginDialog": 15611,
+    "firstGetElement": [
+      "99884:15613",
+      "998841:15613",
+      "998842:15613",
+      "998843:15613",
+      "998844:15613",
+      "998845:15613",
+      "998846:15613",
+      "998847:15613"
+    ],
+    "getPassport": 15612,
+    "endDialog": 15614
+  },
+  "zhenhuan2": {
+    "id": "zhenhuan2",
+    "beginDialog": 15814,
+    "firstGetElement": [
+      "99874:15816",
+      "998741:15816",
+      "998742:15816",
+      "998743:15816",
+      "998744:15816",
+      "998745:15816",
+      "998746:15816"
+    ],
+    "getPassport": 15815,
+    "endDialog": 15817
+  },
+  "broyale": {
+    "id": "broyale",
+    "beginDialog": 15825,
+    "firstGetElement": [
+      "99864:15826",
+      "998641:15826",
+      "998642:15826",
+      "998643:15826",
+      "998644:15826",
+      "998645:15826",
+      "998646:15826"
+    ],
+    "getPassport": 15827,
+    "endDialog": 15828
+  },
+  "mooncake": {
+    "id": "mooncake",
+    "beginDialog": 15005,
+    "firstGetElement": [
+      "99844:15007",
+      "998441:15007",
+      "998442:15007",
+      "998443:15007",
+      "998444:15007",
+      "998445:15007",
+      "998446:15007",
+      "998447:15007",
+      "998448:15007"
+    ],
+    "getPassport": 15006,
+    "endDialog": 15008
+  },
+  "ufo": {
+    "id": "ufo",
+    "beginDialog": 15012,
+    "firstGetElement": [
+      "99834:15014",
+      "998341:15014",
+      "998342:15014",
+      "998343:15014",
+      "998344:15014",
+      "998345:15014"
+    ],
+    "getPassport": 15013,
+    "endDialog": 15015
+  },
+  "mirror": {
+    "id": "mirror",
+    "beginDialog": 15016,
+    "firstGetElement": [
+      "99824:15018",
+      "998241:15018",
+      "998242:15018",
+      "998243:15018",
+      "998244:15018"
+    ],
+    "getPassport": 15017,
+    "endDialog": 15019
+  }
+}

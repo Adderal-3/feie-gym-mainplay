@@ -1,0 +1,26 @@
+{
+  "race1": {
+    "id": "race1",
+    "outLineColor": "#862C10",
+    "router": [
+      "rank1_1",
+      "rank1_2",
+      "rank1_3"
+    ],
+    "lineColor": "#e3aaea",
+    "beginDialog": 18259,
+    "endDialogWin": 18260
+  },
+  "race2": {
+    "id": "race2",
+    "outLineColor": "#3b4280",
+    "router": [
+      "rank2_1",
+      "rank2_2",
+      "rank2_3"
+    ],
+    "lineColor": "#69b3f2",
+    "beginDialog": 18263,
+    "endDialogWin": 18264
+  }
+}

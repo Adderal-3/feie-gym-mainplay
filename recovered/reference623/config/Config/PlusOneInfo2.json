@@ -1,0 +1,42 @@
+{
+  "997006": {
+    "activityID": "997006",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "seriesInclude": [
+      9970061,
+      9970062,
+      9970063,
+      9970064
+    ],
+    "autoOpenFlag": 0,
+    "tagText": [
+      "189%",
+      "198%",
+      "199%",
+      "177%"
+    ],
+    "hideInhome": 1
+  },
+  "997008": {
+    "activityID": "997008",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "seriesInclude": [
+      9970081,
+      9970082,
+      9970083,
+      9970084
+    ],
+    "autoOpenFlag": 0,
+    "tagText": [
+      "189%",
+      "198%",
+      "199%",
+      "177%"
+    ],
+    "hideInhome": 1
+  }
+}

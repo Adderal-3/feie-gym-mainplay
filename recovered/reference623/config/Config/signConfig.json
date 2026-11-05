@@ -1,0 +1,272 @@
+{
+  "sign1": {
+    "id": "sign1",
+    "signBackground": "DailyReward/DR_pic_2301",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Goose2030": 1
+    },
+    "signTime": 20,
+    "grandRewardUnlock": 15,
+    "freeGiftPic": "ui_bg_freegem_06",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign2": {
+    "id": "sign2",
+    "signBackground": "DailyReward/DR_pic_2401",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Uniform3001": 1
+    },
+    "signTime": 10,
+    "grandRewardUnlock": 7,
+    "freeGiftPic": "ui_bg_freegem_08",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign999": {
+    "id": "sign999",
+    "signBackground": "DailyReward/DR_pic_newbie",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "90602": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 7,
+    "freeGiftPic": "ui_bg_freegem_newbie",
+    "signCost": {},
+    "signCostAD": 1
+  },
+  "sign3": {
+    "id": "sign3",
+    "signBackground": "DailyReward/DR_pic_newbie",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Frame3055": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 7,
+    "freeGiftPic": "ui_bg_freegem_newbie",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign4": {
+    "id": "sign4",
+    "signBackground": "DailyReward/DR_pic_newbie",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Frame3055": 1
+    },
+    "signTime": 7,
+    "grandRewardUnlock": 5,
+    "freeGiftPic": "ui_bg_freegem_daily",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign5": {
+    "id": "sign5",
+    "signBackground": "DailyReward/DR_pic_2405",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Goose2070": 1
+    },
+    "signTime": 15,
+    "grandRewardUnlock": 12,
+    "freeGiftPic": "ui_bg_freegem_09",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign6": {
+    "id": "sign6",
+    "signBackground": "DailyReward/DR_pic_2406",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Goose1049": 1
+    },
+    "signTime": 20,
+    "grandRewardUnlock": 15,
+    "freeGiftPic": "ui_bg_freegem_en",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign7": {
+    "id": "sign7",
+    "signBackground": "DailyReward/DR_pic_energy",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "90302": 1
+    },
+    "signTime": 12,
+    "grandRewardUnlock": 9,
+    "freeGiftPic": "ui_bg_freegem_energy",
+    "signCost": {
+      "Diamond": 10
+    },
+    "signCostAD": 0
+  },
+  "sign8": {
+    "id": "sign8",
+    "signBackground": "DailyReward/DR_pic_2408_jp",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Frame3069": 1
+    },
+    "signTime": 20,
+    "grandRewardUnlock": 15,
+    "freeGiftPic": "ui_bg_freegem_99",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign9": {
+    "id": "sign9",
+    "signBackground": "DailyReward/DR_pic_2411",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Frame3074": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 7,
+    "freeGiftPic": "ui_bg_freegem_kr",
+    "signCost": {
+      "Diamond": 5
+    },
+    "signCostAD": 0
+  },
+  "sign10": {
+    "id": "sign10",
+    "signBackground": "DailyReward/DR_pic_Christmas",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Frame3076": 1
+    },
+    "signTime": 6,
+    "grandRewardUnlock": 6,
+    "freeGiftPic": "ui_bg_freegem_Christmas",
+    "signCost": {
+      "Diamond": 5
+    },
+    "signCostAD": 0
+  },
+  "sign11": {
+    "id": "sign11",
+    "signBackground": "DailyReward/DR_pic_2501",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Goose2093": 1
+    },
+    "signTime": 15,
+    "grandRewardUnlock": 12,
+    "freeGiftPic": "ui_bg_freegem_10",
+    "signCost": {
+      "Diamond": 100
+    },
+    "signCostAD": 0
+  },
+  "sign12": {
+    "id": "sign12",
+    "signBackground": "DailyReward/DR_pic_newyear",
+    "canLevel": 4,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "AdornSkin201207": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 7,
+    "freeGiftPic": "ui_bg_freegem_newyear",
+    "signCost": {
+      "Diamond": 5
+    },
+    "signCostAD": 0
+  },
+  "sign13": {
+    "id": "sign13",
+    "signBackground": "DailyReward/DR_pic_2502",
+    "canLevel": 12,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Film9": 1
+    },
+    "signTime": 6,
+    "grandRewardUnlock": 6,
+    "freeGiftPic": "ui_bg_freegem_2502",
+    "signCost": {
+      "Diamond": 20
+    },
+    "signCostAD": 0
+  },
+  "sign14": {
+    "id": "sign14",
+    "signBackground": "DailyReward/DR_pic_2502",
+    "canLevel": 9,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "Film9": 1
+    },
+    "signTime": 6,
+    "grandRewardUnlock": 6,
+    "freeGiftPic": "ui_bg_freegem_2502",
+    "signCost": {
+      "Diamond": 20
+    },
+    "signCostAD": 0
+  },
+  "sign15": {
+    "id": "sign15",
+    "signBackground": "DailyReward/DR_pic_2510",
+    "canLevel": 9,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "JobBadge6002": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 9,
+    "freeGiftPic": "ui_bg_freegem_2510",
+    "signCost": {
+      "Diamond": 20
+    },
+    "signCostAD": 0
+  },
+  "sign16": {
+    "id": "sign16",
+    "signBackground": "DailyReward/DR_pic_2601",
+    "canLevel": 9,
+    "signRefreshTime": 0,
+    "grandReward": {
+      "JobBadge6005": 1
+    },
+    "signTime": 9,
+    "grandRewardUnlock": 9,
+    "freeGiftPic": "ui_bg_freegem_2601",
+    "signCost": {
+      "Diamond": 20
+    },
+    "signCostAD": 0
+  }
+}

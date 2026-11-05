@@ -1,0 +1,29 @@
+{
+  "101": {
+    "id": 101,
+    "belong": "bobo",
+    "rankId": 1,
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "AdornSkin501505": 1,
+      "AdornSkin200505": 1
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "102": {
+    "id": 102,
+    "belong": "bobo",
+    "rankId": 2,
+    "startRank": 2,
+    "endRank": 10,
+    "icon": "icon_rankreward_02",
+    "rankReward": {
+      "AdornSkin200505": 1
+    },
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

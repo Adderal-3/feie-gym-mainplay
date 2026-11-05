@@ -1,0 +1,11 @@
+{
+  "1": {
+    "id": 1,
+    "dailyReward": {
+      "Diamond": 10,
+      "Energy": 88
+    },
+    "extraBurstBubbleTimes": 7,
+    "extraEnergyLimit": 10
+  }
+}

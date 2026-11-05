@@ -1,0 +1,372 @@
+{
+  "777001": {
+    "id": 777001,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#254D15"
+  },
+  "777002": {
+    "id": 777002,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#672f70"
+  },
+  "777003": {
+    "id": 777003,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#8a3e3e"
+  },
+  "777004": {
+    "id": 777004,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#835645"
+  },
+  "777005": {
+    "id": 777005,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#2e9c8c"
+  },
+  "777006": {
+    "id": 777006,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#cb8b46"
+  },
+  "777007": {
+    "id": 777007,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#ba3f77"
+  },
+  "777008": {
+    "id": 777008,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777009": {
+    "id": 777009,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777010": {
+    "id": 777010,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#863a15"
+  },
+  "777012": {
+    "id": 777012,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#cb8b46"
+  },
+  "777013": {
+    "id": 777013,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777014": {
+    "id": 777014,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#1b6d9a"
+  },
+  "777015": {
+    "id": 777015,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777016": {
+    "id": 777016,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777017": {
+    "id": 777017,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#3a7345"
+  },
+  "777018": {
+    "id": 777018,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777019": {
+    "id": 777019,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777020": {
+    "id": 777020,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777021": {
+    "id": 777021,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777022": {
+    "id": 777022,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777023": {
+    "id": 777023,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777024": {
+    "id": 777024,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777025": {
+    "id": 777025,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777026": {
+    "id": 777026,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777027": {
+    "id": 777027,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777028": {
+    "id": 777028,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777029": {
+    "id": 777029,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777030": {
+    "id": 777030,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777031": {
+    "id": 777031,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777032": {
+    "id": 777032,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777033": {
+    "id": 777033,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777035": {
+    "id": 777035,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777036": {
+    "id": 777036,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777037": {
+    "id": 777037,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777038": {
+    "id": 777038,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  },
+  "777039": {
+    "id": 777039,
+    "price": {
+      "Cash": 1800
+    },
+    "hideInhome": 0,
+    "kanbanGoose": "ataiUI",
+    "entranceAnim": "TimeOrderatai",
+    "groupBTipColor": "#805732"
+  }
+}

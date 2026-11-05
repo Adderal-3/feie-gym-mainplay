@@ -1,0 +1,706 @@
+{
+  "2103": {
+    "id": 2103,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "2203": {
+    "id": 2203,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "5502": {
+    "id": 5502,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "6501": {
+    "id": 6501,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "7306": {
+    "id": 7306,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "7406": {
+    "id": 7406,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9201": {
+    "id": 9201,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9203": {
+    "id": 9203,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9206": {
+    "id": 9206,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9301": {
+    "id": 9301,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9302": {
+    "id": 9302,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 24
+    },
+    "passLevel": 3
+  },
+  "9303": {
+    "id": 9303,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9304": {
+    "id": 9304,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9306": {
+    "id": 9306,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9309": {
+    "id": 9309,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "9311": {
+    "id": 9311,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43012": {
+    "id": 43012,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43031": {
+    "id": 43031,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43041": {
+    "id": 43041,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43053": {
+    "id": 43053,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43054": {
+    "id": 43054,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43071": {
+    "id": 43071,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43124": {
+    "id": 43124,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43125": {
+    "id": 43125,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43161": {
+    "id": 43161,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 3
+    },
+    "passLevel": 1
+  },
+  "43162": {
+    "id": 43162,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 9
+    },
+    "passLevel": 2
+  },
+  "43163": {
+    "id": 43163,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "PassNewPoint": 24
+    },
+    "passLevel": 3
+  },
+  "43181": {
+    "id": 43181,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43185": {
+    "id": 43185,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "43186": {
+    "id": 43186,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46014": {
+    "id": 46014,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46022": {
+    "id": 46022,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46036": {
+    "id": 46036,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46051": {
+    "id": 46051,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 9
+    },
+    "passLevel": 2
+  },
+  "46061": {
+    "id": 46061,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46062": {
+    "id": 46062,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46063": {
+    "id": 46063,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46064": {
+    "id": 46064,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46066": {
+    "id": 46066,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46203": {
+    "id": 46203,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46209": {
+    "id": 46209,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46210": {
+    "id": 46210,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46221": {
+    "id": 46221,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 3
+    },
+    "passLevel": 1
+  },
+  "46222": {
+    "id": 46222,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 24
+    },
+    "passLevel": 3
+  },
+  "46611": {
+    "id": 46611,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46626": {
+    "id": 46626,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46631": {
+    "id": 46631,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "46632": {
+    "id": 46632,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54114": {
+    "id": 54114,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54122": {
+    "id": 54122,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54202": {
+    "id": 54202,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 3
+    },
+    "passLevel": 1
+  },
+  "54203": {
+    "id": 54203,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54211": {
+    "id": 54211,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 9
+    },
+    "passLevel": 2
+  },
+  "54214": {
+    "id": 54214,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54221": {
+    "id": 54221,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54236": {
+    "id": 54236,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54242": {
+    "id": 54242,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54263": {
+    "id": 54263,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54301": {
+    "id": 54301,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54620": {
+    "id": 54620,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "54711": {
+    "id": 54711,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 24
+    },
+    "passLevel": 3
+  },
+  "60105": {
+    "id": 60105,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "68304": {
+    "id": 68304,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "68305": {
+    "id": 68305,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "68611": {
+    "id": 68611,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "69043": {
+    "id": 69043,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "70135": {
+    "id": 70135,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "72112": {
+    "id": 72112,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 3
+    },
+    "passLevel": 1
+  },
+  "72121": {
+    "id": 72121,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "72122": {
+    "id": 72122,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "72254": {
+    "id": 72254,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 9
+    },
+    "passLevel": 2
+  },
+  "72255": {
+    "id": 72255,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 24
+    },
+    "passLevel": 3
+  },
+  "72264": {
+    "id": 72264,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "75326": {
+    "id": 75326,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "76123": {
+    "id": 76123,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 3
+    },
+    "passLevel": 1
+  },
+  "76131": {
+    "id": 76131,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "78801": {
+    "id": 78801,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "82001": {
+    "id": 82001,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "82006": {
+    "id": 82006,
+    "matchNormalReward": {
+      "Coin": 3
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "82509": {
+    "id": 82509,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "85910": {
+    "id": 85910,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 9
+    },
+    "passLevel": 2
+  },
+  "88613": {
+    "id": 88613,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  },
+  "89501": {
+    "id": 89501,
+    "matchNormalReward": {
+      "Coin": 10
+    },
+    "matchPassReward": {
+      "passPoint": 60
+    },
+    "passLevel": 4
+  },
+  "9930199": {
+    "id": 9930199,
+    "matchNormalReward": {
+      "Energy": 9
+    },
+    "matchPassReward": {},
+    "passLevel": 0
+  }
+}

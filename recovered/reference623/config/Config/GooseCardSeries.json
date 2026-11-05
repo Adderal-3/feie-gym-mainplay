@@ -1,0 +1,2038 @@
+{
+  "event001": {
+    "id": "event001",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event001",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool099"
+    ],
+    "handbookShowTime": 1691460000,
+    "jokerUseTime": 1692719999,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 1,
+    "i18nType": []
+  },
+  "event002": {
+    "id": "event002",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event002",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool098"
+    ],
+    "handbookShowTime": 1700100000,
+    "jokerUseTime": 1701446399,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 2,
+    "i18nType": []
+  },
+  "event003": {
+    "id": "event003",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event003",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool097"
+    ],
+    "handbookShowTime": 1701921600,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 3,
+    "i18nType": []
+  },
+  "event004": {
+    "id": "event004",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event004",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool096"
+    ],
+    "handbookShowTime": 1706760000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 4,
+    "i18nType": []
+  },
+  "event005": {
+    "id": "event005",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event005",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool008"
+    ],
+    "handbookShowTime": 1707184800,
+    "jokerUseTime": 1708531199,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 5,
+    "i18nType": []
+  },
+  "event006": {
+    "id": "event006",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event006",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool093"
+    ],
+    "handbookShowTime": 1716782400,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 6,
+    "i18nType": []
+  },
+  "event007": {
+    "id": "event007",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event007",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool092"
+    ],
+    "handbookShowTime": 1718942400,
+    "jokerUseTime": 1720367998,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 7,
+    "i18nType": []
+  },
+  "event008": {
+    "id": "event008",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event008",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool089"
+    ],
+    "handbookShowTime": 1727150400,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 8,
+    "i18nType": []
+  },
+  "event009": {
+    "id": "event009",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event009",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool088"
+    ],
+    "handbookShowTime": 1727755200,
+    "jokerUseTime": 1729094399,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 9,
+    "i18nType": []
+  },
+  "event010": {
+    "id": "event010",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 5,
+    "order": 6,
+    "icon": "event010",
+    "reward": {
+      "98731": 1
+    },
+    "poolID": [
+      "pool087"
+    ],
+    "handbookShowTime": 1760803200,
+    "jokerUseTime": 1761494400,
+    "CollectSeriesDialog": [],
+    "backPic": "event",
+    "etc": 0,
+    "categorizeOrder": 10,
+    "i18nType": []
+  },
+  "goose0001": {
+    "id": "goose0001",
+    "unlock": [
+      "PlayerLevel1"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0001",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "0"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 1,
+    "i18nType": []
+  },
+  "goose0002": {
+    "id": "goose0002",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0002",
+    "reward": {
+      "AdornCoupon": 200
+    },
+    "poolID": [
+      "pool001",
+      "pool009",
+      "pool013",
+      "pool090"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 2,
+    "i18nType": []
+  },
+  "goose0003": {
+    "id": "goose0003",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0003",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool003"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 3,
+    "i18nType": []
+  },
+  "goose0004": {
+    "id": "goose0004",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0004",
+    "reward": {
+      "Energy": 300
+    },
+    "poolID": [
+      "pool001"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 4,
+    "i18nType": []
+  },
+  "goose0005": {
+    "id": "goose0005",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0005",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool003"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 5,
+    "i18nType": []
+  },
+  "goose0006": {
+    "id": "goose0006",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0006",
+    "reward": {
+      "Energy": 300
+    },
+    "poolID": [
+      "pool001",
+      "pool010",
+      "pool014",
+      "pool091"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 6,
+    "i18nType": []
+  },
+  "goose0007": {
+    "id": "goose0007",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0007",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool002",
+      "pool012",
+      "pool014",
+      "pool093",
+      "pool091"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 7,
+    "i18nType": []
+  },
+  "goose0008": {
+    "id": "goose0008",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0008",
+    "reward": {
+      "AdornCoupon": 200
+    },
+    "poolID": [
+      "pool002"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 8,
+    "i18nType": []
+  },
+  "goose0009": {
+    "id": "goose0009",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0009",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool002",
+      "pool010",
+      "pool014",
+      "pool091",
+      "pool090"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 9,
+    "i18nType": []
+  },
+  "goose0010": {
+    "id": "goose0010",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0010",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool003"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 10,
+    "i18nType": []
+  },
+  "goose0011": {
+    "id": "goose0011",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0011",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool003",
+      "pool097",
+      "pool090"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 11,
+    "i18nType": []
+  },
+  "goose0012": {
+    "id": "goose0012",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0012",
+    "reward": {
+      "Energy": 300
+    },
+    "poolID": [
+      "pool002",
+      "pool011"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 12,
+    "i18nType": []
+  },
+  "goose0013": {
+    "id": "goose0013",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0013",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool004",
+      "pool009",
+      "pool013"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 13,
+    "i18nType": []
+  },
+  "goose0014": {
+    "id": "goose0014",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0014",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 14,
+    "i18nType": []
+  },
+  "goose0015": {
+    "id": "goose0015",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0015",
+    "reward": {
+      "AdornCoupon": 500
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 15,
+    "i18nType": []
+  },
+  "goose0016": {
+    "id": "goose0016",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0016",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool003"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 16,
+    "i18nType": []
+  },
+  "goose0017": {
+    "id": "goose0017",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0017",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 17,
+    "i18nType": []
+  },
+  "goose0018": {
+    "id": "goose0018",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0018",
+    "reward": {
+      "Energy": 400
+    },
+    "poolID": [
+      "pool003",
+      "pool011"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 18,
+    "i18nType": []
+  },
+  "goose0019": {
+    "id": "goose0019",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0019",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool003",
+      "pool012"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 19,
+    "i18nType": []
+  },
+  "goose0020": {
+    "id": "goose0020",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0020",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005",
+      "pool010"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 20,
+    "i18nType": []
+  },
+  "goose0021": {
+    "id": "goose0021",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0021",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 21,
+    "i18nType": []
+  },
+  "goose0022": {
+    "id": "goose0022",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0022",
+    "reward": {
+      "Energy": 400
+    },
+    "poolID": [
+      "pool007",
+      "pool011",
+      "pool089"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 22,
+    "i18nType": []
+  },
+  "goose0023": {
+    "id": "goose0023",
+    "unlock": [
+      "PlayerLevel45"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0023",
+    "reward": {
+      "Energy": 400
+    },
+    "poolID": [
+      "pool007"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 23,
+    "i18nType": []
+  },
+  "goose0024": {
+    "id": "goose0024",
+    "unlock": [
+      "PlayerLevel45"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0024",
+    "reward": {
+      "Energy": 400
+    },
+    "poolID": [
+      "pool007"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 24,
+    "i18nType": []
+  },
+  "goose0025": {
+    "id": "goose0025",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0025",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool002"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 25,
+    "i18nType": []
+  },
+  "goose0027": {
+    "id": "goose0027",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0027",
+    "reward": {
+      "Energy": 400
+    },
+    "poolID": [
+      "pool003"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 27,
+    "i18nType": []
+  },
+  "goose0028": {
+    "id": "goose0028",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0028",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool004",
+      "pool011"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 28,
+    "i18nType": []
+  },
+  "goose0030": {
+    "id": "goose0030",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0030",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 29,
+    "i18nType": []
+  },
+  "goose0031": {
+    "id": "goose0031",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0031",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 30,
+    "i18nType": []
+  },
+  "goose0032": {
+    "id": "goose0032",
+    "unlock": [
+      "PlayerLevel125"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0032",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 31,
+    "i18nType": []
+  },
+  "goose0033": {
+    "id": "goose0033",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 1,
+    "order": 2,
+    "icon": "goose0033",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool003",
+      "pool096",
+      "pool090"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 32,
+    "i18nType": []
+  },
+  "gym0001": {
+    "id": "gym0001",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0001",
+    "reward": {
+      "Energy": 200
+    },
+    "poolID": [
+      "pool001",
+      "pool097"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 1,
+    "i18nType": []
+  },
+  "gym0002": {
+    "id": "gym0002",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0002",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 2,
+    "i18nType": []
+  },
+  "gym0003": {
+    "id": "gym0003",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0003",
+    "reward": {
+      "AdornCoupon": 200
+    },
+    "poolID": [
+      "pool001",
+      "pool096",
+      "pool014",
+      "pool091",
+      "pool090"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 3,
+    "i18nType": []
+  },
+  "gym0004": {
+    "id": "gym0004",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0004",
+    "reward": {
+      "AdornCoupon": 200
+    },
+    "poolID": [
+      "pool001",
+      "pool014",
+      "pool093",
+      "pool091"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 4,
+    "i18nType": []
+  },
+  "gym0005": {
+    "id": "gym0005",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0005",
+    "reward": {
+      "Energy": 200
+    },
+    "poolID": [
+      "pool002",
+      "pool009",
+      "pool013",
+      "pool089"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 5,
+    "i18nType": []
+  },
+  "gym0006": {
+    "id": "gym0006",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0006",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool003",
+      "pool013"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 6,
+    "i18nType": []
+  },
+  "gym0007": {
+    "id": "gym0007",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0007",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 7,
+    "i18nType": []
+  },
+  "gym0008": {
+    "id": "gym0008",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0008",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 8,
+    "i18nType": []
+  },
+  "gym0009": {
+    "id": "gym0009",
+    "unlock": [
+      "PlayerLevel40"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0009",
+    "reward": {
+      "AdornCoupon": 500
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 9,
+    "i18nType": []
+  },
+  "gym0010": {
+    "id": "gym0010",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0010",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool011"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 10,
+    "i18nType": []
+  },
+  "gym0011": {
+    "id": "gym0011",
+    "unlock": [
+      "PlayerLevel28"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0011",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005",
+      "pool012"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 11,
+    "i18nType": []
+  },
+  "gym0012": {
+    "id": "gym0012",
+    "unlock": [
+      "PlayerLevel29"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0012",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 12,
+    "i18nType": []
+  },
+  "gym0013": {
+    "id": "gym0013",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0013",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 13,
+    "i18nType": []
+  },
+  "gym0014": {
+    "id": "gym0014",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0014",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 14,
+    "i18nType": []
+  },
+  "gym0015": {
+    "id": "gym0015",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0015",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 15,
+    "i18nType": []
+  },
+  "gym0016": {
+    "id": "gym0016",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0016",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 1685678400,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 16,
+    "i18nType": []
+  },
+  "gym0017": {
+    "id": "gym0017",
+    "unlock": [
+      "PlayerLevel30"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0017",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 17,
+    "i18nType": []
+  },
+  "gym0018": {
+    "id": "gym0018",
+    "unlock": [
+      "PlayerLevel125"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0018",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool004"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 18,
+    "i18nType": []
+  },
+  "gym0019": {
+    "id": "gym0019",
+    "unlock": [
+      "PlayerLevel131"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0019",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 19,
+    "i18nType": []
+  },
+  "gym0020": {
+    "id": "gym0020",
+    "unlock": [
+      "PlayerLevel131"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0020",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 20,
+    "i18nType": []
+  },
+  "gym0021": {
+    "id": "gym0021",
+    "unlock": [
+      "PlayerLevel139"
+    ],
+    "categorize": 2,
+    "order": 3,
+    "icon": "gym0021",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 21,
+    "i18nType": []
+  },
+  "instance101": {
+    "id": "instance101",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance101",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 1,
+    "i18nType": []
+  },
+  "instance102": {
+    "id": "instance102",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance102",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 2,
+    "i18nType": []
+  },
+  "instance103": {
+    "id": "instance103",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance103",
+    "reward": {
+      "AdornCoupon": 500
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 3,
+    "i18nType": []
+  },
+  "instance201": {
+    "id": "instance201",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance201",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 4,
+    "i18nType": []
+  },
+  "instance202": {
+    "id": "instance202",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance202",
+    "reward": {
+      "AdornCoupon": 500
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 5,
+    "i18nType": []
+  },
+  "instance203": {
+    "id": "instance203",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance203",
+    "reward": {
+      "Diamond": 100
+    },
+    "poolID": [
+      "pool006"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 6,
+    "i18nType": []
+  },
+  "instance301": {
+    "id": "instance301",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance301",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 7,
+    "i18nType": []
+  },
+  "instance302": {
+    "id": "instance302",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance302",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 8,
+    "i18nType": []
+  },
+  "instance303": {
+    "id": "instance303",
+    "unlock": [
+      "PlayerLevel50"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance303",
+    "reward": {
+      "Coin": 20000
+    },
+    "poolID": [
+      "pool007"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 9,
+    "i18nType": []
+  },
+  "instance501": {
+    "id": "instance501",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance501",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool010"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 10,
+    "i18nType": []
+  },
+  "instance502": {
+    "id": "instance502",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance502",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool010"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 11,
+    "i18nType": []
+  },
+  "instance503": {
+    "id": "instance503",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance503",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool010"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 12,
+    "i18nType": []
+  },
+  "instance504": {
+    "id": "instance504",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance504",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005",
+      "pool009",
+      "pool014"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 13,
+    "i18nType": []
+  },
+  "instance505": {
+    "id": "instance505",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance505",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool009",
+      "pool013"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 14,
+    "i18nType": []
+  },
+  "instance506": {
+    "id": "instance506",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance506",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool009",
+      "pool013"
+    ],
+    "handbookShowTime": 1685678400,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 15,
+    "i18nType": []
+  },
+  "instance507": {
+    "id": "instance507",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance507",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool005"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 16,
+    "i18nType": []
+  },
+  "instance508": {
+    "id": "instance508",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance508",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool007",
+      "pool011"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 17,
+    "i18nType": []
+  },
+  "instance509": {
+    "id": "instance509",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance509",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool012"
+    ],
+    "handbookShowTime": 1711764000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 18,
+    "i18nType": []
+  },
+  "instance510": {
+    "id": "instance510",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance510",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool012"
+    ],
+    "handbookShowTime": 1711764000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 19,
+    "i18nType": []
+  },
+  "instance511": {
+    "id": "instance511",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance511",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool012"
+    ],
+    "handbookShowTime": 1711764000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 20,
+    "i18nType": []
+  },
+  "instance512": {
+    "id": "instance512",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance512",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool091",
+      "pool007"
+    ],
+    "handbookShowTime": 1724299200,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 21,
+    "i18nType": []
+  },
+  "instance513": {
+    "id": "instance513",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 3,
+    "order": 4,
+    "icon": "instance513",
+    "reward": {
+      "AdornCoupon": 300
+    },
+    "poolID": [
+      "pool090",
+      "pool007"
+    ],
+    "handbookShowTime": 1725940800,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "normal",
+    "etc": 1,
+    "categorizeOrder": 22,
+    "i18nType": []
+  },
+  "instance401": {
+    "id": "instance401",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance401",
+    "reward": {
+      "AdornCoupon": 8888
+    },
+    "poolID": [
+      "pool008",
+      "pool094"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring",
+    "etc": 0,
+    "categorizeOrder": 1,
+    "i18nType": []
+  },
+  "instance402": {
+    "id": "instance402",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance402",
+    "reward": {
+      "AdornCoupon": 8888
+    },
+    "poolID": [
+      "pool008",
+      "pool094"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring",
+    "etc": 0,
+    "categorizeOrder": 2,
+    "i18nType": []
+  },
+  "instance403": {
+    "id": "instance403",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance403",
+    "reward": {
+      "AdornCoupon": 8888
+    },
+    "poolID": [
+      "pool008",
+      "pool094"
+    ],
+    "handbookShowTime": 0,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring",
+    "etc": 0,
+    "categorizeOrder": 3,
+    "i18nType": []
+  },
+  "instance404": {
+    "id": "instance404",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance404",
+    "reward": {
+      "Diamond": 666
+    },
+    "poolID": [
+      "pool095"
+    ],
+    "handbookShowTime": 1707012000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring2",
+    "etc": 0,
+    "categorizeOrder": 4,
+    "i18nType": []
+  },
+  "instance405": {
+    "id": "instance405",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance405",
+    "reward": {
+      "Diamond": 666
+    },
+    "poolID": [
+      "pool095"
+    ],
+    "handbookShowTime": 1707012000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring2",
+    "etc": 0,
+    "categorizeOrder": 5,
+    "i18nType": []
+  },
+  "instance406": {
+    "id": "instance406",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "categorize": 4,
+    "order": 5,
+    "icon": "instance406",
+    "reward": {
+      "Diamond": 666
+    },
+    "poolID": [
+      "pool095"
+    ],
+    "handbookShowTime": 1707012000,
+    "jokerUseTime": 0,
+    "CollectSeriesDialog": [],
+    "backPic": "spring2",
+    "etc": 0,
+    "categorizeOrder": 6,
+    "i18nType": []
+  }
+}

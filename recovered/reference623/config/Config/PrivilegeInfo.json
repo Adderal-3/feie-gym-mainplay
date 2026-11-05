@@ -1,0 +1,32 @@
+{
+  "1": {
+    "type": 1,
+    "dailyReward": {
+      "Energy": 100
+    },
+    "diamondBuyEnergy": 0,
+    "canSkipBubble": 0,
+    "canSkipAd": 0
+  },
+  "2": {
+    "type": 2,
+    "dailyReward": {},
+    "diamondBuyEnergy": 10,
+    "canSkipBubble": 0,
+    "canSkipAd": 0
+  },
+  "3": {
+    "type": 3,
+    "dailyReward": {},
+    "diamondBuyEnergy": 0,
+    "canSkipBubble": 1,
+    "canSkipAd": 0
+  },
+  "4": {
+    "type": 4,
+    "dailyReward": {},
+    "diamondBuyEnergy": 0,
+    "canSkipBubble": 0,
+    "canSkipAd": 1
+  }
+}

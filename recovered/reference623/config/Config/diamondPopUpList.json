@@ -1,0 +1,56 @@
+{
+  "1": {
+    "Id": "1",
+    "boardType": [
+      "main",
+      "chessBoard5",
+      "chessBoard6",
+      "healthy",
+      "puzzleWarehouse",
+      "chessBoard",
+      "chessBoard2",
+      "chessBoard3",
+      "chessBoard4",
+      "chessBoard7",
+      "chessBoard8",
+      "chessBoard9"
+    ],
+    "typeSequence": [
+      "MonthCard",
+      "GooseOffer",
+      "DiamondGoose",
+      "DiamondGift"
+    ],
+    "maxDepth": 1
+  },
+  "2": {
+    "Id": "2",
+    "boardType": [],
+    "typeSequence": [],
+    "maxDepth": 0
+  },
+  "3": {
+    "Id": "3",
+    "boardType": [],
+    "typeSequence": [],
+    "maxDepth": 0
+  },
+  "4": {
+    "Id": "4",
+    "boardType": [],
+    "typeSequence": [],
+    "maxDepth": 0
+  },
+  "5": {
+    "Id": "5",
+    "boardType": [],
+    "typeSequence": [],
+    "maxDepth": 0
+  },
+  "6": {
+    "Id": "6",
+    "boardType": [],
+    "typeSequence": [],
+    "maxDepth": 0
+  }
+}

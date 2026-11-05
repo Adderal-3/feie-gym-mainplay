@@ -1,0 +1,40 @@
+{
+  "1001": {
+    "id": "1001",
+    "unlock": [
+      "PlayerLevel6"
+    ],
+    "unlockGoods": [
+      "GetGoose2069",
+      "GetGoose2074",
+      "GetGoose2073",
+      "GetGoose2072"
+    ],
+    "rewards": {
+      "Goose1068": 1
+    },
+    "iconPic": "icon_UnlockGift1",
+    "mainPic": "UnlockGift_bg_01",
+    "iconDialog": 18135,
+    "rewardDialog": 18136
+  },
+  "1002": {
+    "id": "1002",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "unlockGoods": [
+      "GetGoose1095",
+      "GetGoose1096",
+      "GetGoose1098",
+      "GetGoose1101"
+    ],
+    "rewards": {
+      "Goose1102": 1
+    },
+    "iconPic": "icon_UnlockGift2",
+    "mainPic": "UnlockGift_bg_02",
+    "iconDialog": 18549,
+    "rewardDialog": 18550
+  }
+}

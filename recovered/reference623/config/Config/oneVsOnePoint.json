@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "leftBound": 1,
+    "rightBound": 92,
+    "pointNum": 5
+  },
+  "2": {
+    "id": 2,
+    "leftBound": 93,
+    "rightBound": 183,
+    "pointNum": 10
+  },
+  "3": {
+    "id": 3,
+    "leftBound": 184,
+    "rightBound": 275,
+    "pointNum": 15
+  },
+  "4": {
+    "id": 4,
+    "leftBound": 276,
+    "rightBound": 366,
+    "pointNum": 20
+  },
+  "5": {
+    "id": 5,
+    "leftBound": 367,
+    "rightBound": 458,
+    "pointNum": 25
+  },
+  "6": {
+    "id": 6,
+    "leftBound": 459,
+    "rightBound": 999999,
+    "pointNum": 30
+  }
+}

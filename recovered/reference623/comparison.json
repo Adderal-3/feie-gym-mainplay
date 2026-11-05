@@ -1,0 +1,246 @@
+{
+  "version": 402,
+  "comparedAt": "2026-11-05T07:25:26.834Z",
+  "configs": [
+    {
+      "name": "Config",
+      "source": "remote/asset/remote/gameAsset/native/0d/0d71221c-449b-4034-8b65-aef3e6d362bd.2a9aa.bin",
+      "sourceIdentical": false,
+      "oldSourceBytes": 15489347,
+      "newSourceBytes": 15489719,
+      "changedTables": [
+        {
+          "name": "GoGV2Task",
+          "bytes": 13281,
+          "oldBytes": 12201
+        }
+      ]
+    },
+    {
+      "name": "Lang_zh",
+      "source": "remote/asset/remote/zh/native/a2/a201d065-b4d0-49ba-a559-4ec556a42dc3.67faf.bin",
+      "sourceIdentical": true,
+      "oldSourceBytes": 3889712,
+      "newSourceBytes": 3889712,
+      "changedTables": []
+    }
+  ],
+  "changedClient": [
+    {
+      "path": "src/settings.js",
+      "bytes": 2973,
+      "oldBytes": 2973
+    },
+    {
+      "path": "subpackages/main/game.js",
+      "bytes": 11159533,
+      "oldBytes": 11158968
+    }
+  ],
+  "changedRemote": [
+    {
+      "path": "remote/asset/remote/remoteAsset/native/7e/7e570859-3fb5-4052-aabf-3c51a182d5b7.3fc16.pvr",
+      "bytes": 6352
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/37/373597f7-fae0-45e5-b19c-62e25eb4cc11.5d395.mp3",
+      "bytes": 12833
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/9d/9db2b222-0a91-4655-89c1-fec4598ab4a7.8a3e2.m4a",
+      "bytes": 2980
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/native/82/8284b975-18b4-437a-b6bb-b1c1be8b37b6.ac566.pvr",
+      "bytes": 10224
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/90/90c136ac-9d41-4959-9585-c6dce78a0411.66f15.pvr",
+      "bytes": 22032
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/71/71eb8043-a74a-4b4d-8d6e-339e95cc9e69.b1006.pvr",
+      "bytes": 5648
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0f/0f25aaea-bde2-4234-8821-350d4896e28d.1e123.pvr",
+      "bytes": 5648
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/4d/4d337c44-1b86-45fe-8319-294364891222.59714.pvr",
+      "bytes": 20816
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/21/21132507-acd1-45bb-8af6-b84a03b9dfb4.ffd36.pvr",
+      "bytes": 5648
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/a0/a070e448-eed1-4075-9673-38395f342dfc.56a4f.pvr",
+      "bytes": 9424
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/6b/6b428a07-c32f-4a5b-b35a-66f80ce05f4d.b3da8.mp3",
+      "bytes": 3756
+    },
+    {
+      "path": "remote/asset/remote/zh/native/53/530f1136-1d17-4f26-8fdb-09cbd67983d9.55c60.pvr",
+      "bytes": 1744
+    },
+    {
+      "path": "remote/asset/remote/zh/native/3c/3c85e236-5c4e-4fab-959c-b5c13442d978.63075.pvr",
+      "bytes": 3552
+    },
+    {
+      "path": "remote/asset/remote/zh/config.367c6.json",
+      "bytes": 40418
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/config.e1fc6.json",
+      "bytes": 2819758
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/config.35c74.json",
+      "bytes": 590735
+    },
+    {
+      "path": "remote/asset/remote/zh/native/a2/a201d065-b4d0-49ba-a559-4ec556a42dc3.67faf.bin",
+      "bytes": 3889712
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/0d/0d71221c-449b-4034-8b65-aef3e6d362bd.2a9aa.bin",
+      "bytes": 15489719
+    },
+    {
+      "path": "remote/asset/remote/remoteAsset/import/0b/0b91081ee.399b0.json",
+      "bytes": 16482406
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/7b/7b3a1683-9a13-4413-bae1-67935b42544a.6e631.pvr",
+      "bytes": 47184
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/bb/bbc24dfd-0758-4298-b69a-6dfd2f1db059.96cc3.pvr",
+      "bytes": 1400848
+    },
+    {
+      "path": "remote/asset/remote/gameAsset/native/8d/8d5333f8-8392-405d-b8dd-b57628aac063.ee694.mp3",
+      "bytes": 3130
+    }
+  ],
+  "missingSubpackages": [
+    {
+      "name": "miniGame",
+      "root": "subpackages/miniGame/"
+    },
+    {
+      "name": "playable_tool",
+      "root": "playable_tool/"
+    },
+    {
+      "name": "playable_pool",
+      "root": "playable_pool/"
+    },
+    {
+      "name": "playable_drop",
+      "root": "playable_drop/"
+    },
+    {
+      "name": "playable_blast",
+      "root": "playable_blast/"
+    },
+    {
+      "name": "playable_infinite",
+      "root": "playable_infinite/"
+    },
+    {
+      "name": "playable_build",
+      "root": "playable_build/"
+    },
+    {
+      "name": "playable_build2",
+      "root": "playable_build2/"
+    }
+  ],
+  "referenceVersion": "6.2.3",
+  "referencePackageVersion": "402",
+  "clientMain": {
+    "path": "recovered/reference623/client/subpackages/main/game.js",
+    "bytes": 11159533,
+    "sha256": "36433d1981300ec7ba40f58fcc7afd4db9d1927926aeb454f332636245865ea2"
+  },
+  "scriptDifferences": [
+    {
+      "originalLine": 216552,
+      "kind": "version",
+      "before": "6.2.2",
+      "after": "6.2.3"
+    },
+    {
+      "originalLine": 243348,
+      "kind": "GM config checker",
+      "change": "Exclude Board9000 when checking board assets"
+    },
+    {
+      "originalLine": 271121,
+      "kind": "GoGV2Task schema",
+      "change": "energyIIICount defaults to 0"
+    },
+    {
+      "originalLine": 303129,
+      "kind": "GOG_V2 event order reward",
+      "change": "Use configured energyIIICount for eventEnergyIII reward"
+    }
+  ],
+  "missingSubpackagesConclusion": {
+    "presentPackages": [
+      "_subpackages_main_.wxapkg",
+      "__WITHOUT_MULTI_PLUGINCODE__.wxapkg"
+    ],
+    "missing": [
+      "miniGame",
+      "playable_tool",
+      "playable_pool",
+      "playable_drop",
+      "playable_blast",
+      "playable_infinite",
+      "playable_build",
+      "playable_build2"
+    ],
+    "publicCdnPackageUrlFound": false,
+    "evidence": "Current app-config.json declares independent playable_* roots, settings.subpackages declares miniGame and main; no original asset-host URLs for missing WeChat code packages were found. Standard PlayableBoard classes are already in main game.js and use gameAsset Prefab/Merge/MergePlayableWindow, so this story route does not require those code packages."
+  },
+  "standardStory": {
+    "guideId": "PlayableBoard",
+    "createVersion": 14,
+    "guideConfig": "PlayableBoard_14",
+    "dialogs": [
+      991,
+      992,
+      993,
+      994,
+      995
+    ],
+    "boardId": 9000,
+    "prefab": "gameAsset:Prefab/Merge/MergePlayableWindow",
+    "dynamicSpines": [
+      "spineAsset:Spine/UiSpine/fanghuoe",
+      "gameAsset:Spine/Player/player2"
+    ],
+    "itemSeries": [
+      "Scene_1",
+      "Scene_2"
+    ],
+    "sounds": [
+      "gameAsset:Sound/gym_fire",
+      "gameAsset:Sound/water_to_fire"
+    ],
+    "assetAcceptance": "docs/original-assets-acceptance.json"
+  },
+  "referenceHashValidation": {
+    "passed": true,
+    "files": 671,
+    "sanitizedFields": [
+      "wxAdSecretKey"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "461": {
+    "id": 461,
+    "unlock": [
+      "PlayerLevel9999"
+    ],
+    "order": 461,
+    "type": "Main",
+    "startOrderId": 461001,
+    "progressBarStep": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      3
+    ],
+    "progressReward": [
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "60001": 1,
+        "Star": 10
+      },
+      {
+        "60811": 1,
+        "Star": 10
+      },
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "60811": 1,
+        "Star": 10
+      },
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "60811": 1,
+        "Star": 10
+      },
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "60811": 1,
+        "Star": 10
+      },
+      {
+        "Adorn1029": 1,
+        "Star": 15
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "boardAnim": "TimeOrderObasang",
+    "character": "oubasangUI",
+    "img": "orderbranch_pic_01",
+    "recycleOrderId": 461063,
+    "recycleElementSeries": [
+      "Handwork_1",
+      "Handwork_2",
+      "Order_Handwork"
+    ],
+    "recycleChangeTo": 99101,
+    "beginDialog": 14001,
+    "GetElement": [
+      "60001:14002"
+    ],
+    "getPointDialog": [],
+    "finishOrderDialog": [
+      "461063:14003"
+    ],
+    "finishDialog": 14004,
+    "explanationPhoto": "orderbranch_pic_tips",
+    "picture": "entrust_pic_01",
+    "detailPicture": "story_entrust_pic_01",
+    "orderSeriesReward": {
+      "Adorn1029": 1
+    }
+  },
+  "801": {
+    "id": 801,
+    "unlock": [
+      "PlayerLevel9999"
+    ],
+    "order": 801,
+    "type": "Main",
+    "startOrderId": 801001,
+    "progressBarStep": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      1
+    ],
+    "progressReward": [
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "60002": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "61811": 1,
+        "Star": 10
+      },
+      {
+        "90101": 2,
+        "Star": 10
+      },
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "61811": 1,
+        "Star": 10
+      },
+      {
+        "90101": 2,
+        "Star": 10
+      },
+      {
+        "90501": 1,
+        "Star": 10
+      },
+      {
+        "90601": 1,
+        "Star": 10
+      },
+      {
+        "98701": 1,
+        "Star": 10
+      },
+      {
+        "AdornSkin800104": 1,
+        "Star": 15
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "boardAnim": "TimeOrderxihae",
+    "character": "xihaeUI",
+    "img": "orderbranch_pic_01",
+    "recycleOrderId": 801061,
+    "recycleElementSeries": [
+      "Hiphop_1",
+      "Hiphop_2",
+      "Order_Hiphop"
+    ],
+    "recycleChangeTo": 99101,
+    "beginDialog": 14005,
+    "GetElement": [
+      "60002:14006"
+    ],
+    "getPointDialog": [],
+    "finishOrderDialog": [
+      "801061:14007"
+    ],
+    "finishDialog": 0,
+    "explanationPhoto": "orderhiphop_pic_tips",
+    "picture": "entrust_pic_02",
+    "detailPicture": "story_entrust_pic_02",
+    "orderSeriesReward": {
+      "AdornSkin800104": 1
+    }
+  }
+}

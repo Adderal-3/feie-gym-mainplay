@@ -1,0 +1,302 @@
+{
+  "mhd1": {
+    "1": {
+      "Id": 1,
+      "stageReward": {
+        "mhdCoin": 300,
+        "Film1": 1
+      },
+      "shopId": [
+        1,
+        2,
+        3
+      ]
+    },
+    "2": {
+      "Id": 2,
+      "stageReward": {
+        "mhdCoin": 500,
+        "Film1": 1
+      },
+      "shopId": [
+        4,
+        5,
+        6
+      ]
+    },
+    "3": {
+      "Id": 3,
+      "stageReward": {
+        "mhdCoin": 700,
+        "Film2": 1
+      },
+      "shopId": [
+        7,
+        8,
+        9
+      ]
+    },
+    "4": {
+      "Id": 4,
+      "stageReward": {
+        "mhdCoin": 900,
+        "Film2": 1
+      },
+      "shopId": [
+        10,
+        11,
+        12
+      ]
+    },
+    "5": {
+      "Id": 5,
+      "stageReward": {
+        "mhdCoin": 1200,
+        "Film3": 1
+      },
+      "shopId": [
+        13,
+        14,
+        15
+      ]
+    },
+    "6": {
+      "Id": 6,
+      "stageReward": {
+        "mhdCoin": 1500,
+        "Film4": 1
+      },
+      "shopId": [
+        16,
+        17,
+        18
+      ]
+    },
+    "7": {
+      "Id": 7,
+      "stageReward": {
+        "Diamond": 50,
+        "Film5": 1
+      },
+      "shopId": [
+        19,
+        20,
+        21
+      ]
+    },
+    "8": {
+      "Id": 8,
+      "stageReward": {},
+      "shopId": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "mhd2": {
+    "101": {
+      "Id": 101,
+      "stageReward": {
+        "mhdCoin": 300,
+        "Film1": 1
+      },
+      "shopId": [
+        101,
+        102,
+        103
+      ]
+    },
+    "102": {
+      "Id": 102,
+      "stageReward": {
+        "mhdCoin": 500,
+        "Film1": 1
+      },
+      "shopId": [
+        104,
+        105,
+        106
+      ]
+    },
+    "103": {
+      "Id": 103,
+      "stageReward": {
+        "mhdCoin": 800,
+        "Film2": 1
+      },
+      "shopId": [
+        107,
+        108,
+        109
+      ]
+    },
+    "104": {
+      "Id": 104,
+      "stageReward": {
+        "mhdCoin": 1200,
+        "Film2": 1
+      },
+      "shopId": [
+        110,
+        111,
+        112
+      ]
+    },
+    "105": {
+      "Id": 105,
+      "stageReward": {
+        "mhdCoin": 1500,
+        "Film3": 1
+      },
+      "shopId": [
+        113,
+        114,
+        115
+      ]
+    },
+    "106": {
+      "Id": 106,
+      "stageReward": {
+        "Diamond": 20,
+        "Film4": 1
+      },
+      "shopId": [
+        116,
+        117,
+        118
+      ]
+    },
+    "107": {
+      "Id": 107,
+      "stageReward": {},
+      "shopId": [
+        119,
+        120,
+        121
+      ]
+    }
+  },
+  "mhd3": {
+    "201": {
+      "Id": 201,
+      "stageReward": {
+        "mhdCoin": 100,
+        "Film1": 1
+      },
+      "shopId": [
+        201,
+        202,
+        203
+      ]
+    },
+    "202": {
+      "Id": 202,
+      "stageReward": {
+        "mhdCoin": 300,
+        "Film1": 1
+      },
+      "shopId": [
+        204,
+        205,
+        206
+      ]
+    },
+    "203": {
+      "Id": 203,
+      "stageReward": {
+        "mhdCoin": 500,
+        "Film2": 1
+      },
+      "shopId": [
+        207,
+        208,
+        209
+      ]
+    },
+    "204": {
+      "Id": 204,
+      "stageReward": {
+        "mhdCoin": 800,
+        "Film2": 1
+      },
+      "shopId": [
+        210,
+        211,
+        212
+      ]
+    },
+    "205": {
+      "Id": 205,
+      "stageReward": {
+        "mhdCoin": 1000,
+        "Film2": 1
+      },
+      "shopId": [
+        213,
+        214,
+        215
+      ]
+    },
+    "206": {
+      "Id": 206,
+      "stageReward": {
+        "mhdCoin": 1200,
+        "Film3": 1
+      },
+      "shopId": [
+        216,
+        217,
+        218
+      ]
+    },
+    "207": {
+      "Id": 207,
+      "stageReward": {
+        "mhdCoin": 1500,
+        "Film4": 1
+      },
+      "shopId": [
+        219,
+        220,
+        221
+      ]
+    },
+    "208": {
+      "Id": 208,
+      "stageReward": {
+        "Diamond": 10,
+        "Film5": 1
+      },
+      "shopId": [
+        222,
+        223,
+        224
+      ]
+    },
+    "209": {
+      "Id": 209,
+      "stageReward": {
+        "Diamond": 50,
+        "Star": 20
+      },
+      "shopId": [
+        225,
+        226,
+        227
+      ]
+    },
+    "210": {
+      "Id": 210,
+      "stageReward": {},
+      "shopId": [
+        228,
+        229,
+        230
+      ]
+    }
+  }
+}

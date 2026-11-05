@@ -1,0 +1,19 @@
+{
+  "space1": {
+    "Spaceid": "space1",
+    "title": "星际探险",
+    "explainDesc": "1.在星际探险活动中，通过收集星辉，可获得进度奖励！\n2.成为探险专员，还能获得额外奖励哦！\n2.活动结算结束后，未领取的活动奖励会被清除，店长大人记得及时领取活动奖励哦！",
+    "initReminder": "成为探险专员，解锁超多额外奖励！",
+    "boughtReminder": "欢迎探险专员！您真是慧眼如炬！",
+    "clickUnacquirableToast": "去探险获得积分吧！",
+    "clickAcquirableToast": "奖励已被领取了哦~",
+    "clickTerribleToast": "点击领取按钮可获得奖励！",
+    "passTitle": "成为资深的探险专员",
+    "subTitle": "解锁超值好礼",
+    "passIntro": "小狗领航员正高价收购星辉，<br/>成为探险专员，即可享受更丰厚、更超值的额外奖励哦！",
+    "lastPassIntro": "最后的入会机会啦~小狗领航员即将离开，<br/>赶紧成为探险专员，获得更多奖励吧！",
+    "mailContent": "店长大人，店长大人！您不在的时候，健身房外面出现了好大一个包裹，里面有好多丰厚的礼物……快点击左下角查收吧！",
+    "mailTitle": "未领取的奖励",
+    "mailSignature": "小狗领航员"
+  }
+}

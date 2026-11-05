@@ -1,0 +1,142 @@
+{
+  "10000001": {
+    "id": 10000001,
+    "includeGroup": [
+      1001,
+      1002,
+      1003,
+      1004
+    ],
+    "hide": [
+      "FinishOrder610195"
+    ],
+    "includeAdornskin": [
+      1500201,
+      1500701,
+      1500901,
+      1501501,
+      1501601,
+      1501701,
+      1502201,
+      1502301
+    ],
+    "dialogID": 16177,
+    "dialogID2": 16178,
+    "drawerType": 0
+  },
+  "10000002": {
+    "id": 10000002,
+    "includeGroup": [
+      101,
+      102,
+      103
+    ],
+    "hide": [
+      "FinishOrder640068",
+      "FinishOrder640069",
+      "FinishOrder640070",
+      "FinishOrder640071"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 16223,
+    "dialogID2": 16221,
+    "drawerType": 1
+  },
+  "10000003": {
+    "id": 10000003,
+    "includeGroup": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "hide": [
+      "FinishOrder640100",
+      "FinishOrder640101"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 0,
+    "dialogID2": 0,
+    "drawerType": 1
+  },
+  "10000004": {
+    "id": 10000004,
+    "includeGroup": [
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "hide": [
+      "FinishOrder640128",
+      "FinishOrder640129",
+      "FinishOrder640130",
+      "FinishOrder640131"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 0,
+    "dialogID2": 0,
+    "drawerType": 1
+  },
+  "10000005": {
+    "id": 10000005,
+    "includeGroup": [
+      115,
+      116,
+      117,
+      118
+    ],
+    "hide": [
+      "FinishOrder640160",
+      "FinishOrder640161",
+      "FinishOrder640162",
+      "FinishOrder640163"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 0,
+    "dialogID2": 0,
+    "drawerType": 1
+  },
+  "10000006": {
+    "id": 10000006,
+    "includeGroup": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "hide": [
+      "FinishOrder640185",
+      "FinishOrder640186",
+      "FinishOrder640187",
+      "FinishOrder640188"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 0,
+    "dialogID2": 0,
+    "drawerType": 1
+  },
+  "10000007": {
+    "id": 10000007,
+    "includeGroup": [
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "hide": [
+      "FinishOrder640214",
+      "FinishOrder640215",
+      "FinishOrder640216",
+      "FinishOrder640217"
+    ],
+    "includeAdornskin": [],
+    "dialogID": 0,
+    "dialogID2": 0,
+    "drawerType": 1
+  }
+}

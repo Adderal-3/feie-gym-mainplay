@@ -1,0 +1,1054 @@
+{
+  "t1": {
+    "101": {
+      "id": 101,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "102": {
+      "id": 102,
+      "stage": 1,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "103": {
+      "id": 103,
+      "stage": 1,
+      "stageReward": {
+        "Film1": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "104": {
+      "id": 104,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 10
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "105": {
+      "id": 105,
+      "stage": 1,
+      "stageReward": {
+        "98802": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "106": {
+      "id": 106,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "107": {
+      "id": 107,
+      "stage": 2,
+      "stageReward": {
+        "98801": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "108": {
+      "id": 108,
+      "stage": 2,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "109": {
+      "id": 109,
+      "stage": 2,
+      "stageReward": {
+        "98801": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "110": {
+      "id": 110,
+      "stage": 2,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "111": {
+      "id": 111,
+      "stage": 2,
+      "stageReward": {
+        "ClimbTowerPoint": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "112": {
+      "id": 112,
+      "stage": 3,
+      "stageReward": {
+        "ClimbTowerPoint": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "113": {
+      "id": 113,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 12
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "114": {
+      "id": 114,
+      "stage": 3,
+      "stageReward": {
+        "Film2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "115": {
+      "id": 115,
+      "stage": 3,
+      "stageReward": {
+        "98810": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "116": {
+      "id": 116,
+      "stage": 4,
+      "stageReward": {
+        "9820001": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "117": {
+      "id": 117,
+      "stage": 4,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "118": {
+      "id": 118,
+      "stage": 4,
+      "stageReward": {
+        "ClimbTowerPoint": 50
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "119": {
+      "id": 119,
+      "stage": 5,
+      "stageReward": {
+        "ClimbTowerPoint": 60
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 1
+    },
+    "120": {
+      "id": 120,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 1
+    },
+    "121": {
+      "id": 121,
+      "stage": 6,
+      "stageReward": {
+        "BaseResChest18": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 4,
+      "round": 1
+    },
+    "201": {
+      "id": 201,
+      "stage": 1,
+      "stageReward": {
+        "Film1": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "202": {
+      "id": 202,
+      "stage": 1,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "203": {
+      "id": 203,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "204": {
+      "id": 204,
+      "stage": 1,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "205": {
+      "id": 205,
+      "stage": 1,
+      "stageReward": {
+        "98802": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "206": {
+      "id": 206,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 5
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "207": {
+      "id": 207,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 10
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "208": {
+      "id": 208,
+      "stage": 2,
+      "stageReward": {
+        "Film2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "209": {
+      "id": 209,
+      "stage": 2,
+      "stageReward": {
+        "98801": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "210": {
+      "id": 210,
+      "stage": 2,
+      "stageReward": {
+        "Film2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "211": {
+      "id": 211,
+      "stage": 2,
+      "stageReward": {
+        "ClimbTowerPoint": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "212": {
+      "id": 212,
+      "stage": 3,
+      "stageReward": {
+        "ClimbTowerPoint": 50
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "213": {
+      "id": 213,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "214": {
+      "id": 214,
+      "stage": 3,
+      "stageReward": {
+        "9820001": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "215": {
+      "id": 215,
+      "stage": 3,
+      "stageReward": {
+        "98810": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "216": {
+      "id": 216,
+      "stage": 4,
+      "stageReward": {
+        "MhdIIBlindBox5": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "217": {
+      "id": 217,
+      "stage": 4,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "218": {
+      "id": 218,
+      "stage": 4,
+      "stageReward": {
+        "ClimbTowerPoint": 60
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "219": {
+      "id": 219,
+      "stage": 5,
+      "stageReward": {
+        "98803": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 2
+    },
+    "220": {
+      "id": 220,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 30
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 2
+    },
+    "221": {
+      "id": 221,
+      "stage": 6,
+      "stageReward": {
+        "BaseResChest19": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 4,
+      "round": 2
+    },
+    "301": {
+      "id": 301,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "302": {
+      "id": 302,
+      "stage": 1,
+      "stageReward": {
+        "Film2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "303": {
+      "id": 303,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 25
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "304": {
+      "id": 304,
+      "stage": 1,
+      "stageReward": {
+        "Film2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "305": {
+      "id": 305,
+      "stage": 1,
+      "stageReward": {
+        "98802": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "306": {
+      "id": 306,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 8
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "307": {
+      "id": 307,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 10
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "308": {
+      "id": 308,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "309": {
+      "id": 309,
+      "stage": 2,
+      "stageReward": {
+        "ClimbTowerPoint": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "310": {
+      "id": 310,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "311": {
+      "id": 311,
+      "stage": 2,
+      "stageReward": {
+        "98810": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "312": {
+      "id": 312,
+      "stage": 3,
+      "stageReward": {
+        "ClimbTowerPoint": 50
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "313": {
+      "id": 313,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "314": {
+      "id": 314,
+      "stage": 3,
+      "stageReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "315": {
+      "id": 315,
+      "stage": 3,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "316": {
+      "id": 316,
+      "stage": 4,
+      "stageReward": {
+        "9820002": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "317": {
+      "id": 317,
+      "stage": 4,
+      "stageReward": {
+        "98803": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "318": {
+      "id": 318,
+      "stage": 4,
+      "stageReward": {
+        "ClimbTowerPoint": 70
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "319": {
+      "id": 319,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 3
+    },
+    "320": {
+      "id": 320,
+      "stage": 5,
+      "stageReward": {
+        "MhdIIBlindBox3": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 3
+    },
+    "321": {
+      "id": 321,
+      "stage": 6,
+      "stageReward": {
+        "BaseResChest20": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 4,
+      "round": 3
+    },
+    "401": {
+      "id": 401,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 25
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "402": {
+      "id": 402,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "403": {
+      "id": 403,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 35
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "404": {
+      "id": 404,
+      "stage": 1,
+      "stageReward": {
+        "9820001": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "405": {
+      "id": 405,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 25
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "406": {
+      "id": 406,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 8
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "407": {
+      "id": 407,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 10
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "408": {
+      "id": 408,
+      "stage": 2,
+      "stageReward": {
+        "Film8": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "409": {
+      "id": 409,
+      "stage": 2,
+      "stageReward": {
+        "ClimbTowerPoint": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "410": {
+      "id": 410,
+      "stage": 2,
+      "stageReward": {
+        "Film8": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "411": {
+      "id": 411,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "412": {
+      "id": 412,
+      "stage": 3,
+      "stageReward": {
+        "ClimbTowerPoint": 50
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "413": {
+      "id": 413,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "414": {
+      "id": 414,
+      "stage": 3,
+      "stageReward": {
+        "98302": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "415": {
+      "id": 415,
+      "stage": 3,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "416": {
+      "id": 416,
+      "stage": 4,
+      "stageReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "417": {
+      "id": 417,
+      "stage": 4,
+      "stageReward": {
+        "98803": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "418": {
+      "id": 418,
+      "stage": 4,
+      "stageReward": {
+        "ClimbTowerPoint": 80
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "419": {
+      "id": 419,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 40
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 4
+    },
+    "420": {
+      "id": 420,
+      "stage": 5,
+      "stageReward": {
+        "Film13": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 4
+    },
+    "421": {
+      "id": 421,
+      "stage": 6,
+      "stageReward": {
+        "BaseResChest21": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 4,
+      "round": 4
+    },
+    "501": {
+      "id": 501,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 25
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "502": {
+      "id": 502,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "503": {
+      "id": 503,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 35
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "504": {
+      "id": 504,
+      "stage": 1,
+      "stageReward": {
+        "9820001": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "505": {
+      "id": 505,
+      "stage": 1,
+      "stageReward": {
+        "ClimbTowerPoint": 25
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "506": {
+      "id": 506,
+      "stage": 1,
+      "stageReward": {
+        "Energy": 8
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "507": {
+      "id": 507,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 10
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "508": {
+      "id": 508,
+      "stage": 2,
+      "stageReward": {
+        "Film8": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "509": {
+      "id": 509,
+      "stage": 2,
+      "stageReward": {
+        "ClimbTowerPoint": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "510": {
+      "id": 510,
+      "stage": 2,
+      "stageReward": {
+        "Film8": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "511": {
+      "id": 511,
+      "stage": 2,
+      "stageReward": {
+        "Energy": 15
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "512": {
+      "id": 512,
+      "stage": 3,
+      "stageReward": {
+        "ClimbTowerPoint": 50
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "513": {
+      "id": 513,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 20
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "514": {
+      "id": 514,
+      "stage": 3,
+      "stageReward": {
+        "Energy": 30
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "515": {
+      "id": 515,
+      "stage": 3,
+      "stageReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "516": {
+      "id": 516,
+      "stage": 4,
+      "stageReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "517": {
+      "id": 517,
+      "stage": 4,
+      "stageReward": {
+        "98803": 1
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "518": {
+      "id": 518,
+      "stage": 4,
+      "stageReward": {
+        "ClimbTowerPoint": 80
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "519": {
+      "id": 519,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 30
+      },
+      "levelupReward": 0,
+      "colorUI": 1,
+      "round": 5
+    },
+    "520": {
+      "id": 520,
+      "stage": 5,
+      "stageReward": {
+        "Energy": 50
+      },
+      "levelupReward": 1,
+      "colorUI": 2,
+      "round": 5
+    },
+    "521": {
+      "id": 521,
+      "stage": 6,
+      "stageReward": {
+        "Energy": 80
+      },
+      "levelupReward": 1,
+      "colorUI": 4,
+      "round": 5
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "1": {
+    "id": 1,
+    "propicon": "prop_1",
+    "adCount": 0,
+    "price": {},
+    "addCount": 0,
+    "Cof": 0,
+    "refreshInventory": 0
+  },
+  "2": {
+    "id": 2,
+    "propicon": "prop_2",
+    "adCount": 2,
+    "price": {
+      "Diamond": 5
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  },
+  "3": {
+    "id": 3,
+    "propicon": "prop_3",
+    "adCount": 1,
+    "price": {
+      "Diamond": 10
+    },
+    "addCount": 5,
+    "Cof": 0,
+    "refreshInventory": 19999
+  }
+}

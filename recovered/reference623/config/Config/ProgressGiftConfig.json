@@ -1,0 +1,77 @@
+{
+  "10001": {
+    "id": "10001",
+    "unlock": "PlayerLevel25",
+    "type": "1",
+    "img": "img_DG_bg_01",
+    "progressBarStep": [
+      1,
+      4,
+      5,
+      5,
+      3
+    ],
+    "progressReward": [
+      {
+        "AdornSkinRebate902002": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "AdornSkinRebate901802": 1
+      },
+      {
+        "AdornSkinRebate900902": 1
+      },
+      {
+        "Goose2068": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "icon": "icon_btn_Progress",
+    "enterDialog": 8876,
+    "titleImg": "img_title01"
+  },
+  "10002": {
+    "id": "10002",
+    "unlock": "PlayerLevel25",
+    "type": "1",
+    "img": "img_DG_bg_03",
+    "progressBarStep": [
+      3,
+      2,
+      2,
+      2
+    ],
+    "progressReward": [
+      {
+        "Coin": 500
+      },
+      {
+        "Coin": 1000
+      },
+      {
+        "Coin": 2000
+      },
+      {
+        "Coin": 4000
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "icon": "icon_btn_Progress_3",
+    "enterDialog": 18198,
+    "titleImg": "img_title"
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "gog1": {
+    "10001": {
+      "id": 10001,
+      "series": 1,
+      "unlockOrderId": [
+        10002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog101",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 10
+      },
+      "demand": {}
+    },
+    "10002": {
+      "id": 10002,
+      "series": 1,
+      "unlockOrderId": [
+        10003
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog102",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 30
+      },
+      "demand": {}
+    },
+    "10003": {
+      "id": 10003,
+      "series": 1,
+      "unlockOrderId": [
+        10004
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog103",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "10004": {
+      "id": 10004,
+      "series": 1,
+      "unlockOrderId": [
+        10005
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog104",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 90
+      },
+      "demand": {}
+    },
+    "10005": {
+      "id": 10005,
+      "series": 1,
+      "unlockOrderId": [
+        10006
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog105",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "10006": {
+      "id": 10006,
+      "series": 1,
+      "unlockOrderId": [
+        10007
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog106",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "10007": {
+      "id": 10007,
+      "series": 1,
+      "unlockOrderId": [
+        10008
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog107",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "10008": {
+      "id": 10008,
+      "series": 1,
+      "unlockOrderId": [
+        10009
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog108",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "10009": {
+      "id": 10009,
+      "series": 1,
+      "unlockOrderId": [
+        10010
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog109",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "10010": {
+      "id": 10010,
+      "series": 1,
+      "unlockOrderId": [
+        10011
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog110",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "10011": {
+      "id": 10011,
+      "series": 1,
+      "unlockOrderId": [
+        10012
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog111",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "10012": {
+      "id": 10012,
+      "series": 1,
+      "unlockOrderId": [
+        10013
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog112",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    },
+    "10013": {
+      "id": 10013,
+      "series": 1,
+      "unlockOrderId": [
+        10014
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog113",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "10014": {
+      "id": 10014,
+      "series": 1,
+      "unlockOrderId": [
+        10015
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog114",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "10015": {
+      "id": 10015,
+      "series": 1,
+      "unlockOrderId": [
+        10016
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog115",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "10016": {
+      "id": 10016,
+      "series": 1,
+      "unlockOrderId": [
+        10017
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog116",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "10017": {
+      "id": 10017,
+      "series": 1,
+      "unlockOrderId": [
+        10018
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog117",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "10018": {
+      "id": 10018,
+      "series": 1,
+      "unlockOrderId": [
+        10019
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog118",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "10019": {
+      "id": 10019,
+      "series": 1,
+      "unlockOrderId": [
+        10020
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog119",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "10020": {
+      "id": 10020,
+      "series": 1,
+      "unlockOrderId": [
+        10002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog120",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    }
+  },
+  "gog2": {
+    "20001": {
+      "id": 20001,
+      "series": 1,
+      "unlockOrderId": [
+        20002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog201",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 10
+      },
+      "demand": {}
+    },
+    "20002": {
+      "id": 20002,
+      "series": 1,
+      "unlockOrderId": [
+        20003
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog202",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 30
+      },
+      "demand": {}
+    },
+    "20003": {
+      "id": 20003,
+      "series": 1,
+      "unlockOrderId": [
+        20004
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog203",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "20004": {
+      "id": 20004,
+      "series": 1,
+      "unlockOrderId": [
+        20005
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog204",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 90
+      },
+      "demand": {}
+    },
+    "20005": {
+      "id": 20005,
+      "series": 1,
+      "unlockOrderId": [
+        20006
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog205",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "20006": {
+      "id": 20006,
+      "series": 1,
+      "unlockOrderId": [
+        20007
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog206",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "20007": {
+      "id": 20007,
+      "series": 1,
+      "unlockOrderId": [
+        20008
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog207",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "20008": {
+      "id": 20008,
+      "series": 1,
+      "unlockOrderId": [
+        20009
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog208",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "20009": {
+      "id": 20009,
+      "series": 1,
+      "unlockOrderId": [
+        20010
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog209",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "20010": {
+      "id": 20010,
+      "series": 1,
+      "unlockOrderId": [
+        20011
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog210",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "20011": {
+      "id": 20011,
+      "series": 1,
+      "unlockOrderId": [
+        20012
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog211",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "20012": {
+      "id": 20012,
+      "series": 1,
+      "unlockOrderId": [
+        20013
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog212",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    },
+    "20013": {
+      "id": 20013,
+      "series": 1,
+      "unlockOrderId": [
+        20014
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog213",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "20014": {
+      "id": 20014,
+      "series": 1,
+      "unlockOrderId": [
+        20015
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog214",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "20015": {
+      "id": 20015,
+      "series": 1,
+      "unlockOrderId": [
+        20016
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog215",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "20016": {
+      "id": 20016,
+      "series": 1,
+      "unlockOrderId": [
+        20017
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog216",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "20017": {
+      "id": 20017,
+      "series": 1,
+      "unlockOrderId": [
+        20018
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog217",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "20018": {
+      "id": 20018,
+      "series": 1,
+      "unlockOrderId": [
+        20019
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog218",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "20019": {
+      "id": 20019,
+      "series": 1,
+      "unlockOrderId": [
+        20020
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog219",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "20020": {
+      "id": 20020,
+      "series": 1,
+      "unlockOrderId": [
+        20002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog220",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    }
+  },
+  "gog3": {
+    "30001": {
+      "id": 30001,
+      "series": 1,
+      "unlockOrderId": [
+        30002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog301",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 10
+      },
+      "demand": {}
+    },
+    "30002": {
+      "id": 30002,
+      "series": 1,
+      "unlockOrderId": [
+        30003
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog302",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 30
+      },
+      "demand": {}
+    },
+    "30003": {
+      "id": 30003,
+      "series": 1,
+      "unlockOrderId": [
+        30004
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog303",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "30004": {
+      "id": 30004,
+      "series": 1,
+      "unlockOrderId": [
+        30005
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog304",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 90
+      },
+      "demand": {}
+    },
+    "30005": {
+      "id": 30005,
+      "series": 1,
+      "unlockOrderId": [
+        30006
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog305",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "30006": {
+      "id": 30006,
+      "series": 1,
+      "unlockOrderId": [
+        30007
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog306",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "30007": {
+      "id": 30007,
+      "series": 1,
+      "unlockOrderId": [
+        30008
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog307",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "30008": {
+      "id": 30008,
+      "series": 1,
+      "unlockOrderId": [
+        30009
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog308",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "30009": {
+      "id": 30009,
+      "series": 1,
+      "unlockOrderId": [
+        30010
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog309",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "30010": {
+      "id": 30010,
+      "series": 1,
+      "unlockOrderId": [
+        30011
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog310",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "30011": {
+      "id": 30011,
+      "series": 1,
+      "unlockOrderId": [
+        30012
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog311",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "30012": {
+      "id": 30012,
+      "series": 1,
+      "unlockOrderId": [
+        30013
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog312",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    },
+    "30013": {
+      "id": 30013,
+      "series": 1,
+      "unlockOrderId": [
+        30014
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog313",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 80
+      },
+      "demand": {}
+    },
+    "30014": {
+      "id": 30014,
+      "series": 1,
+      "unlockOrderId": [
+        30015
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog314",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 110
+      },
+      "demand": {}
+    },
+    "30015": {
+      "id": 30015,
+      "series": 1,
+      "unlockOrderId": [
+        30016
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog315",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 160
+      },
+      "demand": {}
+    },
+    "30016": {
+      "id": 30016,
+      "series": 1,
+      "unlockOrderId": [
+        30017
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog316",
+      "reward": {
+        "Star": 1,
+        "GTPoint1": 60
+      },
+      "demand": {}
+    },
+    "30017": {
+      "id": 30017,
+      "series": 1,
+      "unlockOrderId": [
+        30018
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog317",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 70
+      },
+      "demand": {}
+    },
+    "30018": {
+      "id": 30018,
+      "series": 1,
+      "unlockOrderId": [
+        30019
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog318",
+      "reward": {
+        "Star": 2,
+        "GTPoint1": 120
+      },
+      "demand": {}
+    },
+    "30019": {
+      "id": 30019,
+      "series": 1,
+      "unlockOrderId": [
+        30020
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog319",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 140
+      },
+      "demand": {}
+    },
+    "30020": {
+      "id": 30020,
+      "series": 1,
+      "unlockOrderId": [
+        30002
+      ],
+      "gameType": "gog",
+      "gameLevel": "gog320",
+      "reward": {
+        "Star": 3,
+        "GTPoint1": 180
+      },
+      "demand": {}
+    }
+  }
+}

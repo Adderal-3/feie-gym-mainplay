@@ -1,0 +1,132 @@
+{
+  "bb1": {
+    "101": {
+      "poolID": "101",
+      "prizeLevel": "一等奖"
+    },
+    "102": {
+      "poolID": "102",
+      "prizeLevel": "二等奖"
+    },
+    "103": {
+      "poolID": "103",
+      "prizeLevel": "三等奖"
+    },
+    "104": {
+      "poolID": "104",
+      "prizeLevel": "四等奖"
+    },
+    "105": {
+      "poolID": "105",
+      "prizeLevel": "五等奖"
+    },
+    "106": {
+      "poolID": "106",
+      "prizeLevel": "六等奖"
+    }
+  },
+  "bb2": {
+    "201": {
+      "poolID": "201",
+      "prizeLevel": "一等奖"
+    },
+    "202": {
+      "poolID": "202",
+      "prizeLevel": "二等奖"
+    },
+    "203": {
+      "poolID": "203",
+      "prizeLevel": "三等奖"
+    },
+    "204": {
+      "poolID": "204",
+      "prizeLevel": "四等奖"
+    },
+    "205": {
+      "poolID": "205",
+      "prizeLevel": "五等奖"
+    },
+    "206": {
+      "poolID": "206",
+      "prizeLevel": "六等奖"
+    }
+  },
+  "bb3": {
+    "301": {
+      "poolID": "301",
+      "prizeLevel": "一等奖"
+    },
+    "302": {
+      "poolID": "302",
+      "prizeLevel": "二等奖"
+    },
+    "303": {
+      "poolID": "303",
+      "prizeLevel": "三等奖"
+    },
+    "304": {
+      "poolID": "304",
+      "prizeLevel": "四等奖"
+    },
+    "305": {
+      "poolID": "305",
+      "prizeLevel": "五等奖"
+    },
+    "306": {
+      "poolID": "306",
+      "prizeLevel": "六等奖"
+    }
+  },
+  "bb4": {
+    "401": {
+      "poolID": "401",
+      "prizeLevel": "一等奖"
+    },
+    "402": {
+      "poolID": "402",
+      "prizeLevel": "二等奖"
+    },
+    "403": {
+      "poolID": "403",
+      "prizeLevel": "三等奖"
+    },
+    "404": {
+      "poolID": "404",
+      "prizeLevel": "四等奖"
+    },
+    "405": {
+      "poolID": "405",
+      "prizeLevel": "五等奖"
+    },
+    "406": {
+      "poolID": "406",
+      "prizeLevel": "六等奖"
+    }
+  },
+  "bb5": {
+    "501": {
+      "poolID": "501",
+      "prizeLevel": "一等奖"
+    },
+    "502": {
+      "poolID": "502",
+      "prizeLevel": "二等奖"
+    },
+    "503": {
+      "poolID": "503",
+      "prizeLevel": "三等奖"
+    },
+    "504": {
+      "poolID": "504",
+      "prizeLevel": "四等奖"
+    },
+    "505": {
+      "poolID": "505",
+      "prizeLevel": "五等奖"
+    },
+    "506": {
+      "poolID": "506",
+      "prizeLevel": "六等奖"
+    }
+  }
+}

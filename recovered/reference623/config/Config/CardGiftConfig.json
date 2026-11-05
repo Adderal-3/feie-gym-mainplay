@@ -1,0 +1,73 @@
+{
+  "1001": {
+    "id": "1001",
+    "unlock": "PlayerLevel15",
+    "img": "img_DG_bg_01",
+    "progressBarStep": [
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
+      66
+    ],
+    "progressReward": [
+      {
+        "Diamond": 200
+      },
+      {
+        "CardKing": 1
+      },
+      {
+        "Diamond": 600
+      },
+      {
+        "JokerCard": 1
+      },
+      {
+        "Diamond": 1000
+      },
+      {
+        "JokerCard": 1
+      },
+      {
+        "Diamond": 2000
+      },
+      {
+        "JokerCard": 1
+      },
+      {
+        "Diamond": 3000
+      },
+      {
+        "GoldenJokerCard": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "icon": "icon_btn_Spring",
+    "targetCardSeries": [
+      "instance401",
+      "instance402",
+      "instance403",
+      "instance404",
+      "instance405",
+      "instance406"
+    ],
+    "textColor": "#d39650"
+  }
+}

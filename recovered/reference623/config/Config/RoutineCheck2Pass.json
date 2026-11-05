@@ -1,0 +1,2387 @@
+{
+  "check2_1": {
+    "1": {
+      "id": 1,
+      "score": 900,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 30
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ]
+    },
+    "2": {
+      "id": 2,
+      "score": 1000,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        128,
+        143,
+        158,
+        174,
+        190,
+        207
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 30
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        128,
+        143,
+        158,
+        174,
+        190,
+        207
+      ]
+    },
+    "3": {
+      "id": 3,
+      "score": 1200,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        154,
+        171,
+        190,
+        209,
+        228,
+        248
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 40
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        154,
+        171,
+        190,
+        209,
+        228,
+        248
+      ]
+    },
+    "4": {
+      "id": 4,
+      "score": 1400,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        179,
+        200,
+        221,
+        244,
+        267,
+        290
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 50
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        179,
+        200,
+        221,
+        244,
+        267,
+        290
+      ]
+    },
+    "5": {
+      "id": 5,
+      "score": 1600,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        205,
+        228,
+        253,
+        278,
+        305,
+        331
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 60
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        205,
+        228,
+        253,
+        278,
+        305,
+        331
+      ]
+    },
+    "6": {
+      "id": 6,
+      "score": 1800,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        230,
+        257,
+        284,
+        313,
+        343,
+        373
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 60
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        230,
+        257,
+        284,
+        313,
+        343,
+        373
+      ]
+    },
+    "7": {
+      "id": 7,
+      "score": 2000,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        256,
+        285,
+        316,
+        348,
+        381,
+        414
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 70
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        256,
+        285,
+        316,
+        348,
+        381,
+        414
+      ]
+    },
+    "8": {
+      "id": 8,
+      "score": 2200,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        282,
+        314,
+        348,
+        383,
+        419,
+        455
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 80
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        282,
+        314,
+        348,
+        383,
+        419,
+        455
+      ]
+    },
+    "9": {
+      "id": 9,
+      "score": 2400,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        307,
+        342,
+        379,
+        418,
+        457,
+        497
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 80
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        307,
+        342,
+        379,
+        418,
+        457,
+        497
+      ]
+    },
+    "10": {
+      "id": 10,
+      "score": 2600,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        333,
+        371,
+        411,
+        453,
+        495,
+        538
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 90
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        333,
+        371,
+        411,
+        453,
+        495,
+        538
+      ]
+    },
+    "11": {
+      "id": 11,
+      "score": 2800,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        358,
+        399,
+        442,
+        487,
+        533,
+        580
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        358,
+        399,
+        442,
+        487,
+        533,
+        580
+      ]
+    },
+    "12": {
+      "id": 12,
+      "score": 3000,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621
+      ]
+    },
+    "13": {
+      "id": 13,
+      "score": 3200,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        410,
+        456,
+        506,
+        557,
+        609,
+        662
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "Energy": 120
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        410,
+        456,
+        506,
+        557,
+        609,
+        662
+      ]
+    },
+    "14": {
+      "id": 14,
+      "score": 3400,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        435,
+        485,
+        537,
+        592,
+        647,
+        704
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90501": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        435,
+        485,
+        537,
+        592,
+        647,
+        704
+      ]
+    },
+    "15": {
+      "id": 15,
+      "score": 3600,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ]
+    },
+    "16": {
+      "id": 16,
+      "score": 3800,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787
+      ]
+    },
+    "17": {
+      "id": 17,
+      "score": 4000,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        512,
+        570,
+        632,
+        696,
+        762,
+        828
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        512,
+        570,
+        632,
+        696,
+        762,
+        828
+      ]
+    },
+    "18": {
+      "id": 18,
+      "score": 0,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 30
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ]
+    },
+    "19": {
+      "id": 19,
+      "score": 900,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 30
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        115,
+        128,
+        142,
+        157,
+        171,
+        186
+      ]
+    },
+    "20": {
+      "id": 20,
+      "score": 1000,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        128,
+        143,
+        158,
+        174,
+        190,
+        207
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 30
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        128,
+        143,
+        158,
+        174,
+        190,
+        207
+      ]
+    },
+    "21": {
+      "id": 21,
+      "score": 1200,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        154,
+        171,
+        190,
+        209,
+        228,
+        248
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 40
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90501": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        154,
+        171,
+        190,
+        209,
+        228,
+        248
+      ]
+    },
+    "22": {
+      "id": 22,
+      "score": 1400,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        179,
+        200,
+        221,
+        244,
+        267,
+        290
+      ],
+      "progressReward": [
+        {
+          "98801": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "Energy": 50
+        },
+        {
+          "90901": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        179,
+        200,
+        221,
+        244,
+        267,
+        290
+      ]
+    },
+    "23": {
+      "id": 23,
+      "score": 1600,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        205,
+        228,
+        253,
+        278,
+        305,
+        331
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90901": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 60
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        205,
+        228,
+        253,
+        278,
+        305,
+        331
+      ]
+    },
+    "24": {
+      "id": 24,
+      "score": 1800,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        230,
+        257,
+        284,
+        313,
+        343,
+        373
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 60
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90601": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        230,
+        257,
+        284,
+        313,
+        343,
+        373
+      ]
+    },
+    "25": {
+      "id": 25,
+      "score": 2000,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        256,
+        285,
+        316,
+        348,
+        381,
+        414
+      ],
+      "progressReward": [
+        {
+          "98810": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 70
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90701": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        256,
+        285,
+        316,
+        348,
+        381,
+        414
+      ]
+    },
+    "26": {
+      "id": 26,
+      "score": 2200,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        282,
+        314,
+        348,
+        383,
+        419,
+        455
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 80
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90701": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        282,
+        314,
+        348,
+        383,
+        419,
+        455
+      ]
+    },
+    "27": {
+      "id": 27,
+      "score": 2400,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        307,
+        342,
+        379,
+        418,
+        457,
+        497
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 80
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90701": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        307,
+        342,
+        379,
+        418,
+        457,
+        497
+      ]
+    },
+    "28": {
+      "id": 28,
+      "score": 2600,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        333,
+        371,
+        411,
+        453,
+        495,
+        538
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 90
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        333,
+        371,
+        411,
+        453,
+        495,
+        538
+      ]
+    },
+    "29": {
+      "id": 29,
+      "score": 2800,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        358,
+        399,
+        442,
+        487,
+        533,
+        580
+      ],
+      "progressReward": [
+        {
+          "98803": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        358,
+        399,
+        442,
+        487,
+        533,
+        580
+      ]
+    },
+    "30": {
+      "id": 30,
+      "score": 3000,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Energy": 100
+        },
+        {
+          "90902": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621
+      ]
+    },
+    "31": {
+      "id": 31,
+      "score": 3200,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        410,
+        456,
+        506,
+        557,
+        609,
+        662
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "Energy": 120
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        410,
+        456,
+        506,
+        557,
+        609,
+        662
+      ]
+    },
+    "32": {
+      "id": 32,
+      "score": 3400,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        435,
+        485,
+        537,
+        592,
+        647,
+        704
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90902": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90501": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        435,
+        485,
+        537,
+        592,
+        647,
+        704
+      ]
+    },
+    "33": {
+      "id": 33,
+      "score": 3600,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90502": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ]
+    },
+    "34": {
+      "id": 34,
+      "score": 3800,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787
+      ]
+    },
+    "35": {
+      "id": 35,
+      "score": 4000,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        512,
+        570,
+        632,
+        696,
+        762,
+        828
+      ],
+      "progressReward": [
+        {
+          "98804": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        512,
+        570,
+        632,
+        696,
+        762,
+        828
+      ]
+    },
+    "36": {
+      "id": 36,
+      "score": 4200,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        537,
+        599,
+        664,
+        731,
+        800,
+        869
+      ],
+      "progressReward": [
+        {
+          "98805": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90701": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        537,
+        599,
+        664,
+        731,
+        800,
+        869
+      ]
+    },
+    "37": {
+      "id": 37,
+      "score": 4400,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        563,
+        627,
+        695,
+        766,
+        838,
+        911
+      ],
+      "progressReward": [
+        {
+          "98805": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90701": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90602": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        563,
+        627,
+        695,
+        766,
+        838,
+        911
+      ]
+    },
+    "38": {
+      "id": 38,
+      "score": 4600,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        589,
+        656,
+        727,
+        801,
+        876,
+        952
+      ],
+      "progressReward": [
+        {
+          "98805": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90701": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90702": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        589,
+        656,
+        727,
+        801,
+        876,
+        952
+      ]
+    },
+    "39": {
+      "id": 39,
+      "score": 4800,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        614,
+        684,
+        759,
+        835,
+        914,
+        994
+      ],
+      "progressReward": [
+        {
+          "98805": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90502": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90702": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        614,
+        684,
+        759,
+        835,
+        914,
+        994
+      ]
+    },
+    "40": {
+      "id": 40,
+      "score": 5000,
+      "unlockCondition": [
+        "PlayerLevel20",
+        "UnlockBlueBag"
+      ],
+      "progressBarStep": [
+        640,
+        713,
+        790,
+        870,
+        952,
+        1035
+      ],
+      "progressReward": [
+        {
+          "98805": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90502": 1
+        },
+        {
+          "90903": 1
+        },
+        {
+          "90702": 1
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "costEnergyFix": [
+        640,
+        713,
+        790,
+        870,
+        952,
+        1035
+      ]
+    }
+  },
+  "check2_2": {
+    "101": {
+      "id": 101,
+      "score": 3000,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621,
+        410,
+        456,
+        506,
+        557,
+        609,
+        662,
+        435,
+        485,
+        537,
+        592,
+        647,
+        900,
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ],
+      "progressReward": [
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "MhdIIBlindBox1": 2
+        },
+        {
+          "CardBag10002": 1
+        },
+        {
+          "Film2": 1
+        },
+        {
+          "MhdIIBlindBox1": 3
+        },
+        {
+          "CardBag10011": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Film3": 1
+        },
+        {
+          "CardBag10002": 1
+        },
+        {
+          "MhdIIBlindBox2": 2
+        },
+        {
+          "Film4": 1
+        },
+        {
+          "Film13": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90501": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "Film5": 1
+        },
+        {
+          "98721": 1
+        },
+        {
+          "CardBag10002": 1
+        },
+        {
+          "CardBag10002": 2
+        },
+        {
+          "CardBag10002": 3
+        },
+        {
+          "CardBag10011": 1
+        },
+        {
+          "CardBag10011": 2
+        },
+        {
+          "CardBag10011": 3
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "costEnergyFix": [
+        384,
+        428,
+        474,
+        522,
+        571,
+        621,
+        410,
+        456,
+        506,
+        557,
+        609,
+        662,
+        435,
+        485,
+        537,
+        592,
+        647,
+        900,
+        461,
+        513,
+        569,
+        627,
+        685,
+        745
+      ]
+    },
+    "102": {
+      "id": 102,
+      "score": 3800,
+      "unlockCondition": [
+        "PlayerLevel20"
+      ],
+      "progressBarStep": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787,
+        512,
+        570,
+        632,
+        696,
+        762,
+        828,
+        537,
+        599,
+        664,
+        731,
+        800,
+        900,
+        563,
+        627,
+        695,
+        766,
+        838,
+        911
+      ],
+      "progressReward": [
+        {
+          "MhdIIBlindBox1": 1
+        },
+        {
+          "MhdIIBlindBox1": 2
+        },
+        {
+          "CardBag10002": 1
+        },
+        {
+          "Film2": 1
+        },
+        {
+          "MhdIIBlindBox1": 3
+        },
+        {
+          "CardBag10011": 1
+        },
+        {
+          "MhdIIBlindBox2": 1
+        },
+        {
+          "Film3": 1
+        },
+        {
+          "CardBag10002": 1
+        },
+        {
+          "MhdIIBlindBox2": 2
+        },
+        {
+          "Film4": 1
+        },
+        {
+          "Film13": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90501": 1
+        },
+        {
+          "MhdIIBlindBox3": 1
+        },
+        {
+          "90601": 1
+        },
+        {
+          "Film5": 1
+        },
+        {
+          "98721": 1
+        },
+        {
+          "CardBag10002": 2
+        },
+        {
+          "CardBag10002": 2
+        },
+        {
+          "CardBag10002": 3
+        },
+        {
+          "CardBag10011": 2
+        },
+        {
+          "CardBag10011": 3
+        },
+        {
+          "CardBag10011": 4
+        }
+      ],
+      "canSpeacialReward": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "costEnergyFix": [
+        486,
+        542,
+        601,
+        661,
+        723,
+        787,
+        512,
+        570,
+        632,
+        696,
+        762,
+        828,
+        537,
+        599,
+        664,
+        731,
+        800,
+        900,
+        563,
+        627,
+        695,
+        766,
+        838,
+        911
+      ]
+    }
+  }
+}

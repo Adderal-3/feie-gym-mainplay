@@ -1,0 +1,1756 @@
+{
+  "main": {
+    "1101": {
+      "id": 1101,
+      "elementSeries": "A_1",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "1102": {
+      "id": 1102,
+      "elementSeries": "A_1",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "1103": {
+      "id": 1103,
+      "elementSeries": "A_1",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "1104": {
+      "id": 1104,
+      "elementSeries": "A_1",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "1105": {
+      "id": 1105,
+      "elementSeries": "A_1",
+      "bubblePrice": 2,
+      "adTimes": 2,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "1106": {
+      "id": 1106,
+      "elementSeries": "A_1",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "1107": {
+      "id": 1107,
+      "elementSeries": "A_1",
+      "bubblePrice": 7,
+      "adTimes": 4,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "1108": {
+      "id": 1108,
+      "elementSeries": "A_1",
+      "bubblePrice": 13,
+      "adTimes": 5,
+      "weight": [
+        60,
+        200,
+        100,
+        80,
+        50
+      ]
+    },
+    "1201": {
+      "id": 1201,
+      "elementSeries": "A_2",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "1202": {
+      "id": 1202,
+      "elementSeries": "A_2",
+      "bubblePrice": 8,
+      "adTimes": 3,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "1203": {
+      "id": 1203,
+      "elementSeries": "A_2",
+      "bubblePrice": 15,
+      "adTimes": 5,
+      "weight": [
+        30,
+        200,
+        100,
+        60,
+        30
+      ]
+    },
+    "2101": {
+      "id": 2101,
+      "elementSeries": "B_1",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "2102": {
+      "id": 2102,
+      "elementSeries": "B_1",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "2103": {
+      "id": 2103,
+      "elementSeries": "B_1",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "2104": {
+      "id": 2104,
+      "elementSeries": "B_1",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "2105": {
+      "id": 2105,
+      "elementSeries": "B_1",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "2106": {
+      "id": 2106,
+      "elementSeries": "B_1",
+      "bubblePrice": 7,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "2107": {
+      "id": 2107,
+      "elementSeries": "B_1",
+      "bubblePrice": 13,
+      "adTimes": 5,
+      "weight": [
+        60,
+        200,
+        100,
+        80,
+        50
+      ]
+    },
+    "2201": {
+      "id": 2201,
+      "elementSeries": "B_2",
+      "bubblePrice": 3,
+      "adTimes": 2,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "2202": {
+      "id": 2202,
+      "elementSeries": "B_2",
+      "bubblePrice": 6,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "2203": {
+      "id": 2203,
+      "elementSeries": "B_2",
+      "bubblePrice": 10,
+      "adTimes": 4,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "2204": {
+      "id": 2204,
+      "elementSeries": "B_2",
+      "bubblePrice": 16,
+      "adTimes": 5,
+      "weight": [
+        30,
+        100,
+        80,
+        60,
+        20
+      ]
+    },
+    "2301": {
+      "id": 2301,
+      "elementSeries": "B_3",
+      "bubblePrice": 10,
+      "adTimes": 2,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "2302": {
+      "id": 2302,
+      "elementSeries": "B_3",
+      "bubblePrice": 20,
+      "adTimes": 4,
+      "weight": [
+        10,
+        40,
+        50,
+        10,
+        10
+      ]
+    },
+    "3101": {
+      "id": 3101,
+      "elementSeries": "C_1",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "3102": {
+      "id": 3102,
+      "elementSeries": "C_1",
+      "bubblePrice": 3,
+      "adTimes": 2,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "3103": {
+      "id": 3103,
+      "elementSeries": "C_1",
+      "bubblePrice": 5,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "3104": {
+      "id": 3104,
+      "elementSeries": "C_1",
+      "bubblePrice": 8,
+      "adTimes": 4,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "3105": {
+      "id": 3105,
+      "elementSeries": "C_1",
+      "bubblePrice": 14,
+      "adTimes": 5,
+      "weight": [
+        40,
+        200,
+        100,
+        80,
+        30
+      ]
+    },
+    "3201": {
+      "id": 3201,
+      "elementSeries": "C_2",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "3202": {
+      "id": 3202,
+      "elementSeries": "C_2",
+      "bubblePrice": 13,
+      "adTimes": 2,
+      "weight": [
+        60,
+        200,
+        100,
+        80,
+        50
+      ]
+    },
+    "4101": {
+      "id": 4101,
+      "elementSeries": "D_1",
+      "bubblePrice": 3,
+      "adTimes": 1,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "4102": {
+      "id": 4102,
+      "elementSeries": "D_1",
+      "bubblePrice": 5,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "4103": {
+      "id": 4103,
+      "elementSeries": "D_1",
+      "bubblePrice": 7,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "4104": {
+      "id": 4104,
+      "elementSeries": "D_1",
+      "bubblePrice": 9,
+      "adTimes": 3,
+      "weight": [
+        200,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "4105": {
+      "id": 4105,
+      "elementSeries": "D_1",
+      "bubblePrice": 13,
+      "adTimes": 4,
+      "weight": [
+        60,
+        200,
+        100,
+        80,
+        50
+      ]
+    },
+    "4106": {
+      "id": 4106,
+      "elementSeries": "D_1",
+      "bubblePrice": 20,
+      "adTimes": 5,
+      "weight": [
+        10,
+        40,
+        50,
+        10,
+        10
+      ]
+    },
+    "5101": {
+      "id": 5101,
+      "elementSeries": "E_1",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "5102": {
+      "id": 5102,
+      "elementSeries": "E_1",
+      "bubblePrice": 14,
+      "adTimes": 2,
+      "weight": [
+        40,
+        200,
+        100,
+        80,
+        30
+      ]
+    },
+    "5301": {
+      "id": 5301,
+      "elementSeries": "E_3",
+      "bubblePrice": 11,
+      "adTimes": 1,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "6001": {
+      "id": 6001,
+      "elementSeries": "F_0",
+      "bubblePrice": 3,
+      "adTimes": 1,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "6002": {
+      "id": 6002,
+      "elementSeries": "F_0",
+      "bubblePrice": 5,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "6003": {
+      "id": 6003,
+      "elementSeries": "F_0",
+      "bubblePrice": 8,
+      "adTimes": 1,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "6004": {
+      "id": 6004,
+      "elementSeries": "F_0",
+      "bubblePrice": 14,
+      "adTimes": 1,
+      "weight": [
+        40,
+        200,
+        100,
+        80,
+        30
+      ]
+    },
+    "6101": {
+      "id": 6101,
+      "elementSeries": "F_1",
+      "bubblePrice": 6,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "6102": {
+      "id": 6102,
+      "elementSeries": "F_1",
+      "bubblePrice": 11,
+      "adTimes": 1,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "6103": {
+      "id": 6103,
+      "elementSeries": "F_1",
+      "bubblePrice": 20,
+      "adTimes": 2,
+      "weight": [
+        10,
+        40,
+        50,
+        10,
+        10
+      ]
+    },
+    "7001": {
+      "id": 7001,
+      "elementSeries": "G_0",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "7002": {
+      "id": 7002,
+      "elementSeries": "G_0",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "7003": {
+      "id": 7003,
+      "elementSeries": "G_0",
+      "bubblePrice": 8,
+      "adTimes": 1,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "7004": {
+      "id": 7004,
+      "elementSeries": "G_0",
+      "bubblePrice": 16,
+      "adTimes": 2,
+      "weight": [
+        30,
+        100,
+        80,
+        60,
+        20
+      ]
+    },
+    "7101": {
+      "id": 7101,
+      "elementSeries": "G_1",
+      "bubblePrice": 15,
+      "adTimes": 2,
+      "weight": [
+        30,
+        200,
+        100,
+        60,
+        30
+      ]
+    },
+    "7301": {
+      "id": 7301,
+      "elementSeries": "G_3",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "7302": {
+      "id": 7302,
+      "elementSeries": "G_3",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "7303": {
+      "id": 7303,
+      "elementSeries": "G_3",
+      "bubblePrice": 12,
+      "adTimes": 1,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "7401": {
+      "id": 7401,
+      "elementSeries": "G_4",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "7402": {
+      "id": 7402,
+      "elementSeries": "G_4",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "7403": {
+      "id": 7403,
+      "elementSeries": "G_4",
+      "bubblePrice": 12,
+      "adTimes": 1,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "8201": {
+      "id": 8201,
+      "elementSeries": "H_2",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "8202": {
+      "id": 8202,
+      "elementSeries": "H_2",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "8203": {
+      "id": 8203,
+      "elementSeries": "H_2",
+      "bubblePrice": 7,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "8204": {
+      "id": 8204,
+      "elementSeries": "H_2",
+      "bubblePrice": 12,
+      "adTimes": 3,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "9101": {
+      "id": 9101,
+      "elementSeries": "I_1",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "9102": {
+      "id": 9102,
+      "elementSeries": "I_1",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "9103": {
+      "id": 9103,
+      "elementSeries": "I_1",
+      "bubblePrice": 12,
+      "adTimes": 2,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "9201": {
+      "id": 9201,
+      "elementSeries": "I_2",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "9202": {
+      "id": 9202,
+      "elementSeries": "I_2",
+      "bubblePrice": 7,
+      "adTimes": 1,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "9203": {
+      "id": 9203,
+      "elementSeries": "I_2",
+      "bubblePrice": 12,
+      "adTimes": 2,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "9301": {
+      "id": 9301,
+      "elementSeries": "I_3",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "9302": {
+      "id": 9302,
+      "elementSeries": "I_3",
+      "bubblePrice": 7,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "9303": {
+      "id": 9303,
+      "elementSeries": "I_3",
+      "bubblePrice": 12,
+      "adTimes": 3,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    }
+  },
+  "arch": {
+    "53102": {
+      "id": 53102,
+      "elementSeries": "Arch_2",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "53103": {
+      "id": 53103,
+      "elementSeries": "Arch_2",
+      "bubblePrice": 8,
+      "adTimes": 3,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "53104": {
+      "id": 53104,
+      "elementSeries": "Arch_2",
+      "bubblePrice": 15,
+      "adTimes": 3,
+      "weight": [
+        30,
+        200,
+        100,
+        60,
+        30
+      ]
+    },
+    "53112": {
+      "id": 53112,
+      "elementSeries": "Arch_4",
+      "bubblePrice": 3,
+      "adTimes": 1,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "53113": {
+      "id": 53113,
+      "elementSeries": "Arch_4",
+      "bubblePrice": 6,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "53122": {
+      "id": 53122,
+      "elementSeries": "Arch_5",
+      "bubblePrice": 11,
+      "adTimes": 2,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "53132": {
+      "id": 53132,
+      "elementSeries": "Arch_6",
+      "bubblePrice": 5,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "53133": {
+      "id": 53133,
+      "elementSeries": "Arch_6",
+      "bubblePrice": 10,
+      "adTimes": 2,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "53222": {
+      "id": 53222,
+      "elementSeries": "Arch_9",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "53223": {
+      "id": 53223,
+      "elementSeries": "Arch_9",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "53224": {
+      "id": 53224,
+      "elementSeries": "Arch_9",
+      "bubblePrice": 8,
+      "adTimes": 2,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    }
+  },
+  "battleroyal": {
+    "54112": {
+      "id": 54112,
+      "elementSeries": "Battleroyal_5",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "54113": {
+      "id": 54113,
+      "elementSeries": "Battleroyal_5",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "54114": {
+      "id": 54114,
+      "elementSeries": "Battleroyal_5",
+      "bubblePrice": 6,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "54115": {
+      "id": 54115,
+      "elementSeries": "Battleroyal_5",
+      "bubblePrice": 16,
+      "adTimes": 3,
+      "weight": [
+        30,
+        100,
+        80,
+        60,
+        20
+      ]
+    },
+    "54121": {
+      "id": 54121,
+      "elementSeries": "Battleroyal_6",
+      "bubblePrice": 5,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "54122": {
+      "id": 54122,
+      "elementSeries": "Battleroyal_6",
+      "bubblePrice": 12,
+      "adTimes": 2,
+      "weight": [
+        100,
+        200,
+        200,
+        100,
+        50
+      ]
+    },
+    "54123": {
+      "id": 54123,
+      "elementSeries": "Battleroyal_6",
+      "bubblePrice": 18,
+      "adTimes": 3,
+      "weight": [
+        20,
+        60,
+        60,
+        20,
+        20
+      ]
+    },
+    "54142": {
+      "id": 54142,
+      "elementSeries": "Order_Battleroyal_4",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "54143": {
+      "id": 54143,
+      "elementSeries": "Order_Battleroyal_4",
+      "bubblePrice": 8,
+      "adTimes": 2,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "54202": {
+      "id": 54202,
+      "elementSeries": "Order_Battleroyal_8",
+      "bubblePrice": 1,
+      "adTimes": 1,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "54203": {
+      "id": 54203,
+      "elementSeries": "Order_Battleroyal_8",
+      "bubblePrice": 4,
+      "adTimes": 1,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "54204": {
+      "id": 54204,
+      "elementSeries": "Order_Battleroyal_8",
+      "bubblePrice": 6,
+      "adTimes": 2,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "54211": {
+      "id": 54211,
+      "elementSeries": "Battleroyal_9",
+      "bubblePrice": 1,
+      "adTimes": 2,
+      "weight": [
+        60,
+        70,
+        80,
+        80,
+        150
+      ]
+    },
+    "54232": {
+      "id": 54232,
+      "elementSeries": "Battleroyal_11",
+      "bubblePrice": 5,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        100,
+        100,
+        130
+      ]
+    },
+    "54233": {
+      "id": 54233,
+      "elementSeries": "Battleroyal_11",
+      "bubblePrice": 8,
+      "adTimes": 2,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "54301": {
+      "id": 54301,
+      "elementSeries": "Battleroyal_15",
+      "bubblePrice": 11,
+      "adTimes": 3,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    }
+  },
+  "dreamdoor": {
+    "44012": {
+      "id": 44012,
+      "elementSeries": "Dreamdoor_2",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "44013": {
+      "id": 44013,
+      "elementSeries": "Dreamdoor_2",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "44112": {
+      "id": 44112,
+      "elementSeries": "Dreamdoor_8",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "44113": {
+      "id": 44113,
+      "elementSeries": "Dreamdoor_8",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "44132": {
+      "id": 44132,
+      "elementSeries": "Dreamdoor_10",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "44133": {
+      "id": 44133,
+      "elementSeries": "Dreamdoor_10",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "44222": {
+      "id": 44222,
+      "elementSeries": "Dreamdoor_19",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "44223": {
+      "id": 44223,
+      "elementSeries": "Dreamdoor_19",
+      "bubblePrice": 8,
+      "adTimes": 3,
+      "weight": [
+        100,
+        100,
+        200,
+        200,
+        80
+      ]
+    },
+    "44292": {
+      "id": 44292,
+      "elementSeries": "Order_Dreamdoor_9",
+      "bubblePrice": 3,
+      "adTimes": 3,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    }
+  },
+  "moon2024": {
+    "46012": {
+      "id": 46012,
+      "elementSeries": "Order_Moon2024_1",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "46013": {
+      "id": 46013,
+      "elementSeries": "Order_Moon2024_1",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "46014": {
+      "id": 46014,
+      "elementSeries": "Order_Moon2024_1",
+      "bubblePrice": 6,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "46022": {
+      "id": 46022,
+      "elementSeries": "Moon2024_2",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "46023": {
+      "id": 46023,
+      "elementSeries": "Moon2024_2",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "46024": {
+      "id": 46024,
+      "elementSeries": "Moon2024_2",
+      "bubblePrice": 7,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        200,
+        100
+      ]
+    },
+    "46025": {
+      "id": 46025,
+      "elementSeries": "Moon2024_2",
+      "bubblePrice": 11,
+      "adTimes": 3,
+      "weight": [
+        200,
+        100,
+        200,
+        100,
+        70
+      ]
+    },
+    "46032": {
+      "id": 46032,
+      "elementSeries": "Moon2024_3",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "46033": {
+      "id": 46033,
+      "elementSeries": "Moon2024_3",
+      "bubblePrice": 3,
+      "adTimes": 3,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "46034": {
+      "id": 46034,
+      "elementSeries": "Moon2024_3",
+      "bubblePrice": 6,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "46082": {
+      "id": 46082,
+      "elementSeries": "Moon2024_8",
+      "bubblePrice": 3,
+      "adTimes": 3,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "46083": {
+      "id": 46083,
+      "elementSeries": "Moon2024_8",
+      "bubblePrice": 6,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    },
+    "46102": {
+      "id": 46102,
+      "elementSeries": "Order_Moon2024_2",
+      "bubblePrice": 2,
+      "adTimes": 3,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "46103": {
+      "id": 46103,
+      "elementSeries": "Order_Moon2024_2",
+      "bubblePrice": 4,
+      "adTimes": 3,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "46104": {
+      "id": 46104,
+      "elementSeries": "Order_Moon2024_2",
+      "bubblePrice": 6,
+      "adTimes": 3,
+      "weight": [
+        100,
+        90,
+        100,
+        110,
+        100
+      ]
+    }
+  },
+  "premoon": {
+    "47102": {
+      "id": 47102,
+      "elementSeries": "Premoon_2",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "47103": {
+      "id": 47103,
+      "elementSeries": "Premoon_2",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "47142": {
+      "id": 47142,
+      "elementSeries": "Premoon_5",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "47212": {
+      "id": 47212,
+      "elementSeries": "Premoon_9",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "47213": {
+      "id": 47213,
+      "elementSeries": "Premoon_9",
+      "bubblePrice": 3,
+      "adTimes": 1,
+      "weight": [
+        80,
+        70,
+        80,
+        80,
+        200
+      ]
+    },
+    "47222": {
+      "id": 47222,
+      "elementSeries": "Premoon_10",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "47232": {
+      "id": 47232,
+      "elementSeries": "Premoon_11",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "47252": {
+      "id": 47252,
+      "elementSeries": "Premoon_13",
+      "bubblePrice": 16,
+      "adTimes": 3,
+      "weight": [
+        30,
+        100,
+        80,
+        60,
+        20
+      ]
+    },
+    "47312": {
+      "id": 47312,
+      "elementSeries": "Premoon_29",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "47313": {
+      "id": 47313,
+      "elementSeries": "Premoon_29",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    },
+    "47342": {
+      "id": 47342,
+      "elementSeries": "Premoon_21",
+      "bubblePrice": 2,
+      "adTimes": 1,
+      "weight": [
+        70,
+        70,
+        80,
+        80,
+        180
+      ]
+    },
+    "47343": {
+      "id": 47343,
+      "elementSeries": "Premoon_21",
+      "bubblePrice": 4,
+      "adTimes": 2,
+      "weight": [
+        80,
+        80,
+        80,
+        80,
+        200
+      ]
+    }
+  }
+}

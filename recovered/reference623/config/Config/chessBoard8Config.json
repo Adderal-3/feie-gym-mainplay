@@ -1,0 +1,64 @@
+{
+  "eventEnergyName": "EventEnergyIV",
+  "initEventEnergy": 50,
+  "eventEnergyRecoverRate": 600,
+  "eventEnergyRecoverNum": 1,
+  "eventEnergyMax": 50,
+  "eventEnergyITimes": [
+    5,
+    8,
+    9
+  ],
+  "eventEnergyIWeight": [
+    150,
+    500,
+    600
+  ],
+  "energyNum": 1,
+  "eventEnergyRate": 334,
+  "eventEnergyIInitTimes": [
+    10
+  ],
+  "noEnergySeries": [
+    "Chest_Coin",
+    "Chest_Energy",
+    "Chest_Energy1",
+    "Chest_1",
+    "Chest_2",
+    "Chest_Pig",
+    "Prop_7",
+    "Prop_8",
+    "Prop_11",
+    "Prop_10",
+    "Prop_12",
+    "Energy",
+    "Energy_Number",
+    "Energy_Farm_1",
+    "Energy_Farm_0",
+    "Chest_5",
+    "Monster_47"
+  ],
+  "upgradePoint": [
+    5,
+    10,
+    30,
+    60,
+    100
+  ],
+  "upgradeReward": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "ticketPrice": [
+    0,
+    5,
+    10,
+    20,
+    40
+  ],
+  "ticketPriceReset": 28800,
+  "duration": 3600
+}

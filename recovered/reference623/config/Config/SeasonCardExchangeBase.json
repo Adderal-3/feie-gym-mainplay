@@ -1,0 +1,16 @@
+{
+  "normalCardPrice": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "goldCardPrice": [
+    2,
+    4,
+    6,
+    8,
+    10
+  ]
+}

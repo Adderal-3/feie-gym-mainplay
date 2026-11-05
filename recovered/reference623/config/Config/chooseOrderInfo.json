@@ -1,0 +1,134 @@
+{
+  "chooseOrder1": {
+    "id": "chooseOrder1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder1",
+      "chooseOrder2",
+      "chooseOrder3"
+    ],
+    "progressReward": {
+      "Film3": 1
+    },
+    "character": "TimeOrderAqiang",
+    "style": "aqiang",
+    "boardAnim": "zixuannandurukou1",
+    "orderQuantity": 6,
+    "lineColor": "#ffdbad"
+  },
+  "chooseOrder2": {
+    "id": "chooseOrder2",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder1",
+      "chooseOrder2",
+      "chooseOrder3"
+    ],
+    "progressReward": {
+      "9820001": 1,
+      "Film4": 1
+    },
+    "character": "TimeOrderAqiang",
+    "style": "aqiang",
+    "boardAnim": "zixuannandurukou1",
+    "orderQuantity": 8,
+    "lineColor": "#ffdbad"
+  },
+  "chooseOrder3": {
+    "id": "chooseOrder3",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder1",
+      "chooseOrder2",
+      "chooseOrder3"
+    ],
+    "progressReward": {
+      "9820002": 1,
+      "Diamond": 20,
+      "Film5": 1
+    },
+    "character": "TimeOrderAqiang",
+    "style": "aqiang",
+    "boardAnim": "zixuannandurukou1",
+    "orderQuantity": 10,
+    "lineColor": "#ffdbad"
+  },
+  "chooseOrder4": {
+    "id": "chooseOrder4",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder4",
+      "chooseOrder5",
+      "chooseOrder6"
+    ],
+    "progressReward": {
+      "MhdIIBlindBox5": 1
+    },
+    "character": "TimeOrderAgu",
+    "style": "agu",
+    "boardAnim": "zixuannandurukou2",
+    "orderQuantity": 6,
+    "lineColor": "#ffdbad"
+  },
+  "chooseOrder5": {
+    "id": "chooseOrder5",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder4",
+      "chooseOrder5",
+      "chooseOrder6"
+    ],
+    "progressReward": {
+      "9820001": 1,
+      "MhdIIBlindBox6": 1
+    },
+    "character": "TimeOrderAgu",
+    "style": "agu",
+    "boardAnim": "zixuannandurukou2",
+    "orderQuantity": 8,
+    "lineColor": "#ffdbad"
+  },
+  "chooseOrder6": {
+    "id": "chooseOrder6",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "duration": 5400,
+    "cd": 3600,
+    "routine": [
+      "chooseOrder4",
+      "chooseOrder5",
+      "chooseOrder6"
+    ],
+    "progressReward": {
+      "9820002": 1,
+      "Diamond": 20,
+      "MhdIIBlindBox4": 1
+    },
+    "character": "TimeOrderAgu",
+    "style": "agu",
+    "boardAnim": "zixuannandurukou2",
+    "orderQuantity": 10,
+    "lineColor": "#ffdbad"
+  }
+}

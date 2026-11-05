@@ -1,0 +1,87 @@
+{
+  "Login": {
+    "id": "Login",
+    "name": "累计登录{0}天",
+    "tip": "记得每天登录哦!"
+  },
+  "CompleteOrder": {
+    "id": "CompleteOrder",
+    "name": "完成{0}个订单",
+    "tip": "完成主棋盘的订单!"
+  },
+  "Merge": {
+    "id": "Merge",
+    "name": "完成{0}次合成",
+    "tip": "去主棋盘上合成吧!"
+  },
+  "CollectStar": {
+    "id": "CollectStar",
+    "name": "收集{0}星星",
+    "tip": "通过任意渠道收集星星!"
+  },
+  "CostDiamond": {
+    "id": "CostDiamond",
+    "name": "消耗{0}钻石",
+    "tip": "通过任意渠道消耗钻石!"
+  },
+  "ObtainCard": {
+    "id": "ObtainCard",
+    "name": "获得{0}张卡牌",
+    "tip": "在活动中收集卡牌!"
+  },
+  "ObtainCardStar4": {
+    "id": "ObtainCardStar4",
+    "name": "获得{0}张4星卡牌",
+    "tip": "在活动中收集4星卡牌!"
+  },
+  "ObtainCardStar5": {
+    "id": "ObtainCardStar5",
+    "name": "获得{0}张5星卡牌",
+    "tip": "在活动中收集5星卡牌!"
+  },
+  "PayRecharge": {
+    "id": "PayRecharge",
+    "name": "充值{0}次",
+    "tip": "充值获取更多奖励!"
+  },
+  "CostEventEnergyIII": {
+    "id": "CostEventEnergyIII",
+    "name": "消耗{0}粉体力",
+    "tip": "在活动中消耗粉体力！"
+  },
+  "OpenBlindBox": {
+    "id": "OpenBlindBox",
+    "name": "开启{0}个盲盒",
+    "tip": "在活动中开启盲盒！"
+  },
+  "ObtainPassNewPoint": {
+    "id": "ObtainPassNewPoint",
+    "name": "获得{0}点阿秋积分",
+    "tip": "通过任意渠道收集阿秋积分!"
+  },
+  "FinishDailyChallenge": {
+    "id": "FinishDailyChallenge",
+    "name": "完成每日经营计划任务",
+    "tip": "完成每日经营计划任务！"
+  },
+  "CostPinball": {
+    "id": "CostPinball",
+    "name": "使用{0}个弹珠",
+    "tip": "在活动中使用弹珠！"
+  },
+  "CostDigGameShovel": {
+    "id": "CostDigGameShovel",
+    "name": "使用{0}个铲子",
+    "tip": "在活动中使用铲子！"
+  },
+  "CostOpenBoxProp": {
+    "id": "CostOpenBoxProp",
+    "name": "使用{0}个手电筒",
+    "tip": "在活动中使用手电筒！"
+  },
+  "CostMagicProp": {
+    "id": "CostMagicProp",
+    "name": "获取{0}个魔药瓶",
+    "tip": "在活动中获取魔药瓶！"
+  }
+}

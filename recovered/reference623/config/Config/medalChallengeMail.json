@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": 1,
+    "belong": "stamp1",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "2": {
+    "id": 2,
+    "belong": "stamp2",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "3": {
+    "id": 3,
+    "belong": "stamp3",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "4": {
+    "id": 4,
+    "belong": "stamp4",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "5": {
+    "id": 5,
+    "belong": "stamp5",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "6": {
+    "id": 6,
+    "belong": "stamp6",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "7": {
+    "id": 7,
+    "belong": "stamp7",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  },
+  "8": {
+    "id": 8,
+    "belong": "stamp8",
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "mailValidity": 7
+  }
+}

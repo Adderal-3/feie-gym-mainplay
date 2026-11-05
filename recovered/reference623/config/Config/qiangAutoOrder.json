@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "part": 1,
+    "condition": "1 + 1 == 2",
+    "algorithm": "Max",
+    "stackLimit": 2,
+    "minDiff": 0
+  },
+  "2": {
+    "id": 2,
+    "part": 2,
+    "condition": "{x} >= 100",
+    "algorithm": "Random",
+    "stackLimit": 3,
+    "minDiff": 100
+  },
+  "3": {
+    "id": 3,
+    "part": 2,
+    "condition": "{x} >=10",
+    "algorithm": "Clean",
+    "stackLimit": 3,
+    "minDiff": 10
+  },
+  "4": {
+    "id": 4,
+    "part": 3,
+    "condition": "{x} >= 100",
+    "algorithm": "Max",
+    "stackLimit": 3,
+    "minDiff": 100
+  },
+  "5": {
+    "id": 5,
+    "part": 3,
+    "condition": "{x} >= 10",
+    "algorithm": "Clean",
+    "stackLimit": 3,
+    "minDiff": 10
+  }
+}

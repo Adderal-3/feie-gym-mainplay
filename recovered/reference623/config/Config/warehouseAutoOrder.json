@@ -1,0 +1,394 @@
+{
+  "warehouse1": {
+    "450005": {
+      "id": 450005,
+      "childrenSeries": [
+        "warehouse1_1",
+        "warehouse1_2"
+      ],
+      "filterSeries": [],
+      "generationSeries": {
+        "warehouse1_1": [
+          "warehouse1_2"
+        ],
+        "warehouse1_2": [
+          "warehouse1_1"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "450305": {
+      "id": 450305,
+      "childrenSeries": [
+        "warehouse1_4",
+        "warehouse1_5"
+      ],
+      "filterSeries": [],
+      "generationSeries": {
+        "warehouse1_4": [
+          "warehouse1_5"
+        ],
+        "warehouse1_5": [
+          "warehouse1_4"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "450605": {
+      "id": 450605,
+      "childrenSeries": [
+        "warehouse1_7",
+        "warehouse1_8",
+        "warehouse1_9"
+      ],
+      "filterSeries": [
+        "warehouse1_7"
+      ],
+      "generationSeries": {
+        "warehouse1_8": [
+          "warehouse1_9"
+        ],
+        "warehouse1_9": [
+          "warehouse1_8"
+        ]
+      },
+      "guideOrder": 1001
+    },
+    "451005": {
+      "id": 451005,
+      "childrenSeries": [
+        "warehouse1_11",
+        "warehouse1_12",
+        "warehouse1_13"
+      ],
+      "filterSeries": [
+        "warehouse1_11"
+      ],
+      "generationSeries": {
+        "warehouse1_13": [
+          "warehouse1_12"
+        ],
+        "warehouse1_12": [
+          "warehouse1_13",
+          "warehouse1_11"
+        ]
+      },
+      "guideOrder": 2001
+    },
+    "451405": {
+      "id": 451405,
+      "childrenSeries": [
+        "warehouse1_15",
+        "warehouse1_17",
+        "order_warehouse1_16"
+      ],
+      "filterSeries": [
+        "order_warehouse1_16",
+        "warehouse1_15"
+      ],
+      "generationSeries": {},
+      "guideOrder": 4001
+    }
+  },
+  "warehouse2": {
+    "710005": {
+      "id": 710005,
+      "childrenSeries": [
+        "warehouse2_1",
+        "warehouse2_2"
+      ],
+      "filterSeries": [],
+      "generationSeries": {
+        "warehouse2_1": [
+          "warehouse2_2"
+        ],
+        "warehouse2_2": [
+          "warehouse2_1"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "710305": {
+      "id": 710305,
+      "childrenSeries": [
+        "warehouse2_4",
+        "warehouse2_5"
+      ],
+      "filterSeries": [],
+      "generationSeries": {
+        "warehouse2_4": [
+          "warehouse2_5"
+        ],
+        "warehouse2_5": [
+          "warehouse2_4"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "710605": {
+      "id": 710605,
+      "childrenSeries": [
+        "warehouse2_7",
+        "warehouse2_8",
+        "warehouse2_9"
+      ],
+      "filterSeries": [
+        "warehouse2_7"
+      ],
+      "generationSeries": {
+        "warehouse2_8": [
+          "warehouse2_9"
+        ],
+        "warehouse2_9": [
+          "warehouse2_8"
+        ]
+      },
+      "guideOrder": 6001
+    },
+    "711005": {
+      "id": 711005,
+      "childrenSeries": [
+        "warehouse2_11",
+        "warehouse2_12",
+        "warehouse2_13"
+      ],
+      "filterSeries": [
+        "warehouse2_12"
+      ],
+      "generationSeries": {
+        "warehouse2_11": [
+          "warehouse2_12",
+          "warehouse2_13"
+        ],
+        "warehouse2_13": [
+          "warehouse2_11"
+        ]
+      },
+      "guideOrder": 7001
+    }
+  },
+  "warehouse3": {
+    "711505": {
+      "id": 711505,
+      "childrenSeries": [
+        "Warehouse3_1",
+        "Warehouse3_2",
+        "Warehouse3_3",
+        "Warehouse3_4"
+      ],
+      "filterSeries": [
+        "Warehouse3_1",
+        "Warehouse3_2"
+      ],
+      "generationSeries": {
+        "Warehouse3_3": [
+          "Warehouse3_4"
+        ],
+        "Warehouse3_4": [
+          "Warehouse3_3"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "711545": {
+      "id": 711545,
+      "childrenSeries": [
+        "Warehouse3_6",
+        "Warehouse3_7",
+        "Warehouse3_8"
+      ],
+      "filterSeries": [
+        "Warehouse3_7"
+      ],
+      "generationSeries": {
+        "Warehouse3_6": [
+          "Warehouse3_8"
+        ],
+        "Warehouse3_8": [
+          "Warehouse3_6"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "711585": {
+      "id": 711585,
+      "childrenSeries": [
+        "Warehouse3_10",
+        "Warehouse3_11",
+        "Warehouse3_12"
+      ],
+      "filterSeries": [
+        "Warehouse3_11"
+      ],
+      "generationSeries": {
+        "Warehouse3_10": [
+          "Warehouse3_12"
+        ],
+        "Warehouse3_12": [
+          "Warehouse3_10"
+        ]
+      },
+      "guideOrder": 9001
+    },
+    "711635": {
+      "id": 711635,
+      "childrenSeries": [
+        "Warehouse3_14",
+        "Warehouse3_15",
+        "Warehouse3_16",
+        "Warehouse3_17",
+        "Warehouse3_18",
+        "Warehouse3_19",
+        "Warehouse3_20"
+      ],
+      "filterSeries": [
+        "Warehouse3_14",
+        "Warehouse3_15",
+        "Warehouse3_16",
+        "Warehouse3_17",
+        "Warehouse3_19"
+      ],
+      "generationSeries": {
+        "Warehouse3_18": [
+          "Warehouse3_20"
+        ],
+        "Warehouse3_20": [
+          "Warehouse3_18"
+        ]
+      },
+      "guideOrder": 10001
+    }
+  },
+  "warehouse4": {
+    "711715": {
+      "id": 711715,
+      "childrenSeries": [
+        "Warehouse4_2",
+        "Warehouse4_3",
+        "Warehouse4_4"
+      ],
+      "filterSeries": [
+        "Warehouse4_2"
+      ],
+      "generationSeries": {
+        "Warehouse4_3": [
+          "Warehouse4_4"
+        ],
+        "Warehouse4_4": [
+          "Warehouse4_3"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "711783": {
+      "id": 711783,
+      "childrenSeries": [
+        "Warehouse4_13",
+        "Warehouse4_14",
+        "Warehouse4_15",
+        "Warehouse4_17",
+        "Warehouse4_18"
+      ],
+      "filterSeries": [
+        "Warehouse4_13",
+        "Warehouse4_14"
+      ],
+      "generationSeries": {
+        "Warehouse4_15": [
+          "Warehouse4_18"
+        ],
+        "Warehouse4_17": [
+          "Warehouse4_18"
+        ],
+        "Warehouse4_18": [
+          "Warehouse4_17"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "711805": {
+      "id": 711805,
+      "childrenSeries": [
+        "Warehouse4_20",
+        "Warehouse4_21",
+        "Order_Warehouse4_22",
+        "Warehouse4_23",
+        "Warehouse4_24",
+        "Order_Warehouse4_25_1",
+        "Order_Warehouse4_25_2",
+        "Order_Warehouse4_25_3",
+        "Warehouse4_26",
+        "Warehouse4_27",
+        "Warehouse4_28"
+      ],
+      "filterSeries": [
+        "Warehouse4_20",
+        "Warehouse4_21",
+        "Order_Warehouse4_22",
+        "Warehouse4_23",
+        "Warehouse4_24",
+        "Order_Warehouse4_25_1",
+        "Order_Warehouse4_25_2",
+        "Order_Warehouse4_25_3",
+        "Warehouse4_26"
+      ],
+      "generationSeries": {
+        "Warehouse4_27": [
+          "Warehouse4_28"
+        ],
+        "Warehouse4_28": [
+          "Warehouse4_27"
+        ]
+      },
+      "guideOrder": 11021
+    },
+    "711846": {
+      "id": 711846,
+      "childrenSeries": [
+        "Warehouse4_7",
+        "Warehouse4_8",
+        "Warehouse4_9",
+        "Warehouse4_10"
+      ],
+      "filterSeries": [
+        "Warehouse4_8",
+        "Warehouse4_9"
+      ],
+      "generationSeries": {
+        "Warehouse4_7": [
+          "Warehouse4_10"
+        ],
+        "Warehouse4_10": [
+          "Warehouse4_7"
+        ]
+      },
+      "guideOrder": 0
+    },
+    "711847": {
+      "id": 711847,
+      "childrenSeries": [
+        "Warehouse4_13",
+        "Warehouse4_14",
+        "Warehouse4_15",
+        "Warehouse4_17",
+        "Warehouse4_18"
+      ],
+      "filterSeries": [
+        "Warehouse4_13",
+        "Warehouse4_14"
+      ],
+      "generationSeries": {
+        "Warehouse4_15": [
+          "Warehouse4_18"
+        ],
+        "Warehouse4_17": [
+          "Warehouse4_18"
+        ],
+        "Warehouse4_18": [
+          "Warehouse4_17"
+        ]
+      },
+      "guideOrder": 11017
+    }
+  }
+}

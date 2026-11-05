@@ -1,0 +1,26 @@
+{
+  "wt1": {
+    "id": "wt1",
+    "weekDefaultLevel": 1,
+    "chooseConfig": "t1",
+    "maxLevel": 3
+  },
+  "wt2": {
+    "id": "wt2",
+    "weekDefaultLevel": 4,
+    "chooseConfig": "t1",
+    "maxLevel": 6
+  },
+  "wt3": {
+    "id": "wt3",
+    "weekDefaultLevel": 7,
+    "chooseConfig": "t1",
+    "maxLevel": 9
+  },
+  "wt4": {
+    "id": "wt4",
+    "weekDefaultLevel": 10,
+    "chooseConfig": "t1",
+    "maxLevel": 12
+  }
+}

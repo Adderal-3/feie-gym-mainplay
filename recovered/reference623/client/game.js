@@ -1,0 +1,3 @@
+ 			
+"use strict";require("adapter-min.js"),__globalAdapter.init(),require("cocos/cocos2d-js-min.js"),__globalAdapter.adaptEngine(),require("./ccRequire"),require("./src/settings"),window.CDNS=["https://gj-fejsf-res.hortorgames.com/asset","https://gj-fejsf-res-v2.hortorgames.com/asset"],window.HSDK=require("./hortor-sdk/HSDK.wx.min.js"),require("./main"),cc.view._maxPixelRatio=4,cc.sys.platform!==cc.sys.WECHAT_GAME_SUB&&(cc.macro.CLEANUP_IMAGE_CACHE=!0),window.boot(); 
+ 			

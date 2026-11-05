@@ -10,7 +10,7 @@
     "preview": "node tools/preview-server.mjs",
     "start": "node tools/original-server.mjs",
     "play": "node tools/launch-original.mjs",
-    "test:original": "node --test tests/original-backend.test.mjs tests/original-server.test.mjs"
+    "test:original": "node --test tests/original-*.test.mjs"
   },
   "devDependencies": {
     "acorn": "^8.15.0",

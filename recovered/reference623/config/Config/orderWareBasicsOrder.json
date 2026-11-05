@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": 1,
+    "difficultyRange": [
+      10,
+      50
+    ],
+    "cdTime": 900,
+    "algorithm": [
+      "Max",
+      "Clean"
+    ],
+    "secondPartMinDiff": 10,
+    "stackLimit": 3
+  },
+  "2": {
+    "id": 2,
+    "difficultyRange": [
+      50,
+      100
+    ],
+    "cdTime": 900,
+    "algorithm": [
+      "Min",
+      "Max"
+    ],
+    "secondPartMinDiff": 10,
+    "stackLimit": 3
+  },
+  "3": {
+    "id": 3,
+    "difficultyRange": [
+      100,
+      180
+    ],
+    "cdTime": 900,
+    "algorithm": [
+      "Random",
+      "Help"
+    ],
+    "secondPartMinDiff": 10,
+    "stackLimit": 3
+  },
+  "4": {
+    "id": 4,
+    "difficultyRange": [
+      180,
+      360
+    ],
+    "cdTime": 900,
+    "algorithm": [
+      "Max",
+      "Clean"
+    ],
+    "secondPartMinDiff": 10,
+    "stackLimit": 3
+  }
+}

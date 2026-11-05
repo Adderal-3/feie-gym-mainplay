@@ -1,0 +1,9 @@
+{
+  "returncenter": {
+    "id": "returncenter",
+    "firstFinishDrawerTask": 9201,
+    "getPDrawergift": 9202,
+    "getFinalgift": 9204,
+    "firstFinishReturnTask": 9203
+  }
+}

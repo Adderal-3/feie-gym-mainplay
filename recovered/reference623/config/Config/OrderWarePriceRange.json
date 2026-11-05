@@ -1,0 +1,72 @@
+{
+  "0": {
+    "rangeLeft": 0,
+    "rangeRight": 75,
+    "star": 1
+  },
+  "75": {
+    "rangeLeft": 75,
+    "rangeRight": 160,
+    "star": 2
+  },
+  "160": {
+    "rangeLeft": 160,
+    "rangeRight": 320,
+    "star": 3
+  },
+  "320": {
+    "rangeLeft": 320,
+    "rangeRight": 550,
+    "star": 4
+  },
+  "550": {
+    "rangeLeft": 550,
+    "rangeRight": 900,
+    "star": 5
+  },
+  "900": {
+    "rangeLeft": 900,
+    "rangeRight": 1200,
+    "star": 6
+  },
+  "1200": {
+    "rangeLeft": 1200,
+    "rangeRight": 1500,
+    "star": 7
+  },
+  "1500": {
+    "rangeLeft": 1500,
+    "rangeRight": 2000,
+    "star": 8
+  },
+  "2000": {
+    "rangeLeft": 2000,
+    "rangeRight": 2500,
+    "star": 9
+  },
+  "2500": {
+    "rangeLeft": 2500,
+    "rangeRight": 3000,
+    "star": 10
+  },
+  "3000": {
+    "rangeLeft": 3000,
+    "rangeRight": 4000,
+    "star": 11
+  },
+  "4000": {
+    "rangeLeft": 4000,
+    "rangeRight": 5500,
+    "star": 12
+  },
+  "5500": {
+    "rangeLeft": 5500,
+    "rangeRight": 7000,
+    "star": 13
+  },
+  "7000": {
+    "rangeLeft": 7000,
+    "rangeRight": 999999,
+    "star": 14
+  }
+}

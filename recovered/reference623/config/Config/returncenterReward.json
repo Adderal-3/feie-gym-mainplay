@@ -1,0 +1,79 @@
+{
+  "1": {
+    "id": 1,
+    "signintaskReward": {
+      "CardPack1001": 8
+    },
+    "taskId": 4,
+    "finishedCondition": 1,
+    "dailytaskReward": {
+      "98801": 5
+    }
+  },
+  "2": {
+    "id": 2,
+    "signintaskReward": {
+      "Energy": 100
+    },
+    "taskId": 3,
+    "finishedCondition": 1,
+    "dailytaskReward": {
+      "Diamond": 5
+    }
+  },
+  "3": {
+    "id": 3,
+    "signintaskReward": {
+      "Energy": 100
+    },
+    "taskId": 1,
+    "finishedCondition": 50,
+    "dailytaskReward": {
+      "98104": 1
+    }
+  },
+  "4": {
+    "id": 4,
+    "signintaskReward": {
+      "Diamond": 5
+    },
+    "taskId": 2,
+    "finishedCondition": 100,
+    "dailytaskReward": {
+      "90501": 1
+    }
+  },
+  "5": {
+    "id": 5,
+    "signintaskReward": {
+      "Diamond": 5
+    },
+    "taskId": 1,
+    "finishedCondition": 80,
+    "dailytaskReward": {
+      "Diamond": 5
+    }
+  },
+  "6": {
+    "id": 6,
+    "signintaskReward": {
+      "Energy": 100
+    },
+    "taskId": 2,
+    "finishedCondition": 100,
+    "dailytaskReward": {
+      "Diamond": 5
+    }
+  },
+  "7": {
+    "id": 7,
+    "signintaskReward": {
+      "Diamond": 10
+    },
+    "taskId": 1,
+    "finishedCondition": 100,
+    "dailytaskReward": {
+      "90601": 1
+    }
+  }
+}

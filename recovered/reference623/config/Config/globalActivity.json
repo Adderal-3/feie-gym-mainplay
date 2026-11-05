@@ -1,0 +1,1192 @@
+{
+  "butterfly": {
+    "id": "butterfly",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "festivalGift": {
+    "id": "festivalGift",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "duanwu": {
+    "id": "duanwu",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 1,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard": {
+    "id": "chessBoard",
+    "unlock": [
+      "PlayerLevel16"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "pickOne": {
+    "id": "pickOne",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "bingo": {
+    "id": "bingo",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "worldTask": {
+    "id": "worldTask",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 50,
+    "robot": 0
+  },
+  "pass": {
+    "id": "pass",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "recall": {
+    "id": "recall",
+    "unlock": [],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "mp": {
+    "id": "mp",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "dailySign": {
+    "id": "dailySign",
+    "unlock": [
+      "PlayerLevel4"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "Drawer": {
+    "id": "Drawer",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "healthy": {
+    "id": "healthy",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "piggy": {
+    "id": "piggy",
+    "unlock": [
+      "PlayerLevel6"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "blindBox": {
+    "id": "blindBox",
+    "unlock": [
+      "PlayerLevel7"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "butterflyPass": {
+    "id": "butterflyPass",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "rollingGift": {
+    "id": "rollingGift",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard2": {
+    "id": "chessBoard2",
+    "unlock": [
+      "PlayerLevel16"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "conPay": {
+    "id": "conPay",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "mRebates": {
+    "id": "mRebates",
+    "unlock": [],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "shopDouble": {
+    "id": "shopDouble",
+    "unlock": [],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard3": {
+    "id": "chessBoard3",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 20,
+    "robot": 0
+  },
+  "acPay": {
+    "id": "acPay",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "diamondGift": {
+    "id": "diamondGift",
+    "unlock": [],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "alap": {
+    "id": "alap",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard4": {
+    "id": "chessBoard4",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "routineCheck": {
+    "id": "routineCheck",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "progressGift": {
+    "id": "progressGift",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "diggame": {
+    "id": "diggame",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "lampPass": {
+    "id": "lampPass",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "gog": {
+    "id": "gog",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "magiccauldron": {
+    "id": "magiccauldron",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 1,
+    "haveTeamRank": 1,
+    "memberPerTeam": 20,
+    "robot": 0
+  },
+  "richMan": {
+    "id": "richMan",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "unlockGift": {
+    "id": "unlockGift",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "onePlusOne": {
+    "id": "onePlusOne",
+    "unlock": [
+      "PlayerLevel13"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "monopoly": {
+    "id": "monopoly",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "spacedig": {
+    "id": "spacedig",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "doubleDice": {
+    "id": "doubleDice",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "doubleButton": {
+    "id": "doubleButton",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "carrotPass": {
+    "id": "carrotPass",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chooseOne": {
+    "id": "chooseOne",
+    "unlock": [
+      "PlayerLevel13"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "volcano": {
+    "id": "volcano",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "puzzleWarehouse": {
+    "id": "puzzleWarehouse",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "passNew": {
+    "id": "passNew",
+    "unlock": [
+      "PlayerLevel9"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard5": {
+    "id": "chessBoard5",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "cardSeason": {
+    "id": "cardSeason",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "seasonCardOffer": {
+    "id": "seasonCardOffer",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "seasonCardShop": {
+    "id": "seasonCardShop",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard6": {
+    "id": "chessBoard6",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "gogV2": {
+    "id": "gogV2",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "mhd": {
+    "id": "mhd",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "OrderWare": {
+    "id": "OrderWare",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "dailyChallenge": {
+    "id": "dailyChallenge",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "progressWaterfall": {
+    "id": "progressWaterfall",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "limitedTimeOrder2": {
+    "id": "limitedTimeOrder2",
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "MasterMatch": {
+    "id": "MasterMatch",
+    "unlock": [],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 50,
+    "robot": 0
+  },
+  "mhdDoubleCoin": {
+    "id": "mhdDoubleCoin",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "mergePassNew": {
+    "id": "mergePassNew",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard7": {
+    "id": "chessBoard7",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "pinball": {
+    "id": "pinball",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "hangChallenge": {
+    "id": "hangChallenge",
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "dailyGift": {
+    "id": "dailyGift",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "skipCd": {
+    "id": "skipCd",
+    "unlock": [
+      "PlayerLevel5"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard8": {
+    "id": "chessBoard8",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "routineCheck2": {
+    "id": "routineCheck2",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "buff": {
+    "id": "buff",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "multiEnergyButton": {
+    "id": "multiEnergyButton",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "seasonCardExtract": {
+    "id": "seasonCardExtract",
+    "unlock": [
+      "PlayerLevel13"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "screw": {
+    "id": "screw",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "mhd2": {
+    "id": "mhd2",
+    "unlock": [
+      "PlayerLevel11"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "bagskinGift": {
+    "id": "bagskinGift",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chessBoard9": {
+    "id": "chessBoard9",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 1,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "weightRace": {
+    "id": "weightRace",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "discoGift": {
+    "id": "discoGift",
+    "unlock": [
+      "PlayerLevel13"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "chooseOrder": {
+    "id": "chooseOrder",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "maskChallenge": {
+    "id": "maskChallenge",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "loopGift2": {
+    "id": "loopGift2",
+    "unlock": [
+      "PlayerLevel10"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "OneVsOne": {
+    "id": "OneVsOne",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "diveChallenge": {
+    "id": "diveChallenge",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "fireRank": {
+    "id": "fireRank",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "climbTower": {
+    "id": "climbTower",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "openBox": {
+    "id": "openBox",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "floatRace": {
+    "id": "floatRace",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "energyPass": {
+    "id": "energyPass",
+    "unlock": [
+      "PlayerLevel11"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "rewardRoad": {
+    "id": "rewardRoad",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "collectionAct": {
+    "id": "collectionAct",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "medalChallenge": {
+    "id": "medalChallenge",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "winStreakRank": {
+    "id": "winStreakRank",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "frozenBubble": {
+    "id": "frozenBubble",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "weekTask": {
+    "id": "weekTask",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "butterflyV2": {
+    "id": "butterflyV2",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "SmileOrder": {
+    "id": "SmileOrder",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "hive": {
+    "id": "hive",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "jungleAdventure": {
+    "id": "jungleAdventure",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "teamVersus": {
+    "id": "teamVersus",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "partnerEvent": {
+    "id": "partnerEvent",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "rankMatch": {
+    "id": "rankMatch",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "haveWorldRank": 1,
+    "worldRankCount": 100,
+    "worldRankShowSelf": 1,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "tennisParty": {
+    "id": "tennisParty",
+    "unlock": [
+      "PlayerLevel35"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "tournament": {
+    "id": "tournament",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  },
+  "cardBuff": {
+    "id": "cardBuff",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "haveWorldRank": 0,
+    "worldRankCount": 0,
+    "worldRankShowSelf": 0,
+    "haveTeamRank": 0,
+    "memberPerTeam": 0,
+    "robot": 0
+  }
+}

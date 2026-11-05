@@ -1,0 +1,111 @@
+{
+  "99607": {
+    "9960701": {
+      "id": 9960701,
+      "content": {
+        "Diamond": 50,
+        "Energy": 100,
+        "Film2": 1
+      },
+      "price": {
+        "Cash": 800
+      },
+      "tagText": "165%",
+      "gear": "scoPay8"
+    },
+    "9960702": {
+      "id": 9960702,
+      "content": {
+        "Diamond": 150,
+        "Energy": 100,
+        "Film8": 1,
+        "Film2": 1
+      },
+      "price": {
+        "Cash": 1800
+      },
+      "tagText": "151%",
+      "gear": "scoPay18"
+    },
+    "9960703": {
+      "id": 9960703,
+      "content": {
+        "Diamond": 200,
+        "Energy": 200,
+        "Film3": 1
+      },
+      "price": {
+        "Cash": 2500
+      },
+      "tagText": "151%",
+      "gear": "scoPay25"
+    },
+    "9960704": {
+      "id": 9960704,
+      "content": {
+        "Diamond": 300,
+        "Energy": 400,
+        "Film4": 1
+      },
+      "price": {
+        "Cash": 4000
+      },
+      "tagText": "158%",
+      "gear": "scoPay40"
+    },
+    "9960705": {
+      "id": 9960705,
+      "content": {
+        "Diamond": 350,
+        "Energy": 500,
+        "Film4": 1
+      },
+      "price": {
+        "Cash": 5000
+      },
+      "tagText": "150%",
+      "gear": "scoPay50"
+    },
+    "9960706": {
+      "id": 9960706,
+      "content": {
+        "Diamond": 480,
+        "Energy": 650,
+        "Film5": 1
+      },
+      "price": {
+        "Cash": 6800
+      },
+      "tagText": "151%",
+      "gear": "scoPay68"
+    },
+    "9960707": {
+      "id": 9960707,
+      "content": {
+        "Diamond": 1000,
+        "Energy": 880,
+        "Film5": 1,
+        "Film11": 1
+      },
+      "price": {
+        "Cash": 12800
+      },
+      "tagText": "148%",
+      "gear": "scoPay128"
+    },
+    "9960708": {
+      "id": 9960708,
+      "content": {
+        "Diamond": 3000,
+        "Energy": 1500,
+        "Film5": 2,
+        "Film11": 2
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "tagText": "147%",
+      "gear": "scoPay328"
+    }
+  }
+}

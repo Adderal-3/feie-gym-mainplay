@@ -196,6 +196,7 @@ def main() -> None:
     parser.add_argument("--sprites", action="store_true", help="crop cached Cocos SpriteFrames into named PNG files")
     parser.add_argument("--packages", type=Path, default=Path("recovered/packages"))
     parser.add_argument("--downloads", type=Path, default=Path("recovered/downloads"))
+    parser.add_argument("--reference", type=Path, help="additional isolated reference resource snapshot; identical original texture filenames and SHA values reuse the existing record")
     args = parser.parse_args()
     source = args.source.resolve(strict=True)
     output = args.output.resolve()
@@ -211,6 +212,14 @@ def main() -> None:
         texture_sources += [(file, Path("packages") / file.relative_to(args.packages)) for file in sorted(args.packages.rglob("*.pvr"))]
     if args.downloads.exists():
         texture_sources += [(file, Path("downloads") / file.relative_to(args.downloads)) for file in sorted(args.downloads.rglob("*.pvr"))]
+    if args.reference:
+        reference = args.reference.resolve(strict=True)
+        existing = {(file.name, hashlib.sha256(file.read_bytes()).hexdigest()) for file, _ in texture_sources}
+        for file in sorted(reference.rglob("*.pvr")):
+            identity = (file.name, hashlib.sha256(file.read_bytes()).hexdigest())
+            if identity not in existing:
+                texture_sources.append((file, Path("reference623") / file.relative_to(reference)))
+                existing.add(identity)
     for file, relative in texture_sources:
         png = relative.with_suffix(".png")
         try:

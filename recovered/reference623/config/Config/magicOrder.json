@@ -1,0 +1,790 @@
+{
+  "cauldron1": {
+    "101": {
+      "id": 101,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "RankPoint": 10
+      }
+    },
+    "102": {
+      "id": 102,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Coin": 200
+      }
+    },
+    "103": {
+      "id": 103,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98801": 1
+      }
+    },
+    "104": {
+      "id": 104,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Energy": 20
+      }
+    },
+    "105": {
+      "id": 105,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98803": 1
+      }
+    },
+    "106": {
+      "id": 106,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Coin": 500
+      }
+    },
+    "107": {
+      "id": 107,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98803": 1
+      }
+    },
+    "108": {
+      "id": 108,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "RankPoint": 30
+      }
+    },
+    "109": {
+      "id": 109,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 30
+      }
+    },
+    "110": {
+      "id": 110,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "98401": 1
+      }
+    },
+    "111": {
+      "id": 111,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 40
+      }
+    },
+    "112": {
+      "id": 112,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98805": 1
+      }
+    },
+    "113": {
+      "id": 113,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Coin": 1500
+      }
+    },
+    "114": {
+      "id": 114,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98402": 1
+      }
+    },
+    "115": {
+      "id": 115,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "RankPoint": 60
+      }
+    }
+  },
+  "cauldron2": {
+    "201": {
+      "id": 201,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "ChessIIPoint": 5
+      }
+    },
+    "202": {
+      "id": 202,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Coin": 200
+      }
+    },
+    "203": {
+      "id": 203,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Coin": 200
+      }
+    },
+    "204": {
+      "id": 204,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98801104": 1
+      }
+    },
+    "205": {
+      "id": 205,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Energy": 20
+      }
+    },
+    "206": {
+      "id": 206,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "ChessIIPoint": 5
+      }
+    },
+    "207": {
+      "id": 207,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98801105": 1
+      }
+    },
+    "208": {
+      "id": 208,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Coin": 500
+      }
+    },
+    "209": {
+      "id": 209,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98801105": 1
+      }
+    },
+    "210": {
+      "id": 210,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "ChessIIPoint": 10
+      }
+    },
+    "211": {
+      "id": 211,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "98801105": 1
+      }
+    },
+    "212": {
+      "id": 212,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 30
+      }
+    },
+    "213": {
+      "id": 213,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Coin": 1000
+      }
+    },
+    "214": {
+      "id": 214,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98801105": 1
+      }
+    },
+    "215": {
+      "id": 215,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "ChessIIPoint": 50
+      }
+    },
+    "216": {
+      "id": 216,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98801106": 1
+      }
+    },
+    "217": {
+      "id": 217,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "ChessIIPoint": 100
+      }
+    }
+  },
+  "cauldron3": {
+    "301": {
+      "id": 301,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Coin": 50
+      }
+    },
+    "302": {
+      "id": 302,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Energy": 5
+      }
+    },
+    "303": {
+      "id": 303,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "304": {
+      "id": 304,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Coin": 50
+      }
+    },
+    "305": {
+      "id": 305,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Energy": 5
+      }
+    },
+    "306": {
+      "id": 306,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98802": 1
+      }
+    },
+    "307": {
+      "id": 307,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Coin": 100
+      }
+    },
+    "308": {
+      "id": 308,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Energy": 10
+      }
+    },
+    "309": {
+      "id": 309,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98802": 1
+      }
+    },
+    "310": {
+      "id": 310,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Coin": 100
+      }
+    },
+    "311": {
+      "id": 311,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 10
+      }
+    },
+    "312": {
+      "id": 312,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "98801": 1
+      }
+    },
+    "313": {
+      "id": 313,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Coin": 200
+      }
+    },
+    "314": {
+      "id": 314,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Energy": 20
+      }
+    },
+    "315": {
+      "id": 315,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98810": 1
+      }
+    },
+    "316": {
+      "id": 316,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Coin": 400
+      }
+    },
+    "317": {
+      "id": 317,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Energy": 20
+      }
+    }
+  },
+  "cauldron4": {
+    "401": {
+      "id": 401,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "ChessIIPoint": 10
+      }
+    },
+    "402": {
+      "id": 402,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Film1": 1
+      }
+    },
+    "403": {
+      "id": 403,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "ChessIIPoint": 20
+      }
+    },
+    "404": {
+      "id": 404,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "Film1": 2
+      }
+    },
+    "405": {
+      "id": 405,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "ChessIIPoint": 20
+      }
+    },
+    "406": {
+      "id": 406,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Film1": 4
+      }
+    },
+    "407": {
+      "id": 407,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "ChessIIPoint": 20
+      }
+    },
+    "408": {
+      "id": 408,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Film2": 2
+      }
+    },
+    "409": {
+      "id": 409,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "ChessIIPoint": 40
+      }
+    },
+    "410": {
+      "id": 410,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Film8": 1
+      }
+    },
+    "411": {
+      "id": 411,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "ChessIIPoint": 40
+      }
+    },
+    "412": {
+      "id": 412,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Film2": 2
+      }
+    },
+    "413": {
+      "id": 413,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "ChessIIPoint": 60
+      }
+    },
+    "414": {
+      "id": 414,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Film3": 2
+      }
+    },
+    "415": {
+      "id": 415,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "ChessIIPoint": 80
+      }
+    },
+    "416": {
+      "id": 416,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Film9": 1
+      }
+    },
+    "417": {
+      "id": 417,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "ChessIIPoint": 80
+      }
+    },
+    "418": {
+      "id": 418,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Film12": 1
+      }
+    },
+    "419": {
+      "id": 419,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "ChessIIPoint": 80
+      }
+    },
+    "420": {
+      "id": 420,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Film12": 1
+      }
+    }
+  },
+  "cauldron5": {
+    "501": {
+      "id": 501,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "502": {
+      "id": 502,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "Energy": 5
+      }
+    },
+    "503": {
+      "id": 503,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98802": 1
+      }
+    },
+    "504": {
+      "id": 504,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Energy": 5
+      }
+    },
+    "505": {
+      "id": 505,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "Film1": 1
+      }
+    },
+    "506": {
+      "id": 506,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98801": 1
+      }
+    },
+    "507": {
+      "id": 507,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 10
+      }
+    },
+    "508": {
+      "id": 508,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "MhdIIBlindBox1": 1
+      }
+    },
+    "509": {
+      "id": 509,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "98810": 1
+      }
+    },
+    "510": {
+      "id": 510,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "Energy": 10
+      }
+    },
+    "511": {
+      "id": 511,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 6,
+      "orderReward": {
+        "MhdIIBlindBox1": 1
+      }
+    },
+    "512": {
+      "id": 512,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98401": 1
+      }
+    },
+    "513": {
+      "id": 513,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Film2": 1
+      }
+    },
+    "514": {
+      "id": 514,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "90901": 1
+      }
+    },
+    "515": {
+      "id": 515,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "MhdIIBlindBox2": 1
+      }
+    },
+    "516": {
+      "id": 516,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Film2": 1
+      }
+    },
+    "517": {
+      "id": 517,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "98803": 1
+      }
+    },
+    "518": {
+      "id": 518,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "Film3": 1
+      }
+    },
+    "519": {
+      "id": 519,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "MhdIIBlindBox3": 1
+      }
+    },
+    "520": {
+      "id": 520,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 7,
+      "orderReward": {
+        "90901": 1
+      }
+    }
+  },
+  "cauldron6": {
+    "601": {
+      "id": 601,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "602": {
+      "id": 602,
+      "cauldronicon": "pot_0",
+      "orderitemNum": 3,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "603": {
+      "id": 603,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "604": {
+      "id": 604,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "605": {
+      "id": 605,
+      "cauldronicon": "pot_1",
+      "orderitemNum": 4,
+      "orderReward": {
+        "98808": 1
+      }
+    },
+    "606": {
+      "id": 606,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98802": 1
+      }
+    },
+    "607": {
+      "id": 607,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 5,
+      "orderReward": {
+        "98802": 1
+      }
+    },
+    "608": {
+      "id": 608,
+      "cauldronicon": "pot_2",
+      "orderitemNum": 6,
+      "orderReward": {
+        "98801": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "t1": {
+    "id": "t1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "towerOrder1",
+    "beginDialog": 18261,
+    "endDialog": 18262,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "expectSpinTimes": 56,
+    "scoreFix": 0.018,
+    "stageTwoRound": 5,
+    "progress": [
+      150,
+      300,
+      450,
+      600,
+      750,
+      900,
+      1050,
+      1200
+    ],
+    "finalReward": [
+      {
+        "BaseResChest18": 1
+      },
+      {
+        "BaseResChest19": 1
+      },
+      {
+        "BaseResChest20": 1
+      },
+      {
+        "BaseResChest21": 1
+      }
+    ]
+  }
+}

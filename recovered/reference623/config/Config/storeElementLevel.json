@@ -1,0 +1,32 @@
+{
+  "1": {
+    "star": 1,
+    "needShopCount": 0,
+    "slotCount": 2,
+    "luckyDropLv": 1
+  },
+  "2": {
+    "star": 2,
+    "needShopCount": 20,
+    "slotCount": 3,
+    "luckyDropLv": 2
+  },
+  "3": {
+    "star": 3,
+    "needShopCount": 60,
+    "slotCount": 4,
+    "luckyDropLv": 3
+  },
+  "4": {
+    "star": 4,
+    "needShopCount": 140,
+    "slotCount": 5,
+    "luckyDropLv": 4
+  },
+  "5": {
+    "star": 5,
+    "needShopCount": 300,
+    "slotCount": 6,
+    "luckyDropLv": 5
+  }
+}

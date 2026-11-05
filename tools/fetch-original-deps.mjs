@@ -7,7 +7,11 @@ const manifestPath=path.join(root,'recovered/downloads/manifest.json');
 const manifest=JSON.parse(await fs.readFile(manifestPath,'utf8'));
 const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
 let bytes=0;
-const queue=graph.missingNative.filter(a=>['.pvr','.bin','.mp3','.wav','.ogg','.m4a','.atlas','.fnt','.txt','.json'].includes(a.nativeExt));
+const batchArg=process.argv.find(arg=>arg.startsWith('--batch='));
+const batch=batchArg?Number(batchArg.slice('--batch='.length)):Infinity;
+if(!(batch===Infinity||Number.isSafeInteger(batch)&&batch>0&&batch<=1000))throw new Error('Invalid bounded batch size');
+const priority=process.argv.filter(arg=>arg.startsWith('--priority=')).map(arg=>arg.slice('--priority='.length));
+const queue=graph.missingNative.filter(a=>['.pvr','.bin','.mp3','.wav','.ogg','.m4a','.atlas','.fnt','.txt','.json'].includes(a.nativeExt)).sort((a,b)=>Number(priority.includes(b.uuid))-Number(priority.includes(a.uuid))).slice(0,batch);
 const results=[];
 // Preserve provenance for successful files from an interrupted earlier run.
 const indexed=new Set(manifest.files.map(f=>f.path));

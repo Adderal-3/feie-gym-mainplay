@@ -1,0 +1,12 @@
+{
+  "99607": {
+    "activityId": "99607",
+    "unlock": [
+      "PlayerLevel8"
+    ],
+    "useWindow": 1,
+    "duration": 14400,
+    "refreshCd": 0,
+    "maxDailyTimes": 4
+  }
+}

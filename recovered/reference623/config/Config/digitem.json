@@ -1,0 +1,62 @@
+{
+  "1": {
+    "id": 1,
+    "digicon": "icon_dig",
+    "convertHammer": [
+      {
+        "Energy": 20
+      }
+    ],
+    "shopid": 8290,
+    "specialOfferSeriesId": 139,
+    "specialOfferResource": "ui_bg_TG",
+    "ShopGive": [
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ]
+  },
+  "2": {
+    "id": 2,
+    "digicon": "icon_dig",
+    "convertHammer": [
+      {
+        "Energy": 20
+      }
+    ],
+    "shopid": 8290,
+    "specialOfferSeriesId": 139,
+    "specialOfferResource": "ui_bg_TG",
+    "ShopGive": [
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22
+    ]
+  },
+  "3": {
+    "id": 3,
+    "digicon": "icon_dig",
+    "convertHammer": [
+      {
+        "Energy": 27
+      }
+    ],
+    "shopid": 8290,
+    "specialOfferSeriesId": 139,
+    "specialOfferResource": "ui_bg_TG",
+    "ShopGive": []
+  }
+}

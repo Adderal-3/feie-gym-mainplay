@@ -1,0 +1,274 @@
+{
+  "1001": {
+    "100101": {
+      "id": 100101,
+      "content": {
+        "98401": 1,
+        "Diamond": 50
+      },
+      "price": {
+        "Cash": 600
+      },
+      "goodsid": 777771
+    },
+    "100102": {
+      "id": 100102,
+      "content": {
+        "98402": 1,
+        "Diamond": 70
+      },
+      "price": {
+        "Cash": 800
+      },
+      "goodsid": 777772
+    },
+    "100103": {
+      "id": 100103,
+      "content": {
+        "98403": 1,
+        "Diamond": 100
+      },
+      "price": {
+        "Cash": 1200
+      },
+      "goodsid": 777773
+    },
+    "100104": {
+      "id": 100104,
+      "content": {
+        "98403": 2,
+        "Diamond": 240
+      },
+      "price": {
+        "Cash": 3000
+      },
+      "goodsid": 777774
+    },
+    "100105": {
+      "id": 100105,
+      "content": {
+        "90502": 1,
+        "Diamond": 520
+      },
+      "price": {
+        "Cash": 6800
+      },
+      "goodsid": 777775
+    }
+  },
+  "1002": {
+    "100201": {
+      "id": 100201,
+      "content": {
+        "90902": 1,
+        "Diamond": 100
+      },
+      "price": {
+        "Cash": 1200
+      },
+      "goodsid": 777776
+    },
+    "100202": {
+      "id": 100202,
+      "content": {
+        "90301": 1,
+        "Diamond": 260
+      },
+      "price": {
+        "Cash": 3000
+      },
+      "goodsid": 777777
+    },
+    "100203": {
+      "id": 100203,
+      "content": {
+        "98402": 1,
+        "Diamond": 580
+      },
+      "price": {
+        "Cash": 6800
+      },
+      "goodsid": 777778
+    },
+    "100204": {
+      "id": 100204,
+      "content": {
+        "98403": 1,
+        "Diamond": 810
+      },
+      "price": {
+        "Cash": 9800
+      },
+      "goodsid": 777779
+    },
+    "100205": {
+      "id": 100205,
+      "content": {
+        "90501": 1,
+        "Diamond": 1250
+      },
+      "price": {
+        "Cash": 12800
+      },
+      "goodsid": 777780
+    },
+    "100206": {
+      "id": 100206,
+      "content": {
+        "90601": 1,
+        "Diamond": 3400
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "goodsid": 777781
+    }
+  },
+  "1003": {
+    "100301": {
+      "id": 100301,
+      "content": {
+        "Diamond": 100,
+        "Energy": 10
+      },
+      "price": {
+        "Cash": 1200
+      },
+      "goodsid": 777782
+    },
+    "100302": {
+      "id": 100302,
+      "content": {
+        "Diamond": 260,
+        "Energy": 25
+      },
+      "price": {
+        "Cash": 3000
+      },
+      "goodsid": 777783
+    },
+    "100303": {
+      "id": 100303,
+      "content": {
+        "Diamond": 580,
+        "Energy": 80
+      },
+      "price": {
+        "Cash": 6800
+      },
+      "goodsid": 777784
+    },
+    "100304": {
+      "id": 100304,
+      "content": {
+        "Diamond": 1260,
+        "Energy": 100
+      },
+      "price": {
+        "Cash": 12800
+      },
+      "goodsid": 777785
+    },
+    "100305": {
+      "id": 100305,
+      "content": {
+        "Diamond": 1400,
+        "Energy": 130
+      },
+      "price": {
+        "Cash": 16800
+      },
+      "goodsid": 777786
+    },
+    "100306": {
+      "id": 100306,
+      "content": {
+        "Diamond": 3400,
+        "Energy": 350
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "goodsid": 777787
+    },
+    "100307": {
+      "id": 100307,
+      "content": {
+        "Diamond": 7500,
+        "Energy": 750
+      },
+      "price": {
+        "Cash": 64800
+      },
+      "goodsid": 777788
+    }
+  },
+  "1004": {
+    "100401": {
+      "id": 100401,
+      "content": {
+        "Diamond": 100,
+        "Energy": 10
+      },
+      "price": {
+        "Cash": 1200
+      },
+      "goodsid": 777789
+    },
+    "100402": {
+      "id": 100402,
+      "content": {
+        "Diamond": 260,
+        "Energy": 20
+      },
+      "price": {
+        "Cash": 3000
+      },
+      "goodsid": 777790
+    },
+    "100403": {
+      "id": 100403,
+      "content": {
+        "Diamond": 520,
+        "Energy": 50
+      },
+      "price": {
+        "Cash": 6000
+      },
+      "goodsid": 777791
+    },
+    "100404": {
+      "id": 100404,
+      "content": {
+        "Diamond": 880,
+        "Energy": 80
+      },
+      "price": {
+        "Cash": 9800
+      },
+      "goodsid": 777792
+    },
+    "100405": {
+      "id": 100405,
+      "content": {
+        "Diamond": 1980,
+        "Energy": 180
+      },
+      "price": {
+        "Cash": 19800
+      },
+      "goodsid": 777793
+    },
+    "100406": {
+      "id": 100406,
+      "content": {
+        "Diamond": 3160,
+        "Energy": 280
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "goodsid": 777794
+    }
+  }
+}

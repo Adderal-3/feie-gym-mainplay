@@ -1,0 +1,502 @@
+{
+  "10001": {
+    "cardBagId": 10001,
+    "reward": {
+      "CardPack1001": 2
+    },
+    "icon": "normalbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "10002": {
+    "cardBagId": 10002,
+    "reward": {
+      "CardPack1001": 4
+    },
+    "icon": "normalbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [
+      100
+    ],
+    "starPrice": [],
+    "pointNum": 1,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "10003": {
+    "cardBagId": 10003,
+    "reward": {
+      "CardPack1001": 4
+    },
+    "icon": "normalbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [
+      400
+    ],
+    "starPrice": [],
+    "pointNum": 4,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "10004": {
+    "cardBagId": 10004,
+    "reward": {
+      "CardPack1001": 3
+    },
+    "icon": "normalbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "10005": {
+    "cardBagId": 10005,
+    "reward": {
+      "CardPack1001": 1
+    },
+    "icon": "normalbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "10011": {
+    "cardBagId": 10011,
+    "reward": {
+      "CardPack1002": 4
+    },
+    "icon": "seniorbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [
+      400
+    ],
+    "starPrice": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "pointNum": 1,
+    "starNum": 1,
+    "cardSeries": []
+  },
+  "20001": {
+    "cardBagId": 20001,
+    "reward": {
+      "CardPack2001": 2
+    },
+    "icon": "vipbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "20002": {
+    "cardBagId": 20002,
+    "reward": {
+      "CardPack2001": 4
+    },
+    "icon": "vipbag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "20003": {
+    "cardBagId": 20003,
+    "reward": {
+      "CardPack2003": 2
+    },
+    "icon": "healthy1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "goose0006",
+      "goose0009",
+      "goose0020",
+      "instance501",
+      "instance502",
+      "instance503"
+    ]
+  },
+  "20004": {
+    "cardBagId": 20004,
+    "reward": {
+      "CardPack2004": 2
+    },
+    "icon": "healthy2",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "goose0012",
+      "goose0018",
+      "goose0022",
+      "goose0028",
+      "gym0010",
+      "instance508"
+    ]
+  },
+  "20005": {
+    "cardBagId": 20005,
+    "reward": {
+      "CardPack2005": 2
+    },
+    "icon": "travel",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "instance509",
+      "instance510",
+      "instance511",
+      "goose0007",
+      "gym0011",
+      "goose0019"
+    ]
+  },
+  "20006": {
+    "cardBagId": 20006,
+    "reward": {
+      "CardPack2006": 2
+    },
+    "icon": "butterflyPass",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "goose0002",
+      "instance505",
+      "instance506",
+      "goose0013",
+      "gym0005",
+      "gym0006"
+    ]
+  },
+  "30001": {
+    "cardBagId": 30001,
+    "reward": {
+      "CardPack6003": 4
+    },
+    "icon": "picnic",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": []
+  },
+  "30002": {
+    "cardBagId": 30002,
+    "reward": {
+      "CardPack6004": 2
+    },
+    "icon": "jewelry1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0001",
+      "event003",
+      "goose0011"
+    ]
+  },
+  "30003": {
+    "cardBagId": 30003,
+    "reward": {
+      "CardPack6012": 4
+    },
+    "icon": "jewelry2",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0001",
+      "event003",
+      "goose0011"
+    ]
+  },
+  "30004": {
+    "cardBagId": 30004,
+    "reward": {
+      "CardPack6005": 2
+    },
+    "icon": "wood1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0003",
+      "event004",
+      "goose0033"
+    ]
+  },
+  "30005": {
+    "cardBagId": 30005,
+    "reward": {
+      "CardPack6011": 4
+    },
+    "icon": "wood2",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0003",
+      "event004",
+      "goose0033"
+    ]
+  },
+  "30006": {
+    "cardBagId": 30006,
+    "reward": {
+      "CardPack6006": 1
+    },
+    "icon": "2024bag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "instance404",
+      "instance405",
+      "instance406"
+    ]
+  },
+  "30007": {
+    "cardBagId": 30007,
+    "reward": {
+      "CardPack6007": 1
+    },
+    "icon": "2023bag",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "instance401",
+      "instance402",
+      "instance403"
+    ]
+  },
+  "30008": {
+    "cardBagId": 30008,
+    "reward": {
+      "CardPack6008": 4
+    },
+    "icon": "worldtask",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "goose0006",
+      "goose0007",
+      "goose0009",
+      "gym0003",
+      "gym0004",
+      "instance504"
+    ]
+  },
+  "30009": {
+    "cardBagId": 30009,
+    "reward": {
+      "CardPack6009": 2
+    },
+    "icon": "cookie1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0004",
+      "event006",
+      "goose0007"
+    ]
+  },
+  "30010": {
+    "cardBagId": 30010,
+    "reward": {
+      "CardPack6010": 4
+    },
+    "icon": "cookie2",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0004",
+      "event006",
+      "goose0007"
+    ]
+  },
+  "30011": {
+    "cardBagId": 30011,
+    "reward": {
+      "CardPack6013": 2
+    },
+    "icon": "lamp",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0004",
+      "instance512",
+      "goose0007",
+      "goose0006",
+      "gym0003",
+      "goose0009"
+    ]
+  },
+  "30012": {
+    "cardBagId": 30012,
+    "reward": {
+      "CardPack6014": 2
+    },
+    "icon": "arch",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0003",
+      "instance513",
+      "goose0011",
+      "goose0009",
+      "goose0033",
+      "goose0002"
+    ]
+  },
+  "30013": {
+    "cardBagId": 30013,
+    "reward": {
+      "CardPack6015": 2
+    },
+    "icon": "banana1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0005",
+      "event008",
+      "goose0022"
+    ]
+  },
+  "30014": {
+    "cardBagId": 30014,
+    "reward": {
+      "CardPack6016": 4
+    },
+    "icon": "banana2",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0005",
+      "event008",
+      "goose0022"
+    ]
+  },
+  "30015": {
+    "cardBagId": 30015,
+    "reward": {
+      "CardPack6005": 4
+    },
+    "icon": "wood1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0003",
+      "event004",
+      "goose0033"
+    ]
+  },
+  "30016": {
+    "cardBagId": 30016,
+    "reward": {
+      "CardPack6015": 4
+    },
+    "icon": "banana1",
+    "backgroundPic": "",
+    "initPoint": 0,
+    "pointPrice": [],
+    "starPrice": [],
+    "pointNum": 0,
+    "starNum": 0,
+    "cardSeries": [
+      "gym0005",
+      "event008",
+      "goose0022"
+    ]
+  }
+}

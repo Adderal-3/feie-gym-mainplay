@@ -1,0 +1,50 @@
+{
+  "coral1": {
+    "id": "coral1",
+    "unlockEntrance": 20,
+    "board": 64,
+    "progressBarStepTwo": 1000,
+    "progressRewardTwo": {
+      "Diamond": 1
+    },
+    "shopElementColumnID": [
+      2001
+    ],
+    "shopSpecialOffer": [
+      21801,
+      21802,
+      21803,
+      21804,
+      21805
+    ],
+    "giftSeriesId": 219,
+    "boardId": [
+      1,
+      2,
+      3,
+      4,
+      39
+    ],
+    "reserveSeries": "coral1_7",
+    "fishId": [
+      700001,
+      700002,
+      700003,
+      700004,
+      700005,
+      700006,
+      700007,
+      700008,
+      700009,
+      700010,
+      700011,
+      700012,
+      700013
+    ],
+    "definiteSeed": 700204,
+    "shopUnlockId": [
+      700603
+    ],
+    "descPic": "act_pic_tips"
+  }
+}

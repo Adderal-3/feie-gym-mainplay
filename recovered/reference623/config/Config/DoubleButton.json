@@ -1,0 +1,20 @@
+{
+  "doubleButton1": {
+    "id": "doubleButton1",
+    "type": "Main",
+    "unlock": "PlayerLevel12",
+    "img": "ui_timeorder_pic_2407",
+    "buttonElementId": 98793,
+    "recoveryElementId": 98793,
+    "recycleChangeTo": 99101
+  },
+  "doubleButton2": {
+    "id": "doubleButton2",
+    "type": "Main",
+    "unlock": "PlayerLevel8",
+    "img": "ui_timeorder_pic_2407",
+    "buttonElementId": 0,
+    "recoveryElementId": 0,
+    "recycleChangeTo": 0
+  }
+}

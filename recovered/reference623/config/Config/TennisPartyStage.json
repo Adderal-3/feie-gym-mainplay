@@ -1,0 +1,49 @@
+{
+  "tennisParty1": {
+    "101": {
+      "id": 101,
+      "needPoint": 600,
+      "optionalSeries": {
+        "A_0": 100,
+        "B_0": 100,
+        "C_0": 100,
+        "D_0": 100,
+        "E_0": 100,
+        "H_0": 100,
+        "I_0": 100,
+        "E_2": 100
+      },
+      "singleRewardCostLimit": 35
+    },
+    "102": {
+      "id": 102,
+      "needPoint": 1800,
+      "optionalSeries": {
+        "A_0": 100,
+        "B_0": 100,
+        "C_0": 100,
+        "D_0": 100,
+        "E_0": 100,
+        "H_0": 100,
+        "I_0": 100,
+        "E_2": 100
+      },
+      "singleRewardCostLimit": 50
+    },
+    "103": {
+      "id": 103,
+      "needPoint": 3200,
+      "optionalSeries": {
+        "A_0": 100,
+        "B_0": 100,
+        "C_0": 100,
+        "D_0": 100,
+        "E_0": 100,
+        "H_0": 100,
+        "I_0": 100,
+        "E_2": 100
+      },
+      "singleRewardCostLimit": 65
+    }
+  }
+}

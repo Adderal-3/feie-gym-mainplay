@@ -1,0 +1,62 @@
+{
+  "qiang1": {
+    "theme": "qiang1",
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "duration": 5400,
+    "defaultScore": [
+      [
+        100,
+        800
+      ],
+      [
+        200,
+        900
+      ],
+      [
+        9999999,
+        1000
+      ]
+    ],
+    "expectedFactor": 100,
+    "expectedFailFactor": 100,
+    "ratingScale": 400,
+    "scoreRange": [
+      700,
+      1100
+    ],
+    "graphID": "qiangOrder1",
+    "style": "qiang"
+  },
+  "gu1": {
+    "theme": "gu1",
+    "unlock": [
+      "PlayerLevel17"
+    ],
+    "duration": 5400,
+    "defaultScore": [
+      [
+        100,
+        800
+      ],
+      [
+        200,
+        900
+      ],
+      [
+        9999999,
+        1000
+      ]
+    ],
+    "expectedFactor": 100,
+    "expectedFailFactor": 100,
+    "ratingScale": 400,
+    "scoreRange": [
+      700,
+      1100
+    ],
+    "graphID": "qiangOrder1",
+    "style": "gu"
+  }
+}

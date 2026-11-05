@@ -1,0 +1,628 @@
+{
+  "diggame1": {
+    "id": "diggame1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 1,
+    "digitemNum": 4,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame2": {
+    "id": "diggame2",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      30
+    ],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame3": {
+    "id": "diggame3",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "gameorder": [
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      32
+    ],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame5": {
+    "id": "diggame5",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "gameorder": [
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      33
+    ],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame6": {
+    "id": "diggame6",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      34
+    ],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame7": {
+    "id": "diggame7",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "gameorder": [
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame8": {
+    "id": "diggame8",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      801,
+      802,
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  },
+  "diggame9": {
+    "id": "diggame9",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924,
+      925
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame10": {
+    "id": "diggame10",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "gameorder": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018,
+      1019,
+      1020,
+      1021,
+      1022,
+      1023,
+      1024,
+      1025
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      42
+    ],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame11": {
+    "id": "diggame11",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "gameorder": [
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      1109,
+      1110,
+      1111,
+      1112,
+      1113,
+      1114,
+      1115,
+      1116,
+      1117,
+      1118,
+      1119,
+      1120
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame12": {
+    "id": "diggame12",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "gameorder": [
+      1201,
+      1202,
+      1203,
+      1204,
+      1205,
+      1206,
+      1207,
+      1208,
+      1209,
+      1210,
+      1211,
+      1212,
+      1213,
+      1214,
+      1215,
+      1216,
+      1217,
+      1218,
+      1219,
+      1220,
+      1221,
+      1222,
+      1223,
+      1224,
+      1225
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [
+      44
+    ],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame13": {
+    "id": "diggame13",
+    "unlock": [
+      "PlayerLevel12"
+    ],
+    "gameorder": [
+      1301,
+      1302,
+      1303,
+      1304,
+      1305,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1318,
+      1319,
+      1320,
+      1321,
+      1322,
+      1323,
+      1324,
+      1325
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 2,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame14": {
+    "id": "diggame14",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      1401,
+      1402,
+      1403,
+      1404,
+      1405,
+      1406,
+      1407,
+      1408
+    ],
+    "boardResource": "bg_2",
+    "PlotResource": {
+      "4": 20,
+      "5": 10,
+      "6": 3
+    },
+    "digitemid": 3,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "snowbg",
+    "gooseSpine": "GooseCrushLandice",
+    "interceptType": 0
+  },
+  "diggame15": {
+    "id": "diggame15",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "gameorder": [
+      1501,
+      1502,
+      1503,
+      1504,
+      1505
+    ],
+    "boardResource": "bg_1",
+    "PlotResource": {
+      "1": 20,
+      "2": 10,
+      "3": 3
+    },
+    "digitemid": 3,
+    "digitemNum": 3,
+    "orderIcon": "diggame_1",
+    "BeginDialog": 9311,
+    "EndDialog": 9313,
+    "happyEndDialog": 9312,
+    "BoardType": [],
+    "topBg": "orderbg",
+    "gooseSpine": "GooseCrushLand",
+    "interceptType": 0
+  }
+}

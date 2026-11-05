@@ -1,0 +1,524 @@
+{
+  "1": {
+    "id": 1,
+    "layerIds": [
+      1204,
+      1501,
+      906,
+      1001,
+      802
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6
+    ],
+    "maxConsume": 108,
+    "dieLayersTypeID": [],
+    "guideEndIndex": 13,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 200901,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_14",
+      "z_run_goose_52",
+      "z_run_goose_121"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -10
+    ]
+  },
+  "2": {
+    "id": 2,
+    "layerIds": [
+      1602,
+      1201,
+      803,
+      903,
+      1002,
+      601,
+      901,
+      904,
+      905,
+      604,
+      501
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 198,
+    "dieLayersTypeID": [
+      201,
+      202
+    ],
+    "guideEndIndex": 24,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 200101,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_4",
+      "z_run_goose_118"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -30
+    ]
+  },
+  "3": {
+    "id": 3,
+    "layerIds": [
+      1502,
+      905,
+      801,
+      904,
+      1202,
+      803,
+      604,
+      802,
+      605
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 162,
+    "dieLayersTypeID": [
+      101,
+      102
+    ],
+    "guideEndIndex": 18,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 102001,
+    "levelWinGooseAnim": [
+      "z_run_goose_1"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -70
+    ]
+  },
+  "4": {
+    "id": 4,
+    "layerIds": [
+      1801,
+      801,
+      904,
+      803,
+      603,
+      1501,
+      903,
+      601,
+      1203,
+      604,
+      605,
+      602,
+      605,
+      501
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 204,
+    "dieLayersTypeID": [
+      301,
+      302,
+      303
+    ],
+    "guideEndIndex": 30,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 400701,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_6"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -60
+    ]
+  },
+  "5": {
+    "id": 5,
+    "layerIds": [
+      1206,
+      1201,
+      901,
+      1001,
+      905,
+      1002,
+      601,
+      803,
+      801,
+      902
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 186,
+    "dieLayersTypeID": [
+      101,
+      102
+    ],
+    "guideEndIndex": 21,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 1200501,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_24",
+      "z_run_goose_70",
+      "z_run_goose_160"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -40
+    ]
+  },
+  "6": {
+    "id": 6,
+    "layerIds": [
+      1402,
+      1202,
+      906,
+      603,
+      602,
+      1203,
+      803,
+      802,
+      1001,
+      801,
+      603
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 198,
+    "dieLayersTypeID": [
+      201,
+      202
+    ],
+    "guideEndIndex": 24,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 1200902,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_62",
+      "z_run_goose_63",
+      "z_run_goose_67",
+      "z_run_goose_154"
+    ],
+    "levelWinAnimMove": [
+      79,
+      23
+    ]
+  },
+  "7": {
+    "id": 7,
+    "layerIds": [
+      1603,
+      1501,
+      1201,
+      801,
+      905,
+      602,
+      501,
+      902,
+      701,
+      803,
+      601,
+      906,
+      802,
+      904,
+      605,
+      801,
+      901,
+      602,
+      604,
+      903,
+      501,
+      401
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 306,
+    "dieLayersTypeID": [
+      401,
+      402,
+      403
+    ],
+    "guideEndIndex": 45,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 100201,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_2",
+      "z_run_goose_19",
+      "z_run_goose_20",
+      "z_run_goose_50"
+    ],
+    "levelWinAnimMove": [
+      -11,
+      -22
+    ]
+  },
+  "8": {
+    "id": 8,
+    "layerIds": [
+      1207,
+      902,
+      901,
+      1203,
+      903,
+      603
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7
+    ],
+    "maxConsume": 114,
+    "dieLayersTypeID": [],
+    "guideEndIndex": 14,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 1000601,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_151"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -50
+    ]
+  },
+  "9": {
+    "id": 9,
+    "layerIds": [
+      1802,
+      1001,
+      902,
+      1002,
+      803,
+      602,
+      601,
+      501,
+      802,
+      1202,
+      801,
+      605,
+      802,
+      603
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 204,
+    "dieLayersTypeID": [
+      301,
+      302,
+      303
+    ],
+    "guideEndIndex": 30,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 1100201,
+    "levelWinGooseAnim": [
+      "z_run_goose_1"
+    ],
+    "levelWinAnimMove": [
+      0,
+      -20
+    ]
+  },
+  "10": {
+    "id": 10,
+    "layerIds": [
+      1403,
+      1202,
+      602,
+      802,
+      1001,
+      603,
+      1002,
+      1203,
+      906,
+      601,
+      604
+    ],
+    "layerTypes": [
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "maxConsume": 198,
+    "dieLayersTypeID": [
+      201,
+      202
+    ],
+    "guideEndIndex": 24,
+    "defaultBoxBonus": {
+      "Coin": 50
+    },
+    "energyINum": 2,
+    "energyIINum": 1,
+    "energyIIINum": 0,
+    "energyVNum": 1,
+    "levelWinAdornSkin": 400104,
+    "levelWinGooseAnim": [
+      "z_run_goose_1",
+      "z_run_goose_8"
+    ],
+    "levelWinAnimMove": [
+      4,
+      -70
+    ]
+  }
+}

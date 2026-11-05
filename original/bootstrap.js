@@ -162,6 +162,7 @@
         } else if (api.Ne?.initialize) api.Ne.initialize(canvas, modalBlocker);
         await Promise.all([loadBundle('remoteAsset'), loadBundle('zh')]);
         await script('/original/local-backend.js');
+        await script('/original/story-profile.js');
         if (!window.initializeOriginalSession) {
           await script('/original/local-session.js');
         }
@@ -171,7 +172,7 @@
         await window.preloadOriginalMainplay(api);
         await script('/original/runtime-services.js');
         await window.initializeOriginalRuntimeServices(api);
-        await script('/original/guide-setup.js');
+        await script('/original/story-flow.js');
         await script('/original/home-setup.js');
         await window.setupOriginalHome(api, { canvas });
         const prefab = await load(bundle, 'Prefab/UI/Merge/MergeScreen', cc.Prefab);
@@ -182,9 +183,8 @@
         view.setPosition(0, 0);
         window.__ORIGINAL_VIEW__ = view;
         if (session?.beforeMount) await session.beforeMount(view, canvas);
-        view.active = true;
         if (session?.afterMount) await session.afterMount(view, canvas);
-        report('原 MergeScreen 已加载');
+        report('原标准剧情与玩法入口已加载');
         window.__ORIGINAL_READY__ = true;
         if (!new URLSearchParams(location.search).has('log')) document.getElementById('diagnostic').classList.add('ready');
       } catch (e) { report('启动失败', e); }

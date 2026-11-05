@@ -1,0 +1,107 @@
+{
+  "match1_1": {
+    "id": "match1_1",
+    "router": [
+      "match1_1",
+      "match1_2",
+      "match1_3"
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "progressRewardNum": [
+      2,
+      4,
+      6,
+      9,
+      12
+    ],
+    "chooseConfig": "config1",
+    "orderPoint1": 1.12,
+    "orderPoint2": 1.12
+  },
+  "match1_2": {
+    "id": "match1_2",
+    "router": [
+      "match1_1",
+      "match1_2",
+      "match1_3"
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "progressRewardNum": [
+      2,
+      4,
+      6,
+      9,
+      12
+    ],
+    "chooseConfig": "config1",
+    "orderPoint1": 1,
+    "orderPoint2": 1
+  },
+  "match1_3": {
+    "id": "match1_3",
+    "router": [
+      "match1_1",
+      "match1_2",
+      "match1_3"
+    ],
+    "progressReward": [
+      {
+        "Film3": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "progressRewardNum": [
+      2,
+      4,
+      6,
+      9,
+      12
+    ],
+    "chooseConfig": "config1",
+    "orderPoint1": 0.953,
+    "orderPoint2": 0.953
+  }
+}

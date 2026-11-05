@@ -1,0 +1,52 @@
+{
+  "config1": {
+    "id": "config1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "fireOrder1",
+    "beginDialog": 9393,
+    "endDialogWin": 9395,
+    "endDialogLose": 9394,
+    "time": 1800,
+    "multiplier": [
+      1,
+      3,
+      10
+    ],
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "expireDay": 7,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "config2": {
+    "id": "config2",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "fireOrder1",
+    "beginDialog": 9393,
+    "endDialogWin": 9395,
+    "endDialogLose": 9394,
+    "time": 1800,
+    "multiplier": [
+      1,
+      3,
+      10
+    ],
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "expireDay": 7,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

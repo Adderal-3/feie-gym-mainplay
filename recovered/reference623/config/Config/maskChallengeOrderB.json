@@ -1,0 +1,1952 @@
+{
+  "mask1": {
+    "101": {
+      "id": 101,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "102": {
+      "id": 102,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "103": {
+      "id": 103,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "104": {
+      "id": 104,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "105": {
+      "id": 105,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "106": {
+      "id": 106,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "107": {
+      "id": 107,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "108": {
+      "id": 108,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "109": {
+      "id": 109,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "110": {
+      "id": 110,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "111": {
+      "id": 111,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "112": {
+      "id": 112,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "113": {
+      "id": 113,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "114": {
+      "id": 114,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "115": {
+      "id": 115,
+      "raceIndex": 2,
+      "orderIndex": 3,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "116": {
+      "id": 116,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 40,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        20,
+        100
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "117": {
+      "id": 117,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "118": {
+      "id": 118,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "119": {
+      "id": 119,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "120": {
+      "id": 120,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "121": {
+      "id": 121,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "122": {
+      "id": 122,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "123": {
+      "id": 123,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "124": {
+      "id": 124,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    }
+  },
+  "mask2": {
+    "201": {
+      "id": 201,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "202": {
+      "id": 202,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "203": {
+      "id": 203,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 110,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        55,
+        275
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "204": {
+      "id": 204,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "205": {
+      "id": 205,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "206": {
+      "id": 206,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "207": {
+      "id": 207,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "208": {
+      "id": 208,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 130,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        65,
+        325
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "209": {
+      "id": 209,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "210": {
+      "id": 210,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "211": {
+      "id": 211,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "212": {
+      "id": 212,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "213": {
+      "id": 213,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "214": {
+      "id": 214,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 130,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        65,
+        325
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "215": {
+      "id": 215,
+      "raceIndex": 2,
+      "orderIndex": 3,
+      "orderDifficulty": 150,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        75,
+        375
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "216": {
+      "id": 216,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "217": {
+      "id": 217,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "218": {
+      "id": 218,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "219": {
+      "id": 219,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "220": {
+      "id": 220,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "221": {
+      "id": 221,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "222": {
+      "id": 222,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "223": {
+      "id": 223,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 130,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        65,
+        325
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "224": {
+      "id": 224,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 150,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        75,
+        375
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    }
+  },
+  "mask3": {
+    "301": {
+      "id": 301,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "302": {
+      "id": 302,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 90,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        45,
+        225
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "303": {
+      "id": 303,
+      "raceIndex": 0,
+      "orderIndex": 1,
+      "orderDifficulty": 130,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        65,
+        325
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "304": {
+      "id": 304,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 60,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        30,
+        150
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "305": {
+      "id": 305,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "306": {
+      "id": 306,
+      "raceIndex": 1,
+      "orderIndex": 1,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "307": {
+      "id": 307,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 130,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        65,
+        325
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "308": {
+      "id": 308,
+      "raceIndex": 1,
+      "orderIndex": 2,
+      "orderDifficulty": 170,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        85,
+        425
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "309": {
+      "id": 309,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "310": {
+      "id": 310,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "311": {
+      "id": 311,
+      "raceIndex": 2,
+      "orderIndex": 1,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "312": {
+      "id": 312,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "313": {
+      "id": 313,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "314": {
+      "id": 314,
+      "raceIndex": 2,
+      "orderIndex": 2,
+      "orderDifficulty": 150,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        75,
+        375
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "315": {
+      "id": 315,
+      "raceIndex": 2,
+      "orderIndex": 3,
+      "orderDifficulty": 180,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        90,
+        450
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "316": {
+      "id": 316,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 50,
+      "mainDifficultyRange": [
+        0.3,
+        3
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        25,
+        125
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "317": {
+      "id": 317,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 70,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        35,
+        175
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "318": {
+      "id": 318,
+      "raceIndex": 3,
+      "orderIndex": 1,
+      "orderDifficulty": 80,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        40,
+        200
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "319": {
+      "id": 319,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 100,
+      "mainDifficultyRange": [
+        0.3,
+        2
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "legalRange": [
+        50,
+        250
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "320": {
+      "id": 320,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "321": {
+      "id": 321,
+      "raceIndex": 3,
+      "orderIndex": 2,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "322": {
+      "id": 322,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 120,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "legalRange": [
+        60,
+        300
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "323": {
+      "id": 323,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 150,
+      "mainDifficultyRange": [
+        0.3,
+        1.7
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        75,
+        375
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    },
+    "324": {
+      "id": 324,
+      "raceIndex": 3,
+      "orderIndex": 3,
+      "orderDifficulty": 180,
+      "mainDifficultyRange": [
+        0.3,
+        1.5
+      ],
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "legalRange": [
+        90,
+        450
+      ],
+      "completionRate": [
+        0,
+        1
+      ],
+      "extraReward": {
+        "MaskChallengePoint": 1
+      }
+    }
+  }
+}

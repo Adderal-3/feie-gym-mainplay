@@ -1,0 +1,10 @@
+{
+  "t1": {
+    "99101": {
+      "mailid": 99101,
+      "expireDay": 7,
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  }
+}

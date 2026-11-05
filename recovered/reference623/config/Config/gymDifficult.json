@@ -1,0 +1,1514 @@
+{
+  "A_0": {
+    "series": "A_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "A_1": {
+    "series": "A_1",
+    "manualParentSeries": "A_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "A_2": {
+    "series": "A_2",
+    "manualParentSeries": "A_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "B_0": {
+    "series": "B_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "B_1": {
+    "series": "B_1",
+    "manualParentSeries": "B_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "B_2": {
+    "series": "B_2",
+    "manualParentSeries": "B_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "B_3": {
+    "series": "B_3",
+    "manualParentSeries": "B_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "C_0": {
+    "series": "C_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "C_1": {
+    "series": "C_1",
+    "manualParentSeries": "C_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "C_2": {
+    "series": "C_2",
+    "manualParentSeries": "C_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "D_0": {
+    "series": "D_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "D_0",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "D_1": {
+    "series": "D_1",
+    "manualParentSeries": "D_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "D_2": {
+    "series": "D_2",
+    "manualParentSeries": "D_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_0": {
+    "series": "E_0",
+    "manualParentSeries": "E_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_1": {
+    "series": "E_1",
+    "manualParentSeries": "E_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_2": {
+    "series": "E_2",
+    "manualParentSeries": "E_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_3": {
+    "series": "E_3",
+    "manualParentSeries": "E_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_4": {
+    "series": "E_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "E_1",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "E_5": {
+    "series": "E_5",
+    "manualParentSeries": "E_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_0": {
+    "series": "F_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "E_1",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_1": {
+    "series": "F_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "F_0",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_2": {
+    "series": "F_2",
+    "manualParentSeries": "F_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_3": {
+    "series": "F_3",
+    "manualParentSeries": "F_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_4": {
+    "series": "F_4",
+    "manualParentSeries": "F_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "F_5": {
+    "series": "F_5",
+    "manualParentSeries": "",
+    "autoParentSeries": "F_4",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "G_0": {
+    "series": "G_0",
+    "manualParentSeries": "E_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "G_1": {
+    "series": "G_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "G_0",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "G_2": {
+    "series": "G_2",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "G_1",
+    "notfind": 0
+  },
+  "G_3": {
+    "series": "G_3",
+    "manualParentSeries": "G_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "G_4": {
+    "series": "G_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "G_3",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "H_0": {
+    "series": "H_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "H_2": {
+    "series": "H_2",
+    "manualParentSeries": "H_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "I_0": {
+    "series": "I_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "I_1": {
+    "series": "I_1",
+    "manualParentSeries": "I_0",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "I_2": {
+    "series": "I_2",
+    "manualParentSeries": "",
+    "autoParentSeries": "I_1",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "I_3": {
+    "series": "I_3",
+    "manualParentSeries": "I_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "I_4": {
+    "series": "I_4",
+    "manualParentSeries": "I_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Number_1": {
+    "series": "Number_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_2": {
+    "series": "Number_2",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_3": {
+    "series": "Number_3",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_4": {
+    "series": "Number_4",
+    "manualParentSeries": "Number_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_5": {
+    "series": "Number_5",
+    "manualParentSeries": "Number_4",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_6": {
+    "series": "Number_6",
+    "manualParentSeries": "Order",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_7": {
+    "series": "Number_7",
+    "manualParentSeries": "",
+    "autoParentSeries": "Number_6",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_8": {
+    "series": "Number_8",
+    "manualParentSeries": "Number_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Number_8",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_9": {
+    "series": "Number_9",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_10": {
+    "series": "Number_10",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Number_11": {
+    "series": "Number_11",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "H_1": {
+    "series": "H_1",
+    "manualParentSeries": "Number_9",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Beach_1": {
+    "series": "Beach_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_2": {
+    "series": "Beach_2",
+    "manualParentSeries": "Beach_1",
+    "autoParentSeries": "Beach_5",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_3": {
+    "series": "Beach_3",
+    "manualParentSeries": "Beach_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_4": {
+    "series": "Beach_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_5": {
+    "series": "Beach_5",
+    "manualParentSeries": "Beach_4",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_6": {
+    "series": "Beach_6",
+    "manualParentSeries": "Beach_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "Beach_7",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_7": {
+    "series": "Beach_7",
+    "manualParentSeries": "Beach_6,Beach_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Beach_7",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_8": {
+    "series": "Beach_8",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "Beach_7",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Beach_9": {
+    "series": "Beach_9",
+    "manualParentSeries": "Order_PoolToy",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Ornament_1": {
+    "series": "Ornament_1",
+    "manualParentSeries": "Ornament_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_2": {
+    "series": "Ornament_2",
+    "manualParentSeries": "Ornament_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_3": {
+    "series": "Ornament_3",
+    "manualParentSeries": "Ornament_2,Ornament_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_4": {
+    "series": "Ornament_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "Ornament_3",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_5": {
+    "series": "Ornament_5",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "Ornament_3",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_6": {
+    "series": "Ornament_6",
+    "manualParentSeries": "Ornament_5",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_7": {
+    "series": "Ornament_7",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_8": {
+    "series": "Ornament_8",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_9": {
+    "series": "Ornament_9",
+    "manualParentSeries": "Ornament_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Ornament_10": {
+    "series": "Ornament_10",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_1": {
+    "series": "healthy1_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_2": {
+    "series": "healthy1_2",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_3": {
+    "series": "healthy1_3",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_4": {
+    "series": "healthy1_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_5": {
+    "series": "healthy1_5",
+    "manualParentSeries": "Order_Wmc",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_6": {
+    "series": "healthy1_6",
+    "manualParentSeries": "healthy1_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_7": {
+    "series": "healthy1_7",
+    "manualParentSeries": "healthy1_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_8": {
+    "series": "healthy1_8",
+    "manualParentSeries": "healthy1_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_9": {
+    "series": "healthy1_9",
+    "manualParentSeries": "healthy1_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_10": {
+    "series": "healthy1_10",
+    "manualParentSeries": "healthy1_4",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy1_11": {
+    "series": "healthy1_11",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_12": {
+    "series": "healthy1_12",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_13": {
+    "series": "healthy1_13",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy1_14": {
+    "series": "healthy1_14",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_1": {
+    "series": "healthy2_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_2": {
+    "series": "healthy2_2",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_3": {
+    "series": "healthy2_3",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_4": {
+    "series": "healthy2_4",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_5": {
+    "series": "healthy2_5",
+    "manualParentSeries": "Order_NJ",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_6": {
+    "series": "healthy2_6",
+    "manualParentSeries": "healthy2_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_7": {
+    "series": "healthy2_7",
+    "manualParentSeries": "healthy2_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_8": {
+    "series": "healthy2_8",
+    "manualParentSeries": "healthy2_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_9": {
+    "series": "healthy2_9",
+    "manualParentSeries": "healthy2_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_10": {
+    "series": "healthy2_10",
+    "manualParentSeries": "healthy2_4",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "healthy2_11": {
+    "series": "healthy2_11",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_12": {
+    "series": "healthy2_12",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_13": {
+    "series": "healthy2_13",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "healthy2_14": {
+    "series": "healthy2_14",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Order_Zao": {
+    "series": "Order_Zao",
+    "manualParentSeries": "Food_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Bing": {
+    "series": "Order_Bing",
+    "manualParentSeries": "Food_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Shao": {
+    "series": "Order_Shao",
+    "manualParentSeries": "Food_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Kungfu": {
+    "series": "Order_Kungfu",
+    "manualParentSeries": "Kungfu_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Newyear": {
+    "series": "Order_Newyear",
+    "manualParentSeries": "Newyear_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Dark": {
+    "series": "Order_Dark",
+    "manualParentSeries": "Hoggoose_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Moyao": {
+    "series": "Order_Moyao",
+    "manualParentSeries": "Hoggoose_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Dongwu": {
+    "series": "Order_Dongwu",
+    "manualParentSeries": "Hoggoose_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Blovers_2": {
+    "series": "Order_Blovers_2",
+    "manualParentSeries": "Blovers_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Blovers_15": {
+    "series": "Order_Blovers_15",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "Blovers_15",
+    "notfind": 0
+  },
+  "Order_Undersea_4": {
+    "series": "Order_Undersea_4",
+    "manualParentSeries": "Undersea_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Undersea_8": {
+    "series": "Order_Undersea_8",
+    "manualParentSeries": "Undersea_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Picnic_1": {
+    "series": "Order_Picnic_1",
+    "manualParentSeries": "Picnic_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Picnic_2": {
+    "series": "Order_Picnic_2",
+    "manualParentSeries": "Picnic_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Moon2_1": {
+    "series": "Order_Moon2_1",
+    "manualParentSeries": "Moon2_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Huafu": {
+    "series": "Order_Huafu",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Dream_4",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Cake": {
+    "series": "Order_Cake",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Dream_4",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Monster": {
+    "series": "Order_Monster",
+    "manualParentSeries": "",
+    "autoParentSeries": "World_1",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Door3": {
+    "series": "Order_Door3",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Door_24",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Door5": {
+    "series": "Order_Door5",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Door_25",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Door7": {
+    "series": "Order_Door7",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Door_26",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Door8": {
+    "series": "Order_Door8",
+    "manualParentSeries": "Door_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Misty_4": {
+    "series": "Order_Misty_4",
+    "manualParentSeries": "Misty_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Misty_8": {
+    "series": "Order_Misty_8",
+    "manualParentSeries": "Misty_2",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Moon2024_2": {
+    "series": "Order_Moon2024_2",
+    "manualParentSeries": "Moon2024_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Dlc_24": {
+    "series": "Order_Dlc_24",
+    "manualParentSeries": "Dlc_23",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Premoon_11": {
+    "series": "Order_Premoon_11",
+    "manualParentSeries": "Premoon_29",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Premoon_12": {
+    "series": "Order_Premoon_12",
+    "manualParentSeries": "Order_Premoon_11",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Moon2024_1": {
+    "series": "Order_Moon2024_1",
+    "manualParentSeries": "Moon2024_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Premoon_8": {
+    "series": "Order_Premoon_8",
+    "manualParentSeries": "Order_Premoon_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Order_Premoon_9": {
+    "series": "Order_Premoon_9",
+    "manualParentSeries": "Order_Premoon_8",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Handwork_1": {
+    "series": "Handwork_1",
+    "manualParentSeries": "Order_Handwork",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Handwork_2": {
+    "series": "Handwork_2",
+    "manualParentSeries": "Order_Handwork",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_1": {
+    "series": "Dlc_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_2": {
+    "series": "Dlc_2",
+    "manualParentSeries": "Dlc_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_3": {
+    "series": "Dlc_3",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_4": {
+    "series": "Dlc_4",
+    "manualParentSeries": "Dlc_3",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_5": {
+    "series": "Dlc_5",
+    "manualParentSeries": "Dlc_4",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_6": {
+    "series": "Dlc_6",
+    "manualParentSeries": "Dlc_3,Dlc_5",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_7": {
+    "series": "Dlc_7",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_8": {
+    "series": "Dlc_8",
+    "manualParentSeries": "Dlc_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_9": {
+    "series": "Dlc_9",
+    "manualParentSeries": "Dlc_7",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_10": {
+    "series": "Dlc_10",
+    "manualParentSeries": "Order_Doll",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_11": {
+    "series": "Dlc_11",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_12": {
+    "series": "Dlc_12",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_13": {
+    "series": "Dlc_13",
+    "manualParentSeries": "Dlc_12",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_14": {
+    "series": "Dlc_14",
+    "manualParentSeries": "Dlc_12",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_15": {
+    "series": "Dlc_15",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_16": {
+    "series": "Dlc_16",
+    "manualParentSeries": "Dlc_15",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_17": {
+    "series": "Dlc_17",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_18": {
+    "series": "Dlc_18",
+    "manualParentSeries": "Dlc_17",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_19": {
+    "series": "Dlc_19",
+    "manualParentSeries": "Dlc_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_20": {
+    "series": "Dlc_20",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_21": {
+    "series": "Dlc_21",
+    "manualParentSeries": "Dlc_20",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_22": {
+    "series": "Dlc_22",
+    "manualParentSeries": "Dlc_20",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_23": {
+    "series": "Dlc_23",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_25": {
+    "series": "Dlc_25",
+    "manualParentSeries": "Dlc_23",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Dlc_26": {
+    "series": "Dlc_26",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Dlc_27": {
+    "series": "Dlc_27",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "ActivityExp": {
+    "series": "ActivityExp",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "StarPiece": {
+    "series": "StarPiece",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "GiftPiece": {
+    "series": "GiftPiece",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Hiphop_1": {
+    "series": "Hiphop_1",
+    "manualParentSeries": "Order_Hiphop",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Hiphop_2": {
+    "series": "Hiphop_2",
+    "manualParentSeries": "Order_Hiphop",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Mail_Birthdaycake": {
+    "series": "Mail_Birthdaycake",
+    "manualParentSeries": "Mail_Birthdaycake",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Mail_Chocolate": {
+    "series": "Mail_Chocolate",
+    "manualParentSeries": "Mail_Chocolate",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Mail_Mooncake": {
+    "series": "Mail_Mooncake",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "Mail_Mooncake",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Mail_Tangyuan": {
+    "series": "Mail_Tangyuan",
+    "manualParentSeries": "Mail_Tangyuan",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Mail_Zongzi": {
+    "series": "Mail_Zongzi",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 1
+  },
+  "Scene_1": {
+    "series": "Scene_1",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Scene_1_0": {
+    "series": "Scene_1_0",
+    "manualParentSeries": "",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  },
+  "Scene_2": {
+    "series": "Scene_2",
+    "manualParentSeries": "Scene_1",
+    "autoParentSeries": "",
+    "vanishParentSeries": "",
+    "deterioratedParentSeries": "",
+    "mergeParentSeries": "",
+    "notfind": 0
+  }
+}

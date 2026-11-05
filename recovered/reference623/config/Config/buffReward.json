@@ -1,0 +1,46 @@
+{
+  "buff1": {
+    "101": {
+      "id": 101,
+      "eventPropnumber": 5,
+      "reward": {
+        "BaseResChest1": 1
+      }
+    },
+    "102": {
+      "id": 102,
+      "eventPropnumber": 10,
+      "reward": {
+        "BaseResChest2": 1
+      }
+    },
+    "103": {
+      "id": 103,
+      "eventPropnumber": 15,
+      "reward": {
+        "BaseResChest3": 1
+      }
+    },
+    "104": {
+      "id": 104,
+      "eventPropnumber": 20,
+      "reward": {
+        "BaseResChest4": 1
+      }
+    },
+    "105": {
+      "id": 105,
+      "eventPropnumber": 30,
+      "reward": {
+        "BaseResChest5": 1
+      }
+    },
+    "106": {
+      "id": 106,
+      "eventPropnumber": 50,
+      "reward": {
+        "BaseResChest5": 1
+      }
+    }
+  }
+}

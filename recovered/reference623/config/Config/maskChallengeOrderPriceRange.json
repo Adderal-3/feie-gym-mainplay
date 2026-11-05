@@ -1,0 +1,72 @@
+{
+  "0": {
+    "rangeLeft": 0,
+    "rangeRight": 75,
+    "point": 1
+  },
+  "75": {
+    "rangeLeft": 75,
+    "rangeRight": 160,
+    "point": 2
+  },
+  "160": {
+    "rangeLeft": 160,
+    "rangeRight": 320,
+    "point": 3
+  },
+  "320": {
+    "rangeLeft": 320,
+    "rangeRight": 550,
+    "point": 4
+  },
+  "550": {
+    "rangeLeft": 550,
+    "rangeRight": 900,
+    "point": 5
+  },
+  "900": {
+    "rangeLeft": 900,
+    "rangeRight": 1200,
+    "point": 6
+  },
+  "1200": {
+    "rangeLeft": 1200,
+    "rangeRight": 1500,
+    "point": 7
+  },
+  "1500": {
+    "rangeLeft": 1500,
+    "rangeRight": 2000,
+    "point": 8
+  },
+  "2000": {
+    "rangeLeft": 2000,
+    "rangeRight": 2500,
+    "point": 9
+  },
+  "2500": {
+    "rangeLeft": 2500,
+    "rangeRight": 3000,
+    "point": 10
+  },
+  "3000": {
+    "rangeLeft": 3000,
+    "rangeRight": 4000,
+    "point": 11
+  },
+  "4000": {
+    "rangeLeft": 4000,
+    "rangeRight": 5500,
+    "point": 12
+  },
+  "5500": {
+    "rangeLeft": 5500,
+    "rangeRight": 7000,
+    "point": 13
+  },
+  "7000": {
+    "rangeLeft": 7000,
+    "rangeRight": 999999,
+    "point": 14
+  }
+}

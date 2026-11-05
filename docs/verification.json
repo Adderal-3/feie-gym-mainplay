@@ -1,17 +1,17 @@
 {
   "passed": true,
-  "hashedFiles": 7228,
-  "parsedScripts": 114,
-  "verifiedImages": 4018,
+  "hashedFiles": 10007,
+  "parsedScripts": 149,
+  "verifiedImages": 4769,
   "registrationCount": 1571,
   "primaryRegisteredModules": 70,
   "sharedCoreDeclarations": 13,
   "configTables": 913,
-  "textures": 1908,
-  "sprites": 2110,
+  "textures": 2256,
+  "sprites": 2513,
   "ordinaryChainPaths": 347,
   "ordinaryChainMissing": 0,
-  "remainingOutOfScopeSpriteReferences": 20422,
+  "remainingOutOfScopeSpriteReferences": 20019,
   "missingSubpackages": [
     "miniGame",
     "playable_tool",
@@ -22,6 +22,41 @@
     "playable_build",
     "playable_build2"
   ],
+  "reference623": {
+    "passed": true,
+    "packageVersion": "402",
+    "packageFiles": 34,
+    "remoteFiles": 573,
+    "clientFiles": 64,
+    "configSources": 2,
+    "configTables": 913,
+    "hashedFiles": 1587,
+    "parsedScripts": 35,
+    "missingSubpackages": [
+      "miniGame",
+      "playable_tool",
+      "playable_pool",
+      "playable_drop",
+      "playable_blast",
+      "playable_infinite",
+      "playable_build",
+      "playable_build2"
+    ],
+    "readable": {
+      "file": "recovered/reference623/readable/game.formatted.js",
+      "source": "recovered/reference623/packages/402/_subpackages_main_/subpackages/main/game.js",
+      "observedSha256": "db70a0efd587dcd8e96a4b11131642fa5e853d79ae209a86171a969765e0b115",
+      "declaredHashAvailable": false,
+      "astValid": true,
+      "formattedSourceMatches": true
+    },
+    "runtimeLayout": {
+      "active": true,
+      "verified": true
+    },
+    "packageArchivesVerified": false,
+    "packageArchiveNote": "Only decoded package files are included; encrypted .wxapkg archive hashes are recorded as provenance and are not claimed as verified."
+  },
   "runtimeVerified": false,
   "runtimeNote": "This report covers static recovery only. Runtime verification is recorded separately in docs/LOCAL_RUNTIME.md.",
   "errors": []

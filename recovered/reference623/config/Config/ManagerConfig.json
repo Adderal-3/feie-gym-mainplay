@@ -1,0 +1,8 @@
+{
+  "managerEventUnlockPlayerLevel": 9,
+  "managerEventIntervalRange": [
+    14400,
+    21600
+  ],
+  "managerModifyNicknameTimes": 3
+}

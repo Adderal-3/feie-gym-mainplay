@@ -1,0 +1,830 @@
+{
+  "hang1": {
+    "id": "hang1",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      14,
+      18
+    ],
+    "type": "hang"
+  },
+  "hang2": {
+    "id": "hang2",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      11,
+      15
+    ],
+    "type": "hang"
+  },
+  "hang3": {
+    "id": "hang3",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      9,
+      12
+    ],
+    "type": "hang"
+  },
+  "hang4": {
+    "id": "hang4",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      7,
+      10
+    ],
+    "type": "hang"
+  },
+  "hang5": {
+    "id": "hang5",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      6,
+      9
+    ],
+    "type": "hang"
+  },
+  "hang6": {
+    "id": "hang6",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      5,
+      7
+    ],
+    "type": "hang"
+  },
+  "hang7": {
+    "id": "hang7",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      4,
+      6
+    ],
+    "type": "hang"
+  },
+  "hang8": {
+    "id": "hang8",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      3,
+      5
+    ],
+    "type": "hang"
+  },
+  "hang9": {
+    "id": "hang9",
+    "router": [
+      "hang9",
+      "hang8",
+      "hang7",
+      "hang6",
+      "hang5",
+      "hang4",
+      "hang3",
+      "hang2",
+      "hang1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      2,
+      4
+    ],
+    "type": "hang"
+  },
+  "hang2_1": {
+    "id": "hang2_1",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      14,
+      18
+    ],
+    "type": "hang"
+  },
+  "hang2_2": {
+    "id": "hang2_2",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      11,
+      15
+    ],
+    "type": "hang"
+  },
+  "hang2_3": {
+    "id": "hang2_3",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      9,
+      12
+    ],
+    "type": "hang"
+  },
+  "hang2_4": {
+    "id": "hang2_4",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      7,
+      10
+    ],
+    "type": "hang"
+  },
+  "hang2_5": {
+    "id": "hang2_5",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      6,
+      9
+    ],
+    "type": "hang"
+  },
+  "hang2_6": {
+    "id": "hang2_6",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      5,
+      7
+    ],
+    "type": "hang"
+  },
+  "hang2_7": {
+    "id": "hang2_7",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      4,
+      6
+    ],
+    "type": "hang"
+  },
+  "hang2_8": {
+    "id": "hang2_8",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      3,
+      5
+    ],
+    "type": "hang"
+  },
+  "hang2_9": {
+    "id": "hang2_9",
+    "router": [
+      "hang2_9",
+      "hang2_8",
+      "hang2_7",
+      "hang2_6",
+      "hang2_5",
+      "hang2_4",
+      "hang2_3",
+      "hang2_2",
+      "hang2_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      2,
+      4
+    ],
+    "type": "hang"
+  },
+  "hang3_1": {
+    "id": "hang3_1",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      14,
+      18
+    ],
+    "type": "hang"
+  },
+  "hang3_2": {
+    "id": "hang3_2",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      11,
+      15
+    ],
+    "type": "hang"
+  },
+  "hang3_3": {
+    "id": "hang3_3",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      9,
+      12
+    ],
+    "type": "hang"
+  },
+  "hang3_4": {
+    "id": "hang3_4",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      7,
+      10
+    ],
+    "type": "hang"
+  },
+  "hang3_5": {
+    "id": "hang3_5",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      6,
+      9
+    ],
+    "type": "hang"
+  },
+  "hang3_6": {
+    "id": "hang3_6",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      5,
+      7
+    ],
+    "type": "hang"
+  },
+  "hang3_7": {
+    "id": "hang3_7",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      4,
+      6
+    ],
+    "type": "hang"
+  },
+  "hang3_8": {
+    "id": "hang3_8",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      3,
+      5
+    ],
+    "type": "hang"
+  },
+  "hang3_9": {
+    "id": "hang3_9",
+    "router": [
+      "hang3_9",
+      "hang3_8",
+      "hang3_7",
+      "hang3_6",
+      "hang3_5",
+      "hang3_4",
+      "hang3_3",
+      "hang3_2",
+      "hang3_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      2,
+      4
+    ],
+    "type": "hang"
+  },
+  "hang4_1": {
+    "id": "hang4_1",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      14,
+      18
+    ],
+    "type": "car"
+  },
+  "hang4_2": {
+    "id": "hang4_2",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      11,
+      15
+    ],
+    "type": "car"
+  },
+  "hang4_3": {
+    "id": "hang4_3",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      9,
+      12
+    ],
+    "type": "car"
+  },
+  "hang4_4": {
+    "id": "hang4_4",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      7,
+      10
+    ],
+    "type": "car"
+  },
+  "hang4_5": {
+    "id": "hang4_5",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      6,
+      9
+    ],
+    "type": "car"
+  },
+  "hang4_6": {
+    "id": "hang4_6",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      5,
+      7
+    ],
+    "type": "car"
+  },
+  "hang4_7": {
+    "id": "hang4_7",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      4,
+      6
+    ],
+    "type": "car"
+  },
+  "hang4_8": {
+    "id": "hang4_8",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      3,
+      5
+    ],
+    "type": "car"
+  },
+  "hang4_9": {
+    "id": "hang4_9",
+    "router": [
+      "hang4_9",
+      "hang4_8",
+      "hang4_7",
+      "hang4_6",
+      "hang4_5",
+      "hang4_4",
+      "hang4_3",
+      "hang4_2",
+      "hang4_1"
+    ],
+    "levelNum": 7,
+    "reward": {
+      "Energy": 600
+    },
+    "remain": [
+      2,
+      4
+    ],
+    "type": "car"
+  }
+}

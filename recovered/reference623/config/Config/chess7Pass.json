@@ -1,0 +1,4960 @@
+{
+  "777001": {
+    "101": {
+      "id": 101,
+      "GetElement": 31412,
+      "freeReward": {
+        "31411": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "102": {
+      "id": 102,
+      "GetElement": 31413,
+      "freeReward": {
+        "31411": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "103": {
+      "id": 103,
+      "GetElement": 31414,
+      "freeReward": {
+        "31412": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "104": {
+      "id": 104,
+      "GetElement": 31415,
+      "freeReward": {
+        "31412": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "105": {
+      "id": 105,
+      "GetElement": 31416,
+      "freeReward": {
+        "31412": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "106": {
+      "id": 106,
+      "GetElement": 31417,
+      "freeReward": {
+        "31412": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "107": {
+      "id": 107,
+      "GetElement": 31418,
+      "freeReward": {
+        "31412": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "108": {
+      "id": 108,
+      "GetElement": 31419,
+      "freeReward": {
+        "31412": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "109": {
+      "id": 109,
+      "GetElement": 31420,
+      "freeReward": {
+        "31412": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "110": {
+      "id": 110,
+      "GetElement": 31421,
+      "freeReward": {
+        "31412": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "111": {
+      "id": 111,
+      "GetElement": 31422,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "112": {
+      "id": 112,
+      "GetElement": 31438,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777002": {
+    "201": {
+      "id": 201,
+      "GetElement": 31462,
+      "freeReward": {
+        "31461": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "202": {
+      "id": 202,
+      "GetElement": 31463,
+      "freeReward": {
+        "31461": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "203": {
+      "id": 203,
+      "GetElement": 31464,
+      "freeReward": {
+        "31462": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "204": {
+      "id": 204,
+      "GetElement": 31465,
+      "freeReward": {
+        "31462": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "205": {
+      "id": 205,
+      "GetElement": 31466,
+      "freeReward": {
+        "31462": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "206": {
+      "id": 206,
+      "GetElement": 31467,
+      "freeReward": {
+        "31462": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "207": {
+      "id": 207,
+      "GetElement": 31468,
+      "freeReward": {
+        "31462": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "208": {
+      "id": 208,
+      "GetElement": 31469,
+      "freeReward": {
+        "31462": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "209": {
+      "id": 209,
+      "GetElement": 31470,
+      "freeReward": {
+        "31462": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "210": {
+      "id": 210,
+      "GetElement": 31471,
+      "freeReward": {
+        "31462": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "211": {
+      "id": 211,
+      "GetElement": 31472,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "212": {
+      "id": 212,
+      "GetElement": 31488,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777003": {
+    "301": {
+      "id": 301,
+      "GetElement": 31513,
+      "freeReward": {
+        "31511": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "302": {
+      "id": 302,
+      "GetElement": 31514,
+      "freeReward": {
+        "31511": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "303": {
+      "id": 303,
+      "GetElement": 31515,
+      "freeReward": {
+        "31512": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "304": {
+      "id": 304,
+      "GetElement": 31516,
+      "freeReward": {
+        "31512": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "305": {
+      "id": 305,
+      "GetElement": 31517,
+      "freeReward": {
+        "31512": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "306": {
+      "id": 306,
+      "GetElement": 31518,
+      "freeReward": {
+        "31512": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "307": {
+      "id": 307,
+      "GetElement": 31519,
+      "freeReward": {
+        "31512": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "308": {
+      "id": 308,
+      "GetElement": 31520,
+      "freeReward": {
+        "31512": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "309": {
+      "id": 309,
+      "GetElement": 31521,
+      "freeReward": {
+        "31512": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "310": {
+      "id": 310,
+      "GetElement": 31522,
+      "freeReward": {
+        "31512": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "311": {
+      "id": 311,
+      "GetElement": 31523,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "312": {
+      "id": 312,
+      "GetElement": 31538,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777004": {
+    "401": {
+      "id": 401,
+      "GetElement": 31813,
+      "freeReward": {
+        "31811": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "402": {
+      "id": 402,
+      "GetElement": 31814,
+      "freeReward": {
+        "31811": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "403": {
+      "id": 403,
+      "GetElement": 31815,
+      "freeReward": {
+        "31812": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "404": {
+      "id": 404,
+      "GetElement": 31816,
+      "freeReward": {
+        "31812": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "405": {
+      "id": 405,
+      "GetElement": 31817,
+      "freeReward": {
+        "31812": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "406": {
+      "id": 406,
+      "GetElement": 31818,
+      "freeReward": {
+        "31812": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "407": {
+      "id": 407,
+      "GetElement": 31819,
+      "freeReward": {
+        "31812": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "408": {
+      "id": 408,
+      "GetElement": 31820,
+      "freeReward": {
+        "31812": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "409": {
+      "id": 409,
+      "GetElement": 31821,
+      "freeReward": {
+        "31812": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "410": {
+      "id": 410,
+      "GetElement": 31822,
+      "freeReward": {
+        "31812": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "411": {
+      "id": 411,
+      "GetElement": 31823,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "412": {
+      "id": 412,
+      "GetElement": 31838,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777005": {
+    "501": {
+      "id": 501,
+      "GetElement": 31963,
+      "freeReward": {
+        "31961": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "502": {
+      "id": 502,
+      "GetElement": 31964,
+      "freeReward": {
+        "31961": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "503": {
+      "id": 503,
+      "GetElement": 31965,
+      "freeReward": {
+        "31962": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "504": {
+      "id": 504,
+      "GetElement": 31966,
+      "freeReward": {
+        "31962": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "505": {
+      "id": 505,
+      "GetElement": 31967,
+      "freeReward": {
+        "31962": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "506": {
+      "id": 506,
+      "GetElement": 31968,
+      "freeReward": {
+        "31962": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "507": {
+      "id": 507,
+      "GetElement": 31969,
+      "freeReward": {
+        "31962": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "508": {
+      "id": 508,
+      "GetElement": 31970,
+      "freeReward": {
+        "31962": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "509": {
+      "id": 509,
+      "GetElement": 31971,
+      "freeReward": {
+        "31962": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "510": {
+      "id": 510,
+      "GetElement": 31972,
+      "freeReward": {
+        "31962": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "511": {
+      "id": 511,
+      "GetElement": 31973,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "512": {
+      "id": 512,
+      "GetElement": 31988,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777006": {
+    "601": {
+      "id": 601,
+      "GetElement": 32212,
+      "freeReward": {
+        "32211": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "602": {
+      "id": 602,
+      "GetElement": 32213,
+      "freeReward": {
+        "32211": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "603": {
+      "id": 603,
+      "GetElement": 32214,
+      "freeReward": {
+        "32212": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "604": {
+      "id": 604,
+      "GetElement": 32215,
+      "freeReward": {
+        "32212": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "605": {
+      "id": 605,
+      "GetElement": 32216,
+      "freeReward": {
+        "32212": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "606": {
+      "id": 606,
+      "GetElement": 32217,
+      "freeReward": {
+        "32212": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "607": {
+      "id": 607,
+      "GetElement": 32218,
+      "freeReward": {
+        "32212": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "608": {
+      "id": 608,
+      "GetElement": 32219,
+      "freeReward": {
+        "32212": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "609": {
+      "id": 609,
+      "GetElement": 32220,
+      "freeReward": {
+        "32212": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "610": {
+      "id": 610,
+      "GetElement": 32221,
+      "freeReward": {
+        "32212": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "611": {
+      "id": 611,
+      "GetElement": 32222,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "612": {
+      "id": 612,
+      "GetElement": 32238,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777007": {
+    "701": {
+      "id": 701,
+      "GetElement": 32312,
+      "freeReward": {
+        "32311": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "702": {
+      "id": 702,
+      "GetElement": 32313,
+      "freeReward": {
+        "32311": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "703": {
+      "id": 703,
+      "GetElement": 32314,
+      "freeReward": {
+        "32312": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "704": {
+      "id": 704,
+      "GetElement": 32315,
+      "freeReward": {
+        "32312": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "705": {
+      "id": 705,
+      "GetElement": 32316,
+      "freeReward": {
+        "32312": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "706": {
+      "id": 706,
+      "GetElement": 32317,
+      "freeReward": {
+        "32312": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "707": {
+      "id": 707,
+      "GetElement": 32318,
+      "freeReward": {
+        "32312": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "708": {
+      "id": 708,
+      "GetElement": 32319,
+      "freeReward": {
+        "32312": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "709": {
+      "id": 709,
+      "GetElement": 32320,
+      "freeReward": {
+        "32312": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "710": {
+      "id": 710,
+      "GetElement": 32321,
+      "freeReward": {
+        "32312": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "711": {
+      "id": 711,
+      "GetElement": 32322,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "712": {
+      "id": 712,
+      "GetElement": 32338,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777008": {
+    "801": {
+      "id": 801,
+      "GetElement": 32413,
+      "freeReward": {
+        "32411": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "802": {
+      "id": 802,
+      "GetElement": 32414,
+      "freeReward": {
+        "32411": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "803": {
+      "id": 803,
+      "GetElement": 32415,
+      "freeReward": {
+        "32412": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "804": {
+      "id": 804,
+      "GetElement": 32416,
+      "freeReward": {
+        "32412": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "805": {
+      "id": 805,
+      "GetElement": 32417,
+      "freeReward": {
+        "32412": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "806": {
+      "id": 806,
+      "GetElement": 32418,
+      "freeReward": {
+        "32412": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "807": {
+      "id": 807,
+      "GetElement": 32419,
+      "freeReward": {
+        "32412": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "808": {
+      "id": 808,
+      "GetElement": 32420,
+      "freeReward": {
+        "32412": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "809": {
+      "id": 809,
+      "GetElement": 32421,
+      "freeReward": {
+        "32412": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "810": {
+      "id": 810,
+      "GetElement": 32422,
+      "freeReward": {
+        "32412": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "811": {
+      "id": 811,
+      "GetElement": 32423,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "812": {
+      "id": 812,
+      "GetElement": 32438,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777009": {
+    "901": {
+      "id": 901,
+      "GetElement": 32513,
+      "freeReward": {
+        "32511": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "902": {
+      "id": 902,
+      "GetElement": 32514,
+      "freeReward": {
+        "32511": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "903": {
+      "id": 903,
+      "GetElement": 32515,
+      "freeReward": {
+        "32512": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "904": {
+      "id": 904,
+      "GetElement": 32516,
+      "freeReward": {
+        "32512": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "905": {
+      "id": 905,
+      "GetElement": 32517,
+      "freeReward": {
+        "32512": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "906": {
+      "id": 906,
+      "GetElement": 32518,
+      "freeReward": {
+        "32512": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "907": {
+      "id": 907,
+      "GetElement": 32519,
+      "freeReward": {
+        "32512": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "908": {
+      "id": 908,
+      "GetElement": 32520,
+      "freeReward": {
+        "32512": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "909": {
+      "id": 909,
+      "GetElement": 32521,
+      "freeReward": {
+        "32512": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "910": {
+      "id": 910,
+      "GetElement": 32522,
+      "freeReward": {
+        "32512": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "911": {
+      "id": 911,
+      "GetElement": 32523,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "912": {
+      "id": 912,
+      "GetElement": 32538,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777010": {
+    "1001": {
+      "id": 1001,
+      "GetElement": 32622,
+      "freeReward": {
+        "32611": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1002": {
+      "id": 1002,
+      "GetElement": 32623,
+      "freeReward": {
+        "32611": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1003": {
+      "id": 1003,
+      "GetElement": 32624,
+      "freeReward": {
+        "32612": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1004": {
+      "id": 1004,
+      "GetElement": 32625,
+      "freeReward": {
+        "32612": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1005": {
+      "id": 1005,
+      "GetElement": 32626,
+      "freeReward": {
+        "32612": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1006": {
+      "id": 1006,
+      "GetElement": 32627,
+      "freeReward": {
+        "32612": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1007": {
+      "id": 1007,
+      "GetElement": 32628,
+      "freeReward": {
+        "32612": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1008": {
+      "id": 1008,
+      "GetElement": 32629,
+      "freeReward": {
+        "32612": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1009": {
+      "id": 1009,
+      "GetElement": 32630,
+      "freeReward": {
+        "32612": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1010": {
+      "id": 1010,
+      "GetElement": 32631,
+      "freeReward": {
+        "32612": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1011": {
+      "id": 1011,
+      "GetElement": 32632,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1012": {
+      "id": 1012,
+      "GetElement": 32648,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777012": {
+    "1101": {
+      "id": 1101,
+      "GetElement": 32713,
+      "freeReward": {
+        "32711": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1102": {
+      "id": 1102,
+      "GetElement": 32714,
+      "freeReward": {
+        "32711": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1103": {
+      "id": 1103,
+      "GetElement": 32715,
+      "freeReward": {
+        "32712": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1104": {
+      "id": 1104,
+      "GetElement": 32716,
+      "freeReward": {
+        "32712": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1105": {
+      "id": 1105,
+      "GetElement": 32717,
+      "freeReward": {
+        "32712": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1106": {
+      "id": 1106,
+      "GetElement": 32718,
+      "freeReward": {
+        "32712": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1107": {
+      "id": 1107,
+      "GetElement": 32719,
+      "freeReward": {
+        "32712": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1108": {
+      "id": 1108,
+      "GetElement": 32720,
+      "freeReward": {
+        "32712": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1109": {
+      "id": 1109,
+      "GetElement": 32721,
+      "freeReward": {
+        "32712": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1110": {
+      "id": 1110,
+      "GetElement": 32722,
+      "freeReward": {
+        "32712": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1111": {
+      "id": 1111,
+      "GetElement": 32723,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1112": {
+      "id": 1112,
+      "GetElement": 32738,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777013": {
+    "1301": {
+      "id": 1301,
+      "GetElement": 32812,
+      "freeReward": {
+        "32811": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1302": {
+      "id": 1302,
+      "GetElement": 32813,
+      "freeReward": {
+        "32811": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1303": {
+      "id": 1303,
+      "GetElement": 32814,
+      "freeReward": {
+        "32812": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1304": {
+      "id": 1304,
+      "GetElement": 32815,
+      "freeReward": {
+        "32812": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1305": {
+      "id": 1305,
+      "GetElement": 32816,
+      "freeReward": {
+        "32812": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1306": {
+      "id": 1306,
+      "GetElement": 32817,
+      "freeReward": {
+        "32812": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1307": {
+      "id": 1307,
+      "GetElement": 32818,
+      "freeReward": {
+        "32812": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1308": {
+      "id": 1308,
+      "GetElement": 32819,
+      "freeReward": {
+        "32812": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1309": {
+      "id": 1309,
+      "GetElement": 32820,
+      "freeReward": {
+        "32812": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1310": {
+      "id": 1310,
+      "GetElement": 32821,
+      "freeReward": {
+        "32812": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1311": {
+      "id": 1311,
+      "GetElement": 32822,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1312": {
+      "id": 1312,
+      "GetElement": 32838,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777014": {
+    "1401": {
+      "id": 1401,
+      "GetElement": 32913,
+      "freeReward": {
+        "32911": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1402": {
+      "id": 1402,
+      "GetElement": 32914,
+      "freeReward": {
+        "32911": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1403": {
+      "id": 1403,
+      "GetElement": 32915,
+      "freeReward": {
+        "32912": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1404": {
+      "id": 1404,
+      "GetElement": 32916,
+      "freeReward": {
+        "32912": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1405": {
+      "id": 1405,
+      "GetElement": 32917,
+      "freeReward": {
+        "32912": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1406": {
+      "id": 1406,
+      "GetElement": 32918,
+      "freeReward": {
+        "32912": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1407": {
+      "id": 1407,
+      "GetElement": 32919,
+      "freeReward": {
+        "32912": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1408": {
+      "id": 1408,
+      "GetElement": 32920,
+      "freeReward": {
+        "32912": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1409": {
+      "id": 1409,
+      "GetElement": 32921,
+      "freeReward": {
+        "32912": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1410": {
+      "id": 1410,
+      "GetElement": 32922,
+      "freeReward": {
+        "32912": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1411": {
+      "id": 1411,
+      "GetElement": 32923,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1412": {
+      "id": 1412,
+      "GetElement": 32938,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777015": {
+    "1501": {
+      "id": 1501,
+      "GetElement": 37222,
+      "freeReward": {
+        "37211": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1502": {
+      "id": 1502,
+      "GetElement": 37223,
+      "freeReward": {
+        "37211": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1503": {
+      "id": 1503,
+      "GetElement": 37224,
+      "freeReward": {
+        "37212": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1504": {
+      "id": 1504,
+      "GetElement": 37225,
+      "freeReward": {
+        "37212": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1505": {
+      "id": 1505,
+      "GetElement": 37226,
+      "freeReward": {
+        "37212": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1506": {
+      "id": 1506,
+      "GetElement": 37227,
+      "freeReward": {
+        "37212": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1507": {
+      "id": 1507,
+      "GetElement": 37228,
+      "freeReward": {
+        "37212": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1508": {
+      "id": 1508,
+      "GetElement": 37229,
+      "freeReward": {
+        "37212": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1509": {
+      "id": 1509,
+      "GetElement": 37230,
+      "freeReward": {
+        "37212": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1510": {
+      "id": 1510,
+      "GetElement": 37231,
+      "freeReward": {
+        "37212": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1511": {
+      "id": 1511,
+      "GetElement": 37232,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1512": {
+      "id": 1512,
+      "GetElement": 37248,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777016": {
+    "1601": {
+      "id": 1601,
+      "GetElement": 37312,
+      "freeReward": {
+        "37311": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1602": {
+      "id": 1602,
+      "GetElement": 37313,
+      "freeReward": {
+        "37311": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1603": {
+      "id": 1603,
+      "GetElement": 37314,
+      "freeReward": {
+        "37312": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1604": {
+      "id": 1604,
+      "GetElement": 37315,
+      "freeReward": {
+        "37312": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1605": {
+      "id": 1605,
+      "GetElement": 37316,
+      "freeReward": {
+        "37312": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1606": {
+      "id": 1606,
+      "GetElement": 37317,
+      "freeReward": {
+        "37312": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1607": {
+      "id": 1607,
+      "GetElement": 37318,
+      "freeReward": {
+        "37312": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1608": {
+      "id": 1608,
+      "GetElement": 37319,
+      "freeReward": {
+        "37312": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1609": {
+      "id": 1609,
+      "GetElement": 37320,
+      "freeReward": {
+        "37312": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1610": {
+      "id": 1610,
+      "GetElement": 37321,
+      "freeReward": {
+        "37312": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1611": {
+      "id": 1611,
+      "GetElement": 37322,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1612": {
+      "id": 1612,
+      "GetElement": 37338,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777017": {
+    "1701": {
+      "id": 1701,
+      "GetElement": 37413,
+      "freeReward": {
+        "37411": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1702": {
+      "id": 1702,
+      "GetElement": 37414,
+      "freeReward": {
+        "37411": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1703": {
+      "id": 1703,
+      "GetElement": 37415,
+      "freeReward": {
+        "37412": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1704": {
+      "id": 1704,
+      "GetElement": 37416,
+      "freeReward": {
+        "37412": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1705": {
+      "id": 1705,
+      "GetElement": 37417,
+      "freeReward": {
+        "37412": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1706": {
+      "id": 1706,
+      "GetElement": 37418,
+      "freeReward": {
+        "37412": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1707": {
+      "id": 1707,
+      "GetElement": 37419,
+      "freeReward": {
+        "37412": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1708": {
+      "id": 1708,
+      "GetElement": 37420,
+      "freeReward": {
+        "37412": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1709": {
+      "id": 1709,
+      "GetElement": 37421,
+      "freeReward": {
+        "37412": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1710": {
+      "id": 1710,
+      "GetElement": 37422,
+      "freeReward": {
+        "37412": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1711": {
+      "id": 1711,
+      "GetElement": 37423,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1712": {
+      "id": 1712,
+      "GetElement": 37438,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777018": {
+    "1801": {
+      "id": 1801,
+      "GetElement": 37522,
+      "freeReward": {
+        "37511": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1802": {
+      "id": 1802,
+      "GetElement": 37523,
+      "freeReward": {
+        "37511": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1803": {
+      "id": 1803,
+      "GetElement": 37524,
+      "freeReward": {
+        "37512": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1804": {
+      "id": 1804,
+      "GetElement": 37525,
+      "freeReward": {
+        "37512": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1805": {
+      "id": 1805,
+      "GetElement": 37526,
+      "freeReward": {
+        "37512": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1806": {
+      "id": 1806,
+      "GetElement": 37527,
+      "freeReward": {
+        "37512": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1807": {
+      "id": 1807,
+      "GetElement": 37528,
+      "freeReward": {
+        "37512": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1808": {
+      "id": 1808,
+      "GetElement": 37529,
+      "freeReward": {
+        "37512": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1809": {
+      "id": 1809,
+      "GetElement": 37530,
+      "freeReward": {
+        "37512": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1810": {
+      "id": 1810,
+      "GetElement": 37531,
+      "freeReward": {
+        "37512": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1811": {
+      "id": 1811,
+      "GetElement": 37532,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1812": {
+      "id": 1812,
+      "GetElement": 37548,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777019": {
+    "1901": {
+      "id": 1901,
+      "GetElement": 37612,
+      "freeReward": {
+        "37611": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1902": {
+      "id": 1902,
+      "GetElement": 37613,
+      "freeReward": {
+        "37611": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "1903": {
+      "id": 1903,
+      "GetElement": 37614,
+      "freeReward": {
+        "37612": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1904": {
+      "id": 1904,
+      "GetElement": 37615,
+      "freeReward": {
+        "37612": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1905": {
+      "id": 1905,
+      "GetElement": 37616,
+      "freeReward": {
+        "37612": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "1906": {
+      "id": 1906,
+      "GetElement": 37617,
+      "freeReward": {
+        "37612": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "1907": {
+      "id": 1907,
+      "GetElement": 37618,
+      "freeReward": {
+        "37612": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "1908": {
+      "id": 1908,
+      "GetElement": 37619,
+      "freeReward": {
+        "37612": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "1909": {
+      "id": 1909,
+      "GetElement": 37620,
+      "freeReward": {
+        "37612": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "1910": {
+      "id": 1910,
+      "GetElement": 37621,
+      "freeReward": {
+        "37612": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1911": {
+      "id": 1911,
+      "GetElement": 37622,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "1912": {
+      "id": 1912,
+      "GetElement": 37638,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777020": {
+    "2001": {
+      "id": 2001,
+      "GetElement": 37713,
+      "freeReward": {
+        "37711": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2002": {
+      "id": 2002,
+      "GetElement": 37714,
+      "freeReward": {
+        "37711": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2003": {
+      "id": 2003,
+      "GetElement": 37715,
+      "freeReward": {
+        "37712": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2004": {
+      "id": 2004,
+      "GetElement": 37716,
+      "freeReward": {
+        "37712": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2005": {
+      "id": 2005,
+      "GetElement": 37717,
+      "freeReward": {
+        "37712": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2006": {
+      "id": 2006,
+      "GetElement": 37718,
+      "freeReward": {
+        "37712": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2007": {
+      "id": 2007,
+      "GetElement": 37719,
+      "freeReward": {
+        "37712": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2008": {
+      "id": 2008,
+      "GetElement": 37720,
+      "freeReward": {
+        "37712": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2009": {
+      "id": 2009,
+      "GetElement": 37721,
+      "freeReward": {
+        "37712": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2010": {
+      "id": 2010,
+      "GetElement": 37722,
+      "freeReward": {
+        "37712": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2011": {
+      "id": 2011,
+      "GetElement": 37723,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2012": {
+      "id": 2012,
+      "GetElement": 37738,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777021": {
+    "2101": {
+      "id": 2101,
+      "GetElement": 37822,
+      "freeReward": {
+        "37811": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2102": {
+      "id": 2102,
+      "GetElement": 37823,
+      "freeReward": {
+        "37811": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2103": {
+      "id": 2103,
+      "GetElement": 37824,
+      "freeReward": {
+        "37812": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2104": {
+      "id": 2104,
+      "GetElement": 37825,
+      "freeReward": {
+        "37812": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2105": {
+      "id": 2105,
+      "GetElement": 37826,
+      "freeReward": {
+        "37812": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2106": {
+      "id": 2106,
+      "GetElement": 37827,
+      "freeReward": {
+        "37812": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2107": {
+      "id": 2107,
+      "GetElement": 37828,
+      "freeReward": {
+        "37812": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2108": {
+      "id": 2108,
+      "GetElement": 37829,
+      "freeReward": {
+        "37812": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2109": {
+      "id": 2109,
+      "GetElement": 37830,
+      "freeReward": {
+        "37812": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2110": {
+      "id": 2110,
+      "GetElement": 37831,
+      "freeReward": {
+        "37812": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2111": {
+      "id": 2111,
+      "GetElement": 37832,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2112": {
+      "id": 2112,
+      "GetElement": 37848,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777022": {
+    "2201": {
+      "id": 2201,
+      "GetElement": 37912,
+      "freeReward": {
+        "37911": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2202": {
+      "id": 2202,
+      "GetElement": 37913,
+      "freeReward": {
+        "37911": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2203": {
+      "id": 2203,
+      "GetElement": 37914,
+      "freeReward": {
+        "37912": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2204": {
+      "id": 2204,
+      "GetElement": 37915,
+      "freeReward": {
+        "37912": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2205": {
+      "id": 2205,
+      "GetElement": 37916,
+      "freeReward": {
+        "37912": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2206": {
+      "id": 2206,
+      "GetElement": 37917,
+      "freeReward": {
+        "37912": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2207": {
+      "id": 2207,
+      "GetElement": 37918,
+      "freeReward": {
+        "37912": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2208": {
+      "id": 2208,
+      "GetElement": 37919,
+      "freeReward": {
+        "37912": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2209": {
+      "id": 2209,
+      "GetElement": 37920,
+      "freeReward": {
+        "37912": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2210": {
+      "id": 2210,
+      "GetElement": 37921,
+      "freeReward": {
+        "37912": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2211": {
+      "id": 2211,
+      "GetElement": 37922,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2212": {
+      "id": 2212,
+      "GetElement": 37938,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777023": {
+    "2301": {
+      "id": 2301,
+      "GetElement": 38113,
+      "freeReward": {
+        "38111": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2302": {
+      "id": 2302,
+      "GetElement": 38114,
+      "freeReward": {
+        "38111": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2303": {
+      "id": 2303,
+      "GetElement": 38115,
+      "freeReward": {
+        "38112": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2304": {
+      "id": 2304,
+      "GetElement": 38116,
+      "freeReward": {
+        "38112": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2305": {
+      "id": 2305,
+      "GetElement": 38117,
+      "freeReward": {
+        "38112": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2306": {
+      "id": 2306,
+      "GetElement": 38118,
+      "freeReward": {
+        "38112": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2307": {
+      "id": 2307,
+      "GetElement": 38119,
+      "freeReward": {
+        "38112": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2308": {
+      "id": 2308,
+      "GetElement": 38120,
+      "freeReward": {
+        "38112": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2309": {
+      "id": 2309,
+      "GetElement": 38121,
+      "freeReward": {
+        "38112": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2310": {
+      "id": 2310,
+      "GetElement": 38122,
+      "freeReward": {
+        "38112": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2311": {
+      "id": 2311,
+      "GetElement": 38123,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2312": {
+      "id": 2312,
+      "GetElement": 38138,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777024": {
+    "2401": {
+      "id": 2401,
+      "GetElement": 38222,
+      "freeReward": {
+        "38211": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2402": {
+      "id": 2402,
+      "GetElement": 38223,
+      "freeReward": {
+        "38211": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2403": {
+      "id": 2403,
+      "GetElement": 38224,
+      "freeReward": {
+        "38212": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2404": {
+      "id": 2404,
+      "GetElement": 38225,
+      "freeReward": {
+        "38212": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2405": {
+      "id": 2405,
+      "GetElement": 38226,
+      "freeReward": {
+        "38212": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2406": {
+      "id": 2406,
+      "GetElement": 38227,
+      "freeReward": {
+        "38212": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2407": {
+      "id": 2407,
+      "GetElement": 38228,
+      "freeReward": {
+        "38212": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2408": {
+      "id": 2408,
+      "GetElement": 38229,
+      "freeReward": {
+        "38212": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2409": {
+      "id": 2409,
+      "GetElement": 38230,
+      "freeReward": {
+        "38212": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2410": {
+      "id": 2410,
+      "GetElement": 38231,
+      "freeReward": {
+        "38212": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2411": {
+      "id": 2411,
+      "GetElement": 38232,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2412": {
+      "id": 2412,
+      "GetElement": 38248,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777025": {
+    "2501": {
+      "id": 2501,
+      "GetElement": 38312,
+      "freeReward": {
+        "38311": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2502": {
+      "id": 2502,
+      "GetElement": 38313,
+      "freeReward": {
+        "38311": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2503": {
+      "id": 2503,
+      "GetElement": 38314,
+      "freeReward": {
+        "38312": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2504": {
+      "id": 2504,
+      "GetElement": 38315,
+      "freeReward": {
+        "38312": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2505": {
+      "id": 2505,
+      "GetElement": 38316,
+      "freeReward": {
+        "38312": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2506": {
+      "id": 2506,
+      "GetElement": 38317,
+      "freeReward": {
+        "38312": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2507": {
+      "id": 2507,
+      "GetElement": 38318,
+      "freeReward": {
+        "38312": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2508": {
+      "id": 2508,
+      "GetElement": 38319,
+      "freeReward": {
+        "38312": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2509": {
+      "id": 2509,
+      "GetElement": 38320,
+      "freeReward": {
+        "38312": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2510": {
+      "id": 2510,
+      "GetElement": 38321,
+      "freeReward": {
+        "38312": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2511": {
+      "id": 2511,
+      "GetElement": 38322,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2512": {
+      "id": 2512,
+      "GetElement": 38338,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777026": {
+    "2601": {
+      "id": 2601,
+      "GetElement": 38413,
+      "freeReward": {
+        "38411": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2602": {
+      "id": 2602,
+      "GetElement": 38414,
+      "freeReward": {
+        "38411": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2603": {
+      "id": 2603,
+      "GetElement": 38415,
+      "freeReward": {
+        "38412": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2604": {
+      "id": 2604,
+      "GetElement": 38416,
+      "freeReward": {
+        "38412": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2605": {
+      "id": 2605,
+      "GetElement": 38417,
+      "freeReward": {
+        "38412": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2606": {
+      "id": 2606,
+      "GetElement": 38418,
+      "freeReward": {
+        "38412": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2607": {
+      "id": 2607,
+      "GetElement": 38419,
+      "freeReward": {
+        "38412": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2608": {
+      "id": 2608,
+      "GetElement": 38420,
+      "freeReward": {
+        "38412": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2609": {
+      "id": 2609,
+      "GetElement": 38421,
+      "freeReward": {
+        "38412": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2610": {
+      "id": 2610,
+      "GetElement": 38422,
+      "freeReward": {
+        "38412": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2611": {
+      "id": 2611,
+      "GetElement": 38423,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2612": {
+      "id": 2612,
+      "GetElement": 38438,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777027": {
+    "2701": {
+      "id": 2701,
+      "GetElement": 38522,
+      "freeReward": {
+        "38511": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2702": {
+      "id": 2702,
+      "GetElement": 38523,
+      "freeReward": {
+        "38511": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2703": {
+      "id": 2703,
+      "GetElement": 38524,
+      "freeReward": {
+        "38512": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2704": {
+      "id": 2704,
+      "GetElement": 38525,
+      "freeReward": {
+        "38512": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2705": {
+      "id": 2705,
+      "GetElement": 38526,
+      "freeReward": {
+        "38512": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2706": {
+      "id": 2706,
+      "GetElement": 38527,
+      "freeReward": {
+        "38512": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2707": {
+      "id": 2707,
+      "GetElement": 38528,
+      "freeReward": {
+        "38512": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2708": {
+      "id": 2708,
+      "GetElement": 38529,
+      "freeReward": {
+        "38512": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2709": {
+      "id": 2709,
+      "GetElement": 38530,
+      "freeReward": {
+        "38512": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2710": {
+      "id": 2710,
+      "GetElement": 38531,
+      "freeReward": {
+        "38512": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2711": {
+      "id": 2711,
+      "GetElement": 38532,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2712": {
+      "id": 2712,
+      "GetElement": 38548,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777028": {
+    "2801": {
+      "id": 2801,
+      "GetElement": 38613,
+      "freeReward": {
+        "38611": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2802": {
+      "id": 2802,
+      "GetElement": 38614,
+      "freeReward": {
+        "38611": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2803": {
+      "id": 2803,
+      "GetElement": 38615,
+      "freeReward": {
+        "38612": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2804": {
+      "id": 2804,
+      "GetElement": 38616,
+      "freeReward": {
+        "38612": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2805": {
+      "id": 2805,
+      "GetElement": 38617,
+      "freeReward": {
+        "38612": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2806": {
+      "id": 2806,
+      "GetElement": 38618,
+      "freeReward": {
+        "38612": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2807": {
+      "id": 2807,
+      "GetElement": 38619,
+      "freeReward": {
+        "38612": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2808": {
+      "id": 2808,
+      "GetElement": 38620,
+      "freeReward": {
+        "38612": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2809": {
+      "id": 2809,
+      "GetElement": 38621,
+      "freeReward": {
+        "38612": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2810": {
+      "id": 2810,
+      "GetElement": 38622,
+      "freeReward": {
+        "38612": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2811": {
+      "id": 2811,
+      "GetElement": 38623,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2812": {
+      "id": 2812,
+      "GetElement": 38638,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777029": {
+    "2901": {
+      "id": 2901,
+      "GetElement": 38713,
+      "freeReward": {
+        "38711": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2902": {
+      "id": 2902,
+      "GetElement": 38714,
+      "freeReward": {
+        "38711": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "2903": {
+      "id": 2903,
+      "GetElement": 38715,
+      "freeReward": {
+        "38712": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2904": {
+      "id": 2904,
+      "GetElement": 38716,
+      "freeReward": {
+        "38712": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2905": {
+      "id": 2905,
+      "GetElement": 38717,
+      "freeReward": {
+        "38712": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "2906": {
+      "id": 2906,
+      "GetElement": 38718,
+      "freeReward": {
+        "38712": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "2907": {
+      "id": 2907,
+      "GetElement": 38719,
+      "freeReward": {
+        "38712": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "2908": {
+      "id": 2908,
+      "GetElement": 38720,
+      "freeReward": {
+        "38712": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "2909": {
+      "id": 2909,
+      "GetElement": 38721,
+      "freeReward": {
+        "38712": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "2910": {
+      "id": 2910,
+      "GetElement": 38722,
+      "freeReward": {
+        "38712": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2911": {
+      "id": 2911,
+      "GetElement": 38723,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "2912": {
+      "id": 2912,
+      "GetElement": 38738,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777030": {
+    "3001": {
+      "id": 3001,
+      "GetElement": 38812,
+      "freeReward": {
+        "38811": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3002": {
+      "id": 3002,
+      "GetElement": 38813,
+      "freeReward": {
+        "38811": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3003": {
+      "id": 3003,
+      "GetElement": 38814,
+      "freeReward": {
+        "38812": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3004": {
+      "id": 3004,
+      "GetElement": 38815,
+      "freeReward": {
+        "38812": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3005": {
+      "id": 3005,
+      "GetElement": 38816,
+      "freeReward": {
+        "38812": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3006": {
+      "id": 3006,
+      "GetElement": 38817,
+      "freeReward": {
+        "38812": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3007": {
+      "id": 3007,
+      "GetElement": 38818,
+      "freeReward": {
+        "38812": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3008": {
+      "id": 3008,
+      "GetElement": 38819,
+      "freeReward": {
+        "38812": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3009": {
+      "id": 3009,
+      "GetElement": 38820,
+      "freeReward": {
+        "38812": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3010": {
+      "id": 3010,
+      "GetElement": 38821,
+      "freeReward": {
+        "38812": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3011": {
+      "id": 3011,
+      "GetElement": 38822,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3012": {
+      "id": 3012,
+      "GetElement": 38838,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777031": {
+    "3101": {
+      "id": 3101,
+      "GetElement": 38922,
+      "freeReward": {
+        "38911": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3102": {
+      "id": 3102,
+      "GetElement": 38923,
+      "freeReward": {
+        "38911": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3103": {
+      "id": 3103,
+      "GetElement": 38924,
+      "freeReward": {
+        "38912": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3104": {
+      "id": 3104,
+      "GetElement": 38925,
+      "freeReward": {
+        "38912": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3105": {
+      "id": 3105,
+      "GetElement": 38926,
+      "freeReward": {
+        "38912": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3106": {
+      "id": 3106,
+      "GetElement": 38927,
+      "freeReward": {
+        "38912": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3107": {
+      "id": 3107,
+      "GetElement": 38928,
+      "freeReward": {
+        "38912": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3108": {
+      "id": 3108,
+      "GetElement": 38929,
+      "freeReward": {
+        "38912": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3109": {
+      "id": 3109,
+      "GetElement": 38930,
+      "freeReward": {
+        "38912": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3110": {
+      "id": 3110,
+      "GetElement": 38931,
+      "freeReward": {
+        "38912": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3111": {
+      "id": 3111,
+      "GetElement": 38932,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3112": {
+      "id": 3112,
+      "GetElement": 38948,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777032": {
+    "3201": {
+      "id": 3201,
+      "GetElement": 39313,
+      "freeReward": {
+        "39311": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3202": {
+      "id": 3202,
+      "GetElement": 39314,
+      "freeReward": {
+        "39311": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3203": {
+      "id": 3203,
+      "GetElement": 39315,
+      "freeReward": {
+        "39312": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3204": {
+      "id": 3204,
+      "GetElement": 39316,
+      "freeReward": {
+        "39312": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3205": {
+      "id": 3205,
+      "GetElement": 39317,
+      "freeReward": {
+        "39312": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3206": {
+      "id": 3206,
+      "GetElement": 39318,
+      "freeReward": {
+        "39312": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3207": {
+      "id": 3207,
+      "GetElement": 39319,
+      "freeReward": {
+        "39312": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3208": {
+      "id": 3208,
+      "GetElement": 39320,
+      "freeReward": {
+        "39312": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3209": {
+      "id": 3209,
+      "GetElement": 39321,
+      "freeReward": {
+        "39312": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3210": {
+      "id": 3210,
+      "GetElement": 39322,
+      "freeReward": {
+        "39312": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3211": {
+      "id": 3211,
+      "GetElement": 39323,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3212": {
+      "id": 3212,
+      "GetElement": 39338,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777033": {
+    "3301": {
+      "id": 3301,
+      "GetElement": 40113,
+      "freeReward": {
+        "40111": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3302": {
+      "id": 3302,
+      "GetElement": 40114,
+      "freeReward": {
+        "40111": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3303": {
+      "id": 3303,
+      "GetElement": 40115,
+      "freeReward": {
+        "40112": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3304": {
+      "id": 3304,
+      "GetElement": 40116,
+      "freeReward": {
+        "40112": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3305": {
+      "id": 3305,
+      "GetElement": 40117,
+      "freeReward": {
+        "40112": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3306": {
+      "id": 3306,
+      "GetElement": 40118,
+      "freeReward": {
+        "40112": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3307": {
+      "id": 3307,
+      "GetElement": 40119,
+      "freeReward": {
+        "40112": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3308": {
+      "id": 3308,
+      "GetElement": 40120,
+      "freeReward": {
+        "40112": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3309": {
+      "id": 3309,
+      "GetElement": 40121,
+      "freeReward": {
+        "40112": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3310": {
+      "id": 3310,
+      "GetElement": 40122,
+      "freeReward": {
+        "40112": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3311": {
+      "id": 3311,
+      "GetElement": 40123,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3312": {
+      "id": 3312,
+      "GetElement": 40138,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777035": {
+    "3401": {
+      "id": 3401,
+      "GetElement": 40212,
+      "freeReward": {
+        "40211": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3402": {
+      "id": 3402,
+      "GetElement": 40213,
+      "freeReward": {
+        "40211": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3403": {
+      "id": 3403,
+      "GetElement": 40214,
+      "freeReward": {
+        "40212": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3404": {
+      "id": 3404,
+      "GetElement": 40215,
+      "freeReward": {
+        "40212": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3405": {
+      "id": 3405,
+      "GetElement": 40216,
+      "freeReward": {
+        "40212": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3406": {
+      "id": 3406,
+      "GetElement": 40217,
+      "freeReward": {
+        "40212": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3407": {
+      "id": 3407,
+      "GetElement": 40218,
+      "freeReward": {
+        "40212": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3408": {
+      "id": 3408,
+      "GetElement": 40219,
+      "freeReward": {
+        "40212": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3409": {
+      "id": 3409,
+      "GetElement": 40220,
+      "freeReward": {
+        "40212": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3410": {
+      "id": 3410,
+      "GetElement": 40221,
+      "freeReward": {
+        "40212": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3411": {
+      "id": 3411,
+      "GetElement": 40222,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3412": {
+      "id": 3412,
+      "GetElement": 40238,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777036": {
+    "3601": {
+      "id": 3601,
+      "GetElement": 40322,
+      "freeReward": {
+        "40311": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3602": {
+      "id": 3602,
+      "GetElement": 40323,
+      "freeReward": {
+        "40311": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3603": {
+      "id": 3603,
+      "GetElement": 40324,
+      "freeReward": {
+        "40312": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3604": {
+      "id": 3604,
+      "GetElement": 40325,
+      "freeReward": {
+        "40312": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3605": {
+      "id": 3605,
+      "GetElement": 40326,
+      "freeReward": {
+        "40312": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3606": {
+      "id": 3606,
+      "GetElement": 40327,
+      "freeReward": {
+        "40312": 3
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3607": {
+      "id": 3607,
+      "GetElement": 40328,
+      "freeReward": {
+        "40312": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3608": {
+      "id": 3608,
+      "GetElement": 40329,
+      "freeReward": {
+        "40312": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3609": {
+      "id": 3609,
+      "GetElement": 40330,
+      "freeReward": {
+        "40312": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3610": {
+      "id": 3610,
+      "GetElement": 40331,
+      "freeReward": {
+        "40312": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3611": {
+      "id": 3611,
+      "GetElement": 40332,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3612": {
+      "id": 3612,
+      "GetElement": 40348,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777037": {
+    "3701": {
+      "id": 3701,
+      "GetElement": 40413,
+      "freeReward": {
+        "40411": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3702": {
+      "id": 3702,
+      "GetElement": 40414,
+      "freeReward": {
+        "40411": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3703": {
+      "id": 3703,
+      "GetElement": 40415,
+      "freeReward": {
+        "40412": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3704": {
+      "id": 3704,
+      "GetElement": 40416,
+      "freeReward": {
+        "40412": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3705": {
+      "id": 3705,
+      "GetElement": 40417,
+      "freeReward": {
+        "40412": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3706": {
+      "id": 3706,
+      "GetElement": 40418,
+      "freeReward": {
+        "40412": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3707": {
+      "id": 3707,
+      "GetElement": 40419,
+      "freeReward": {
+        "40412": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3708": {
+      "id": 3708,
+      "GetElement": 40420,
+      "freeReward": {
+        "40412": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3709": {
+      "id": 3709,
+      "GetElement": 40421,
+      "freeReward": {
+        "40412": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3710": {
+      "id": 3710,
+      "GetElement": 40422,
+      "freeReward": {
+        "40412": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3711": {
+      "id": 3711,
+      "GetElement": 40423,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3712": {
+      "id": 3712,
+      "GetElement": 40438,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777038": {
+    "3801": {
+      "id": 3801,
+      "GetElement": 40513,
+      "freeReward": {
+        "40511": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3802": {
+      "id": 3802,
+      "GetElement": 40514,
+      "freeReward": {
+        "40511": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3803": {
+      "id": 3803,
+      "GetElement": 40515,
+      "freeReward": {
+        "40512": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3804": {
+      "id": 3804,
+      "GetElement": 40516,
+      "freeReward": {
+        "40512": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3805": {
+      "id": 3805,
+      "GetElement": 40517,
+      "freeReward": {
+        "40512": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3806": {
+      "id": 3806,
+      "GetElement": 40518,
+      "freeReward": {
+        "40512": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3807": {
+      "id": 3807,
+      "GetElement": 40519,
+      "freeReward": {
+        "40512": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3808": {
+      "id": 3808,
+      "GetElement": 40520,
+      "freeReward": {
+        "40512": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3809": {
+      "id": 3809,
+      "GetElement": 40521,
+      "freeReward": {
+        "40512": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3810": {
+      "id": 3810,
+      "GetElement": 40522,
+      "freeReward": {
+        "40512": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3811": {
+      "id": 3811,
+      "GetElement": 40523,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3812": {
+      "id": 3812,
+      "GetElement": 40538,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  },
+  "777039": {
+    "3901": {
+      "id": 3901,
+      "GetElement": 40612,
+      "freeReward": {
+        "40611": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3902": {
+      "id": 3902,
+      "GetElement": 40613,
+      "freeReward": {
+        "40611": 1
+      },
+      "payReward": {
+        "Film3": 1
+      },
+      "isFinalReward": 0
+    },
+    "3903": {
+      "id": 3903,
+      "GetElement": 40614,
+      "freeReward": {
+        "40612": 1
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3904": {
+      "id": 3904,
+      "GetElement": 40615,
+      "freeReward": {
+        "40612": 1
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3905": {
+      "id": 3905,
+      "GetElement": 40616,
+      "freeReward": {
+        "40612": 2
+      },
+      "payReward": {
+        "Energy": 50
+      },
+      "isFinalReward": 0
+    },
+    "3906": {
+      "id": 3906,
+      "GetElement": 40617,
+      "freeReward": {
+        "40612": 2
+      },
+      "payReward": {
+        "9820002": 1
+      },
+      "isFinalReward": 0
+    },
+    "3907": {
+      "id": 3907,
+      "GetElement": 40618,
+      "freeReward": {
+        "40612": 4
+      },
+      "payReward": {
+        "Energy": 80
+      },
+      "isFinalReward": 0
+    },
+    "3908": {
+      "id": 3908,
+      "GetElement": 40619,
+      "freeReward": {
+        "40612": 5
+      },
+      "payReward": {
+        "Film12": 1
+      },
+      "isFinalReward": 0
+    },
+    "3909": {
+      "id": 3909,
+      "GetElement": 40620,
+      "freeReward": {
+        "40612": 6
+      },
+      "payReward": {
+        "Diamond": 50
+      },
+      "isFinalReward": 0
+    },
+    "3910": {
+      "id": 3910,
+      "GetElement": 40621,
+      "freeReward": {
+        "40612": 7
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3911": {
+      "id": 3911,
+      "GetElement": 40622,
+      "freeReward": {
+        "Film4": 1
+      },
+      "payReward": {
+        "Energy": 100
+      },
+      "isFinalReward": 0
+    },
+    "3912": {
+      "id": 3912,
+      "GetElement": 40638,
+      "freeReward": {
+        "Energy": 150
+      },
+      "payReward": {
+        "Film10": 1
+      },
+      "isFinalReward": 1
+    }
+  }
+}

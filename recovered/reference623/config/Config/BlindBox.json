@@ -1,0 +1,102 @@
+{
+  "1001": {
+    "boxID": 1001,
+    "maxCount": 2,
+    "blindBox": "Blindbox_box_03"
+  },
+  "1002": {
+    "boxID": 1002,
+    "maxCount": 4,
+    "blindBox": "Blindbox_box_02"
+  },
+  "1003": {
+    "boxID": 1003,
+    "maxCount": -1,
+    "blindBox": "Blindbox_box_01"
+  },
+  "1011": {
+    "boxID": 1011,
+    "maxCount": 2,
+    "blindBox": "Blindbox_box_03"
+  },
+  "1012": {
+    "boxID": 1012,
+    "maxCount": 4,
+    "blindBox": "Blindbox_box_02"
+  },
+  "1013": {
+    "boxID": 1013,
+    "maxCount": -1,
+    "blindBox": "Blindbox_box_01"
+  },
+  "1021": {
+    "boxID": 1021,
+    "maxCount": 2,
+    "blindBox": "Blindbox_box_03"
+  },
+  "1022": {
+    "boxID": 1022,
+    "maxCount": 4,
+    "blindBox": "Blindbox_box_02"
+  },
+  "1023": {
+    "boxID": 1023,
+    "maxCount": -1,
+    "blindBox": "Blindbox_box_01"
+  },
+  "1031": {
+    "boxID": 1031,
+    "maxCount": 2,
+    "blindBox": "Blindbox_box_03"
+  },
+  "1032": {
+    "boxID": 1032,
+    "maxCount": 4,
+    "blindBox": "Blindbox_box_02"
+  },
+  "1033": {
+    "boxID": 1033,
+    "maxCount": -1,
+    "blindBox": "Blindbox_box_01"
+  },
+  "1041": {
+    "boxID": 1041,
+    "maxCount": 2,
+    "blindBox": "Blindbox_box_03"
+  },
+  "1042": {
+    "boxID": 1042,
+    "maxCount": 4,
+    "blindBox": "Blindbox_box_02"
+  },
+  "1043": {
+    "boxID": 1043,
+    "maxCount": -1,
+    "blindBox": "Blindbox_box_01"
+  },
+  "9995": {
+    "boxID": 9995,
+    "maxCount": 0,
+    "blindBox": "Blindbox_box_04"
+  },
+  "9996": {
+    "boxID": 9996,
+    "maxCount": 0,
+    "blindBox": "Blindbox_box_04"
+  },
+  "9997": {
+    "boxID": 9997,
+    "maxCount": 0,
+    "blindBox": "Blindbox_box_04"
+  },
+  "9998": {
+    "boxID": 9998,
+    "maxCount": 0,
+    "blindBox": "Blindbox_box_04"
+  },
+  "9999": {
+    "boxID": 9999,
+    "maxCount": 0,
+    "blindBox": "Blindbox_box_04"
+  }
+}

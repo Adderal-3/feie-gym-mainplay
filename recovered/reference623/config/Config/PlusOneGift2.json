@@ -1,0 +1,182 @@
+{
+  "997006": {
+    "99700611": {
+      "rgID": 99700611,
+      "seriesBelong": 9970061,
+      "content": {
+        "40514": 2,
+        "Diamond": 30,
+        "Energy": 50
+      },
+      "price": {
+        "Cash": 1800
+      }
+    },
+    "99700612": {
+      "rgID": 99700612,
+      "seriesBelong": 9970061,
+      "content": {
+        "40513": 1,
+        "Diamond": 10,
+        "Energy": 20
+      },
+      "price": {}
+    },
+    "99700621": {
+      "rgID": 99700621,
+      "seriesBelong": 9970062,
+      "content": {
+        "40515": 2,
+        "Diamond": 50,
+        "Energy": 100
+      },
+      "price": {
+        "Cash": 3000
+      }
+    },
+    "99700622": {
+      "rgID": 99700622,
+      "seriesBelong": 9970062,
+      "content": {
+        "40514": 1,
+        "Diamond": 10,
+        "Energy": 20
+      },
+      "price": {}
+    },
+    "99700631": {
+      "rgID": 99700631,
+      "seriesBelong": 9970063,
+      "content": {
+        "40516": 2,
+        "Diamond": 60,
+        "Energy": 120
+      },
+      "price": {
+        "Cash": 5000
+      }
+    },
+    "99700632": {
+      "rgID": 99700632,
+      "seriesBelong": 9970063,
+      "content": {
+        "40515": 1,
+        "Diamond": 20,
+        "Energy": 30
+      },
+      "price": {}
+    },
+    "99700641": {
+      "rgID": 99700641,
+      "seriesBelong": 9970064,
+      "content": {
+        "40517": 2,
+        "Diamond": 100,
+        "Energy": 150
+      },
+      "price": {
+        "Cash": 9800
+      }
+    },
+    "99700642": {
+      "rgID": 99700642,
+      "seriesBelong": 9970064,
+      "content": {
+        "40516": 1,
+        "Diamond": 30,
+        "Energy": 50
+      },
+      "price": {}
+    }
+  },
+  "997008": {
+    "99700811": {
+      "rgID": 99700811,
+      "seriesBelong": 9970081,
+      "content": {
+        "40614": 2,
+        "Diamond": 30,
+        "Energy": 50
+      },
+      "price": {
+        "Cash": 1800
+      }
+    },
+    "99700812": {
+      "rgID": 99700812,
+      "seriesBelong": 9970081,
+      "content": {
+        "40613": 1,
+        "Diamond": 10,
+        "Energy": 20
+      },
+      "price": {}
+    },
+    "99700821": {
+      "rgID": 99700821,
+      "seriesBelong": 9970082,
+      "content": {
+        "40615": 2,
+        "Diamond": 50,
+        "Energy": 100
+      },
+      "price": {
+        "Cash": 3000
+      }
+    },
+    "99700822": {
+      "rgID": 99700822,
+      "seriesBelong": 9970082,
+      "content": {
+        "40614": 1,
+        "Diamond": 10,
+        "Energy": 20
+      },
+      "price": {}
+    },
+    "99700831": {
+      "rgID": 99700831,
+      "seriesBelong": 9970083,
+      "content": {
+        "40616": 2,
+        "Diamond": 60,
+        "Energy": 120
+      },
+      "price": {
+        "Cash": 5000
+      }
+    },
+    "99700832": {
+      "rgID": 99700832,
+      "seriesBelong": 9970083,
+      "content": {
+        "40615": 1,
+        "Diamond": 20,
+        "Energy": 30
+      },
+      "price": {}
+    },
+    "99700841": {
+      "rgID": 99700841,
+      "seriesBelong": 9970084,
+      "content": {
+        "40617": 2,
+        "Diamond": 100,
+        "Energy": 150
+      },
+      "price": {
+        "Cash": 9800
+      }
+    },
+    "99700842": {
+      "rgID": 99700842,
+      "seriesBelong": 9970084,
+      "content": {
+        "40616": 1,
+        "Diamond": 30,
+        "Energy": 50
+      },
+      "price": {}
+    }
+  }
+}

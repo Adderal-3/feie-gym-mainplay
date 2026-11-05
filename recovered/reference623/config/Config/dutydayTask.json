@@ -1,0 +1,333 @@
+{
+  "dutyday": {
+    "1": {
+      "id": 1,
+      "unlockCondition": [],
+      "eleId": [],
+      "count": 4,
+      "taskType": 10005,
+      "dailytaskFreeReward": {
+        "Coin": 100
+      },
+      "isSpecialBoard": 0
+    },
+    "2": {
+      "id": 2,
+      "unlockCondition": [
+        1
+      ],
+      "eleId": [],
+      "count": 20,
+      "taskType": 9,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "3": {
+      "id": 3,
+      "unlockCondition": [
+        1
+      ],
+      "eleId": [],
+      "count": 3,
+      "taskType": 7,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "4": {
+      "id": 4,
+      "unlockCondition": [
+        1
+      ],
+      "eleId": [
+        90601,
+        90602
+      ],
+      "count": 1,
+      "taskType": 16,
+      "dailytaskFreeReward": {
+        "98401": 1
+      },
+      "isSpecialBoard": 1
+    },
+    "5": {
+      "id": 5,
+      "unlockCondition": [
+        2,
+        3,
+        4
+      ],
+      "eleId": [],
+      "count": 20,
+      "taskType": 1,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "6": {
+      "id": 6,
+      "unlockCondition": [
+        2,
+        3,
+        4
+      ],
+      "eleId": [],
+      "count": 3,
+      "taskType": 14,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "7": {
+      "id": 7,
+      "unlockCondition": [
+        2,
+        3,
+        4
+      ],
+      "eleId": [
+        4002
+      ],
+      "count": 1,
+      "taskType": 17,
+      "dailytaskFreeReward": {
+        "Diamond": 3
+      },
+      "isSpecialBoard": 1
+    },
+    "8": {
+      "id": 8,
+      "unlockCondition": [
+        5,
+        6,
+        7
+      ],
+      "eleId": [],
+      "count": 50,
+      "taskType": 9,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "9": {
+      "id": 9,
+      "unlockCondition": [
+        5,
+        6,
+        7
+      ],
+      "eleId": [],
+      "count": 1,
+      "taskType": 15,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "10": {
+      "id": 10,
+      "unlockCondition": [
+        5,
+        6,
+        7
+      ],
+      "eleId": [],
+      "count": 1,
+      "taskType": 12,
+      "dailytaskFreeReward": {
+        "Diamond": 3
+      },
+      "isSpecialBoard": 1
+    },
+    "11": {
+      "id": 11,
+      "unlockCondition": [
+        8,
+        9,
+        10
+      ],
+      "eleId": [],
+      "count": 3,
+      "taskType": 14,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "12": {
+      "id": 12,
+      "unlockCondition": [
+        8,
+        9,
+        10
+      ],
+      "eleId": [],
+      "count": 500,
+      "taskType": 10000,
+      "dailytaskFreeReward": {
+        "90301": 1
+      },
+      "isSpecialBoard": 0
+    },
+    "13": {
+      "id": 13,
+      "unlockCondition": [
+        8,
+        9,
+        10
+      ],
+      "eleId": [
+        99106
+      ],
+      "count": 1,
+      "taskType": 10,
+      "dailytaskFreeReward": {
+        "90901": 1
+      },
+      "isSpecialBoard": 1
+    },
+    "14": {
+      "id": 14,
+      "unlockCondition": [
+        11,
+        12,
+        13
+      ],
+      "eleId": [],
+      "count": 100,
+      "taskType": 1,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "15": {
+      "id": 15,
+      "unlockCondition": [
+        11,
+        12,
+        13
+      ],
+      "eleId": [],
+      "count": 8,
+      "taskType": 10005,
+      "dailytaskFreeReward": {
+        "Coin": 300
+      },
+      "isSpecialBoard": 0
+    },
+    "16": {
+      "id": 16,
+      "unlockCondition": [
+        11,
+        12,
+        13
+      ],
+      "eleId": [
+        99305
+      ],
+      "count": 1,
+      "taskType": 10,
+      "dailytaskFreeReward": {
+        "90901": 1
+      },
+      "isSpecialBoard": 1
+    },
+    "17": {
+      "id": 17,
+      "unlockCondition": [
+        14,
+        15,
+        16
+      ],
+      "eleId": [],
+      "count": 10,
+      "taskType": 7,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "18": {
+      "id": 18,
+      "unlockCondition": [
+        14,
+        15,
+        16
+      ],
+      "eleId": [],
+      "count": 3,
+      "taskType": 14,
+      "dailytaskFreeReward": {
+        "Energy": 10
+      },
+      "isSpecialBoard": 0
+    },
+    "19": {
+      "id": 19,
+      "unlockCondition": [
+        14,
+        15,
+        16
+      ],
+      "eleId": [],
+      "count": 1000,
+      "taskType": 10002,
+      "dailytaskFreeReward": {
+        "Diamond": 3
+      },
+      "isSpecialBoard": 1
+    },
+    "20": {
+      "id": 20,
+      "unlockCondition": [
+        17,
+        18,
+        19
+      ],
+      "eleId": [],
+      "count": 30,
+      "taskType": 10001,
+      "dailytaskFreeReward": {
+        "90902": 1
+      },
+      "isSpecialBoard": 0
+    },
+    "21": {
+      "id": 21,
+      "unlockCondition": [
+        17,
+        18,
+        19
+      ],
+      "eleId": [],
+      "count": 75,
+      "taskType": 10003,
+      "dailytaskFreeReward": {
+        "Coin": 500
+      },
+      "isSpecialBoard": 0
+    },
+    "22": {
+      "id": 22,
+      "unlockCondition": [
+        17,
+        18,
+        19
+      ],
+      "eleId": [],
+      "count": 12,
+      "taskType": 10005,
+      "dailytaskFreeReward": {
+        "Diamond": 5
+      },
+      "isSpecialBoard": 1
+    }
+  }
+}

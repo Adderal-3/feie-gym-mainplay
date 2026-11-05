@@ -1,0 +1,53 @@
+{
+  "Login": {
+    "id": "Login"
+  },
+  "CompleteOrder": {
+    "id": "CompleteOrder"
+  },
+  "Merge": {
+    "id": "Merge"
+  },
+  "CollectStar": {
+    "id": "CollectStar"
+  },
+  "CostDiamond": {
+    "id": "CostDiamond"
+  },
+  "ObtainCard": {
+    "id": "ObtainCard"
+  },
+  "ObtainCardStar4": {
+    "id": "ObtainCardStar4"
+  },
+  "ObtainCardStar5": {
+    "id": "ObtainCardStar5"
+  },
+  "PayRecharge": {
+    "id": "PayRecharge"
+  },
+  "CostEventEnergyIII": {
+    "id": "CostEventEnergyIII"
+  },
+  "OpenBlindBox": {
+    "id": "OpenBlindBox"
+  },
+  "ObtainPassNewPoint": {
+    "id": "ObtainPassNewPoint"
+  },
+  "FinishDailyChallenge": {
+    "id": "FinishDailyChallenge"
+  },
+  "CostPinball": {
+    "id": "CostPinball"
+  },
+  "CostDigGameShovel": {
+    "id": "CostDigGameShovel"
+  },
+  "CostOpenBoxProp": {
+    "id": "CostOpenBoxProp"
+  },
+  "CostMagicProp": {
+    "id": "CostMagicProp"
+  }
+}

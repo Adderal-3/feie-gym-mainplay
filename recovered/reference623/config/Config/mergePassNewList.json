@@ -1,0 +1,146 @@
+{
+  "newmp0001": {
+    "id": "newmp0001",
+    "previousPassId": "",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_36",
+    "mpBg": "pic_MPbg_2509"
+  },
+  "newmp0002": {
+    "id": "newmp0002",
+    "previousPassId": "newmp0001",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_37",
+    "mpBg": "pic_MPbg_2510"
+  },
+  "newmp0003": {
+    "id": "newmp0003",
+    "previousPassId": "newmp0002",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_38",
+    "mpBg": "pic_MPbg_2511"
+  },
+  "newmp0004": {
+    "id": "newmp0004",
+    "previousPassId": "newmp0003",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_39",
+    "mpBg": "pic_MPbg_2512"
+  },
+  "newmp0005": {
+    "id": "newmp0005",
+    "previousPassId": "newmp0004",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_40",
+    "mpBg": "pic_MPbg_2601"
+  },
+  "newmp0006": {
+    "id": "newmp0006",
+    "previousPassId": "newmp0005",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_41",
+    "mpBg": "pic_MPbg_2602"
+  },
+  "newmp0007": {
+    "id": "newmp0007",
+    "previousPassId": "newmp0006",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_42",
+    "mpBg": "pic_MPbg_2603"
+  },
+  "newmp0008": {
+    "id": "newmp0008",
+    "previousPassId": "newmp0007",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_43",
+    "mpBg": "pic_MPbg_2604"
+  },
+  "newmp0009": {
+    "id": "newmp0009",
+    "previousPassId": "newmp0008",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_44",
+    "mpBg": "pic_MPbg_2605"
+  },
+  "newmp0010": {
+    "id": "newmp0010",
+    "previousPassId": "newmp0009",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_45",
+    "mpBg": "pic_MPbg_2606"
+  },
+  "newmp0011": {
+    "id": "newmp0011",
+    "previousPassId": "newmp0010",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_46",
+    "mpBg": "pic_MPbg_2607"
+  },
+  "newmp0012": {
+    "id": "newmp0012",
+    "previousPassId": "newmp0011",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_47",
+    "mpBg": "pic_MPbg_2608"
+  },
+  "newmp0013": {
+    "id": "newmp0013",
+    "previousPassId": "newmp0012",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_48",
+    "mpBg": "pic_MPbg_2609"
+  },
+  "newmp0014": {
+    "id": "newmp0014",
+    "previousPassId": "newmp0013",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_49",
+    "mpBg": "pic_MPbg_2610"
+  },
+  "newmp0015": {
+    "id": "newmp0015",
+    "previousPassId": "newmp0014",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_50",
+    "mpBg": "pic_MPbg_2611"
+  },
+  "newmp0016": {
+    "id": "newmp0016",
+    "previousPassId": "newmp0015",
+    "passRebuyChest": {
+      "MpNewPoint": 500
+    },
+    "bgSkinIconUrl": "icon_bag_51",
+    "mpBg": "pic_MPbg_2612"
+  }
+}

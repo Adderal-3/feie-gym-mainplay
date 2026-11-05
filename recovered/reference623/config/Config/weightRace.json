@@ -1,0 +1,135 @@
+{
+  "race1_1": {
+    "id": "race1_1",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1.211
+  },
+  "race1_2": {
+    "id": "race1_2",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1.211
+  },
+  "race1_3": {
+    "id": "race1_3",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1.211
+  },
+  "race1_4": {
+    "id": "race1_4",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1.148
+  },
+  "race1_5": {
+    "id": "race1_5",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1.078
+  },
+  "race1_6": {
+    "id": "race1_6",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 1
+  },
+  "race1_7": {
+    "id": "race1_7",
+    "router": [
+      "race1_7",
+      "race1_6",
+      "race1_5",
+      "race1_4",
+      "race1_3",
+      "race1_2",
+      "race1_1"
+    ],
+    "orderSlotNum": 0,
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderPoint": 0.915
+  }
+}

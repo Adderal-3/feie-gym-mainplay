@@ -6,7 +6,8 @@ import { parse } from 'acorn';
 // Development-only preparation. The playable server itself requires only Node
 // built-ins and this verified layout; it never parses or evaluates game code.
 const root = path.resolve(import.meta.dirname, '..');
-const relative = 'client/subpackages/main/game.js';
+const relative = process.argv[2] || 'client/subpackages/main/game.js';
+if (!['client/subpackages/main/game.js','recovered/reference623/client/subpackages/main/game.js'].includes(relative)) throw new Error('Unsupported verified client source');
 const source = fs.readFileSync(path.join(root, relative), 'utf8');
 const ast = parse(source, { ecmaVersion: 'latest' });
 let wrapper;

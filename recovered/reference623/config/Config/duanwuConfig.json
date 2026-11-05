@@ -1,0 +1,66 @@
+{
+  "initCoin": 0,
+  "prepareDuration": 2,
+  "progressBarStep": [
+    33,
+    33,
+    34
+  ],
+  "progressReward": [
+    {
+      "84811": 1,
+      "Star": 2
+    },
+    {
+      "84812": 1,
+      "Star": 3
+    },
+    {
+      "84813": 1,
+      "Star": 3
+    }
+  ],
+  "shopAdornSkin": [
+    100105,
+    100605,
+    101405,
+    101705,
+    102805,
+    200604,
+    201204,
+    201404,
+    301604,
+    400206,
+    501804,
+    501904
+  ],
+  "shopProgressBarStep": [
+    3,
+    4,
+    5
+  ],
+  "shopProgressReward": [
+    {
+      "84813": 1
+    },
+    {
+      "84814": 1
+    },
+    {
+      "AdornSkin501704": 1
+    }
+  ],
+  "beginDialog": 8001,
+  "enterBoardSweet": 8005,
+  "enterBoardSalt": 8006,
+  "FirstSweetDialog": 8002,
+  "FirstSaltDialog": 8003,
+  "EndingDialog": 8004,
+  "propBubbleRate": 0,
+  "eventCoinAToCoin": 1,
+  "ShowCoefficient": 6,
+  "PayExtendTime": 2,
+  "SweetIcon": "act_icon_rank_sweet",
+  "SaltIcon": "act_icon_rank_salt",
+  "handbookOpenTime": 1653494400
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Recovered compiled client layout for local inspection; not a verified standalone game.",
+  "compileType": "game",
+  "appid": "touristappid",
+  "projectname": "feie-gym-recovered-client",
+  "setting": {
+    "es6": false,
+    "minified": false
+  },
+  "libVersion": "latest"
+}

@@ -1,0 +1,3557 @@
+{
+  "azhen": {
+    "id": "azhen",
+    "beginDialog": 10001,
+    "happyEndingOrderId": 1315,
+    "happyEndingDialog": 10002,
+    "badEndingDialog": 10003,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 1001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 0,
+    "isOrderLoop2": 0,
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 0,
+    "worldRankImg": "",
+    "progressCycle": 0,
+    "progressBarStep": [
+      10,
+      10,
+      10
+    ],
+    "progressReward": [
+      {
+        "90901": 1,
+        "Star": 5
+      },
+      {
+        "90501": 1,
+        "Star": 5
+      },
+      {
+        "90601": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "agu": {
+    "id": "agu",
+    "beginDialog": 11001,
+    "happyEndingOrderId": 3114,
+    "happyEndingDialog": 11002,
+    "badEndingDialog": 11003,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 3001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3005,
+    "isOrderLoop2": 0,
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "img": "ui_timeorder_pic_02",
+    "canRank": 1,
+    "worldRankImg": "",
+    "progressCycle": 0,
+    "progressBarStep": [
+      13,
+      13,
+      13
+    ],
+    "progressReward": [
+      {
+        "90901": 1,
+        "Star": 5
+      },
+      {
+        "90501": 1,
+        "Star": 5
+      },
+      {
+        "90601": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "aqiang": {
+    "id": "aqiang",
+    "beginDialog": 12001,
+    "happyEndingOrderId": 7115,
+    "happyEndingDialog": 12002,
+    "badEndingDialog": 12003,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 7001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 7011,
+    "isOrderLoop2": 0,
+    "walkGoose": "aqiang",
+    "boardAnim": "TimeOrderAqiang",
+    "character": "aqiangUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "",
+    "progressCycle": 1,
+    "progressBarStep": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      8,
+      12,
+      8,
+      8,
+      8,
+      8,
+      8,
+      13,
+      8,
+      8,
+      8,
+      8,
+      15
+    ],
+    "progressReward": [
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "98103": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin201804": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin700204": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "amiao": {
+    "id": "amiao",
+    "beginDialog": 9003,
+    "happyEndingOrderId": 2216,
+    "happyEndingDialog": 9005,
+    "badEndingDialog": 9004,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 2001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 2121,
+    "isOrderLoop2": 0,
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "",
+    "progressCycle": 1,
+    "progressBarStep": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      8,
+      12,
+      8,
+      8,
+      8,
+      8,
+      8,
+      13,
+      8,
+      8,
+      8,
+      8,
+      15
+    ],
+    "progressReward": [
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "9206": 1,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "Frame3017": 1,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin200504": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "98606": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin501504": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "agu2": {
+    "id": "agu2",
+    "beginDialog": 12101,
+    "happyEndingOrderId": 8111,
+    "happyEndingDialog": 12103,
+    "badEndingDialog": 12102,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 8001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 8011,
+    "isOrderLoop2": 0,
+    "walkGoose": "agu2",
+    "boardAnim": "TimeOrderAgu",
+    "character": "ague2UI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "",
+    "progressCycle": 1,
+    "progressBarStep": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      8,
+      12,
+      8,
+      8,
+      8,
+      8,
+      8,
+      13,
+      8,
+      8,
+      8,
+      8,
+      15
+    ],
+    "progressReward": [
+      {
+        "Diamond": 10,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 1500,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98606": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 5
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "98103": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "aqiang2": {
+    "id": "aqiang2",
+    "beginDialog": 12001,
+    "happyEndingOrderId": 9120,
+    "happyEndingDialog": 12003,
+    "badEndingDialog": 12002,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 9001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 9011,
+    "isOrderLoop2": 0,
+    "walkGoose": "aqiang",
+    "boardAnim": "TimeOrderAqiang",
+    "character": "aqiangUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld",
+    "progressCycle": 1,
+    "progressBarStep": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      6,
+      7,
+      7,
+      8,
+      10,
+      12,
+      12,
+      12,
+      12,
+      14
+    ],
+    "progressReward": [
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 3
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 4
+      },
+      {
+        "Coin": 5000,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin702304": 1,
+        "Star": 10
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "holmes": {
+    "id": "holmes",
+    "beginDialog": 12007,
+    "happyEndingOrderId": 6112,
+    "happyEndingDialog": 12009,
+    "badEndingDialog": 12008,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 6001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 6005,
+    "isOrderLoop2": 0,
+    "walkGoose": "fuemosie",
+    "boardAnim": "TimeOrderfuemosi",
+    "character": "fuemosieUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld",
+    "progressCycle": 1,
+    "progressBarStep": [
+      2,
+      2,
+      3,
+      3,
+      4,
+      6,
+      8,
+      4,
+      4,
+      5,
+      5,
+      6,
+      8,
+      7,
+      7,
+      7,
+      7,
+      12
+    ],
+    "progressReward": [
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "98103": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 4
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin500107": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "fish": {
+    "id": "fish",
+    "beginDialog": 13310,
+    "happyEndingOrderId": 10115,
+    "happyEndingDialog": 13320,
+    "badEndingDialog": 13330,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 10001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 10011,
+    "isOrderLoop2": 0,
+    "walkGoose": "aqiang2",
+    "boardAnim": "TimeOrderaqiang2",
+    "character": "aqiang2UI",
+    "img": "ui_timeorder_pic_08",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2308",
+    "progressCycle": 1,
+    "progressBarStep": [
+      20,
+      30,
+      50,
+      50,
+      50,
+      100,
+      120,
+      150,
+      150,
+      160,
+      200,
+      200,
+      220,
+      240,
+      260,
+      300,
+      320,
+      380
+    ],
+    "progressReward": [
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "98103": 1,
+        "Star": 1
+      },
+      {
+        "75401": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "Diamond": 10,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Uniform1022": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [
+      101
+    ],
+    "recoveryElementSeries": [
+      "Fish_1",
+      "Fish_2",
+      "Fish_3",
+      "Order_Fish_1"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "agu3": {
+    "id": "agu3",
+    "beginDialog": 13340,
+    "happyEndingOrderId": 11116,
+    "happyEndingDialog": 13350,
+    "badEndingDialog": 13360,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 11001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 11008,
+    "isOrderLoop2": 0,
+    "walkGoose": "agu3",
+    "boardAnim": "TimeOrderagu3",
+    "character": "agu3UI",
+    "img": "ui_timeorder_pic_09",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2311",
+    "progressCycle": 1,
+    "progressBarStep": [
+      20,
+      30,
+      50,
+      70,
+      70,
+      70,
+      80,
+      80,
+      90,
+      100,
+      110,
+      120,
+      120,
+      120,
+      120,
+      120,
+      150,
+      150,
+      300,
+      150,
+      180,
+      500,
+      200,
+      200,
+      800
+    ],
+    "progressReward": [
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 3
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "AdornSkin1102003": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 6000,
+        "Star": 2
+      },
+      {
+        "98805": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin1102004": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "azhen2": {
+    "id": "azhen2",
+    "beginDialog": 13370,
+    "happyEndingOrderId": 12113,
+    "happyEndingDialog": 13380,
+    "badEndingDialog": 13390,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 12001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 12002,
+    "isOrderLoop2": 0,
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "img": "ui_timeorder_pic_10",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2401",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      70,
+      90,
+      110,
+      130,
+      150,
+      180,
+      210,
+      240,
+      270,
+      300,
+      300,
+      300,
+      300,
+      300,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400
+    ],
+    "progressReward": [
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "9820117": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "9820117": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "9840117": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "9820217": 1,
+        "Star": 2
+      },
+      {
+        "9840117": 1,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin200205": 1,
+        "Star": 2
+      },
+      {
+        "9820317": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "98701": 1,
+        "Star": 2
+      },
+      {
+        "9880144": 1,
+        "Star": 3
+      },
+      {
+        "90501": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "9880145": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin200206": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Zoo_1",
+      "Zoo_2",
+      "Zoo_3",
+      "Zoo_4",
+      "Zoo_5",
+      "Zoo_6",
+      "Prop_Zoo_1",
+      "Prop_Zoo_1_0",
+      "Prop_Zoo_2",
+      "Prop_Zoo_3"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "agu4": {
+    "id": "agu4",
+    "beginDialog": 11001,
+    "happyEndingOrderId": 13114,
+    "happyEndingDialog": 11002,
+    "badEndingDialog": 11003,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 13001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 13005,
+    "isOrderLoop2": 0,
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "img": "ui_timeorder_pic_02",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld",
+    "progressCycle": 1,
+    "progressBarStep": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      200,
+      200,
+      200,
+      200,
+      300,
+      200,
+      300,
+      200,
+      200,
+      500
+    ],
+    "progressReward": [
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 10,
+        "Star": 1
+      },
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 20000,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "98701": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "amiao2": {
+    "id": "amiao2",
+    "beginDialog": 9003,
+    "happyEndingOrderId": 99216,
+    "happyEndingDialog": 9005,
+    "badEndingDialog": 9004,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 99001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 99121,
+    "isOrderLoop2": 0,
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "img": "ui_timeorder_pic_01",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      10,
+      20,
+      40,
+      60,
+      50,
+      60,
+      70,
+      80,
+      90,
+      70,
+      80,
+      90,
+      100,
+      150,
+      100,
+      140,
+      180
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "9206": 1,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 1000,
+        "Star": 2
+      },
+      {
+        "Frame3017": 1,
+        "Star": 3
+      },
+      {
+        "98402": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Diamond": 10,
+        "Star": 3
+      },
+      {
+        "AdornSkin200504": 1,
+        "Star": 4
+      },
+      {
+        "98402": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin200505": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [
+      [
+        1,
+        100
+      ]
+    ],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "fish2": {
+    "id": "fish2",
+    "beginDialog": 13310,
+    "happyEndingOrderId": 14115,
+    "happyEndingDialog": 13320,
+    "badEndingDialog": 13330,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 14001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 14011,
+    "isOrderLoop2": 0,
+    "walkGoose": "aqiang2",
+    "boardAnim": "TimeOrderaqiang2",
+    "character": "aqiang2UI",
+    "img": "ui_timeorder_pic_08",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2308",
+    "progressCycle": 1,
+    "progressBarStep": [
+      20,
+      30,
+      50,
+      120,
+      150,
+      180,
+      200,
+      300,
+      300,
+      300,
+      300,
+      350,
+      400,
+      400,
+      500,
+      600,
+      800,
+      1000
+    ],
+    "progressReward": [
+      {
+        "Coin": 1500,
+        "Star": 1
+      },
+      {
+        "98803": 1,
+        "Star": 1
+      },
+      {
+        "75414": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "Diamond": 10,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 4
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin701406": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Fish_1",
+      "Fish_2",
+      "Fish_3",
+      "Fish_4",
+      "Fish_5",
+      "Fish_6",
+      "Fish_7",
+      "Order_Fish_1",
+      "Order_Fish_2",
+      "Order_Fish_3",
+      "Order_Fish_4",
+      "Order_Fish_5",
+      "Order_Fish_6",
+      "Order_Fish_7",
+      "Order_Fish_8",
+      "Order_Fish_9",
+      "Order_Fish_10",
+      "Order_Fish_11",
+      "Order_Fish_12",
+      "Order_Fish_13",
+      "Order_Fish_14"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 86400,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "zhenhuan": {
+    "id": "zhenhuan",
+    "beginDialog": 12010,
+    "happyEndingOrderId": 15107,
+    "happyEndingDialog": 12012,
+    "badEndingDialog": 12013,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 15001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 15011,
+    "isOrderLoop2": 15101,
+    "walkGoose": "agu4",
+    "boardAnim": "TimeOrderagu4",
+    "character": "agu4UI",
+    "img": "ui_timeorder_pic_12",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2405",
+    "progressCycle": 1,
+    "progressBarStep": [
+      5,
+      5,
+      10,
+      20,
+      20,
+      40,
+      50,
+      50,
+      80,
+      100,
+      120,
+      150,
+      150,
+      200,
+      200,
+      200,
+      300,
+      300,
+      300,
+      400,
+      400,
+      400,
+      500
+    ],
+    "progressReward": [
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "90234": 1,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "90235": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "90236": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 3
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "90237": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin5100209": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 6000,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin5100109": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Zhenhuan_1_1",
+      "Zhenhuan_1_2",
+      "Zhenhuan_1_3",
+      "Prop_Zoo_1",
+      "Prop_Zoo_1_0",
+      "Prop_Zoo_2",
+      "Prop_Zoo_3"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "zhzzongzi": {
+    "id": "zhzzongzi",
+    "beginDialog": 12014,
+    "happyEndingOrderId": 16107,
+    "happyEndingDialog": 12015,
+    "badEndingDialog": 12016,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 16001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 16011,
+    "isOrderLoop2": 16101,
+    "walkGoose": "agu5",
+    "boardAnim": "TimeOrderagu5",
+    "character": "agu5UI",
+    "img": "ui_timeorder_pic_13",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      10,
+      10,
+      20,
+      20,
+      40,
+      50,
+      50,
+      70,
+      100,
+      120,
+      150,
+      150,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      300,
+      300,
+      300,
+      300,
+      300,
+      500,
+      200,
+      200,
+      300,
+      300,
+      1000
+    ],
+    "progressReward": [
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "90234": 1,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 30,
+        "Star": 1
+      },
+      {
+        "90235": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 800,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "90236": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "90237": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 3000,
+        "Star": 3
+      },
+      {
+        "Uniform3008": 1,
+        "Star": 4
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "98402": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Zhzzongzi_1_2",
+      "Zhzzongzi_1_1",
+      "Prop_Zoo_1",
+      "Prop_Zoo_1_0",
+      "Prop_Zoo_2",
+      "Prop_Zoo_3",
+      "Order_Zhzzongzi_1"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "br1": {
+    "id": "br1",
+    "beginDialog": 12017,
+    "happyEndingOrderId": 17107,
+    "happyEndingDialog": 12018,
+    "badEndingDialog": 12019,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 17001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 17011,
+    "isOrderLoop2": 17101,
+    "walkGoose": "fuemosie",
+    "boardAnim": "TimeOrderfuemosi",
+    "character": "fuemosieUI",
+    "img": "ui_timeorder_pic_2407",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2407",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      10,
+      10,
+      20,
+      20,
+      40,
+      50,
+      80,
+      100,
+      120,
+      160,
+      180,
+      200,
+      220,
+      240,
+      260,
+      280,
+      300,
+      320,
+      340,
+      360,
+      380,
+      400,
+      400,
+      500,
+      200,
+      200,
+      300,
+      300,
+      1000
+    ],
+    "progressReward": [
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 300,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 400,
+        "Star": 1
+      },
+      {
+        "Energy": 30,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 800,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 1000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "Energy": 30,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 3000,
+        "Star": 3
+      },
+      {
+        "AdornSkin1001102": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "98402": 1,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Prop_Zoo_1",
+      "Prop_Zoo_1_0",
+      "Prop_Zoo_2",
+      "Prop_Zoo_3",
+      "Battleroyal_1",
+      "Battleroyal_2",
+      "Order_Battleroyal_1"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 86400,
+    "rankPointLeast": 5000,
+    "waterId": ""
+  },
+  "amiao3": {
+    "id": "amiao3",
+    "beginDialog": 9003,
+    "happyEndingOrderId": 18115,
+    "happyEndingDialog": 9005,
+    "badEndingDialog": 9004,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 18001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 18006,
+    "isOrderLoop2": 18101,
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "img": "ui_timeorder_pic_2409",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld",
+    "progressCycle": 1,
+    "progressBarStep": [
+      5,
+      10,
+      15,
+      30,
+      50,
+      60,
+      80,
+      100,
+      140,
+      200,
+      280,
+      320,
+      360,
+      400,
+      450,
+      500,
+      550,
+      600,
+      650,
+      700,
+      150,
+      200,
+      300,
+      400,
+      700
+    ],
+    "progressReward": [
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "Energy": 5,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "98803": 1,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "FrameRebate3017": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkinRebate200504": 1,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 3
+      },
+      {
+        "98807": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkinRebate501504": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 5500,
+    "waterId": "195"
+  },
+  "dog": {
+    "id": "dog",
+    "beginDialog": 12020,
+    "happyEndingOrderId": 19105,
+    "happyEndingDialog": 12021,
+    "badEndingDialog": 12022,
+    "GetElement": {
+      "46301": 12026,
+      "46431": 12023,
+      "46446": 12024,
+      "46447": 12025
+    },
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 19001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 19002,
+    "isOrderLoop2": 19101,
+    "walkGoose": "yhyxiaojie",
+    "boardAnim": "TimeOrderyhyxiaojie",
+    "character": "yuhangyuanxiaojieUI",
+    "img": "ui_timeorder_pic_2410",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2410",
+    "progressCycle": 1,
+    "progressBarStep": [
+      5,
+      10,
+      15,
+      30,
+      50,
+      70,
+      110,
+      120,
+      180,
+      240,
+      260,
+      280,
+      300,
+      360,
+      380,
+      400,
+      440,
+      470,
+      500,
+      780,
+      200,
+      400,
+      200,
+      500,
+      900
+    ],
+    "progressReward": [
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "Energy": 5,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98803": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98803": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 6000,
+        "Star": 2
+      },
+      {
+        "98805": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin1201804": 1,
+        "Star": 3
+      },
+      {
+        "98805": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98807": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin1201904": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2",
+      "SpaceDog_1",
+      "SpaceDog_2",
+      "SpaceDog_3",
+      "SpaceDog_3_1",
+      "SpaceDog_3_2",
+      "SpaceDog_3_3",
+      "SpaceDog_3_4",
+      "SpaceDog_3_5",
+      "SpaceDog_3_6",
+      "SpaceDog_3_7",
+      "SpaceDog_3_8"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 5000,
+    "waterId": "196"
+  },
+  "apple": {
+    "id": "apple",
+    "beginDialog": 12027,
+    "happyEndingOrderId": 20114,
+    "happyEndingDialog": 12031,
+    "badEndingDialog": 12032,
+    "GetElement": {
+      "46601": 12028,
+      "46602": 12029,
+      "46641": 12030
+    },
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 20001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 20002,
+    "isOrderLoop2": 20101,
+    "walkGoose": "kaixinguo",
+    "boardAnim": "TimeOrderkaixinguo",
+    "character": "kaixinguoUI",
+    "img": "ui_timeorder_pic_2411",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2411",
+    "progressCycle": 1,
+    "progressBarStep": [
+      5,
+      10,
+      15,
+      30,
+      50,
+      70,
+      110,
+      120,
+      180,
+      240,
+      260,
+      280,
+      300,
+      360,
+      380,
+      400,
+      440,
+      470,
+      500,
+      780,
+      200,
+      300,
+      200,
+      400,
+      900
+    ],
+    "progressReward": [
+      {
+        "46601": 1,
+        "Star": 1
+      },
+      {
+        "46611": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 5,
+        "Star": 1
+      },
+      {
+        "98801110": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "46631": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "46601": 1,
+        "Star": 2
+      },
+      {
+        "98801111": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "9840142": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 5000,
+        "Star": 2
+      },
+      {
+        "98801112": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin501507": 1,
+        "Star": 3
+      },
+      {
+        "9840242": 1,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 3
+      },
+      {
+        "46631": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin501306": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Prop_AppleTree_1",
+      "Prop_AppleTree_1_0",
+      "Prop_AppleTree_2",
+      "Order_AppleTree",
+      "AppleTree_1",
+      "AppleTree_2",
+      "AppleTree_3",
+      "AppleTree_4",
+      "AppleTree_5"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 5000,
+    "waterId": "201"
+  },
+  "timeflies": {
+    "id": "timeflies",
+    "beginDialog": 12033,
+    "happyEndingOrderId": 21122,
+    "happyEndingDialog": 12038,
+    "badEndingDialog": 12039,
+    "GetElement": {
+      "38001": 12034,
+      "38021": 12035,
+      "38022": 12036,
+      "38023": 12037,
+      "38031": 12040,
+      "38038": 12041,
+      "38044": 12042
+    },
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 21001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 21005,
+    "isOrderLoop2": 21101,
+    "walkGoose": "xiaohongmao",
+    "boardAnim": "TimeOrderxiaohongmao",
+    "character": "xiaohongmaoUI",
+    "img": "ui_timeorder_pic_2501",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2501",
+    "progressCycle": 1,
+    "progressBarStep": [
+      5,
+      10,
+      15,
+      35,
+      65,
+      100,
+      140,
+      170,
+      200,
+      260,
+      300,
+      330,
+      370,
+      400,
+      450,
+      500,
+      550,
+      600,
+      700,
+      800,
+      500,
+      600,
+      700,
+      700,
+      1000
+    ],
+    "progressReward": [
+      {
+        "38001": 1,
+        "Star": 1
+      },
+      {
+        "98801141": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 5,
+        "Star": 1
+      },
+      {
+        "Film1": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Film2": 2,
+        "Star": 1
+      },
+      {
+        "Energy": 40,
+        "Star": 1
+      },
+      {
+        "98803141": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "Film3": 2,
+        "Star": 2
+      },
+      {
+        "38041": 1,
+        "Star": 2
+      },
+      {
+        "Film7": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Film7": 1,
+        "Star": 2
+      },
+      {
+        "9840149": 1,
+        "Star": 2
+      },
+      {
+        "Film8": 2,
+        "Star": 2
+      },
+      {
+        "Film12": 1,
+        "Star": 2
+      },
+      {
+        "AdornSkin801405": 1,
+        "Star": 3
+      },
+      {
+        "9840249": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "AdornSkin802405": 1,
+        "Star": 3
+      }
+    ],
+    "canSpeacialReward": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Timeflies_1",
+      "Timeflies_2",
+      "Timeflies_3",
+      "Timeflies_4",
+      "Prop_Timeflies_1",
+      "Prop_Timeflies_1_0",
+      "Prop_Timeflies_2",
+      "Timeflies_5",
+      "Timeflies_6",
+      "Timeflies_7",
+      "Timeflies_8",
+      "Timeflies_9"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 6000,
+    "waterId": "220"
+  },
+  "dog2": {
+    "id": "dog2",
+    "beginDialog": 12020,
+    "happyEndingOrderId": 22110,
+    "happyEndingDialog": 12021,
+    "badEndingDialog": 12022,
+    "GetElement": {},
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 22001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 22002,
+    "isOrderLoop2": 22106,
+    "walkGoose": "yhyxiaojie",
+    "boardAnim": "TimeOrderyhyxiaojie",
+    "character": "yuhangyuanxiaojieUI",
+    "img": "ui_timeorder_pic_2410",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2410",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      50,
+      60,
+      80,
+      150,
+      150,
+      350,
+      300,
+      300,
+      300,
+      650,
+      400,
+      500,
+      700,
+      700
+    ],
+    "progressReward": [
+      {
+        "Energy": 5
+      },
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Energy": 30
+      },
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "Diamond": 10
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Diamond": 30
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "Diamond": 60
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Dog2_1",
+      "Dog2_2",
+      "Dog2_3",
+      "Dog2_3_1",
+      "Dog2_3_2",
+      "Dog2_3_3",
+      "Dog2_3_4",
+      "Dog2_3_5",
+      "Dog2_3_6",
+      "Dog2_4",
+      "Dog2_4_1",
+      "Dog2_4_2",
+      "Dog2_4_3",
+      "Dog2_4_4",
+      "Dog2_4_5",
+      "Dog2_5",
+      "Dog2_5_1",
+      "Dog2_5_2",
+      "Dog2_5_3",
+      "Dog2_5_4",
+      "Dog2_6",
+      "Dog2_6_1",
+      "Dog2_6_2",
+      "Dog2_6_3",
+      "Dog2_7",
+      "Dog2_7_1",
+      "Dog2_7_2",
+      "Dog2_8",
+      "Dog2_8_1",
+      "Dog2_9"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 43200,
+    "rankPointLeast": 1000,
+    "waterId": ""
+  },
+  "aquarium": {
+    "id": "aquarium",
+    "beginDialog": 12903,
+    "happyEndingOrderId": 23112,
+    "happyEndingDialog": 12909,
+    "badEndingDialog": 12908,
+    "GetElement": {
+      "33401": 12904,
+      "33418": 12905,
+      "33424": 12906,
+      "33441": 12907
+    },
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 23001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 23002,
+    "isOrderLoop2": 23101,
+    "walkGoose": "",
+    "boardAnim": "TimeOrderchangwue",
+    "character": "changwueUI",
+    "img": "ui_timeorder_pic_2603",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2603",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      20,
+      40,
+      60,
+      100,
+      160,
+      240,
+      320,
+      400,
+      500,
+      600,
+      700,
+      850,
+      1000,
+      1000
+    ],
+    "progressReward": [
+      {
+        "98808": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "98302": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "9820002": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "98303": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "Aquarium_1",
+      "Aquarium_2",
+      "Aquarium_3",
+      "Aquarium_4",
+      "Aquarium_5"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 0,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  },
+  "theaterInvite": {
+    "id": "theaterInvite",
+    "beginDialog": 12910,
+    "happyEndingOrderId": 24112,
+    "happyEndingDialog": 12915,
+    "badEndingDialog": 12916,
+    "GetElement": {
+      "33501": 12911,
+      "33514": 12914,
+      "33528": 12912,
+      "33544": 12913
+    },
+    "type": "Main",
+    "unlock": "PlayerLevel20",
+    "orderSpecialId1": 24001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 24002,
+    "isOrderLoop2": 24101,
+    "walkGoose": "",
+    "boardAnim": "TimeOrderyunyoushiren",
+    "character": "yunyoushirenUI",
+    "img": "ui_timeorder_pic_2604",
+    "canRank": 1,
+    "worldRankImg": "ui_timeorder_rankworld_2604",
+    "progressCycle": 1,
+    "progressBarStep": [
+      10,
+      20,
+      40,
+      60,
+      100,
+      160,
+      240,
+      320,
+      400,
+      500,
+      600,
+      700,
+      850,
+      1000,
+      1000
+    ],
+    "progressReward": [
+      {
+        "98808": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "98802": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "9820001": 1
+      },
+      {
+        "Film2": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Energy": 20
+      },
+      {
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "98302": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "9820002": 1
+      },
+      {
+        "MhdIIBlindBox3": 1
+      },
+      {
+        "98303": 1
+      },
+      {
+        "Film5": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "worldRank": [],
+    "worldRankBadgeReward": [],
+    "recoveryElementSeries": [
+      "TheaterInvite_1",
+      "TheaterInvite_2",
+      "TheaterInvite_3",
+      "TheaterInvite_4",
+      "TheaterInvite_5"
+    ],
+    "recycleChangeTo": 99101,
+    "prepareDuration": 0,
+    "rankPointLeast": 4000,
+    "waterId": ""
+  }
+}

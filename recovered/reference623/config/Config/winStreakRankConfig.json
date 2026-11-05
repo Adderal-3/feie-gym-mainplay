@@ -1,0 +1,47 @@
+{
+  "config1": {
+    "id": "config1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "graphID": "winStreakRank1",
+    "beginDialog": 18268,
+    "endDialogWin": 18270,
+    "endDialogLose": 18269,
+    "multiplier": [
+      1,
+      2,
+      4,
+      10
+    ],
+    "slotCd": [
+      0,
+      0,
+      0
+    ],
+    "orderSlotNum": 0,
+    "consumeUpgradeTime": [
+      10,
+      21,
+      30,
+      50
+    ],
+    "consumeWeight": [
+      100,
+      200,
+      500,
+      1000
+    ],
+    "consumePointNum": {
+      "1": 3,
+      "2": 3,
+      "3": 2,
+      "4": 2,
+      "5": 2
+    },
+    "expireDay": 7,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong",
+    "finalRewardTaskID": 122
+  }
+}

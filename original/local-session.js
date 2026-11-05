@@ -3,7 +3,7 @@
   const query = new URLSearchParams(location.search);
   const profile = query.has('debug') && /^[a-z0-9-]{1,32}$/.test(query.get('profile') || '') ? query.get('profile') : '';
   // Keep development QA profiles separate from the first stable local release.
-  const SAVE_KEY = profile ? 'feie-gym-original-local-v1:' + profile : 'feie-gym-original-local-v2';
+  const SAVE_KEY = 'feie-gym-original-story623-v1' + (profile ? ':' + profile : '');
   const report = (s, e) => window.__reportOriginal?.(s, e);
   async function binary(url) {
     const r = await fetch(url);
@@ -21,29 +21,17 @@
     config.decodeConfig(api.vn(lang), true);
     if (api.v) await api.v.setLanguage('zh');
     if (api.j8?.syncSoundConfig) api.j8.syncSoundConfig();
-    const initialSettings = config.Config.config;
     Object.defineProperty(F8, 'resRoot', { value: location.origin, configurable: true });
     F8.switches = { audit: false, gm: false, boardDebugInfo: false, mergeService: false, closepay: true, closeshare: true, closegroup: true, openMemoryOpt: false };
     if (api.K3) api.K3.logEvent = function () {};
     E8.serverTime = Date.now();
-    const role = new yu();
-    role.id = 1;
-    role.level = 1;
-    role.expLevel = 0;
-    role.version = F8.version;
-    role.language = 'zh';
-    role.createAt = new Date();
-    role.energy.value = initialSettings.initEnergy;
-    role.energy.valueMax = initialSettings.energyMax;
-    role.energy.interval = initialSettings.energyRecoverRate;
-    role.energy.intervalValue = 1;
-    role.energy.startTime = Date.now();
-    role.energy.id = 'energy';
-    role.coin = initialSettings.initCoin;
-    role.diamond = initialSettings.initDiamond;
-    role.star = initialSettings.initStar;
-    role.build.areas.push(1);
-    role.build.builded.set(10001, false);
+    const initialProfile = window.createOriginalStoryProfile(api, {
+      initialResources: { coin: 0, diamond: 20, energy: 100 }, now: Date.now(),
+    });
+    if (!initialProfile.ready) throw new Error('原剧情角色初始化缺少：' + initialProfile.missing.join(', '));
+    const role = initialProfile.role;
+    let board = initialProfile.board;
+    window.__ORIGINAL_PROFILE_EVIDENCE__ = initialProfile.evidence;
     E8.role = role;
     E8.user = role.userInfo;
     role.globalActivity = new Map();
@@ -57,51 +45,10 @@
       if (!info.img && photo) info.img = String(photo.id);
     }
     initializeOriginalAppearance();
-    const initial = config.Board.getById(1);
-    if (!initial) throw new Error('Original board configuration 1 is absent');
-    let board = new pl();
-    board.id = 1;
-    board.boardId = 1;
-    board.rId = role.id;
-    board.type = ar.main;
-    board.rows = initial.element.length;
-    board.cols = initial.element[0].length;
-    board.cellSize = initial.cellSize;
-    board.seed.seed = 1;
-    board.bag.size = 5;
-    for (const series of config.ElementSeries.list) {
-      if (series.type.includes('Main') && series.tutorialElementOrder.length) {
-        board.tutorialOrder.set(series.series, series.tutorialElementOrder.slice());
-      }
-    }
-    const firstOrderConfig = config.Order.getById(10001);
-    if (firstOrderConfig) {
-      const firstOrder = new api.Zc();
-      firstOrder.id = 10001;
-      firstOrder.orderId = 10001;
-      firstOrder.demand = new Map(firstOrderConfig.demand);
-      board.orders.set(10001, firstOrder);
-    }
-    let idx = 1;
-    for (const row of initial.element) for (const encoded of row) {
-      const [elementId, state, cover] = String(encoded).split(':').map(Number);
-      const cell = new ll();
-      cell.index = idx;
-      cell.elementId = elementId;
-      cell.state = state;
-      cell.seed = idx + 1;
-      cell.uUID = idx;
-      cell.client_id = idx;
-      cell.client_uuid = idx;
-      if (cover) cell.extra.set('coverVariant', String(cover));
-      board.cells.set(idx++, cell);
-    }
-    role.boards.set(1, board);
-    board.incrementId = 63;
     GW.gdCellId = 63;
     G2.MergeBoardType = ar.main;
     G2.cacheBoard = board;
-    G2.cacheExtraData = {};
+    G2.cacheExtraData = new Map();
     if (window.LocalBackend) {
       const backend = window.__LOCAL_BACKEND__ = window.LocalBackend.init({ bridge: api, storageKey: SAVE_KEY, role });
       const saved = backend.readSave();
@@ -113,7 +60,7 @@
       }
     }
     initializeOriginalAppearance();
-    report('原配置已解码，原始 9×7 棋盘就绪');
+    report('原 6.2.3 AB14 剧情角色与主棋盘100就绪');
     if (query.has('debug') && !query.has('clean')) {
       const status = document.createElement('pre');
       status.id = 'original-live-state';
@@ -127,7 +74,7 @@
         if (name === 'board_touch_move') moves++;
         const point = event?.getLocation ? event.getLocation() : null;
         touch = name.replace('board_touch_', '') + (point ? ' ' + Math.round(point.x) + ',' + Math.round(point.y) : '');
-        if (point) {
+        if (point && G2.Board && G2.BoardRender) {
           const hit = api.G$.GetCellByWorldPos(point, null, G2.Board);
           hitInfo = '命中 '+(hit?.serverIdx||'')+'/'+(hit?.data?.config?.id||'');
           const local = G2.BoardRender.node.convertToNodeSpaceAR(point);
@@ -138,7 +85,7 @@
         const b = G2.Data;
         let step = '';
         try { step = api.o8.currentStep?.id ?? api.o8.curStepId ?? ''; } catch {}
-        const cell32 = api.G$.GetCellByIndex(32);
+        const cell32 = G2.BoardCells?.size ? api.G$.GetCellByIndex(32) : null;
         const entry = api.Ct.getUI('element');
         const entryPos = entry?.convertToWorldSpaceAR(cc.v2());
         const entryInfo = entry ? '入口 '+entry.activeInHierarchy+' '+Math.round(entryPos.x)+','+Math.round(entryPos.y) : '入口 未登记';
@@ -147,7 +94,7 @@
           return index+':'+cell?.state+' '+Array.from(cell?.recovery || []).map(([key,value]) => [key,value?.constructor?.name,value instanceof api.el,typeof value?.onData,typeof value?.getLeftTime].join('/')).join(',');
         }).join('\n');
         status.textContent = ['引导 '+step, '等级 '+role.level+' 经验 '+role.expLevel+' 星 '+role.star,'页面 '+(api.o9.isInitialzed ? api.o9.currentScreen : -1)+' 窗口 '+(api.j_.isInitialzed ? api.j_.currentWindow : -1),'锁 '+G2.instance.toucherLock, '焦点 '+G2.FocusCellIdx+'→'+G2.FocusEndCellIdx, '遮罩 '+api.Xz.IsShow+' 条件 '+api.hT.CurCondition,'格31–33 '+[31,32,33].map(i=>b?.cells.get(i)?.elementId).join(','), '32世界 '+(cell32 ? Math.round(cell32.worldPos.x)+','+Math.round(cell32.worldPos.y):''),'选中 '+(G2.instance.selectedElement?.serverIdx||''),hitInfo,touch+' move '+moves,'请求 '+(window.LocalBackend?.getLog().at(-1)?.command||'')].join('\n');
-        status.textContent = entryInfo + '\n原棋盘同一引用 '+(b === role.boards.get(1))+'\n'+recoveryInfo+'\n' + status.textContent;
+        status.textContent = '分支 '+role.createVersion+' 棋盘 '+b?.boardId+'\n剧情 '+api.o8.curGuideId+'\n'+entryInfo + '\n原棋盘同一引用 '+(b === role.boards.get(1))+'\n'+recoveryInfo+'\n' + status.textContent;
       }, 200);
     }
     return {
@@ -195,45 +142,17 @@
           try { api.Ne.stageHeight = 1334; api.Ne.stageWidth = 750; } catch {}
         }
         screen.resizeBoard();
-        if (!api.kK.mainGuide) api.kK.mainGuide = new api.c9();
         api.kK.registGuideAction();
       },
       async afterMount(view, canvas) {
         const screen = view.getComponent(api.Tq);
         screen.enabled = true;
-        await api.C4.show({ justShow: true, goScreen: api.J8.MERGE_SCREEN, boardType: api.ar.main });
-        await api.o9.showScreen(api.J8.MERGE_SCREEN);
-        report('已通过原版页面导航器打开合成棋盘');
-        const start = Date.now();
-        while (screen.mergeBoardRender.readyCount < 63 && Date.now() - start < 15000) {
-          await new Promise(resolve => setTimeout(resolve, 66));
-        }
-        report('原棋盘加载进度：' + screen.mergeBoardRender.readyCount + '/63');
-        if (screen.mergeBoardRender.readyCount !== 63) throw new Error('Original board did not finish initializing all 63 cells');
-        api.C4.close = true;
-        const guideReadyAt = Date.now();
-        while (!api.Tq.isFinishInit && Date.now() - guideReadyAt < 8000) await new Promise(resolve => setTimeout(resolve, 33));
-        screen.mergeBoardRender.orderInfo.scrollToLeft();
-        if (api.u2?.show) await api.u2.show();
-        {
-          // HomeScreen.onInit owns shared build/goose/config registries used by
-          // the merge-page task drawer too. Complete the original home entry on
-          // every boot before restoring a board, as well as for the first dialogue.
-          const transition = await api.C4.show({ goScreen: api.J8.HOME_SCREEN });
-          await transition.waitClose();
-          await window.__ORIGINAL_HOME_SETUP__.waitReady();
-          await api.u2.view.updateHud();
-          if (role.guide.has('Board')) {
-            const resume = await api.C4.show({ goScreen: api.J8.MERGE_SCREEN });
-            await resume.waitClose();
-            await api.Tq.waitFinishInit();
-            screen.mergeBoardRender.orderInfo.scrollToLeft();
-          }
-        }
-        if (window.setupOriginalGuide) {
-          const guide = await window.setupOriginalGuide(api, { view });
-          report('原版新手引导已接入：' + (guide.step || guide.savedStep || '恢复'));
-        }
+        const story = await window.prepareOriginalStory(api, {
+          onLoadingReady() { document.getElementById('diagnostic').classList.add('ready'); },
+        });
+        story.start().then(() => report('原救火剧情已结束，正式AB引导已接入'), error => report('原剧情流程失败', error));
+        await story.waitUntilVisible();
+        report('原标准纵火／营救剧情已显示');
       },
     };
   };

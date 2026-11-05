@@ -1,0 +1,318 @@
+{
+  "1": {
+    "Id": 1,
+    "rewardName": "维修工具升级卡"
+  },
+  "2": {
+    "Id": 2,
+    "rewardName": "冷藏物品升级卡"
+  },
+  "3": {
+    "Id": 3,
+    "rewardName": "健身器材升级卡"
+  },
+  "4": {
+    "Id": 4,
+    "rewardName": "超级升级卡"
+  },
+  "5": {
+    "Id": 5,
+    "rewardName": "卡牌点数"
+  },
+  "6": {
+    "Id": 6,
+    "rewardName": "星星"
+  },
+  "7": {
+    "Id": 7,
+    "rewardName": "粉色手提包"
+  },
+  "8": {
+    "Id": 8,
+    "rewardName": "黑色手提包"
+  },
+  "9": {
+    "Id": 9,
+    "rewardName": "广告卡"
+  },
+  "10": {
+    "Id": 10,
+    "rewardName": "扩容背包"
+  },
+  "11": {
+    "Id": 11,
+    "rewardName": "新春限定卡牌"
+  },
+  "12": {
+    "Id": 12,
+    "rewardName": "金币"
+  },
+  "13": {
+    "Id": 13,
+    "rewardName": "青竹台"
+  },
+  "14": {
+    "Id": 14,
+    "rewardName": "水纹地毯"
+  },
+  "15": {
+    "Id": 15,
+    "rewardName": "北海龙舟"
+  },
+  "16": {
+    "Id": 16,
+    "rewardName": "东海龙舟"
+  },
+  "17": {
+    "Id": 17,
+    "rewardName": "钟馗贩卖机"
+  },
+  "18": {
+    "Id": 18,
+    "rewardName": "西海龙舟"
+  },
+  "19": {
+    "Id": 19,
+    "rewardName": "钟馗画像"
+  },
+  "20": {
+    "Id": 20,
+    "rewardName": "南海龙舟"
+  },
+  "21": {
+    "Id": 21,
+    "rewardName": "紫檀木桌案"
+  },
+  "22": {
+    "Id": 22,
+    "rewardName": "1号金鱼平衡球"
+  },
+  "23": {
+    "Id": 23,
+    "rewardName": "相思桥"
+  },
+  "24": {
+    "Id": 24,
+    "rewardName": "1号红烛立灯"
+  },
+  "25": {
+    "Id": 25,
+    "rewardName": "2号红烛立灯"
+  },
+  "26": {
+    "Id": 26,
+    "rewardName": "金币"
+  },
+  "27": {
+    "Id": 27,
+    "rewardName": "兔兔洗浴篓"
+  },
+  "28": {
+    "Id": 28,
+    "rewardName": "繁星花坛"
+  },
+  "29": {
+    "Id": 29,
+    "rewardName": "萌兔花坛"
+  },
+  "30": {
+    "Id": 30,
+    "rewardName": "兔耳奶糖"
+  },
+  "31": {
+    "Id": 31,
+    "rewardName": "雪兔绒梦"
+  },
+  "32": {
+    "Id": 32,
+    "rewardName": "玉兔小卖铺"
+  },
+  "33": {
+    "Id": 33,
+    "rewardName": "玉兔美食摊"
+  },
+  "34": {
+    "Id": 34,
+    "rewardName": "玉兔饮料摊"
+  },
+  "35": {
+    "Id": 35,
+    "rewardName": "月明今宵"
+  },
+  "36": {
+    "Id": 36,
+    "rewardName": "星月柜台"
+  },
+  "37": {
+    "Id": 37,
+    "rewardName": "唉哟"
+  },
+  "38": {
+    "Id": 38,
+    "rewardName": "黑色手提包"
+  },
+  "39": {
+    "Id": 39,
+    "rewardName": "粉色手提包"
+  },
+  "40": {
+    "Id": 40,
+    "rewardName": "扩容背包"
+  },
+  "41": {
+    "Id": 41,
+    "rewardName": "广告卡"
+  },
+  "42": {
+    "Id": 42,
+    "rewardName": "金币"
+  },
+  "43": {
+    "Id": 43,
+    "rewardName": "粉色小马镜子"
+  },
+  "44": {
+    "Id": 44,
+    "rewardName": "白色小马镜子"
+  },
+  "45": {
+    "Id": 45,
+    "rewardName": "一号热气球"
+  },
+  "46": {
+    "Id": 46,
+    "rewardName": "二号热气球"
+  },
+  "47": {
+    "Id": 47,
+    "rewardName": "棉花糖卧推器"
+  },
+  "48": {
+    "Id": 48,
+    "rewardName": "浮云朵朵"
+  },
+  "49": {
+    "Id": 49,
+    "rewardName": "彩虹卧推器"
+  },
+  "50": {
+    "Id": 50,
+    "rewardName": "绵意云簇"
+  },
+  "51": {
+    "Id": 51,
+    "rewardName": "移动甜品店"
+  },
+  "52": {
+    "Id": 52,
+    "rewardName": "马戏团帐篷"
+  },
+  "53": {
+    "Id": 53,
+    "rewardName": "独角兽摆件"
+  },
+  "54": {
+    "Id": 54,
+    "rewardName": "甜蜜瞭望台"
+  },
+  "55": {
+    "Id": 55,
+    "rewardName": "独角兽摩天轮"
+  },
+  "56": {
+    "Id": 56,
+    "rewardName": "独角兽肥鹅"
+  },
+  "57": {
+    "Id": 57,
+    "rewardName": "黑色手提包"
+  },
+  "58": {
+    "Id": 58,
+    "rewardName": "粉色手提包"
+  },
+  "59": {
+    "Id": 59,
+    "rewardName": "扩容背包"
+  },
+  "60": {
+    "Id": 60,
+    "rewardName": "广告卡"
+  },
+  "61": {
+    "Id": 61,
+    "rewardName": "金币"
+  },
+  "88": {
+    "Id": 88,
+    "rewardName": "面包柜台"
+  },
+  "89": {
+    "Id": 89,
+    "rewardName": "番茄酱跑步机"
+  },
+  "90": {
+    "Id": 90,
+    "rewardName": "碎石地毯"
+  },
+  "91": {
+    "Id": 91,
+    "rewardName": "冰爽冷饮车"
+  },
+  "92": {
+    "Id": 92,
+    "rewardName": "夏日瓜摊"
+  },
+  "93": {
+    "Id": 93,
+    "rewardName": "浪漫秋千椅"
+  },
+  "94": {
+    "Id": 94,
+    "rewardName": "温馨秋千椅"
+  },
+  "95": {
+    "Id": 95,
+    "rewardName": "披萨地毯"
+  },
+  "96": {
+    "Id": 96,
+    "rewardName": "美食指路牌"
+  },
+  "97": {
+    "Id": 97,
+    "rewardName": "1号扭蛋机"
+  },
+  "98": {
+    "Id": 98,
+    "rewardName": "2号扭蛋机"
+  },
+  "99": {
+    "Id": 99,
+    "rewardName": "美味招牌"
+  },
+  "100": {
+    "Id": 100,
+    "rewardName": "果蔬冰柜"
+  },
+  "101": {
+    "Id": 101,
+    "rewardName": "布偶服肥鹅"
+  },
+  "102": {
+    "Id": 102,
+    "rewardName": "黑色手提包"
+  },
+  "103": {
+    "Id": 103,
+    "rewardName": "粉色手提包"
+  },
+  "104": {
+    "Id": 104,
+    "rewardName": "扩容背包"
+  },
+  "105": {
+    "Id": 105,
+    "rewardName": "金币"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "10001": {
+    "id": 10001,
+    "unlockPlayerLevel": 7,
+    "previlegeLevel": 1,
+    "duration": 7,
+    "price": {
+      "Cash": 600
+    },
+    "reward": {
+      "Energy": 108,
+      "Diamond": 5
+    }
+  },
+  "10002": {
+    "id": 10002,
+    "unlockPlayerLevel": 7,
+    "previlegeLevel": 1,
+    "duration": 30,
+    "price": {
+      "Cash": 1800
+    },
+    "reward": {
+      "Energy": 388,
+      "Diamond": 20
+    }
+  }
+}

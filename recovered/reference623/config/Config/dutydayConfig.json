@@ -1,0 +1,6 @@
+{
+  "dutydayUnlockPlayerLevelMin": 4,
+  "dutydayUnlockPlayerLevelMax": 12,
+  "giftDuration": 3600,
+  "theme": "dutyday"
+}

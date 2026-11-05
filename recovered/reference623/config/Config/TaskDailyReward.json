@@ -1,0 +1,241 @@
+{
+  "10001": {
+    "id": 10001,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92101": 1
+    },
+    "elementCannotGetReward": [
+      3105,
+      3106,
+      3107,
+      3108
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "C_1"
+    ]
+  },
+  "10002": {
+    "id": 10002,
+    "difficultWeight": 25,
+    "normalWeight": 50,
+    "easyWeight": 75,
+    "reward": {
+      "92201": 1
+    },
+    "elementCannotGetReward": [
+      3203,
+      3204,
+      3205
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "C_2"
+    ]
+  },
+  "10003": {
+    "id": 10003,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92301": 1
+    },
+    "elementCannotGetReward": [
+      6003,
+      6004,
+      6005,
+      6006
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "F_0",
+      "F_1",
+      "F_2"
+    ]
+  },
+  "10004": {
+    "id": 10004,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92401": 1
+    },
+    "elementCannotGetReward": [
+      7305,
+      7306
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "G_3",
+      "G_4"
+    ]
+  },
+  "10005": {
+    "id": 10005,
+    "difficultWeight": 50,
+    "normalWeight": 75,
+    "easyWeight": 75,
+    "reward": {
+      "92501": 1
+    },
+    "elementCannotGetReward": [
+      4202,
+      4203,
+      4204
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "D_2"
+    ]
+  },
+  "10006": {
+    "id": 10006,
+    "difficultWeight": 25,
+    "normalWeight": 50,
+    "easyWeight": 75,
+    "reward": {
+      "92601": 1
+    },
+    "elementCannotGetReward": [
+      2301,
+      2302,
+      2303
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "B_3"
+    ]
+  },
+  "10007": {
+    "id": 10007,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92701": 1
+    },
+    "elementCannotGetReward": [
+      2105,
+      2106,
+      2107,
+      2108
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "B_1"
+    ]
+  },
+  "10008": {
+    "id": 10008,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92801": 1
+    },
+    "elementCannotGetReward": [
+      9105,
+      9106
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "I_1",
+      "I_2",
+      "I_3"
+    ]
+  },
+  "10009": {
+    "id": 10009,
+    "difficultWeight": 25,
+    "normalWeight": 50,
+    "easyWeight": 75,
+    "reward": {
+      "92102": 1
+    },
+    "elementCannotGetReward": [
+      1203
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "A_2"
+    ]
+  },
+  "10010": {
+    "id": 10010,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92103": 1
+    },
+    "elementCannotGetReward": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "B_2"
+    ]
+  },
+  "10011": {
+    "id": 10011,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 100,
+    "reward": {
+      "92104": 1
+    },
+    "elementCannotGetReward": [
+      8205,
+      8206
+    ],
+    "rewardLimit": 0,
+    "rewardToSeries": [
+      "H_2"
+    ]
+  },
+  "10012": {
+    "id": 10012,
+    "difficultWeight": 100,
+    "normalWeight": 100,
+    "easyWeight": 50,
+    "reward": {
+      "90101": 1
+    },
+    "elementCannotGetReward": [],
+    "rewardLimit": 3,
+    "rewardToSeries": []
+  },
+  "10013": {
+    "id": 10013,
+    "difficultWeight": 25,
+    "normalWeight": 50,
+    "easyWeight": 75,
+    "reward": {
+      "98801": 1
+    },
+    "elementCannotGetReward": [],
+    "rewardLimit": 1,
+    "rewardToSeries": []
+  },
+  "10014": {
+    "id": 10014,
+    "difficultWeight": 0,
+    "normalWeight": 0,
+    "easyWeight": 0,
+    "reward": {
+      "98802": 1
+    },
+    "elementCannotGetReward": [],
+    "rewardLimit": 1,
+    "rewardToSeries": []
+  }
+}

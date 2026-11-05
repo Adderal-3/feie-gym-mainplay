@@ -1,0 +1,467 @@
+{
+  "66660001": {
+    "66600101": {
+      "id": 66600101,
+      "prev": 0,
+      "seriesID": 66660001,
+      "content": {
+        "Energy": 5
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600102": {
+      "id": 66600102,
+      "prev": 66600101,
+      "seriesID": 66660001,
+      "content": {
+        "32011": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600103": {
+      "id": 66600103,
+      "prev": 66600102,
+      "seriesID": 66660001,
+      "content": {
+        "98801151": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600104": {
+      "id": 66600104,
+      "prev": 66600103,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 100,
+        "Energy": 100
+      },
+      "price": {
+        "Cash": 1800
+      },
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600105": {
+      "id": 66600105,
+      "prev": 66600104,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 10
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600106": {
+      "id": 66600106,
+      "prev": 66600105,
+      "seriesID": 66660001,
+      "content": {
+        "32111": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600107": {
+      "id": 66600107,
+      "prev": 66600106,
+      "seriesID": 66660001,
+      "content": {
+        "98801154": 1,
+        "Diamond": 5
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600108": {
+      "id": 66600108,
+      "prev": 66600107,
+      "seriesID": 66660001,
+      "content": {
+        "32035": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600109": {
+      "id": 66600109,
+      "prev": 66600108,
+      "seriesID": 66660001,
+      "content": {
+        "98801154": 1,
+        "Diamond": 5
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600110": {
+      "id": 66600110,
+      "prev": 66600109,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 280,
+        "Energy": 200
+      },
+      "price": {
+        "Cash": 4500
+      },
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600111": {
+      "id": 66600111,
+      "prev": 66600110,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 12
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600112": {
+      "id": 66600112,
+      "prev": 66600111,
+      "seriesID": 66660001,
+      "content": {
+        "32132": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600113": {
+      "id": 66600113,
+      "prev": 66600112,
+      "seriesID": 66660001,
+      "content": {
+        "98801154": 1,
+        "Diamond": 6
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600114": {
+      "id": 66600114,
+      "prev": 66600113,
+      "seriesID": 66660001,
+      "content": {
+        "32043": 1
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600115": {
+      "id": 66600115,
+      "prev": 66600114,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 6,
+        "Coin": 2000
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600116": {
+      "id": 66600116,
+      "prev": 66600115,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 600,
+        "Energy": 300
+      },
+      "price": {
+        "Cash": 9800
+      },
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600117": {
+      "id": 66600117,
+      "prev": 66600116,
+      "seriesID": 66660001,
+      "content": {
+        "32184": 1,
+        "Diamond": 10
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600118": {
+      "id": 66600118,
+      "prev": 66600117,
+      "seriesID": 66660001,
+      "content": {
+        "32126": 1,
+        "Diamond": 10
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 2
+    },
+    "66600119": {
+      "id": 66600119,
+      "prev": 66600118,
+      "seriesID": 66660001,
+      "content": {
+        "98801154": 1,
+        "Diamond": 6
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600120": {
+      "id": 66600120,
+      "prev": 66600119,
+      "seriesID": 66660001,
+      "content": {
+        "32143": 1,
+        "Diamond": 10
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600121": {
+      "id": 66600121,
+      "prev": 66600120,
+      "seriesID": 66660001,
+      "content": {
+        "98801154": 1,
+        "Diamond": 6
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600122": {
+      "id": 66600122,
+      "prev": 66600121,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 2000,
+        "Energy": 400
+      },
+      "price": {
+        "Cash": 32800
+      },
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600123": {
+      "id": 66600123,
+      "prev": 66600122,
+      "seriesID": 66660001,
+      "content": {
+        "32081": 1,
+        "Diamond": 20
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600124": {
+      "id": 66600124,
+      "prev": 66600123,
+      "seriesID": 66660001,
+      "content": {
+        "32185": 1,
+        "Diamond": 20
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600125": {
+      "id": 66600125,
+      "prev": 66600124,
+      "seriesID": 66660001,
+      "content": {
+        "98801155": 1,
+        "Diamond": 20
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600126": {
+      "id": 66600126,
+      "prev": 66600125,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 20,
+        "AdornCoupon": 500
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600127": {
+      "id": 66600127,
+      "prev": 66600126,
+      "seriesID": 66660001,
+      "content": {
+        "98801155": 1,
+        "Diamond": 20
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600128": {
+      "id": 66600128,
+      "prev": 66600127,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 4000,
+        "Energy": 800
+      },
+      "price": {
+        "Cash": 64800
+      },
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600129": {
+      "id": 66600129,
+      "prev": 66600128,
+      "seriesID": 66660001,
+      "content": {
+        "32176": 1,
+        "Diamond": 100
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600130": {
+      "id": 66600130,
+      "prev": 66600129,
+      "seriesID": 66660001,
+      "content": {
+        "32186": 1,
+        "Diamond": 100
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600131": {
+      "id": 66600131,
+      "prev": 66600130,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 100,
+        "AdornCoupon": 2000
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600132": {
+      "id": 66600132,
+      "prev": 66600131,
+      "seriesID": 66660001,
+      "content": {
+        "Diamond": 100,
+        "Coin": 5000
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    },
+    "66600133": {
+      "id": 66600133,
+      "prev": 66600132,
+      "seriesID": 66660001,
+      "content": {
+        "32145": 1,
+        "Diamond": 100
+      },
+      "price": {},
+      "RewardAnimArea": [],
+      "specialAdornskin": 0,
+      "AdornskinShpine": "",
+      "point": 0
+    }
+  }
+}

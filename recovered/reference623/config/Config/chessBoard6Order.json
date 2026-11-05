@@ -1,0 +1,39 @@
+{
+  "monster": {
+    "10001": {
+      "id": 10001,
+      "series": 1,
+      "unlockOrderId": [
+        10002
+      ],
+      "demand": {
+        "36113": 1
+      },
+      "reward": {
+        "chessVIPoint": 50
+      },
+      "shopSeries": 1013,
+      "shopSpecialOffer": [
+        23001,
+        23002,
+        23003,
+        23004
+      ]
+    },
+    "10002": {
+      "id": 10002,
+      "series": 1,
+      "unlockOrderId": [
+        10001
+      ],
+      "demand": {
+        "36113": 1
+      },
+      "reward": {
+        "chessVIPoint": 50
+      },
+      "shopSeries": 0,
+      "shopSpecialOffer": []
+    }
+  }
+}

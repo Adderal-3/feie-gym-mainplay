@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "itemicon": "magic_bottle_icon",
+    "convertHammer": 20,
+    "ShopGive": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18
+    ],
+    "specialOfferSeriesId": 156
+  },
+  "2": {
+    "id": 2,
+    "itemicon": "magic_bottle_icon",
+    "convertHammer": 30,
+    "ShopGive": [],
+    "specialOfferSeriesId": 156
+  }
+}

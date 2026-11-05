@@ -1,0 +1,18 @@
+{
+  "hang": {
+    "id": "hang",
+    "beginDialog": 7016,
+    "successDialog": 7017,
+    "failDialog": 7018,
+    "entranceAnim": "xuankongtiaozhanrukou",
+    "entranceGoose": "TimeOrderwaixinge"
+  },
+  "car": {
+    "id": "car",
+    "beginDialog": 18273,
+    "successDialog": 18274,
+    "failDialog": 18275,
+    "entranceAnim": "xuankongtiaozhanrukou",
+    "entranceGoose": "TimeOrderwaixinge"
+  }
+}

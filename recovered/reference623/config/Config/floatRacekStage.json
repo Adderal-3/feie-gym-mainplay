@@ -1,0 +1,2354 @@
+{
+  "rank1_1": {
+    "101": {
+      "id": 101,
+      "score": 50,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "102": {
+      "id": 102,
+      "score": 70,
+      "stageReward": {},
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "103": {
+      "id": 103,
+      "score": 90,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "104": {
+      "id": 104,
+      "score": 110,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "105": {
+      "id": 105,
+      "score": 130,
+      "stageReward": {
+        "Energy": 20,
+        "Film1": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "106": {
+      "id": 106,
+      "score": 150,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "107": {
+      "id": 107,
+      "score": 170,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "108": {
+      "id": 108,
+      "score": 200,
+      "stageReward": {
+        "Energy": 20,
+        "Film2": 1
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "109": {
+      "id": 109,
+      "score": 230,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "110": {
+      "id": 110,
+      "score": 270,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  },
+  "rank2_1": {
+    "20101": {
+      "id": 20101,
+      "score": 50,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20102": {
+      "id": 20102,
+      "score": 70,
+      "stageReward": {},
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20103": {
+      "id": 20103,
+      "score": 90,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20104": {
+      "id": 20104,
+      "score": 110,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20105": {
+      "id": 20105,
+      "score": 130,
+      "stageReward": {
+        "Energy": 20,
+        "Film1": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20106": {
+      "id": 20106,
+      "score": 150,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20107": {
+      "id": 20107,
+      "score": 170,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20108": {
+      "id": 20108,
+      "score": 200,
+      "stageReward": {
+        "Energy": 20,
+        "Film2": 1
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "20109": {
+      "id": 20109,
+      "score": 230,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "20110": {
+      "id": 20110,
+      "score": 270,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  },
+  "rank1_2": {
+    "201": {
+      "id": 201,
+      "score": 80,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "202": {
+      "id": 202,
+      "score": 100,
+      "stageReward": {
+        "Energy": 15,
+        "Film1": 1
+      },
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "203": {
+      "id": 203,
+      "score": 130,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "204": {
+      "id": 204,
+      "score": 160,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "205": {
+      "id": 205,
+      "score": 180,
+      "stageReward": {
+        "Energy": 25,
+        "Film2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "206": {
+      "id": 206,
+      "score": 210,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "207": {
+      "id": 207,
+      "score": 240,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "208": {
+      "id": 208,
+      "score": 280,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 30
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "209": {
+      "id": 209,
+      "score": 330,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "210": {
+      "id": 210,
+      "score": 380,
+      "stageReward": {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  },
+  "rank2_2": {
+    "20201": {
+      "id": 20201,
+      "score": 80,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20202": {
+      "id": 20202,
+      "score": 100,
+      "stageReward": {
+        "Energy": 15,
+        "Film1": 1
+      },
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20203": {
+      "id": 20203,
+      "score": 130,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20204": {
+      "id": 20204,
+      "score": 160,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20205": {
+      "id": 20205,
+      "score": 180,
+      "stageReward": {
+        "Energy": 25,
+        "Film2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20206": {
+      "id": 20206,
+      "score": 210,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20207": {
+      "id": 20207,
+      "score": 240,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20208": {
+      "id": 20208,
+      "score": 280,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 30
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "20209": {
+      "id": 20209,
+      "score": 330,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "20210": {
+      "id": 20210,
+      "score": 380,
+      "stageReward": {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  },
+  "rank1_3": {
+    "301": {
+      "id": 301,
+      "score": 120,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "302": {
+      "id": 302,
+      "score": 150,
+      "stageReward": {
+        "Energy": 20,
+        "Film1": 1
+      },
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "303": {
+      "id": 303,
+      "score": 190,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "304": {
+      "id": 304,
+      "score": 230,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "305": {
+      "id": 305,
+      "score": 250,
+      "stageReward": {
+        "Energy": 30,
+        "Film2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "306": {
+      "id": 306,
+      "score": 300,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "307": {
+      "id": 307,
+      "score": 350,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "308": {
+      "id": 308,
+      "score": 400,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 40
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "309": {
+      "id": 309,
+      "score": 450,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "310": {
+      "id": 310,
+      "score": 500,
+      "stageReward": {
+        "9820003": 1,
+        "Energy": 150,
+        "Film5": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  },
+  "rank2_3": {
+    "20301": {
+      "id": 20301,
+      "score": 120,
+      "stageReward": {},
+      "slotsNum": 100,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        30,
+        20,
+        20,
+        20,
+        10
+      ],
+      "tipTime": [
+        80,
+        60,
+        40,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20302": {
+      "id": 20302,
+      "score": 150,
+      "stageReward": {
+        "Energy": 20,
+        "Film1": 1
+      },
+      "slotsNum": 70,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        20,
+        15,
+        15,
+        10,
+        10
+      ],
+      "tipTime": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20303": {
+      "id": 20303,
+      "score": 190,
+      "stageReward": {
+        "BuffProp2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20304": {
+      "id": 20304,
+      "score": 230,
+      "stageReward": {},
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20305": {
+      "id": 20305,
+      "score": 250,
+      "stageReward": {
+        "Energy": 30,
+        "Film2": 1
+      },
+      "slotsNum": 50,
+      "maxRobotArriveTime": 1200,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        15,
+        15,
+        10,
+        5,
+        5
+      ],
+      "tipTime": [
+        40,
+        30,
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20306": {
+      "id": 20306,
+      "score": 300,
+      "stageReward": {
+        "BuffProp3": 1
+      },
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20307": {
+      "id": 20307,
+      "score": 350,
+      "stageReward": {},
+      "slotsNum": 30,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        10,
+        5,
+        5,
+        5,
+        5
+      ],
+      "tipTime": [
+        20,
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    "20308": {
+      "id": 20308,
+      "score": 400,
+      "stageReward": {
+        "9820001": 1,
+        "Energy": 40
+      },
+      "slotsNum": 20,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        7,
+        4,
+        3,
+        3,
+        3
+      ],
+      "tipTime": [
+        10,
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    "20309": {
+      "id": 20309,
+      "score": 450,
+      "stageReward": {
+        "BuffProp4": 1
+      },
+      "slotsNum": 10,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        4,
+        2,
+        2,
+        1,
+        1
+      ],
+      "tipTime": [
+        5,
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        2,
+        3
+      ]
+    },
+    "20310": {
+      "id": 20310,
+      "score": 500,
+      "stageReward": {
+        "9820003": 1,
+        "Energy": 150,
+        "Film5": 1
+      },
+      "slotsNum": 5,
+      "maxRobotArriveTime": 1800,
+      "robotSpeed": [
+        0.05,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "robotNum": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tipTime": [
+        3,
+        1
+      ],
+      "tipDoce": [
+        2,
+        3
+      ]
+    }
+  }
+}

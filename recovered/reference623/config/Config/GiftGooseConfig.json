@@ -1,0 +1,22 @@
+{
+  "energy": {
+    "id": "energy",
+    "type": "energy",
+    "c_item_seriesInclude": [
+      1001,
+      1002,
+      1003
+    ],
+    "seriesInclude": []
+  },
+  "diamond": {
+    "id": "diamond",
+    "type": "diamond",
+    "c_item_seriesInclude": [
+      2001,
+      2002,
+      2003
+    ],
+    "seriesInclude": []
+  }
+}

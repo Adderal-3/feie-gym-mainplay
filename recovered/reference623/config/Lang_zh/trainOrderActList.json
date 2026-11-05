@@ -1,0 +1,14 @@
+{
+  "trainOrder1": {
+    "id": "trainOrder1",
+    "mailContent": "店长大人，阿泰和您经历了一段可贵的旅程呢~您的奖励阿泰已经打包好了，请不要忘记领取！",
+    "mailTitle": "【彩虹列车】结束了！",
+    "mailSignature": "肥鹅阿泰"
+  },
+  "trainOrder2": {
+    "id": "trainOrder2",
+    "mailContent": "店长大人，阿泰和您经历了一段可贵的旅程呢~您的奖励阿泰已经打包好了，请不要忘记领取！",
+    "mailTitle": "【彩虹列车】结束了！",
+    "mailSignature": "肥鹅阿泰"
+  }
+}

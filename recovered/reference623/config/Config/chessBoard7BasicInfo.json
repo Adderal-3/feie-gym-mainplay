@@ -1,0 +1,2254 @@
+{
+  "picnic2": {
+    "id": "picnic2",
+    "unlockEntrance": 15,
+    "board": 76,
+    "shopElementColumnID": [
+      89
+    ],
+    "eventEnergyColumnID": 88,
+    "EntranceIcon": "250501",
+    "giftSeriesId": 240,
+    "entranceAnim": "xinqipanrukou",
+    "startSpecialOffer": 24101,
+    "textColor": "#2d9c94",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "scry": {
+    "id": "scry",
+    "unlockEntrance": 15,
+    "board": 85,
+    "shopElementColumnID": [
+      91
+    ],
+    "eventEnergyColumnID": 90,
+    "EntranceIcon": "250605",
+    "giftSeriesId": 247,
+    "entranceAnim": "jinjieqipanrukou",
+    "startSpecialOffer": 24801,
+    "textColor": "#873dc3",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "concert": {
+    "id": "concert",
+    "unlockEntrance": 15,
+    "board": 90,
+    "shopElementColumnID": [
+      93
+    ],
+    "eventEnergyColumnID": 92,
+    "EntranceIcon": "250703",
+    "giftSeriesId": 251,
+    "entranceAnim": "zhanbujinduqipanqukou",
+    "startSpecialOffer": 25201,
+    "textColor": "#863a15",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "tajgame": {
+    "id": "tajgame",
+    "unlockEntrance": 15,
+    "board": 97,
+    "shopElementColumnID": [
+      96
+    ],
+    "eventEnergyColumnID": 95,
+    "EntranceIcon": "250829",
+    "giftSeriesId": 259,
+    "entranceAnim": "maoshuqipanrukou",
+    "startSpecialOffer": 26001,
+    "textColor": "#602A94",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "concert2": {
+    "id": "concert2",
+    "unlockEntrance": 15,
+    "board": 99,
+    "shopElementColumnID": [
+      98
+    ],
+    "eventEnergyColumnID": 97,
+    "EntranceIcon": "250703",
+    "giftSeriesId": 263,
+    "entranceAnim": "zhanbujinduqipanqukou",
+    "startSpecialOffer": 26401,
+    "textColor": "#863a15",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "cindyprog": {
+    "id": "cindyprog",
+    "unlockEntrance": 15,
+    "board": 109,
+    "shopElementColumnID": [
+      103
+    ],
+    "eventEnergyColumnID": 102,
+    "EntranceIcon": "251211",
+    "giftSeriesId": 278,
+    "entranceAnim": "huiguniangjindurukou",
+    "startSpecialOffer": 27901,
+    "textColor": "#5966b6",
+    "passId": 0,
+    "group": 0,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 600,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "picnic3": {
+    "id": "picnic3",
+    "unlockEntrance": 15,
+    "board": 111,
+    "shopElementColumnID": [
+      105
+    ],
+    "eventEnergyColumnID": 104,
+    "EntranceIcon": "260129",
+    "giftSeriesId": 280,
+    "entranceAnim": "xinqipanrukou",
+    "startSpecialOffer": 28101,
+    "textColor": "#2d9c94",
+    "passId": 777001,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 1200,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "scry2": {
+    "id": "scry2",
+    "unlockEntrance": 15,
+    "board": 112,
+    "shopElementColumnID": [
+      107
+    ],
+    "eventEnergyColumnID": 106,
+    "EntranceIcon": "260205",
+    "giftSeriesId": 282,
+    "entranceAnim": "jinjieqipanrukou",
+    "startSpecialOffer": 28301,
+    "textColor": "#873dc3",
+    "passId": 777002,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 1200,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "springfest": {
+    "id": "springfest",
+    "unlockEntrance": 15,
+    "board": 113,
+    "shopElementColumnID": [
+      109
+    ],
+    "eventEnergyColumnID": 108,
+    "EntranceIcon": "260211",
+    "giftSeriesId": 285,
+    "entranceAnim": "huoguojinduqipanrukou",
+    "startSpecialOffer": 28601,
+    "textColor": "#75371A",
+    "passId": 777003,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 1200,
+    "eventEnergyMax": 50,
+    "eventEnergyTimes": [
+      11,
+      15,
+      17
+    ],
+    "eventEnergyWeight": [
+      100,
+      400,
+      700
+    ],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 0,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "love": {
+    "id": "love",
+    "unlockEntrance": 15,
+    "board": 115,
+    "shopElementColumnID": [
+      2005
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260311",
+    "giftSeriesId": 289,
+    "entranceAnim": "aiqingyizhanrukou",
+    "startSpecialOffer": 29001,
+    "textColor": "#835645",
+    "passId": 777004,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "beachtrip": {
+    "id": "beachtrip",
+    "unlockEntrance": 15,
+    "board": 116,
+    "shopElementColumnID": [
+      2006
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260312",
+    "giftSeriesId": 291,
+    "entranceAnim": "haitanjinduqipanrukou",
+    "startSpecialOffer": 29201,
+    "textColor": "#2e9c8c",
+    "passId": 777005,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777000,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "toycastle": {
+    "id": "toycastle",
+    "unlockEntrance": 15,
+    "board": 117,
+    "shopElementColumnID": [
+      2007
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260326",
+    "giftSeriesId": 293,
+    "entranceAnim": "wanjuchengrukou",
+    "startSpecialOffer": 29401,
+    "textColor": "#cb8b46",
+    "passId": 777006,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "doll": {
+    "id": "doll",
+    "unlockEntrance": 15,
+    "board": 118,
+    "shopElementColumnID": [
+      2008
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260402",
+    "giftSeriesId": 295,
+    "entranceAnim": "wanoujinduqipanrukou",
+    "startSpecialOffer": 29601,
+    "textColor": "#ba3f77",
+    "passId": 777007,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "fairytale": {
+    "id": "fairytale",
+    "unlockEntrance": 15,
+    "board": 119,
+    "shopElementColumnID": [
+      2009
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260409",
+    "giftSeriesId": 297,
+    "entranceAnim": "tonghuajinduqipanrukou",
+    "startSpecialOffer": 29801,
+    "textColor": "#805732",
+    "passId": 777008,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "concert3": {
+    "id": "concert3",
+    "unlockEntrance": 15,
+    "board": 122,
+    "shopElementColumnID": [
+      2011
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260424",
+    "giftSeriesId": 301,
+    "entranceAnim": "zhanbujinduqipanqukou",
+    "startSpecialOffer": 30201,
+    "textColor": "#863a15",
+    "passId": 777010,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "picnic4": {
+    "id": "picnic4",
+    "unlockEntrance": 15,
+    "board": 120,
+    "shopElementColumnID": [
+      2010
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260415",
+    "giftSeriesId": 299,
+    "entranceAnim": "luyingjinduqipanrukou",
+    "startSpecialOffer": 30301,
+    "textColor": "#805732",
+    "passId": 777009,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "card": {
+    "id": "card",
+    "unlockEntrance": 15,
+    "board": 124,
+    "shopElementColumnID": [
+      2013
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260509",
+    "giftSeriesId": 306,
+    "entranceAnim": "zhipaijinduqipanrukou",
+    "startSpecialOffer": 30701,
+    "textColor": "#805732",
+    "passId": 777013,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "nightcity": {
+    "id": "nightcity",
+    "unlockEntrance": 15,
+    "board": 123,
+    "shopElementColumnID": [
+      2012
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260423",
+    "giftSeriesId": 304,
+    "entranceAnim": "huiguniangjinduqipanrukou",
+    "startSpecialOffer": 30501,
+    "textColor": "#805732",
+    "passId": 777012,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "moon3": {
+    "id": "moon3",
+    "unlockEntrance": 15,
+    "board": 126,
+    "shopElementColumnID": [
+      2015
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260521",
+    "giftSeriesId": 310,
+    "entranceAnim": "yuhangyuanjinduqipanrukou",
+    "startSpecialOffer": 31101,
+    "textColor": "#863a15",
+    "passId": 777015,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "pirate2": {
+    "id": "pirate2",
+    "unlockEntrance": 15,
+    "board": 125,
+    "shopElementColumnID": [
+      2014
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260515",
+    "giftSeriesId": 308,
+    "entranceAnim": "haidaochuanjinduqipanrukou",
+    "startSpecialOffer": 30901,
+    "textColor": "#1b6d9a",
+    "passId": 777014,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "picnic5": {
+    "id": "picnic5",
+    "unlockEntrance": 15,
+    "board": 128,
+    "shopElementColumnID": [
+      2017
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260604",
+    "giftSeriesId": 314,
+    "entranceAnim": "gouhuojinduqipanrukou",
+    "startSpecialOffer": 31501,
+    "textColor": "#3a7345",
+    "passId": 777017,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "rocket": {
+    "id": "rocket",
+    "unlockEntrance": 15,
+    "board": 127,
+    "shopElementColumnID": [
+      2016
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260528",
+    "giftSeriesId": 312,
+    "entranceAnim": "hupjianjinduqipanrukou",
+    "startSpecialOffer": 31301,
+    "textColor": "#863a15",
+    "passId": 777016,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "makeup": {
+    "id": "makeup",
+    "unlockEntrance": 15,
+    "board": 130,
+    "shopElementColumnID": [
+      2019
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260618",
+    "giftSeriesId": 318,
+    "entranceAnim": "huazhuangjinduqipanrukou",
+    "startSpecialOffer": 31901,
+    "textColor": "#86387d",
+    "passId": 777019,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "zodiac": {
+    "id": "zodiac",
+    "unlockEntrance": 15,
+    "board": 129,
+    "shopElementColumnID": [
+      2018
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260611",
+    "giftSeriesId": 316,
+    "entranceAnim": "shenmiaojinduqipanrukou",
+    "startSpecialOffer": 31701,
+    "textColor": "#863a15",
+    "passId": 777018,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "theatre2": {
+    "id": "theatre2",
+    "unlockEntrance": 15,
+    "board": 131,
+    "shopElementColumnID": [
+      2020
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260625",
+    "giftSeriesId": 321,
+    "entranceAnim": "juyuanjinduqipanrukou",
+    "startSpecialOffer": 32201,
+    "textColor": "#714899",
+    "passId": 777020,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "castlesky2": {
+    "id": "castlesky2",
+    "unlockEntrance": 15,
+    "board": 132,
+    "shopElementColumnID": [
+      2021
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260702",
+    "giftSeriesId": 323,
+    "entranceAnim": "zhengqijinduqipanrukou",
+    "startSpecialOffer": 32401,
+    "textColor": "#863a15",
+    "passId": 777021,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "mistforest": {
+    "id": "mistforest",
+    "unlockEntrance": 15,
+    "board": 133,
+    "shopElementColumnID": [
+      2022
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260709",
+    "giftSeriesId": 325,
+    "entranceAnim": "senlinjinduqipanrukou",
+    "startSpecialOffer": 32601,
+    "textColor": "#a46439",
+    "passId": 777022,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "snowwhite2": {
+    "id": "snowwhite2",
+    "unlockEntrance": 15,
+    "board": 134,
+    "shopElementColumnID": [
+      2023
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260716",
+    "giftSeriesId": 327,
+    "entranceAnim": "shuijingjinduqipanrukou",
+    "startSpecialOffer": 32801,
+    "textColor": "#8f4b5e",
+    "passId": 777023,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "mooncastle": {
+    "id": "mooncastle",
+    "unlockEntrance": 15,
+    "board": 135,
+    "shopElementColumnID": [
+      2024
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260723",
+    "giftSeriesId": 329,
+    "entranceAnim": "yuelianggongjinduqipanrukou",
+    "startSpecialOffer": 33001,
+    "textColor": "#7e5ea5",
+    "passId": 777024,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "alice2": {
+    "id": "alice2",
+    "unlockEntrance": 15,
+    "board": 136,
+    "shopElementColumnID": [
+      2025
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260730",
+    "giftSeriesId": 331,
+    "entranceAnim": "tudongjinduqipanrukou",
+    "startSpecialOffer": 33201,
+    "textColor": "#a46439",
+    "passId": 777025,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "sport": {
+    "id": "sport",
+    "unlockEntrance": 15,
+    "board": 137,
+    "shopElementColumnID": [
+      2026
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260805",
+    "giftSeriesId": 333,
+    "entranceAnim": "yundongjinduqipanrukou",
+    "startSpecialOffer": 33401,
+    "textColor": "#3e7b7d",
+    "passId": 777026,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Sport_2",
+      "Sport_3"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "stadium": {
+    "id": "stadium",
+    "unlockEntrance": 15,
+    "board": 140,
+    "shopElementColumnID": [
+      2029
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260826",
+    "giftSeriesId": 339,
+    "entranceAnim": "tiyuchangjinduqipanrukou",
+    "startSpecialOffer": 34001,
+    "textColor": "#3e7b7d",
+    "passId": 777029,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "beachroll": {
+    "id": "beachroll",
+    "unlockEntrance": 15,
+    "board": 139,
+    "shopElementColumnID": [
+      2028
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260819",
+    "giftSeriesId": 337,
+    "entranceAnim": "shatanjinduqipanrukou",
+    "startSpecialOffer": 33801,
+    "textColor": "#147da0",
+    "passId": 777028,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "oceanvoice": {
+    "id": "oceanvoice",
+    "unlockEntrance": 15,
+    "board": 138,
+    "shopElementColumnID": [
+      2027
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260812",
+    "giftSeriesId": 335,
+    "entranceAnim": "shenhaijinduqipanrukou",
+    "startSpecialOffer": 33601,
+    "textColor": "#543005",
+    "passId": 777027,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "OceanVoice_2",
+      "OceanVoice_3",
+      "OceanVoice_4"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "flower": {
+    "id": "flower",
+    "unlockEntrance": 15,
+    "board": 141,
+    "shopElementColumnID": [
+      2030
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260909",
+    "giftSeriesId": 341,
+    "entranceAnim": "baihuajinduqipanrukou",
+    "startSpecialOffer": 34201,
+    "textColor": "#954e3b",
+    "passId": 777030,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "btroyale2": {
+    "id": "btroyale2",
+    "unlockEntrance": 15,
+    "board": 142,
+    "shopElementColumnID": [
+      2031
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260910",
+    "giftSeriesId": 343,
+    "entranceAnim": "dataoshajinduqipanrukou",
+    "startSpecialOffer": 34401,
+    "textColor": "#543005",
+    "passId": 777031,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "BtRoyale2_2",
+      "BtRoyale2_3",
+      "BtRoyale2_4"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "fairyroll": {
+    "id": "fairyroll",
+    "unlockEntrance": 15,
+    "board": 143,
+    "shopElementColumnID": [
+      2032
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260917",
+    "giftSeriesId": 345,
+    "entranceAnim": "huaxianzijinduqipanrukou",
+    "startSpecialOffer": 34601,
+    "textColor": "#8535ae",
+    "passId": 777032,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Fairyroll_2",
+      "Fairyroll_3"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "theatre3": {
+    "id": "theatre3",
+    "unlockEntrance": 15,
+    "board": 145,
+    "shopElementColumnID": [
+      2034
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260929",
+    "giftSeriesId": 349,
+    "entranceAnim": "shiguangjinduqipanrukou",
+    "startSpecialOffer": 35001,
+    "textColor": "#954e3b",
+    "passId": 777035,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Theatre3_2",
+      "Theatre3_3"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "pirate3": {
+    "id": "pirate3",
+    "unlockEntrance": 15,
+    "board": 144,
+    "shopElementColumnID": [
+      2033
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "260923",
+    "giftSeriesId": 347,
+    "entranceAnim": "haidaojinduqipanrukou",
+    "startSpecialOffer": 34801,
+    "textColor": "#944b17",
+    "passId": 777033,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Pirate3_2",
+      "Pirate3_3"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "potion": {
+    "id": "potion",
+    "unlockEntrance": 15,
+    "board": 146,
+    "shopElementColumnID": [
+      2035
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "261009",
+    "giftSeriesId": 351,
+    "entranceAnim": "mofajinduqipanrukou",
+    "startSpecialOffer": 35201,
+    "textColor": "#543005",
+    "passId": 777036,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Potion_2",
+      "Potion_3",
+      "Potion_4"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "market": {
+    "id": "market",
+    "unlockEntrance": 15,
+    "board": 148,
+    "shopElementColumnID": [
+      2037
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "261022",
+    "giftSeriesId": 355,
+    "entranceAnim": "yeshijinduqipanrukou",
+    "startSpecialOffer": 35601,
+    "textColor": "#954e3b",
+    "passId": 777038,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 777998,
+    "ChainSeriesRank": [
+      "Market_2",
+      "Market_3"
+    ],
+    "useOrderEnergy": 1,
+    "extraGiftEntrances": [
+      "onePlusOne_997006"
+    ]
+  },
+  "dishroll": {
+    "id": "dishroll",
+    "unlockEntrance": 15,
+    "board": 147,
+    "shopElementColumnID": [
+      2036
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "261015",
+    "giftSeriesId": 353,
+    "entranceAnim": "pengrenjinduqipanrukou",
+    "startSpecialOffer": 35401,
+    "textColor": "#98551c",
+    "passId": 777037,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [
+      40,
+      80,
+      100,
+      180,
+      250,
+      180
+    ],
+    "actEnergyList": [
+      5,
+      10,
+      12,
+      20,
+      24,
+      15
+    ],
+    "mainEnergyLoop": [
+      80,
+      125,
+      240,
+      280,
+      320,
+      180
+    ],
+    "actEnergyLoop": [
+      10,
+      14,
+      18,
+      20,
+      24,
+      16
+    ],
+    "energyGiftId": 777999,
+    "ChainSeriesRank": [
+      "Dishroll_2",
+      "Dishroll_3"
+    ],
+    "useOrderEnergy": 0,
+    "extraGiftEntrances": []
+  },
+  "collection": {
+    "id": "collection",
+    "unlockEntrance": 15,
+    "board": 149,
+    "shopElementColumnID": [
+      2038
+    ],
+    "eventEnergyColumnID": 0,
+    "EntranceIcon": "261029",
+    "giftSeriesId": 357,
+    "entranceAnim": "shoucangjinduqipanrukou",
+    "startSpecialOffer": 35801,
+    "textColor": "#954e3b",
+    "passId": 777039,
+    "group": 10,
+    "initEventEnergy": 50,
+    "eventEnergyRecoverRate": 0,
+    "eventEnergyMax": 0,
+    "eventEnergyTimes": [],
+    "eventEnergyWeight": [],
+    "mainEnergyList": [],
+    "actEnergyList": [],
+    "mainEnergyLoop": [],
+    "actEnergyLoop": [],
+    "energyGiftId": 777998,
+    "ChainSeriesRank": [
+      "Collection_2",
+      "Collection_3"
+    ],
+    "useOrderEnergy": 1,
+    "extraGiftEntrances": [
+      "onePlusOne_997008"
+    ]
+  }
+}

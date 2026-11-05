@@ -1,0 +1,386 @@
+{
+  "101": {
+    "id": 101,
+    "OrderIDList": [
+      640061,
+      640062,
+      640063
+    ],
+    "stackPattern": "0,250|-75,-50|75,-50",
+    "elementIcon": [
+      "tong01",
+      "tiao01",
+      "wan01"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "OrderIDList": [
+      640064,
+      640065,
+      640066,
+      640067
+    ],
+    "stackPattern": "-150,150|150,150|-100,0|100,0",
+    "elementIcon": [
+      "tong04",
+      "tiao04",
+      "tiao06",
+      "wan08"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "OrderIDList": [
+      640068,
+      640069,
+      640070,
+      640071
+    ],
+    "stackPattern": "-200,200|200,200|-150,0|150,0",
+    "elementIcon": [
+      "tong05",
+      "wan06",
+      "tiao09",
+      "tong08"
+    ]
+  },
+  "104": {
+    "id": 104,
+    "OrderIDList": [
+      640088,
+      640089,
+      640090
+    ],
+    "stackPattern": "0,200|-150,250|150,250",
+    "elementIcon": [
+      "tiao02",
+      "tong02",
+      "wan02"
+    ]
+  },
+  "105": {
+    "id": 105,
+    "OrderIDList": [
+      640091,
+      640092,
+      640093
+    ],
+    "stackPattern": "0,250|-150,200|150,200",
+    "elementIcon": [
+      "tong04",
+      "tiao06",
+      "wan07"
+    ]
+  },
+  "106": {
+    "id": 106,
+    "OrderIDList": [
+      640094,
+      640095
+    ],
+    "stackPattern": "-200,150|200,150",
+    "elementIcon": [
+      "tong08",
+      "tiao07"
+    ]
+  },
+  "107": {
+    "id": 107,
+    "OrderIDList": [
+      640096,
+      640097
+    ],
+    "stackPattern": "-200,50|200,50",
+    "elementIcon": [
+      "wan09",
+      "tong08"
+    ]
+  },
+  "108": {
+    "id": 108,
+    "OrderIDList": [
+      640098,
+      640099
+    ],
+    "stackPattern": "-150,0|150,0",
+    "elementIcon": [
+      "wan09",
+      "tiao08"
+    ]
+  },
+  "109": {
+    "id": 109,
+    "OrderIDList": [
+      640100,
+      640101
+    ],
+    "stackPattern": "-100,-50|100,-50",
+    "elementIcon": [
+      "tong08",
+      "tiao09"
+    ]
+  },
+  "110": {
+    "id": 110,
+    "OrderIDList": [
+      640116,
+      640117
+    ],
+    "stackPattern": "-150,100|150,100",
+    "elementIcon": [
+      "wan06",
+      "tong06"
+    ]
+  },
+  "111": {
+    "id": 111,
+    "OrderIDList": [
+      640118,
+      640119,
+      640120,
+      640121
+    ],
+    "stackPattern": "-200,300|200,300|-200,-100|200,-100",
+    "elementIcon": [
+      "tiao08",
+      "wan07",
+      "wan08",
+      "tiao07"
+    ]
+  },
+  "112": {
+    "id": 112,
+    "OrderIDList": [
+      640122,
+      640123,
+      640124,
+      640125
+    ],
+    "stackPattern": "-150,250|150,250|-150,-50|150,-50",
+    "elementIcon": [
+      "tong08",
+      "tiao07",
+      "wan06",
+      "tong09"
+    ]
+  },
+  "113": {
+    "id": 113,
+    "OrderIDList": [
+      640126,
+      640127
+    ],
+    "stackPattern": "-100,100|100,100",
+    "elementIcon": [
+      "wan07",
+      "tiao09"
+    ]
+  },
+  "114": {
+    "id": 114,
+    "OrderIDList": [
+      640128,
+      640129,
+      640130,
+      640131
+    ],
+    "stackPattern": "-100,200|100,200|-100,0|100,0",
+    "elementIcon": [
+      "wan08",
+      "tiao09",
+      "wan09",
+      "tong09"
+    ]
+  },
+  "115": {
+    "id": 115,
+    "OrderIDList": [
+      640151,
+      640152
+    ],
+    "stackPattern": "-100,200|100,200",
+    "elementIcon": [
+      "tong04",
+      "tong06"
+    ]
+  },
+  "116": {
+    "id": 116,
+    "OrderIDList": [
+      640153,
+      640154,
+      640155,
+      640156
+    ],
+    "stackPattern": "-200,50|200,50|-50,-100|50,-100",
+    "elementIcon": [
+      "tiao04",
+      "tiao06",
+      "wan08",
+      "wan07"
+    ]
+  },
+  "117": {
+    "id": 117,
+    "OrderIDList": [
+      640157,
+      640158,
+      640159
+    ],
+    "stackPattern": "-150,250|150,250|0,-25",
+    "elementIcon": [
+      "tiao07",
+      "tong07",
+      "wan07"
+    ]
+  },
+  "118": {
+    "id": 118,
+    "OrderIDList": [
+      640160,
+      640161,
+      640162,
+      640163
+    ],
+    "stackPattern": "-150,50|150,50|0,50|0,-100",
+    "elementIcon": [
+      "tiao08",
+      "tong09",
+      "tiao09",
+      "wan09"
+    ]
+  },
+  "119": {
+    "id": 119,
+    "OrderIDList": [
+      640175,
+      640176
+    ],
+    "stackPattern": "-150,50|150,150",
+    "elementIcon": [
+      "tiao05",
+      "tiao06"
+    ]
+  },
+  "120": {
+    "id": 120,
+    "OrderIDList": [
+      640177,
+      640178,
+      640179,
+      640180
+    ],
+    "stackPattern": "100,150|205,150|-205,50|-100,50",
+    "elementIcon": [
+      "wan07",
+      "wan08",
+      "tong09",
+      "wan06"
+    ]
+  },
+  "121": {
+    "id": 121,
+    "OrderIDList": [
+      640181,
+      640182,
+      640183,
+      640184
+    ],
+    "stackPattern": "100,250|205,250|100,50|205,50",
+    "elementIcon": [
+      "wan08",
+      "tiao07",
+      "tiao09",
+      "tong08"
+    ]
+  },
+  "122": {
+    "id": 122,
+    "OrderIDList": [
+      640185,
+      640186,
+      640187,
+      640188
+    ],
+    "stackPattern": "-205,150|-100,150|-205,-50|-100,-50",
+    "elementIcon": [
+      "tong06",
+      "tiao07",
+      "wan09",
+      "tiao09"
+    ]
+  },
+  "123": {
+    "id": 123,
+    "OrderIDList": [
+      640202,
+      640203
+    ],
+    "stackPattern": "0,200|0,0",
+    "elementIcon": [
+      "wan06",
+      "wan07"
+    ]
+  },
+  "124": {
+    "id": 124,
+    "OrderIDList": [
+      640204,
+      640205
+    ],
+    "stackPattern": "-200,100|200,100",
+    "elementIcon": [
+      "tiao06",
+      "tiao07"
+    ]
+  },
+  "125": {
+    "id": 125,
+    "OrderIDList": [
+      640206,
+      640207,
+      640208,
+      640209
+    ],
+    "stackPattern": "-200,300|200,300|-200,-100|200,-100",
+    "elementIcon": [
+      "tong08",
+      "tiao06",
+      "tiao07",
+      "wan08"
+    ]
+  },
+  "126": {
+    "id": 126,
+    "OrderIDList": [
+      640210,
+      640211,
+      640212,
+      640213
+    ],
+    "stackPattern": "0,225|0,-25|-150,100|150,100",
+    "elementIcon": [
+      "tong07",
+      "tiao08",
+      "tong08",
+      "wan07"
+    ]
+  },
+  "127": {
+    "id": 127,
+    "OrderIDList": [
+      640214,
+      640215,
+      640216,
+      640217
+    ],
+    "stackPattern": "-150,250|150,250|-150,-50|150,-50",
+    "elementIcon": [
+      "tiao09",
+      "wan08",
+      "tong09",
+      "wan09"
+    ]
+  }
+}

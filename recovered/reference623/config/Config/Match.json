@@ -1,0 +1,344 @@
+{
+  "CostEnergy2": {
+    "id": "CostEnergy2",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        6,
+        14
+      ]
+    ],
+    "memberPerTeam": [
+      10
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      50
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy3": {
+    "id": "CostEnergy3",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        15,
+        60
+      ]
+    ],
+    "memberPerTeam": [
+      10
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      50
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy4": {
+    "id": "CostEnergy4",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        61,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      10
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      50
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy5": {
+    "id": "CostEnergy5",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        6,
+        14
+      ],
+      [
+        15,
+        60
+      ],
+      [
+        61,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      10,
+      10,
+      10
+    ],
+    "matchTimes": [
+      1,
+      1,
+      1
+    ],
+    "redLine": [
+      50,
+      50,
+      50
+    ],
+    "robotTime": [
+      180,
+      180,
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy6": {
+    "id": "CostEnergy6",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        61,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      10
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      50
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy7": {
+    "id": "CostEnergy7",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        61,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      5
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      200
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy8": {
+    "id": "CostEnergy8",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        6,
+        12
+      ]
+    ],
+    "memberPerTeam": [
+      5
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      100
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy9": {
+    "id": "CostEnergy9",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        6,
+        12
+      ],
+      [
+        13,
+        60
+      ],
+      [
+        61,
+        90
+      ],
+      [
+        91,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      5,
+      5,
+      5,
+      5
+    ],
+    "matchTimes": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "redLine": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "robotTime": [
+      180,
+      180,
+      180,
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy10": {
+    "id": "CostEnergy10",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        13,
+        60
+      ],
+      [
+        61,
+        90
+      ],
+      [
+        91,
+        120
+      ]
+    ],
+    "memberPerTeam": [
+      5,
+      5,
+      5
+    ],
+    "matchTimes": [
+      1,
+      1,
+      1
+    ],
+    "redLine": [
+      100,
+      100,
+      100
+    ],
+    "robotTime": [
+      180,
+      180,
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy11": {
+    "id": "CostEnergy11",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        13,
+        20
+      ]
+    ],
+    "memberPerTeam": [
+      5
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      100
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  },
+  "CostEnergy12": {
+    "id": "CostEnergy12",
+    "unlockType": "CostEnergy",
+    "time": 3600,
+    "levelRegion": [
+      [
+        13,
+        20
+      ]
+    ],
+    "memberPerTeam": [
+      5
+    ],
+    "matchTimes": [
+      1
+    ],
+    "redLine": [
+      100
+    ],
+    "robotTime": [
+      180
+    ],
+    "showRankTime": 3600,
+    "startImg": "cs_pic_01",
+    "endImg": "cs_pic_01"
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "1": {
+    "id": 1,
+    "prob": [
+      "88%",
+      "12%",
+      "0%",
+      "0%",
+      "0%"
+    ],
+    "packRes": "card_pack_star1",
+    "cardNum": 2,
+    "maxStar": 2,
+    "mustStar": 1,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 110
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "2": {
+    "id": 2,
+    "prob": [
+      "43%",
+      "50%",
+      "7%",
+      "0%",
+      "0%"
+    ],
+    "packRes": "card_pack_star2",
+    "cardNum": 3,
+    "maxStar": 3,
+    "mustStar": 2,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 240
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "3": {
+    "id": 3,
+    "prob": [
+      "25%",
+      "30%",
+      "40%",
+      "5%",
+      "0%"
+    ],
+    "packRes": "card_pack_star3",
+    "cardNum": 3,
+    "maxStar": 4,
+    "mustStar": 3,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 340
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "4": {
+    "id": 4,
+    "prob": [
+      "20%",
+      "22%",
+      "25%",
+      "30%",
+      "3%"
+    ],
+    "packRes": "card_pack_star4",
+    "cardNum": 4,
+    "maxStar": 5,
+    "mustStar": 4,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 630
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "5": {
+    "id": 5,
+    "prob": [
+      "15%",
+      "18%",
+      "20%",
+      "22%",
+      "25%"
+    ],
+    "packRes": "card_pack_star5",
+    "cardNum": 4,
+    "maxStar": 5,
+    "mustStar": 5,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 1310
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "6": {
+    "id": 6,
+    "prob": [
+      "30%",
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
+    "packRes": "card_pack_super",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 0,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 2440
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "7": {
+    "id": 7,
+    "prob": [
+      "88%",
+      "12%",
+      "0%",
+      "0%",
+      "0%"
+    ],
+    "packRes": "card_pack_xl1",
+    "cardNum": 4,
+    "maxStar": 2,
+    "mustStar": 1,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 230
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "8": {
+    "id": 8,
+    "prob": [
+      "43%",
+      "50%",
+      "7%",
+      "0%",
+      "0%"
+    ],
+    "packRes": "card_pack_xl2",
+    "cardNum": 5,
+    "maxStar": 3,
+    "mustStar": 2,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 400
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "9": {
+    "id": 9,
+    "prob": [
+      "25%",
+      "30%",
+      "40%",
+      "5%",
+      "0%"
+    ],
+    "packRes": "card_pack_xl3",
+    "cardNum": 5,
+    "maxStar": 4,
+    "mustStar": 3,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 750
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "10": {
+    "id": 10,
+    "prob": [
+      "20%",
+      "22%",
+      "25%",
+      "30%",
+      "3%"
+    ],
+    "packRes": "card_pack_xl4",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 4,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 1120
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "11": {
+    "id": 11,
+    "prob": [
+      "15%",
+      "18%",
+      "20%",
+      "22%",
+      "25%"
+    ],
+    "packRes": "card_pack_xl5",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 5,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 2110
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "12": {
+    "id": 12,
+    "prob": [
+      "25%",
+      "30%",
+      "40%",
+      "5%",
+      "0%"
+    ],
+    "packRes": "card_pack_golden3",
+    "cardNum": 3,
+    "maxStar": 4,
+    "mustStar": 3,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 370
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "13": {
+    "id": 13,
+    "prob": [
+      "20%",
+      "22%",
+      "25%",
+      "30%",
+      "3%"
+    ],
+    "packRes": "card_pack_golden4",
+    "cardNum": 4,
+    "maxStar": 5,
+    "mustStar": 4,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 1010
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "14": {
+    "id": 14,
+    "prob": [
+      "15%",
+      "18%",
+      "20%",
+      "22%",
+      "25%"
+    ],
+    "packRes": "card_pack_golden5",
+    "cardNum": 4,
+    "maxStar": 5,
+    "mustStar": 5,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 2980
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "15": {
+    "id": 15,
+    "prob": [
+      "25%",
+      "30%",
+      "40%",
+      "5%",
+      "0%"
+    ],
+    "packRes": "card_pack_xlgolden3",
+    "cardNum": 5,
+    "maxStar": 4,
+    "mustStar": 3,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 780
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "16": {
+    "id": 16,
+    "prob": [
+      "20%",
+      "22%",
+      "25%",
+      "30%",
+      "3%"
+    ],
+    "packRes": "card_pack_xlgolden4",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 4,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 1290
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "17": {
+    "id": 17,
+    "prob": [
+      "15%",
+      "18%",
+      "20%",
+      "22%",
+      "25%"
+    ],
+    "packRes": "card_pack_xlgolden5",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 5,
+    "isGoldenPack": 1,
+    "rewardChange": {
+      "Coin": 3130
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  },
+  "18": {
+    "id": 18,
+    "prob": [],
+    "packRes": "card_pack_n1",
+    "cardNum": 1,
+    "maxStar": 0,
+    "mustStar": 0,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 12060
+    },
+    "customPool": {},
+    "goldPoolNum": 2,
+    "extractNum": 0
+  },
+  "19": {
+    "id": 19,
+    "prob": [],
+    "packRes": "card_pack_chose1",
+    "cardNum": 1,
+    "maxStar": 0,
+    "mustStar": 0,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 520
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 3
+  },
+  "20": {
+    "id": 20,
+    "prob": [],
+    "packRes": "card_pack_chose2",
+    "cardNum": 1,
+    "maxStar": 0,
+    "mustStar": 0,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 1040
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 3
+  },
+  "21": {
+    "id": 21,
+    "prob": [
+      "30%",
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
+    "packRes": "card_pack_super",
+    "cardNum": 6,
+    "maxStar": 5,
+    "mustStar": 0,
+    "isGoldenPack": 0,
+    "rewardChange": {
+      "Coin": 2440
+    },
+    "customPool": {},
+    "goldPoolNum": 0,
+    "extractNum": 0
+  }
+}

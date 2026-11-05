@@ -1,0 +1,1550 @@
+{
+  "101": {
+    "10101": {
+      "id": 10101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10102": {
+      "id": 10102,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10103": {
+      "id": 10103,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10104": {
+      "id": 10104,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10105": {
+      "id": 10105,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "10106": {
+      "id": 10106,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "102": {
+    "10201": {
+      "id": 10201,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10202": {
+      "id": 10202,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10203": {
+      "id": 10203,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10204": {
+      "id": 10204,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10205": {
+      "id": 10205,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "10206": {
+      "id": 10206,
+      "orderFactorRange": [
+        4.225,
+        7.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "103": {
+    "10301": {
+      "id": 10301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10302": {
+      "id": 10302,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "10303": {
+      "id": 10303,
+      "orderFactorRange": [
+        3,
+        5.625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10304": {
+      "id": 10304,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "10305": {
+      "id": 10305,
+      "orderFactorRange": [
+        2.925,
+        5.4
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "10306": {
+      "id": 10306,
+      "orderFactorRange": [
+        4.55,
+        8.4
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "201": {
+    "20101": {
+      "id": 20101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20102": {
+      "id": 20102,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20103": {
+      "id": 20103,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "20104": {
+      "id": 20104,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20105": {
+      "id": 20105,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20106": {
+      "id": 20106,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "20107": {
+      "id": 20107,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20108": {
+      "id": 20108,
+      "orderFactorRange": [
+        3.6,
+        6.75
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "202": {
+    "20201": {
+      "id": 20201,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20202": {
+      "id": 20202,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20203": {
+      "id": 20203,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "20204": {
+      "id": 20204,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20205": {
+      "id": 20205,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20206": {
+      "id": 20206,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "20207": {
+      "id": 20207,
+      "orderFactorRange": [
+        2.4,
+        4.5
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20208": {
+      "id": 20208,
+      "orderFactorRange": [
+        4.2,
+        7.875
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "203": {
+    "20301": {
+      "id": 20301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20302": {
+      "id": 20302,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20303": {
+      "id": 20303,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "20304": {
+      "id": 20304,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "20305": {
+      "id": 20305,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20306": {
+      "id": 20306,
+      "orderFactorRange": [
+        3.575,
+        6.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "20307": {
+      "id": 20307,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "20308": {
+      "id": 20308,
+      "orderFactorRange": [
+        4.5,
+        8.4375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "301": {
+    "30101": {
+      "id": 30101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30102": {
+      "id": 30102,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30103": {
+      "id": 30103,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30104": {
+      "id": 30104,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30105": {
+      "id": 30105,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30106": {
+      "id": 30106,
+      "orderFactorRange": [
+        1.95,
+        3.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30107": {
+      "id": 30107,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30108": {
+      "id": 30108,
+      "orderFactorRange": [
+        3.9,
+        7.3125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "30109": {
+      "id": 30109,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30110": {
+      "id": 30110,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "302": {
+    "30201": {
+      "id": 30201,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30202": {
+      "id": 30202,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30203": {
+      "id": 30203,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30204": {
+      "id": 30204,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30205": {
+      "id": 30205,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30206": {
+      "id": 30206,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30207": {
+      "id": 30207,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30208": {
+      "id": 30208,
+      "orderFactorRange": [
+        4.2,
+        7.875
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "30209": {
+      "id": 30209,
+      "orderFactorRange": [
+        1.95,
+        3.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30210": {
+      "id": 30210,
+      "orderFactorRange": [
+        4.875,
+        9
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "303": {
+    "30301": {
+      "id": 30301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30302": {
+      "id": 30302,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30303": {
+      "id": 30303,
+      "orderFactorRange": [
+        2.4,
+        4.5
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30304": {
+      "id": 30304,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30305": {
+      "id": 30305,
+      "orderFactorRange": [
+        4.225,
+        7.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "30306": {
+      "id": 30306,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "30307": {
+      "id": 30307,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30308": {
+      "id": 30308,
+      "orderFactorRange": [
+        4.8,
+        9
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "30309": {
+      "id": 30309,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "30310": {
+      "id": 30310,
+      "orderFactorRange": [
+        5.2,
+        9.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "401": {
+    "40101": {
+      "id": 40101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40102": {
+      "id": 40102,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40103": {
+      "id": 40103,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40104": {
+      "id": 40104,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40105": {
+      "id": 40105,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "40106": {
+      "id": 40106,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "402": {
+    "40201": {
+      "id": 40201,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40202": {
+      "id": 40202,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40203": {
+      "id": 40203,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40204": {
+      "id": 40204,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40205": {
+      "id": 40205,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "40206": {
+      "id": 40206,
+      "orderFactorRange": [
+        4.225,
+        7.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "403": {
+    "40301": {
+      "id": 40301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40302": {
+      "id": 40302,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "40303": {
+      "id": 40303,
+      "orderFactorRange": [
+        3,
+        5.625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40304": {
+      "id": 40304,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "40305": {
+      "id": 40305,
+      "orderFactorRange": [
+        2.925,
+        5.4
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Least",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "40306": {
+      "id": 40306,
+      "orderFactorRange": [
+        4.55,
+        8.4
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "501": {
+    "50101": {
+      "id": 50101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50102": {
+      "id": 50102,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50103": {
+      "id": 50103,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "50104": {
+      "id": 50104,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50105": {
+      "id": 50105,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50106": {
+      "id": 50106,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "50107": {
+      "id": 50107,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50108": {
+      "id": 50108,
+      "orderFactorRange": [
+        3.6,
+        6.75
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "502": {
+    "50201": {
+      "id": 50201,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50202": {
+      "id": 50202,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50203": {
+      "id": 50203,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "50204": {
+      "id": 50204,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50205": {
+      "id": 50205,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50206": {
+      "id": 50206,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "50207": {
+      "id": 50207,
+      "orderFactorRange": [
+        2.4,
+        4.5
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50208": {
+      "id": 50208,
+      "orderFactorRange": [
+        4.2,
+        7.875
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "503": {
+    "50301": {
+      "id": 50301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50302": {
+      "id": 50302,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50303": {
+      "id": 50303,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "50304": {
+      "id": 50304,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "50305": {
+      "id": 50305,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50306": {
+      "id": 50306,
+      "orderFactorRange": [
+        3.575,
+        6.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "50307": {
+      "id": 50307,
+      "orderFactorRange": [
+        2.7,
+        5.0625
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "50308": {
+      "id": 50308,
+      "orderFactorRange": [
+        4.5,
+        8.4375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "601": {
+    "60101": {
+      "id": 60101,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60102": {
+      "id": 60102,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60103": {
+      "id": 60103,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60104": {
+      "id": 60104,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60105": {
+      "id": 60105,
+      "orderFactorRange": [
+        3.25,
+        6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60106": {
+      "id": 60106,
+      "orderFactorRange": [
+        1.95,
+        3.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60107": {
+      "id": 60107,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60108": {
+      "id": 60108,
+      "orderFactorRange": [
+        3.9,
+        7.3125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "60109": {
+      "id": 60109,
+      "orderFactorRange": [
+        1.625,
+        3
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60110": {
+      "id": 60110,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "602": {
+    "60201": {
+      "id": 60201,
+      "orderFactorRange": [
+        0.9,
+        1.6875
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60202": {
+      "id": 60202,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60203": {
+      "id": 60203,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60204": {
+      "id": 60204,
+      "orderFactorRange": [
+        1.8,
+        3.375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60205": {
+      "id": 60205,
+      "orderFactorRange": [
+        3.9,
+        7.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60206": {
+      "id": 60206,
+      "orderFactorRange": [
+        2.275,
+        4.2
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60207": {
+      "id": 60207,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60208": {
+      "id": 60208,
+      "orderFactorRange": [
+        4.2,
+        7.875
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "60209": {
+      "id": 60209,
+      "orderFactorRange": [
+        1.95,
+        3.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60210": {
+      "id": 60210,
+      "orderFactorRange": [
+        4.875,
+        9
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  },
+  "603": {
+    "60301": {
+      "id": 60301,
+      "orderFactorRange": [
+        1.2,
+        2.25
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60302": {
+      "id": 60302,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60303": {
+      "id": 60303,
+      "orderFactorRange": [
+        2.4,
+        4.5
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60304": {
+      "id": 60304,
+      "orderFactorRange": [
+        2.1,
+        3.9375
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60305": {
+      "id": 60305,
+      "orderFactorRange": [
+        4.225,
+        7.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "extraReward": {}
+    },
+    "60306": {
+      "id": 60306,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {}
+    },
+    "60307": {
+      "id": 60307,
+      "orderFactorRange": [
+        1.5,
+        2.8125
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60308": {
+      "id": 60308,
+      "orderFactorRange": [
+        4.8,
+        9
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    },
+    "60309": {
+      "id": 60309,
+      "orderFactorRange": [
+        2.6,
+        4.8
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "60310": {
+      "id": 60310,
+      "orderFactorRange": [
+        5.2,
+        9.6
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "extraReward": {}
+    }
+  }
+}

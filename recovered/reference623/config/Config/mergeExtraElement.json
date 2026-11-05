@@ -1,0 +1,314 @@
+{
+  "53102": {
+    "id": 53102,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      5,
+      5
+    ],
+    "extraRate": 5
+  },
+  "53103": {
+    "id": 53103,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      10,
+      10
+    ],
+    "extraRate": 8
+  },
+  "53104": {
+    "id": 53104,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 12
+  },
+  "53105": {
+    "id": 53105,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      30,
+      30
+    ],
+    "extraRate": 15
+  },
+  "53106": {
+    "id": 53106,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      50,
+      50
+    ],
+    "extraRate": 30
+  },
+  "53112": {
+    "id": 53112,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 5
+  },
+  "53113": {
+    "id": 53113,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      5,
+      5
+    ],
+    "extraRate": 8
+  },
+  "53114": {
+    "id": 53114,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      10,
+      10
+    ],
+    "extraRate": 15
+  },
+  "53122": {
+    "id": 53122,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 5
+  },
+  "53123": {
+    "id": 53123,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 8
+  },
+  "53124": {
+    "id": 53124,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 12
+  },
+  "53125": {
+    "id": 53125,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 15
+  },
+  "53126": {
+    "id": 53126,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 30
+  },
+  "53127": {
+    "id": 53127,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      30,
+      30
+    ],
+    "extraRate": 50
+  },
+  "53128": {
+    "id": 53128,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      50,
+      50
+    ],
+    "extraRate": 50
+  },
+  "53222": {
+    "id": 53222,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      5,
+      5
+    ],
+    "extraRate": 5
+  },
+  "53223": {
+    "id": 53223,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      10,
+      10
+    ],
+    "extraRate": 8
+  },
+  "53224": {
+    "id": 53224,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 15
+  },
+  "53232": {
+    "id": 53232,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      5,
+      5
+    ],
+    "extraRate": 5
+  },
+  "53233": {
+    "id": 53233,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      10,
+      10
+    ],
+    "extraRate": 8
+  },
+  "53234": {
+    "id": 53234,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      15,
+      15
+    ],
+    "extraRate": 15
+  },
+  "53235": {
+    "id": 53235,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 30
+  },
+  "53402": {
+    "id": 53402,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      5,
+      5
+    ],
+    "extraRate": 5
+  },
+  "53403": {
+    "id": 53403,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      10,
+      10
+    ],
+    "extraRate": 8
+  },
+  "53404": {
+    "id": 53404,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 15
+  },
+  "53405": {
+    "id": 53405,
+    "mergeExtra": [
+      53301,
+      53302
+    ],
+    "extraWeight": [
+      20,
+      20
+    ],
+    "extraRate": 30
+  }
+}

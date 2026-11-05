@@ -1,0 +1,604 @@
+{
+  "space1": {
+    "101": {
+      "id": 101,
+      "belongStageTwo": 0,
+      "needPassPoint": 50,
+      "normalReward": {
+        "Coin": 100
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "102": {
+      "id": 102,
+      "belongStageTwo": 0,
+      "needPassPoint": 150,
+      "normalReward": {
+        "Energy": 5
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 0
+    },
+    "103": {
+      "id": 103,
+      "belongStageTwo": 0,
+      "needPassPoint": 270,
+      "normalReward": {
+        "98802": 1
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "104": {
+      "id": 104,
+      "belongStageTwo": 0,
+      "needPassPoint": 400,
+      "normalReward": {
+        "SpaceProp1": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "105": {
+      "id": 105,
+      "belongStageTwo": 0,
+      "needPassPoint": 540,
+      "normalReward": {
+        "Coin": 200
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "106": {
+      "id": 106,
+      "belongStageTwo": 0,
+      "needPassPoint": 710,
+      "normalReward": {
+        "Energy": 5
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 0
+    },
+    "107": {
+      "id": 107,
+      "belongStageTwo": 0,
+      "needPassPoint": 890,
+      "normalReward": {
+        "98802": 1
+      },
+      "specialReward": {
+        "90902": 1
+      },
+      "rewardPriority": 0
+    },
+    "108": {
+      "id": 108,
+      "belongStageTwo": 0,
+      "needPassPoint": 1080,
+      "normalReward": {
+        "SpaceProp1": 3
+      },
+      "specialReward": {
+        "SpaceProp2": 5
+      },
+      "rewardPriority": 0
+    },
+    "109": {
+      "id": 109,
+      "belongStageTwo": 0,
+      "needPassPoint": 1290,
+      "normalReward": {
+        "Coin": 300
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "110": {
+      "id": 110,
+      "belongStageTwo": 0,
+      "needPassPoint": 1530,
+      "normalReward": {
+        "Energy": 10
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 0
+    },
+    "111": {
+      "id": 111,
+      "belongStageTwo": 0,
+      "needPassPoint": 1790,
+      "normalReward": {
+        "98801": 1
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "112": {
+      "id": 112,
+      "belongStageTwo": 0,
+      "needPassPoint": 2060,
+      "normalReward": {
+        "SpaceProp2": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "113": {
+      "id": 113,
+      "belongStageTwo": 0,
+      "needPassPoint": 2350,
+      "normalReward": {
+        "Coin": 500
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "114": {
+      "id": 114,
+      "belongStageTwo": 0,
+      "needPassPoint": 2670,
+      "normalReward": {
+        "Energy": 10
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 0
+    },
+    "115": {
+      "id": 115,
+      "belongStageTwo": 0,
+      "needPassPoint": 3010,
+      "normalReward": {
+        "98801": 1
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "116": {
+      "id": 116,
+      "belongStageTwo": 0,
+      "needPassPoint": 3360,
+      "normalReward": {
+        "SpaceProp1": 5
+      },
+      "specialReward": {
+        "SpaceProp2": 10
+      },
+      "rewardPriority": 4
+    },
+    "117": {
+      "id": 117,
+      "belongStageTwo": 0,
+      "needPassPoint": 3740,
+      "normalReward": {
+        "90901": 1
+      },
+      "specialReward": {
+        "SpaceProp1": 20
+      },
+      "rewardPriority": 0
+    },
+    "118": {
+      "id": 118,
+      "belongStageTwo": 0,
+      "needPassPoint": 4150,
+      "normalReward": {
+        "Energy": 10
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 0
+    },
+    "119": {
+      "id": 119,
+      "belongStageTwo": 0,
+      "needPassPoint": 4580,
+      "normalReward": {
+        "98801": 1
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "120": {
+      "id": 120,
+      "belongStageTwo": 0,
+      "needPassPoint": 5020,
+      "normalReward": {
+        "SpaceProp2": 3
+      },
+      "specialReward": {
+        "SpaceProp3": 5
+      },
+      "rewardPriority": 5
+    },
+    "121": {
+      "id": 121,
+      "belongStageTwo": 0,
+      "needPassPoint": 5480,
+      "normalReward": {
+        "Coin": 600
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "122": {
+      "id": 122,
+      "belongStageTwo": 0,
+      "needPassPoint": 5970,
+      "normalReward": {
+        "Energy": 10
+      },
+      "specialReward": {
+        "Energy": 50
+      },
+      "rewardPriority": 2
+    },
+    "123": {
+      "id": 123,
+      "belongStageTwo": 0,
+      "needPassPoint": 6490,
+      "normalReward": {
+        "98803": 1
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "124": {
+      "id": 124,
+      "belongStageTwo": 0,
+      "needPassPoint": 7020,
+      "normalReward": {
+        "SpaceProp1": 10
+      },
+      "specialReward": {
+        "SpaceProp1": 20
+      },
+      "rewardPriority": 0
+    },
+    "125": {
+      "id": 125,
+      "belongStageTwo": 0,
+      "needPassPoint": 7570,
+      "normalReward": {
+        "Coin": 800
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "126": {
+      "id": 126,
+      "belongStageTwo": 0,
+      "needPassPoint": 8170,
+      "normalReward": {
+        "Energy": 10
+      },
+      "specialReward": {
+        "98805": 1
+      },
+      "rewardPriority": 0
+    },
+    "127": {
+      "id": 127,
+      "belongStageTwo": 0,
+      "needPassPoint": 8870,
+      "normalReward": {
+        "90901": 1
+      },
+      "specialReward": {
+        "SpaceProp3": 10
+      },
+      "rewardPriority": 3
+    },
+    "128": {
+      "id": 128,
+      "belongStageTwo": 0,
+      "needPassPoint": 10070,
+      "normalReward": {
+        "Diamond": 5
+      },
+      "specialReward": {
+        "Diamond": 50
+      },
+      "rewardPriority": 0
+    },
+    "129": {
+      "id": 129,
+      "belongStageTwo": 0,
+      "needPassPoint": 11470,
+      "normalReward": {
+        "Coin": 1000
+      },
+      "specialReward": {
+        "98809": 1
+      },
+      "rewardPriority": 0
+    },
+    "130": {
+      "id": 130,
+      "belongStageTwo": 0,
+      "needPassPoint": 13270,
+      "normalReward": {
+        "Diamond": 50
+      },
+      "specialReward": {
+        "Diamond": 100
+      },
+      "rewardPriority": 1
+    },
+    "131": {
+      "id": 131,
+      "belongStageTwo": 1,
+      "needPassPoint": 14270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "132": {
+      "id": 132,
+      "belongStageTwo": 1,
+      "needPassPoint": 15270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "133": {
+      "id": 133,
+      "belongStageTwo": 1,
+      "needPassPoint": 16270,
+      "normalReward": {
+        "SpaceProp1": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "134": {
+      "id": 134,
+      "belongStageTwo": 1,
+      "needPassPoint": 17270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "135": {
+      "id": 135,
+      "belongStageTwo": 1,
+      "needPassPoint": 18270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "136": {
+      "id": 136,
+      "belongStageTwo": 1,
+      "needPassPoint": 19270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "137": {
+      "id": 137,
+      "belongStageTwo": 1,
+      "needPassPoint": 20270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "138": {
+      "id": 138,
+      "belongStageTwo": 1,
+      "needPassPoint": 21270,
+      "normalReward": {
+        "SpaceProp1": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "139": {
+      "id": 139,
+      "belongStageTwo": 1,
+      "needPassPoint": 22270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "140": {
+      "id": 140,
+      "belongStageTwo": 1,
+      "needPassPoint": 23270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "141": {
+      "id": 141,
+      "belongStageTwo": 1,
+      "needPassPoint": 24270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "142": {
+      "id": 142,
+      "belongStageTwo": 1,
+      "needPassPoint": 25270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "143": {
+      "id": 143,
+      "belongStageTwo": 1,
+      "needPassPoint": 26270,
+      "normalReward": {
+        "SpaceProp1": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "144": {
+      "id": 144,
+      "belongStageTwo": 1,
+      "needPassPoint": 27270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "145": {
+      "id": 145,
+      "belongStageTwo": 1,
+      "needPassPoint": 28270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "146": {
+      "id": 146,
+      "belongStageTwo": 1,
+      "needPassPoint": 29270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "147": {
+      "id": 147,
+      "belongStageTwo": 1,
+      "needPassPoint": 30270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "148": {
+      "id": 148,
+      "belongStageTwo": 1,
+      "needPassPoint": 31270,
+      "normalReward": {
+        "SpaceProp1": 2
+      },
+      "specialReward": {
+        "SpaceProp1": 10
+      },
+      "rewardPriority": 0
+    },
+    "149": {
+      "id": 149,
+      "belongStageTwo": 1,
+      "needPassPoint": 32270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    },
+    "150": {
+      "id": 150,
+      "belongStageTwo": 1,
+      "needPassPoint": 33270,
+      "normalReward": {
+        "Coin": 10
+      },
+      "specialReward": {
+        "Coin": 100
+      },
+      "rewardPriority": 0
+    }
+  }
+}

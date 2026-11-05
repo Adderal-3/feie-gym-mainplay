@@ -1,0 +1,116 @@
+{
+  "777000": {
+    "7770001": {
+      "id": 7770001,
+      "nextId": 7770002,
+      "price": {
+        "Cash": 300
+      },
+      "content": {
+        "EventEnergyIII": 5,
+        "buffProp10": 1
+      },
+      "tagText": "300%"
+    },
+    "7770002": {
+      "id": 7770002,
+      "nextId": 7770003,
+      "price": {
+        "Cash": 600
+      },
+      "content": {
+        "EventEnergyIII": 10,
+        "buffProp11": 1
+      },
+      "tagText": "270%"
+    },
+    "7770003": {
+      "id": 7770003,
+      "nextId": 7770003,
+      "price": {
+        "Cash": 800
+      },
+      "content": {
+        "EventEnergyIII": 15,
+        "buffProp11": 1
+      },
+      "tagText": "240%"
+    }
+  },
+  "777998": {
+    "7779981": {
+      "id": 7779981,
+      "nextId": 7779982,
+      "price": {
+        "Cash": 600
+      },
+      "content": {
+        "EventEnergyIII": 8,
+        "buffProp10": 1
+      },
+      "tagText": "300%"
+    },
+    "7779982": {
+      "id": 7779982,
+      "nextId": 7779983,
+      "price": {
+        "Cash": 800
+      },
+      "content": {
+        "EventEnergyIII": 10,
+        "buffProp11": 1
+      },
+      "tagText": "270%"
+    },
+    "7779983": {
+      "id": 7779983,
+      "nextId": 7779983,
+      "price": {
+        "Cash": 1200
+      },
+      "content": {
+        "EventEnergyIII": 15,
+        "buffProp11": 1
+      },
+      "tagText": "240%"
+    }
+  },
+  "777999": {
+    "7779991": {
+      "id": 7779991,
+      "nextId": 7779992,
+      "price": {
+        "Cash": 600
+      },
+      "content": {
+        "EventEnergyIII": 15,
+        "buffProp10": 1
+      },
+      "tagText": "300%"
+    },
+    "7779992": {
+      "id": 7779992,
+      "nextId": 7779993,
+      "price": {
+        "Cash": 800
+      },
+      "content": {
+        "EventEnergyIII": 20,
+        "buffProp11": 1
+      },
+      "tagText": "270%"
+    },
+    "7779993": {
+      "id": 7779993,
+      "nextId": 7779993,
+      "price": {
+        "Cash": 1200
+      },
+      "content": {
+        "EventEnergyIII": 25,
+        "buffProp11": 1
+      },
+      "tagText": "240%"
+    }
+  }
+}

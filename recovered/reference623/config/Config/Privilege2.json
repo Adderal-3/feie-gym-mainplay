@@ -1,0 +1,94 @@
+{
+  "10004": {
+    "id": 10004,
+    "unlockPlayerLevel": 11,
+    "type": [
+      1
+    ],
+    "duration": 30,
+    "price": {
+      "Cash": 1800
+    },
+    "ogPrice": {},
+    "tagText": "600",
+    "reward": {
+      "Diamond": 320
+    }
+  },
+  "10005": {
+    "id": 10005,
+    "unlockPlayerLevel": 11,
+    "type": [
+      2,
+      3,
+      4
+    ],
+    "duration": 30,
+    "price": {
+      "Cash": 6000
+    },
+    "ogPrice": {},
+    "tagText": "900",
+    "reward": {
+      "Diamond": 500
+    }
+  },
+  "10006": {
+    "id": 10006,
+    "unlockPlayerLevel": 11,
+    "type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "duration": 7,
+    "price": {
+      "Cash": 600
+    },
+    "ogPrice": {
+      "Cash": 2000
+    },
+    "tagText": "",
+    "reward": {}
+  },
+  "10007": {
+    "id": 10007,
+    "unlockPlayerLevel": 11,
+    "type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "duration": 30,
+    "price": {
+      "Cash": 6800
+    },
+    "ogPrice": {
+      "Cash": 7800
+    },
+    "tagText": "",
+    "reward": {
+      "Diamond": 820
+    }
+  },
+  "10009": {
+    "id": 10009,
+    "unlockPlayerLevel": 11,
+    "type": [
+      2,
+      3,
+      4
+    ],
+    "duration": 14,
+    "price": {
+      "Cash": 1800
+    },
+    "ogPrice": {
+      "Cash": 5000
+    },
+    "tagText": "278",
+    "reward": {}
+  }
+}

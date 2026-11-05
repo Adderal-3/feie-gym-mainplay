@@ -1,0 +1,23 @@
+{
+  "unlock": [
+    "PlayerLevel17"
+  ],
+  "graphID": "hangOrder1",
+  "finishOrderTime": 600,
+  "loseCD": 3600,
+  "players": 42,
+  "recoveryElementSeries": [
+    "Prop_Limit_11"
+  ],
+  "recycleChangeTo": 99101,
+  "fallInit": [
+    1,
+    3
+  ],
+  "condition": [
+    "id % 10 >=0"
+  ],
+  "triggerEnergy": [
+    400
+  ]
+}

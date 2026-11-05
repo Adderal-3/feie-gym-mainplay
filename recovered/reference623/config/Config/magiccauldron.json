@@ -1,0 +1,277 @@
+{
+  "cauldron1": {
+    "id": "cauldron1",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 1,
+    "gameitemNum": 4,
+    "orderRewardStage": [
+      15
+    ],
+    "orderRewardBox": [
+      "box"
+    ],
+    "orderReward": [
+      {
+        "RankPoint": 500
+      },
+      {
+        "diamond": 20
+      },
+      {
+        "98805": 3
+      },
+      {
+        "98401": 2
+      },
+      {
+        "AdornCoupon": 60
+      },
+      {
+        "Coin": 2000
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [],
+    "rankPointLeast": 200,
+    "ActivityType": "butterfly:br1"
+  },
+  "cauldron2": {
+    "id": "cauldron2",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 1,
+    "gameitemNum": 4,
+    "orderRewardStage": [
+      17
+    ],
+    "orderRewardBox": [
+      "box"
+    ],
+    "orderReward": [
+      {
+        "ChessIIPoint": 800
+      },
+      {
+        "diamond": 20
+      },
+      {
+        "98801105": 6
+      },
+      {
+        "AdornCoupon": 100
+      },
+      {
+        "Coin": 3000
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [
+      40
+    ],
+    "rankPointLeast": 200,
+    "ActivityType": ""
+  },
+  "cauldron3": {
+    "id": "cauldron3",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 1,
+    "gameitemNum": 4,
+    "orderRewardStage": [
+      17
+    ],
+    "orderRewardBox": [
+      "box"
+    ],
+    "orderReward": [
+      {
+        "Energy": 200
+      },
+      {
+        "Diamond": 50
+      },
+      {
+        "98803": 1
+      },
+      {
+        "98101": 1
+      },
+      {
+        "AdornCoupon": 100
+      },
+      {
+        "Coin": 1000
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [],
+    "rankPointLeast": 200,
+    "ActivityType": ""
+  },
+  "cauldron4": {
+    "id": "cauldron4",
+    "unlock": [
+      "PlayerLevel25"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 1,
+    "gameitemNum": 4,
+    "orderRewardStage": [
+      20
+    ],
+    "orderRewardBox": [
+      "box"
+    ],
+    "orderReward": [
+      {
+        "Film15": 1
+      },
+      {
+        "37125": 1
+      },
+      {
+        "9840248": 1
+      },
+      {
+        "ChessIIPoint": 300
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [
+      44
+    ],
+    "rankPointLeast": 200,
+    "ActivityType": ""
+  },
+  "cauldron5": {
+    "id": "cauldron5",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 1,
+    "gameitemNum": 4,
+    "orderRewardStage": [
+      20
+    ],
+    "orderRewardBox": [
+      "box"
+    ],
+    "orderReward": [
+      {
+        "90601": 1
+      },
+      {
+        "Diamond": 20
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Energy": 50
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [],
+    "rankPointLeast": 200,
+    "ActivityType": ""
+  },
+  "cauldron6": {
+    "id": "cauldron6",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "waitentr": "moyaopingrukou",
+    "openentr": "TimeOrdemoyaoping",
+    "gooseid": 2011,
+    "gameitemid": 2,
+    "gameitemNum": 3,
+    "orderRewardStage": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "orderRewardBox": [
+      "icon_chest_1",
+      "icon_chest_1",
+      "icon_chest_2",
+      "box"
+    ],
+    "orderReward": [
+      {
+        "MhdIIBlindBox1": 1
+      },
+      {
+        "9820001": 1,
+        "Film2": 1
+      },
+      {
+        "98302": 1,
+        "MhdIIBlindBox2": 1
+      },
+      {
+        "9820021": 1,
+        "Film4": 1,
+        "MhdIIBlindBox4": 1
+      }
+    ],
+    "gameRank": 1,
+    "rankImg": "ui_timeorder_rank_13",
+    "worldRankImg": "ui_timeorder_rankworld_2306",
+    "gameRound": 1,
+    "BeginDialog": 9316,
+    "EndDialog": 9317,
+    "happyEndDialog": 9318,
+    "BoardType": [],
+    "rankPointLeast": 60,
+    "ActivityType": ""
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "rank1_1": {
+    "id": "rank1_1",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "robotRankName": "fireRank1",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 2480,
+    "expectCost": 3150,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 1
+  },
+  "rank1_2": {
+    "id": "rank1_2",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "robotRankName": "fireRank2",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 2835,
+    "expectCost": 3600,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 1
+  },
+  "rank1_3": {
+    "id": "rank1_3",
+    "router": [
+      "rank1_3",
+      "rank1_2",
+      "rank1_1"
+    ],
+    "robotRankName": "fireRank3",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 3189,
+    "expectCost": 4050,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config1",
+    "orderPoint": 1
+  },
+  "rank2_1": {
+    "id": "rank2_1",
+    "router": [
+      "rank2_3",
+      "rank2_2",
+      "rank2_1"
+    ],
+    "robotRankName": "fireRank4",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 1890,
+    "expectCost": 2400,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config2",
+    "orderPoint": 1
+  },
+  "rank2_2": {
+    "id": "rank2_2",
+    "router": [
+      "rank2_3",
+      "rank2_2",
+      "rank2_1"
+    ],
+    "robotRankName": "fireRank5",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 2008,
+    "expectCost": 2550,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config2",
+    "orderPoint": 1
+  },
+  "rank2_3": {
+    "id": "rank2_3",
+    "router": [
+      "rank2_3",
+      "rank2_2",
+      "rank2_1"
+    ],
+    "robotRankName": "fireRank6",
+    "playerExpectRank": 10,
+    "playerExpectConsume": 2185,
+    "expectCost": 2775,
+    "reward": [
+      {
+        "9820002": 1,
+        "Energy": 120,
+        "Diamond": 10,
+        "Film5": 1
+      },
+      {
+        "9820002": 1,
+        "Energy": 100,
+        "Film4": 1
+      },
+      {
+        "9820001": 1,
+        "Energy": 80,
+        "Film3": 1
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      },
+      {
+        "Energy": 40
+      }
+    ],
+    "chooseConfig": "config2",
+    "orderPoint": 1
+  }
+}

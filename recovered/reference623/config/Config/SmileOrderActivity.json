@@ -1,0 +1,16 @@
+{
+  "smileOrder1": {
+    "id": "smileOrder1",
+    "unlockCondition": [
+      "PlayerLevel8"
+    ],
+    "claimGroups": [
+      0,
+      1,
+      2
+    ],
+    "superDuration": 7200,
+    "lessRoundCount": 2,
+    "superBonusText": 60
+  }
+}

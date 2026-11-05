@@ -1,0 +1,98 @@
+{
+  "20001": {
+    "goodsid": 20001,
+    "level": 1,
+    "unlockConditions": "",
+    "maintainTimes": 3,
+    "content": {
+      "98801": 1,
+      "Diamond": 20,
+      "Energy": 100,
+      "Coin": 100
+    },
+    "price": {
+      "Cash": 300
+    },
+    "discountLabel": "359%"
+  },
+  "20002": {
+    "goodsid": 20002,
+    "level": 2,
+    "unlockConditions": "",
+    "maintainTimes": 3,
+    "content": {
+      "98803": 1,
+      "Diamond": 60,
+      "Energy": 100,
+      "Coin": 300
+    },
+    "price": {
+      "Cash": 800
+    },
+    "discountLabel": "248%"
+  },
+  "20003": {
+    "goodsid": 20003,
+    "level": 3,
+    "unlockConditions": "",
+    "maintainTimes": 2,
+    "content": {
+      "98803": 1,
+      "Diamond": 100,
+      "Energy": 150,
+      "Coin": 500
+    },
+    "price": {
+      "Cash": 1200
+    },
+    "discountLabel": "239%"
+  },
+  "20004": {
+    "goodsid": 20004,
+    "level": 4,
+    "unlockConditions": "",
+    "maintainTimes": 1,
+    "content": {
+      "98805": 1,
+      "Diamond": 160,
+      "Energy": 200,
+      "Coin": 700
+    },
+    "price": {
+      "Cash": 1800
+    },
+    "discountLabel": "239%"
+  },
+  "20005": {
+    "goodsid": 20005,
+    "level": 5,
+    "unlockConditions": "",
+    "maintainTimes": 1,
+    "content": {
+      "98807": 1,
+      "Diamond": 260,
+      "Energy": 360,
+      "Coin": 1000
+    },
+    "price": {
+      "Cash": 3000
+    },
+    "discountLabel": "239%"
+  },
+  "20006": {
+    "goodsid": 20006,
+    "level": 6,
+    "unlockConditions": "",
+    "maintainTimes": 0,
+    "content": {
+      "98811": 1,
+      "Diamond": 520,
+      "Energy": 800,
+      "Coin": 2600
+    },
+    "price": {
+      "Cash": 6800
+    },
+    "discountLabel": "228%"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "lamp1": {
+    "id": "lamp1",
+    "elementid": 98291,
+    "whichBoard": "Main",
+    "fileName": "lamp",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "pointCoefficient": 5,
+    "maxStorage": 20,
+    "mergeTimes": [
+      5,
+      10,
+      20
+    ],
+    "passWeight": [
+      50,
+      100,
+      300,
+      1000
+    ],
+    "passInitTimes": [
+      2,
+      3
+    ],
+    "initPassPoint": 0,
+    "originalStorage": 20,
+    "passId": 300000,
+    "iconSpine": "shendengrukou",
+    "recoveryElementSeries": [
+      "Prop_Lamp_1",
+      "Lamp_1"
+    ]
+  },
+  "lamp2": {
+    "id": "lamp2",
+    "elementid": 98291,
+    "whichBoard": "Main",
+    "fileName": "lamp",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "pointCoefficient": 5,
+    "maxStorage": 20,
+    "mergeTimes": [
+      5,
+      10,
+      20
+    ],
+    "passWeight": [
+      50,
+      100,
+      300,
+      1000
+    ],
+    "passInitTimes": [
+      2,
+      3
+    ],
+    "initPassPoint": 0,
+    "originalStorage": 20,
+    "passId": 300001,
+    "iconSpine": "shendengrukou",
+    "recoveryElementSeries": [
+      "Prop_Lamp_1",
+      "Lamp_1"
+    ]
+  }
+}

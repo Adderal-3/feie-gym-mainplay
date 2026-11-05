@@ -1,0 +1,24 @@
+{
+  "collection1": {
+    "id": "collection1",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "router": [
+      "collection1_1",
+      "collection1_2"
+    ],
+    "coinNumPerPoint": [
+      0.3,
+      0.27
+    ],
+    "orderPoint": [
+      1,
+      0.9
+    ],
+    "pointMax": 500,
+    "beginDialog": 18659,
+    "endDialog": 18660,
+    "finishDialog": 18661
+  }
+}

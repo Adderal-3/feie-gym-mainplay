@@ -1,2 +1,5 @@
 # Preserve recovered file bytes and manifest hashes on every operating system.
 * -text
+# Recovered source snapshots retain vendor formatting so their hashes stay valid.
+recovered/reference623/client/** -whitespace
+recovered/reference623/packages/** -whitespace

@@ -1,0 +1,90 @@
+{
+  "1": {
+    "Id": "1",
+    "boardType": [
+      "main",
+      "chessBoard5",
+      "chessBoard6",
+      "healthy",
+      "puzzleWarehouse",
+      "chessBoard"
+    ],
+    "typeSequence": [
+      "energyGift",
+      "lvGift",
+      "piggy",
+      "energyPass",
+      "dailyGift",
+      "festivalGift",
+      "waterfall",
+      "rollingGift",
+      "chooseOne",
+      "onePlusOne"
+    ],
+    "maxDepth": 1
+  },
+  "2": {
+    "Id": "2",
+    "boardType": [
+      "chessBoard2"
+    ],
+    "typeSequence": [
+      "energyGift",
+      "lvGift",
+      "piggy",
+      "dailyGift",
+      "festivalGift",
+      "progressWaterfall",
+      "waterfall",
+      "rollingGift",
+      "chooseOne",
+      "onePlusOne"
+    ],
+    "maxDepth": 1
+  },
+  "3": {
+    "Id": "3",
+    "boardType": [
+      "chessBoard3",
+      "chessBoard8"
+    ],
+    "typeSequence": [
+      "energyGift",
+      "festivalGift",
+      "waterfall"
+    ],
+    "maxDepth": 1
+  },
+  "4": {
+    "Id": "4",
+    "boardType": [
+      "chessBoard4"
+    ],
+    "typeSequence": [
+      "energyGift",
+      "festivalGift"
+    ],
+    "maxDepth": 1
+  },
+  "5": {
+    "Id": "5",
+    "boardType": [
+      "chessBoard7"
+    ],
+    "typeSequence": [
+      "festivalGift"
+    ],
+    "maxDepth": 1
+  },
+  "6": {
+    "Id": "6",
+    "boardType": [
+      "chessBoard9"
+    ],
+    "typeSequence": [
+      "energyGift",
+      "festivalGift"
+    ],
+    "maxDepth": 1
+  }
+}

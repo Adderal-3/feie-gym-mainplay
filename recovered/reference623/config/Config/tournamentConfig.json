@@ -1,0 +1,50 @@
+{
+  "unlock": [
+    "PlayerLevel15"
+  ],
+  "playerExpectRank": 2,
+  "beginDialog": 18299,
+  "successDialog": 18300,
+  "failDialog": 18301,
+  "consumeUpgradeTime": [
+    5,
+    10,
+    20,
+    29
+  ],
+  "consumeWeight": [
+    100,
+    200,
+    300,
+    400,
+    1000
+  ],
+  "consumePointNum": {
+    "3": 1,
+    "4": 3,
+    "5": 5,
+    "6": 3,
+    "7": 1
+  },
+  "shopDiamondCoef": 0.2,
+  "shopCoinCoef": 0.01,
+  "availableShop": [
+    2,
+    7
+  ],
+  "bubbleCoef": [
+    0.4,
+    0.5,
+    0.6,
+    0.7
+  ],
+  "bubbleCoefWeight": [
+    10,
+    8,
+    5,
+    3
+  ],
+  "mailIcon": "icon_huodong",
+  "mailBg": "bg_huodong",
+  "expireDay": 7
+}

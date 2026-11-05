@@ -1,0 +1,30 @@
+{
+  "show": 5,
+  "unlock": 8,
+  "goldenMasterTime": 1440,
+  "masterTime": 1440,
+  "closingNoticeTime": 4320,
+  "sendDayLimit": 2,
+  "takeDayLimit": 5,
+  "showTakeDayLimit": 1,
+  "mailMemoryLimit": 10,
+  "firstJoinReward": {
+    "Film2": 1
+  },
+  "goldenMasterChange": {
+    "Diamond": 200
+  },
+  "masterChange": {
+    "Diamond": 40
+  },
+  "exchangeNumber": [
+    0,
+    20,
+    40,
+    60,
+    80
+  ],
+  "photoPlateExchange": {
+    "Coin": 50
+  }
+}

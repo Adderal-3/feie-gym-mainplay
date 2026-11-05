@@ -1,0 +1,176 @@
+{
+  "1101": {
+    "id": 1101,
+    "type": 1,
+    "useLevel": [],
+    "PreviewAnimName": "z_wait1"
+  },
+  "1102": {
+    "id": 1102,
+    "type": 1,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1103": {
+    "id": 1103,
+    "type": 1,
+    "useLevel": [],
+    "PreviewAnimName": "z_wait1"
+  },
+  "1104": {
+    "id": 1104,
+    "type": 1,
+    "useLevel": [],
+    "PreviewAnimName": "z_appear"
+  },
+  "1105": {
+    "id": 1105,
+    "type": 1,
+    "useLevel": [
+      128,
+      228,
+      328,
+      428,
+      528,
+      628,
+      728
+    ],
+    "PreviewAnimName": ""
+  },
+  "1106": {
+    "id": 1106,
+    "type": 1,
+    "useLevel": [
+      129,
+      229,
+      329,
+      429,
+      529,
+      629,
+      729
+    ],
+    "PreviewAnimName": "z_appear"
+  },
+  "1107": {
+    "id": 1107,
+    "type": 1,
+    "useLevel": [
+      130,
+      230,
+      330,
+      430,
+      530,
+      630,
+      730
+    ],
+    "PreviewAnimName": ""
+  },
+  "1108": {
+    "id": 1108,
+    "type": 1,
+    "useLevel": [],
+    "PreviewAnimName": "z_wait1"
+  },
+  "1109": {
+    "id": 1109,
+    "type": 1,
+    "useLevel": [
+      103,
+      203,
+      303,
+      403,
+      503,
+      603,
+      703
+    ],
+    "PreviewAnimName": ""
+  },
+  "1201": {
+    "id": 1201,
+    "type": 2,
+    "useLevel": [],
+    "PreviewAnimName": "z_appear"
+  },
+  "1202": {
+    "id": 1202,
+    "type": 2,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1203": {
+    "id": 1203,
+    "type": 2,
+    "useLevel": [],
+    "PreviewAnimName": "z_appear"
+  },
+  "1204": {
+    "id": 1204,
+    "type": 2,
+    "useLevel": [],
+    "PreviewAnimName": "z_appear"
+  },
+  "1205": {
+    "id": 1205,
+    "type": 2,
+    "useLevel": [
+      129,
+      229,
+      329,
+      429,
+      529,
+      629,
+      729
+    ],
+    "PreviewAnimName": "z_appear"
+  },
+  "1206": {
+    "id": 1206,
+    "type": 2,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1301": {
+    "id": 1301,
+    "type": 3,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1302": {
+    "id": 1302,
+    "type": 3,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1303": {
+    "id": 1303,
+    "type": 3,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1304": {
+    "id": 1304,
+    "type": 3,
+    "useLevel": [
+      129,
+      229,
+      329,
+      429,
+      529,
+      629,
+      729
+    ],
+    "PreviewAnimName": ""
+  },
+  "1305": {
+    "id": 1305,
+    "type": 3,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  },
+  "1306": {
+    "id": 1306,
+    "type": 3,
+    "useLevel": [],
+    "PreviewAnimName": ""
+  }
+}

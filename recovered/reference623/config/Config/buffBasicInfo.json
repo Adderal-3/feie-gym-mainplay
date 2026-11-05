@@ -1,0 +1,19 @@
+{
+  "buff1": {
+    "id": "buff1",
+    "time": 1800,
+    "eventPropTimes": [
+      20,
+      25,
+      28,
+      29
+    ],
+    "eventPropWeight": [
+      0,
+      150,
+      500,
+      600
+    ],
+    "firstDialog": 8938
+  }
+}

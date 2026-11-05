@@ -1,0 +1,537 @@
+{
+  "1000": {
+    "1000": {
+      "id": 1000,
+      "unlock": [
+        "PlayerLevel3"
+      ],
+      "reward": {
+        "Diamond": 50,
+        "Coin": 800
+      },
+      "special": 0
+    },
+    "1010": {
+      "id": 1010,
+      "unlock": [
+        "PlayerLevel4"
+      ],
+      "reward": {
+        "1203": 2,
+        "99305": 1
+      },
+      "special": 0
+    },
+    "1020": {
+      "id": 1020,
+      "unlock": [
+        "PlayerLevel5"
+      ],
+      "reward": {
+        "Diamond": 80,
+        "Coin": 1500
+      },
+      "special": 0
+    },
+    "1030": {
+      "id": 1030,
+      "unlock": [
+        "PlayerLevel6"
+      ],
+      "reward": {
+        "7004": 1,
+        "99305": 2
+      },
+      "special": 0
+    },
+    "1040": {
+      "id": 1040,
+      "unlock": [
+        "PlayerLevel7"
+      ],
+      "reward": {
+        "Diamond": 108,
+        "Coin": 1800
+      },
+      "special": 0
+    },
+    "1050": {
+      "id": 1050,
+      "unlock": [
+        "PlayerLevel8"
+      ],
+      "reward": {
+        "7004": 1,
+        "98401": 1
+      },
+      "special": 0
+    },
+    "1060": {
+      "id": 1060,
+      "unlock": [
+        "PlayerLevel9"
+      ],
+      "reward": {
+        "9106": 1,
+        "98401": 1
+      },
+      "special": 0
+    },
+    "1070": {
+      "id": 1070,
+      "unlock": [
+        "PlayerLevel10"
+      ],
+      "reward": {
+        "1203": 2,
+        "98202": 1
+      },
+      "special": 0
+    },
+    "1080": {
+      "id": 1080,
+      "unlock": [
+        "PlayerLevel11"
+      ],
+      "reward": {
+        "4005": 1,
+        "98202": 1
+      },
+      "special": 0
+    },
+    "1090": {
+      "id": 1090,
+      "unlock": [
+        "PlayerLevel13"
+      ],
+      "reward": {
+        "1203": 2,
+        "7306": 2
+      },
+      "special": 0
+    },
+    "1100": {
+      "id": 1100,
+      "unlock": [
+        "PlayerLevel15"
+      ],
+      "reward": {
+        "98701": 1
+      },
+      "special": 1
+    },
+    "1110": {
+      "id": 1110,
+      "unlock": [
+        "PlayerLevel16"
+      ],
+      "reward": {
+        "90601": 1,
+        "AdornCoupon": 388
+      },
+      "special": 0
+    },
+    "1120": {
+      "id": 1120,
+      "unlock": [
+        "PlayerLevel18"
+      ],
+      "reward": {
+        "Frame3010": 1,
+        "Frame3011": 1
+      },
+      "special": 1
+    },
+    "1130": {
+      "id": 1130,
+      "unlock": [
+        "PlayerLevel20"
+      ],
+      "reward": {
+        "90502": 1,
+        "AdornCoupon": 488
+      },
+      "special": 0
+    },
+    "1140": {
+      "id": 1140,
+      "unlock": [
+        "PlayerLevel22"
+      ],
+      "reward": {
+        "Uniform2005": 1
+      },
+      "special": 1
+    },
+    "1150": {
+      "id": 1150,
+      "unlock": [
+        "PlayerLevel25"
+      ],
+      "reward": {
+        "90601": 1,
+        "Diamond": 138
+      },
+      "special": 0
+    },
+    "1160": {
+      "id": 1160,
+      "unlock": [
+        "PlayerLevel31"
+      ],
+      "reward": {
+        "90501": 1,
+        "Coin": 8888
+      },
+      "special": 0
+    },
+    "1170": {
+      "id": 1170,
+      "unlock": [
+        "PlayerLevel35"
+      ],
+      "reward": {
+        "98606": 1,
+        "Diamond": 188
+      },
+      "special": 0
+    },
+    "1180": {
+      "id": 1180,
+      "unlock": [
+        "PlayerLevel39"
+      ],
+      "reward": {
+        "98721": 1
+      },
+      "special": 1
+    },
+    "1190": {
+      "id": 1190,
+      "unlock": [
+        "PlayerLevel45"
+      ],
+      "reward": {
+        "Uniform1005": 1
+      },
+      "special": 1
+    },
+    "1200": {
+      "id": 1200,
+      "unlock": [
+        "PlayerLevel47"
+      ],
+      "reward": {
+        "98711": 1
+      },
+      "special": 1
+    },
+    "1210": {
+      "id": 1210,
+      "unlock": [
+        "PlayerLevel50"
+      ],
+      "reward": {
+        "98607": 1,
+        "Coin": 8888
+      },
+      "special": 0
+    },
+    "1220": {
+      "id": 1220,
+      "unlock": [
+        "PlayerLevel53"
+      ],
+      "reward": {
+        "98608": 1,
+        "99305": 2
+      },
+      "special": 0
+    },
+    "1230": {
+      "id": 1230,
+      "unlock": [
+        "PlayerLevel56"
+      ],
+      "reward": {
+        "Coin": 12000,
+        "AdornCoupon": 588
+      },
+      "special": 0
+    },
+    "1240": {
+      "id": 1240,
+      "unlock": [
+        "PlayerLevel60"
+      ],
+      "reward": {
+        "98701": 1
+      },
+      "special": 1
+    }
+  },
+  "2000": {
+    "2000": {
+      "id": 2000,
+      "unlock": [
+        "PlayerLevel60"
+      ],
+      "reward": {
+        "Diamond": 30,
+        "Energy": 88
+      },
+      "special": 0
+    },
+    "2010": {
+      "id": 2010,
+      "unlock": [
+        "PlayerLevel61"
+      ],
+      "reward": {
+        "AdornCoupon": 66,
+        "Coin": 1888
+      },
+      "special": 0
+    },
+    "2020": {
+      "id": 2020,
+      "unlock": [
+        "PlayerLevel62"
+      ],
+      "reward": {
+        "CardBag10002": 1
+      },
+      "special": 0
+    },
+    "2030": {
+      "id": 2030,
+      "unlock": [
+        "PlayerLevel63"
+      ],
+      "reward": {
+        "98711": 1
+      },
+      "special": 1
+    },
+    "2040": {
+      "id": 2040,
+      "unlock": [
+        "PlayerLevel64"
+      ],
+      "reward": {
+        "AdornCoupon": 88,
+        "Energy": 108
+      },
+      "special": 0
+    },
+    "2050": {
+      "id": 2050,
+      "unlock": [
+        "PlayerLevel65"
+      ],
+      "reward": {
+        "Diamond": 66,
+        "AdornCoupon": 166
+      },
+      "special": 0
+    },
+    "2060": {
+      "id": 2060,
+      "unlock": [
+        "PlayerLevel66"
+      ],
+      "reward": {
+        "CardBag10002": 2
+      },
+      "special": 0
+    },
+    "2070": {
+      "id": 2070,
+      "unlock": [
+        "PlayerLevel68"
+      ],
+      "reward": {
+        "Coin": 3666,
+        "AdornCoupon": 288
+      },
+      "special": 0
+    },
+    "2080": {
+      "id": 2080,
+      "unlock": [
+        "PlayerLevel70"
+      ],
+      "reward": {
+        "98701": 1
+      },
+      "special": 1
+    },
+    "2090": {
+      "id": 2090,
+      "unlock": [
+        "PlayerLevel72"
+      ],
+      "reward": {
+        "CardBag10002": 3
+      },
+      "special": 0
+    },
+    "2100": {
+      "id": 2100,
+      "unlock": [
+        "PlayerLevel74"
+      ],
+      "reward": {
+        "Diamond": 88,
+        "Coin": 6666
+      },
+      "special": 0
+    },
+    "2110": {
+      "id": 2110,
+      "unlock": [
+        "PlayerLevel76"
+      ],
+      "reward": {
+        "Energy": 128,
+        "AdornCoupon": 366
+      },
+      "special": 0
+    },
+    "2120": {
+      "id": 2120,
+      "unlock": [
+        "PlayerLevel78"
+      ],
+      "reward": {
+        "CardBag10002": 4
+      },
+      "special": 0
+    },
+    "2130": {
+      "id": 2130,
+      "unlock": [
+        "PlayerLevel80"
+      ],
+      "reward": {
+        "98721": 1
+      },
+      "special": 1
+    },
+    "2140": {
+      "id": 2140,
+      "unlock": [
+        "PlayerLevel83"
+      ],
+      "reward": {
+        "Coin": 8888,
+        "AdornCoupon": 588
+      },
+      "special": 0
+    },
+    "2150": {
+      "id": 2150,
+      "unlock": [
+        "PlayerLevel86"
+      ],
+      "reward": {
+        "Diamond": 108,
+        "Energy": 168
+      },
+      "special": 0
+    },
+    "2160": {
+      "id": 2160,
+      "unlock": [
+        "PlayerLevel88"
+      ],
+      "reward": {
+        "CardBag10002": 5
+      },
+      "special": 0
+    },
+    "2170": {
+      "id": 2170,
+      "unlock": [
+        "PlayerLevel90"
+      ],
+      "reward": {
+        "98731": 1
+      },
+      "special": 1
+    },
+    "2180": {
+      "id": 2180,
+      "unlock": [
+        "PlayerLevel93"
+      ],
+      "reward": {
+        "Diamond": 128,
+        "AdornCoupon": 888
+      },
+      "special": 0
+    },
+    "2190": {
+      "id": 2190,
+      "unlock": [
+        "PlayerLevel96"
+      ],
+      "reward": {
+        "CardBag10002": 6
+      },
+      "special": 0
+    },
+    "2200": {
+      "id": 2200,
+      "unlock": [
+        "PlayerLevel98"
+      ],
+      "reward": {
+        "Coin": 12666,
+        "Energy": 208
+      },
+      "special": 0
+    },
+    "2210": {
+      "id": 2210,
+      "unlock": [
+        "PlayerLevel100"
+      ],
+      "reward": {
+        "CardKing": 1
+      },
+      "special": 1
+    },
+    "2220": {
+      "id": 2220,
+      "unlock": [
+        "PlayerLevel104"
+      ],
+      "reward": {
+        "CardBag10002": 9
+      },
+      "special": 0
+    },
+    "2230": {
+      "id": 2230,
+      "unlock": [
+        "PlayerLevel107"
+      ],
+      "reward": {
+        "Diamond": 188,
+        "AdornCoupon": 1666
+      },
+      "special": 0
+    },
+    "2240": {
+      "id": 2240,
+      "unlock": [
+        "PlayerLevel110"
+      ],
+      "reward": {
+        "98741": 1
+      },
+      "special": 1
+    }
+  }
+}

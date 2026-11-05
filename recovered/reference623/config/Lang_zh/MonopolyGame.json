@@ -1,0 +1,14 @@
+{
+  "monopoly1": {
+    "id": "monopoly1",
+    "Title": "翻牌挑战",
+    "Explanation": "1.9张卡牌有每种卡牌各三张\n2.最先翻到相同的三张即可获得对应奖励",
+    "eventCoinName": "巡游币"
+  },
+  "monopoly2": {
+    "id": "monopoly2",
+    "Title": "翻牌挑战",
+    "Explanation": "1.9张卡牌有每种卡牌各三张\n2.最先翻到相同的三张即可获得对应奖励",
+    "eventCoinName": "巡游币"
+  }
+}

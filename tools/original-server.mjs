@@ -6,7 +6,9 @@ import crypto from 'node:crypto';
 const root = path.resolve(import.meta.dirname, '..');
 const port = Number(process.env.ORIGINAL_PORT || 4174);
 const layout = JSON.parse(fs.readFileSync(path.join(root, 'original/runtime-layout.json'), 'utf8'));
-if(layout.version!==1 || layout.source!=='client/subpackages/main/game.js')throw new Error('Unsupported original runtime layout');
+if(layout.version!==1 || !['client/subpackages/main/game.js','recovered/reference623/client/subpackages/main/game.js'].includes(layout.source))throw new Error('Unsupported original runtime layout');
+const runtimeClient = layout.source.replace(/\/subpackages\/main\/game\.js$/, '');
+const referenceRoot = runtimeClient.startsWith('recovered/reference623/') ? 'recovered/reference623' : null;
 const source = fs.readFileSync(path.join(root, layout.source), 'utf8');
 const sourceSha256 = crypto.createHash('sha256').update(source).digest('hex');
 if(sourceSha256!==layout.sha256 || source.length!==layout.utf16Length || !Number.isSafeInteger(layout.insertionOffset) || layout.insertionOffset<1_000_000 || source[layout.insertionOffset]!=='}') {
@@ -18,6 +20,8 @@ names.push('n9', 'z7', 'i9', 'A8', 'L7'); // Original screen/window navigator su
 names.push('gl'); // Original once-data byte-array protocol model.
 names.push('nO', 'ZN', 'rO');
 names.push('r_', 'KI'); // Original sound registry and home day/night clock.
+names.push('Z7', 'Q7', '$7', 'oee', 'GZ'); // Original standard story, rescue board and formal-guide entry.
+names.push('wl', 'rl', '_a', 'Pa'); // Original local shop group/item models and currency/column enums.
 const exposed = [...new Set(names)].map(n => `${JSON.stringify(n)}:typeof ${n}==='undefined'?undefined:${n}`).join(',');
 const injection = `\n;window.__ORIGINAL__={${exposed}};window.__ORIGINAL__.config=typeof Gle==='undefined'?window.config:Gle;window.__ORIGINAL__.classes={Lp:typeof Lp==='undefined'?undefined:Lp,Mp:typeof Mp==='undefined'?undefined:Mp,Np:typeof Np==='undefined'?undefined:Np,ll:typeof ll==='undefined'?undefined:ll,pl:typeof pl==='undefined'?undefined:pl,el:typeof el==='undefined'?undefined:el,Za:typeof Za==='undefined'?undefined:Za,Zc:typeof Zc==='undefined'?undefined:Zc,Mc:typeof Mc==='undefined'?undefined:Mc,Hc:typeof Hc==='undefined'?undefined:Hc};window.OriginalGameBridge=window.__ORIGINAL__;\n`;
 const instrumented = source.slice(0, layout.insertionOffset) + injection + source.slice(layout.insertionOffset);
@@ -27,6 +31,7 @@ const decodedFallback = new Map();
 const manifestVersions = new Map();
 function refreshNativeFallbacks() {
   const sources=['recovered/manifest.json','recovered/downloads/manifest.json','recovered/previews/textures.json'];
+  if(referenceRoot)sources.push(referenceRoot+'/manifest.json');
   if(sources.every(p=>manifestVersions.get(p)===fs.statSync(path.join(root,p)).mtimeMs))return;
   nativeFallback.clear();decodedFallback.clear();
   const register=(map,relative,sha)=>{
@@ -42,6 +47,11 @@ function refreshNativeFallbacks() {
   for(const f of downloads.files)if(f.path)register(nativeFallback,'recovered/downloads/'+f.path,f.sha256);
   const textures=JSON.parse(fs.readFileSync(path.join(root,sources[2]),'utf8'));
   for(const f of textures.files)register(decodedFallback,'recovered/previews/'+f.png,f.pngSha256);
+  if(referenceRoot){
+    const latest=JSON.parse(fs.readFileSync(path.join(root,referenceRoot,'manifest.json'),'utf8'));
+    for(const pack of latest.packages)for(const f of pack.files)register(nativeFallback,referenceRoot+'/'+f.path,f.sha256);
+    for(const f of latest.remote)register(nativeFallback,referenceRoot+'/'+f.path,f.sha256);
+  }
   for(const p of sources)manifestVersions.set(p,fs.statSync(path.join(root,p)).mtimeMs);
 }
 const mime = {'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.ttf':'font/ttf','.mp3':'audio/mpeg','.wav':'audio/wav','.ogg':'audio/ogg','.m4a':'audio/mp4','.bin':'application/octet-stream','.pvr':'application/octet-stream'};
@@ -63,14 +73,17 @@ function resourcePath(url) {
     if (pathname.startsWith('/subpackages/main/')) return file(['recovered/previews/packages/401/_subpackages_main_'+pathname]);
     return null;
   }
-  if (pathname.startsWith('/remote/')) return file(['recovered/remote/asset'+pathname,'recovered/downloads/asset'+pathname]);
-  if (pathname.startsWith('/asset/remote/')) return file(['recovered/remote'+pathname,'recovered/downloads'+pathname]);
+  if (pathname.startsWith('/remote/')) return file([...(referenceRoot?[referenceRoot+'/remote/asset'+pathname]:[]),'recovered/remote/asset'+pathname,'recovered/downloads/asset'+pathname]);
+  if (pathname.startsWith('/asset/remote/')) return file([...(referenceRoot?[referenceRoot+'/remote'+pathname]:[]),'recovered/remote'+pathname,'recovered/downloads'+pathname]);
+  if (referenceRoot && pathname==='/remoteRes/config/Config.bin') return file([referenceRoot+'/remote/asset/remote/gameAsset/native/0d/0d71221c-449b-4034-8b65-aef3e6d362bd.2a9aa.bin']);
+  if (referenceRoot && pathname==='/remoteRes/config/Lang_zh.bin') return file([referenceRoot+'/remote/asset/remote/zh/native/a2/a201d065-b4d0-49ba-a559-4ec556a42dc3.67faf.bin']);
   if (pathname.startsWith('/remoteRes/')) return file(['recovered/remote'+pathname]);
-  if (pathname.startsWith('/assets/main/')) return file(['client/subpackages/main/'+pathname.slice('/assets/main/'.length)]);
-  if (pathname.startsWith('/assets/internal/') || pathname.startsWith('/assets/resources/')) return file(['client'+pathname]);
-  if (pathname.startsWith('/assets/')) return file(['recovered/remote/asset/remote/'+pathname.slice('/assets/'.length),'recovered/downloads/asset/remote/'+pathname.slice('/assets/'.length)]);
-  if (pathname.startsWith('/subpackages/main/')) return file(['client'+pathname]);
-  if (pathname.startsWith('/src/scripts/')) return file(['client'+pathname]);
+  if (pathname.startsWith('/assets/main/')) return file([runtimeClient+'/subpackages/main/'+pathname.slice('/assets/main/'.length)]);
+  if (pathname.startsWith('/assets/internal/') || pathname.startsWith('/assets/resources/')) return file([runtimeClient+pathname]);
+  if (pathname.startsWith('/assets/')) return file([...(referenceRoot?[referenceRoot+'/remote/asset/remote/'+pathname.slice('/assets/'.length)]:[]),'recovered/remote/asset/remote/'+pathname.slice('/assets/'.length),'recovered/downloads/asset/remote/'+pathname.slice('/assets/'.length)]);
+  if (pathname.startsWith('/subpackages/main/')) return file([runtimeClient+pathname]);
+  if (pathname.startsWith('/src/scripts/')) return file([runtimeClient+pathname]);
+  if (pathname.startsWith('/client/')) return file([runtimeClient+pathname.slice('/client'.length)]);
   if (pathname.startsWith('/client/') || pathname.startsWith('/original/')) return file([pathname]);
   return null;
 }

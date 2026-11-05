@@ -1,0 +1,30 @@
+{
+  "101": {
+    "id": "101",
+    "belong": "bobo",
+    "type": 1,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "102": {
+    "id": "102",
+    "belong": "bobo2",
+    "type": 1,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "103": {
+    "id": "103",
+    "belong": "bobo3",
+    "type": 1,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  },
+  "104": {
+    "id": "104",
+    "belong": "bobo4",
+    "type": 1,
+    "mailIcon": "icon_huodong",
+    "mailBg": "bg_huodong"
+  }
+}

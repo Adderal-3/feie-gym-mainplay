@@ -1,0 +1,34 @@
+{
+  "zhenhuan": {
+    "gId": "zhenhuan",
+    "themeName": "甄嬛"
+  },
+  "general1": {
+    "gId": "general1",
+    "themeName": "财神"
+  },
+  "br1": {
+    "gId": "br1",
+    "themeName": "财神"
+  },
+  "moon2024": {
+    "gId": "moon2024",
+    "themeName": "财神"
+  },
+  "baixue": {
+    "gId": "baixue",
+    "themeName": "财神"
+  },
+  "theatre": {
+    "gId": "theatre",
+    "themeName": "财神"
+  },
+  "tiankong": {
+    "gId": "tiankong",
+    "themeName": "财神"
+  },
+  "tomjerry": {
+    "gId": "tomjerry",
+    "themeName": "财神"
+  }
+}

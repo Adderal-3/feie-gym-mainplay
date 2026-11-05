@@ -1,0 +1,212 @@
+{
+  "cauldron1": {
+    "1001": {
+      "rewardId": 1001,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "diamond": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1002": {
+      "rewardId": 1002,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "diamond": 30
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1003": {
+      "rewardId": 1003,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "diamond": 10
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "cauldron2": {
+    "1011": {
+      "rewardId": 1011,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "diamond": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1012": {
+      "rewardId": 1012,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "diamond": 30
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "1013": {
+      "rewardId": 1013,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "diamond": 10
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "cauldron3": {
+    "3001": {
+      "rewardId": 3001,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "diamond": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "3002": {
+      "rewardId": 3002,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "diamond": 30
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "3003": {
+      "rewardId": 3003,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "diamond": 10
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "cauldron4": {
+    "4001": {
+      "rewardId": 4001,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "diamond": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "4002": {
+      "rewardId": 4002,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "diamond": 30
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "4003": {
+      "rewardId": 4003,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "diamond": 10
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "cauldron5": {
+    "5001": {
+      "rewardId": 5001,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "diamond": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "5002": {
+      "rewardId": 5002,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "diamond": 30
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "5003": {
+      "rewardId": 5003,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "diamond": 10
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  },
+  "cauldron6": {
+    "6001": {
+      "rewardId": 6001,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "Energy": 100
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "6002": {
+      "rewardId": 6002,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Energy": 50
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    },
+    "6003": {
+      "rewardId": 6003,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Energy": 20
+      },
+      "mailIcon": "icon_huodong",
+      "mailBg": "bg_huodong"
+    }
+  }
+}

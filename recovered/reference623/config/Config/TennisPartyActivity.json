@@ -1,0 +1,15 @@
+{
+  "tennisParty1": {
+    "id": "tennisParty1",
+    "unlockCondition": [
+      "PlayerLevel35"
+    ],
+    "duration": 50400,
+    "cd": 600,
+    "buffOrderEnergyMin": 10,
+    "beginDialog": 18688,
+    "stage1Dialog": 18689,
+    "stage2Dialog": 18690,
+    "stage3Dialog": 18691
+  }
+}

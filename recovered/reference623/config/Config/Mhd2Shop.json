@@ -1,0 +1,7854 @@
+{
+  "mhd1": {
+    "1": {
+      "Id": 1,
+      "shopReward": {
+        "AdornSkin700706": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 1,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "2": {
+      "Id": 2,
+      "shopReward": {
+        "AdornSkin701805": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 1,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "3": {
+      "Id": 3,
+      "shopReward": {
+        "AdornSkin700207": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 1,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "4": {
+      "Id": 4,
+      "shopReward": {
+        "AdornSkin700906": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 1,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "5": {
+      "Id": 5,
+      "shopReward": {
+        "AdornSkin701709": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 1,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "6": {
+      "Id": 6,
+      "shopReward": {
+        "AdornSkin701506": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 1,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "7": {
+      "Id": 7,
+      "shopReward": {
+        "AdornSkin702307": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 2,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "8": {
+      "Id": 8,
+      "shopReward": {
+        "AdornSkin700605": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 2,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "9": {
+      "Id": 9,
+      "shopReward": {
+        "AdornSkin700507": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 2,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "10": {
+      "Id": 10,
+      "shopReward": {
+        "AdornSkin702008": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 2,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "11": {
+      "Id": 11,
+      "shopReward": {
+        "AdornSkin701408": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 2,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "12": {
+      "Id": 12,
+      "shopReward": {
+        "AdornSkin700805": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 2,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "13": {
+      "Id": 13,
+      "shopReward": {
+        "AdornSkin701607": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 3,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "14": {
+      "Id": 14,
+      "shopReward": {
+        "AdornSkin702106": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 3,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "15": {
+      "Id": 15,
+      "shopReward": {
+        "AdornSkin701305": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 3,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "16": {
+      "Id": 16,
+      "shopReward": {
+        "AdornSkin701005": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 3,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "17": {
+      "Id": 17,
+      "shopReward": {
+        "AdornSkin700105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 3,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "18": {
+      "Id": 18,
+      "shopReward": {
+        "Goose2115": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 3,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "19": {
+      "Id": 19,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "20": {
+      "Id": 20,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "21": {
+      "Id": 21,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "22": {
+      "Id": 22,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "23": {
+      "Id": 23,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "24": {
+      "Id": 24,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 4,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "25": {
+      "Id": 25,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "26": {
+      "Id": 26,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "27": {
+      "Id": 27,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "28": {
+      "Id": 28,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "29": {
+      "Id": 29,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "30": {
+      "Id": 30,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 4,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "31": {
+      "Id": 31,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "32": {
+      "Id": 32,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "33": {
+      "Id": 33,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "34": {
+      "Id": 34,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "35": {
+      "Id": 35,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "36": {
+      "Id": 36,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 4,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    }
+  },
+  "mhd2": {
+    "201": {
+      "Id": 201,
+      "shopReward": {
+        "AdornSkin100331": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 21,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "202": {
+      "Id": 202,
+      "shopReward": {
+        "AdornSkin102708": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 21,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "203": {
+      "Id": 203,
+      "shopReward": {
+        "AdornSkin102608": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 21,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "204": {
+      "Id": 204,
+      "shopReward": {
+        "AdornSkin101504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 21,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "205": {
+      "Id": 205,
+      "shopReward": {
+        "AdornSkin101207": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 21,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "206": {
+      "Id": 206,
+      "shopReward": {
+        "AdornSkin102206": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 21,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "207": {
+      "Id": 207,
+      "shopReward": {
+        "AdornSkin102809": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 22,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "208": {
+      "Id": 208,
+      "shopReward": {
+        "AdornSkin100907": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 22,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "209": {
+      "Id": 209,
+      "shopReward": {
+        "AdornSkin100708": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 22,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "210": {
+      "Id": 210,
+      "shopReward": {
+        "AdornSkin100607": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 22,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "211": {
+      "Id": 211,
+      "shopReward": {
+        "AdornSkin101905": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 22,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "212": {
+      "Id": 212,
+      "shopReward": {
+        "AdornSkin102105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 22,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "213": {
+      "Id": 213,
+      "shopReward": {
+        "AdornSkin100807": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 22,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "214": {
+      "Id": 214,
+      "shopReward": {
+        "AdornSkin102305": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 22,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "215": {
+      "Id": 215,
+      "shopReward": {
+        "AdornSkin100419": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 22,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "216": {
+      "Id": 216,
+      "shopReward": {
+        "AdornSkin101305": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 23,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "217": {
+      "Id": 217,
+      "shopReward": {
+        "AdornSkin101805": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 23,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "218": {
+      "Id": 218,
+      "shopReward": {
+        "AdornSkin101406": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "219": {
+      "Id": 219,
+      "shopReward": {
+        "AdornSkin102406": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "220": {
+      "Id": 220,
+      "shopReward": {
+        "AdornSkin101107": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "221": {
+      "Id": 221,
+      "shopReward": {
+        "AdornSkin101706": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "222": {
+      "Id": 222,
+      "shopReward": {
+        "AdornSkin100206": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "223": {
+      "Id": 223,
+      "shopReward": {
+        "AdornSkin100112": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "224": {
+      "Id": 224,
+      "shopReward": {
+        "Goose1097": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 23,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "225": {
+      "Id": 225,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "226": {
+      "Id": 226,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "227": {
+      "Id": 227,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "228": {
+      "Id": 228,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "229": {
+      "Id": 229,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "230": {
+      "Id": 230,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 24,
+      "color": 1,
+      "split": {
+        "AdornCoupon": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 0
+    },
+    "231": {
+      "Id": 231,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "232": {
+      "Id": 232,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "233": {
+      "Id": 233,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "234": {
+      "Id": 234,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "235": {
+      "Id": 235,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "236": {
+      "Id": 236,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 24,
+      "color": 2,
+      "split": {
+        "AdornCoupon": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 0
+    },
+    "237": {
+      "Id": 237,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "238": {
+      "Id": 238,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "239": {
+      "Id": 239,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "240": {
+      "Id": 240,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "241": {
+      "Id": 241,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    },
+    "242": {
+      "Id": 242,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 24,
+      "color": 3,
+      "split": {
+        "AdornCoupon": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 0
+    }
+  },
+  "mhd3": {
+    "301": {
+      "Id": 301,
+      "shopReward": {
+        "AdornSkin301906": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "302": {
+      "Id": 302,
+      "shopReward": {
+        "AdornSkin301305": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "303": {
+      "Id": 303,
+      "shopReward": {
+        "AdornSkin301707": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "304": {
+      "Id": 304,
+      "shopReward": {
+        "AdornSkin300605": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "305": {
+      "Id": 305,
+      "shopReward": {
+        "AdornSkin301008": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "306": {
+      "Id": 306,
+      "shopReward": {
+        "AdornSkin301206": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 31,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "307": {
+      "Id": 307,
+      "shopReward": {
+        "AdornSkin302106": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 32,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "308": {
+      "Id": 308,
+      "shopReward": {
+        "AdornSkin300706": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "309": {
+      "Id": 309,
+      "shopReward": {
+        "AdornSkin301805": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "310": {
+      "Id": 310,
+      "shopReward": {
+        "AdornSkin301105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "311": {
+      "Id": 311,
+      "shopReward": {
+        "AdornSkin302006": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "312": {
+      "Id": 312,
+      "shopReward": {
+        "AdornSkin300506": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "313": {
+      "Id": 313,
+      "shopReward": {
+        "AdornSkin301606": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "314": {
+      "Id": 314,
+      "shopReward": {
+        "AdornSkin300907": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 32,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "315": {
+      "Id": 315,
+      "shopReward": {
+        "AdornSkin300108": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 32,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "316": {
+      "Id": 316,
+      "shopReward": {
+        "AdornSkin301407": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "317": {
+      "Id": 317,
+      "shopReward": {
+        "AdornSkin301506": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "318": {
+      "Id": 318,
+      "shopReward": {
+        "AdornSkin300207": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "319": {
+      "Id": 319,
+      "shopReward": {
+        "AdornSkin301607": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "320": {
+      "Id": 320,
+      "shopReward": {
+        "AdornSkin300807": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "321": {
+      "Id": 321,
+      "shopReward": {
+        "Goose2117": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 33,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "322": {
+      "Id": 322,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "323": {
+      "Id": 323,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "324": {
+      "Id": 324,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "325": {
+      "Id": 325,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "326": {
+      "Id": 326,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "327": {
+      "Id": 327,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 34,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "328": {
+      "Id": 328,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "329": {
+      "Id": 329,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "330": {
+      "Id": 330,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "331": {
+      "Id": 331,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "332": {
+      "Id": 332,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "333": {
+      "Id": 333,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 34,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "334": {
+      "Id": 334,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "335": {
+      "Id": 335,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "336": {
+      "Id": 336,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "337": {
+      "Id": 337,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "338": {
+      "Id": 338,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "339": {
+      "Id": 339,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 34,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd4": {
+    "401": {
+      "Id": 401,
+      "shopReward": {
+        "AdornSkin1301004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "402": {
+      "Id": 402,
+      "shopReward": {
+        "AdornSkin1300904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 15,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "403": {
+      "Id": 403,
+      "shopReward": {
+        "AdornSkin1300604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "404": {
+      "Id": 404,
+      "shopReward": {
+        "AdornSkin1300704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "405": {
+      "Id": 405,
+      "shopReward": {
+        "AdornSkin1300204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "406": {
+      "Id": 406,
+      "shopReward": {
+        "AdornSkin1301504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 41,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "407": {
+      "Id": 407,
+      "shopReward": {
+        "AdornSkin1301204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 42,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "408": {
+      "Id": 408,
+      "shopReward": {
+        "AdornSkin1300404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 42,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "409": {
+      "Id": 409,
+      "shopReward": {
+        "AdornSkin1300504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 42,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "410": {
+      "Id": 410,
+      "shopReward": {
+        "AdornSkin1300804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "411": {
+      "Id": 411,
+      "shopReward": {
+        "AdornSkin1301804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "412": {
+      "Id": 412,
+      "shopReward": {
+        "AdornSkin1301404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "413": {
+      "Id": 413,
+      "shopReward": {
+        "AdornSkin1302504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "414": {
+      "Id": 414,
+      "shopReward": {
+        "AdornSkin1301304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "415": {
+      "Id": 415,
+      "shopReward": {
+        "AdornSkin1302104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 42,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "416": {
+      "Id": 416,
+      "shopReward": {
+        "AdornSkin1301904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 43,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "417": {
+      "Id": 417,
+      "shopReward": {
+        "AdornSkin1302004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 43,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "418": {
+      "Id": 418,
+      "shopReward": {
+        "AdornSkin1302704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 43,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "419": {
+      "Id": 419,
+      "shopReward": {
+        "AdornSkin1302404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "420": {
+      "Id": 420,
+      "shopReward": {
+        "AdornSkin1301104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "421": {
+      "Id": 421,
+      "shopReward": {
+        "AdornSkin1302304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "422": {
+      "Id": 422,
+      "shopReward": {
+        "AdornSkin1301604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "423": {
+      "Id": 423,
+      "shopReward": {
+        "AdornSkin1302604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "424": {
+      "Id": 424,
+      "shopReward": {
+        "Goose2122": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 43,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "425": {
+      "Id": 425,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "426": {
+      "Id": 426,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "427": {
+      "Id": 427,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "428": {
+      "Id": 428,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "429": {
+      "Id": 429,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "430": {
+      "Id": 430,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 44,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "431": {
+      "Id": 431,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "432": {
+      "Id": 432,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "433": {
+      "Id": 433,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "434": {
+      "Id": 434,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "435": {
+      "Id": 435,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "436": {
+      "Id": 436,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 44,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "437": {
+      "Id": 437,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "438": {
+      "Id": 438,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "439": {
+      "Id": 439,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "440": {
+      "Id": 440,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "441": {
+      "Id": 441,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "442": {
+      "Id": 442,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 44,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd5": {
+    "501": {
+      "Id": 501,
+      "shopReward": {
+        "AdornSkinRebate601204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "502": {
+      "Id": 502,
+      "shopReward": {
+        "AdornSkinRebate602004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "503": {
+      "Id": 503,
+      "shopReward": {
+        "AdornSkinRebate601904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "504": {
+      "Id": 504,
+      "shopReward": {
+        "AdornSkinRebate601104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "505": {
+      "Id": 505,
+      "shopReward": {
+        "AdornSkinRebate602204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "506": {
+      "Id": 506,
+      "shopReward": {
+        "AdornSkinRebate600504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 51,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "507": {
+      "Id": 507,
+      "shopReward": {
+        "AdornSkinRebate602104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 52,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "508": {
+      "Id": 508,
+      "shopReward": {
+        "AdornSkinRebate600704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "509": {
+      "Id": 509,
+      "shopReward": {
+        "AdornSkinRebate601604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "510": {
+      "Id": 510,
+      "shopReward": {
+        "AdornSkinRebate600604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "511": {
+      "Id": 511,
+      "shopReward": {
+        "AdornSkinRebate601804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "512": {
+      "Id": 512,
+      "shopReward": {
+        "AdornSkinRebate600104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "513": {
+      "Id": 513,
+      "shopReward": {
+        "AdornSkinRebate601404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "514": {
+      "Id": 514,
+      "shopReward": {
+        "AdornSkinRebate600804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 52,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "515": {
+      "Id": 515,
+      "shopReward": {
+        "AdornSkinRebate100105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 52,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "516": {
+      "Id": 516,
+      "shopReward": {
+        "AdornSkinRebate600404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "517": {
+      "Id": 517,
+      "shopReward": {
+        "AdornSkinRebate601304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "518": {
+      "Id": 518,
+      "shopReward": {
+        "AdornSkinRebate600904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "519": {
+      "Id": 519,
+      "shopReward": {
+        "AdornSkinRebate601006": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "520": {
+      "Id": 520,
+      "shopReward": {
+        "AdornSkinRebate600204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "521": {
+      "Id": 521,
+      "shopReward": {
+        "GooseRebate1047": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 53,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "522": {
+      "Id": 522,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "523": {
+      "Id": 523,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "524": {
+      "Id": 524,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "525": {
+      "Id": 525,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "526": {
+      "Id": 526,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "527": {
+      "Id": 527,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 54,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "528": {
+      "Id": 528,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "529": {
+      "Id": 529,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "530": {
+      "Id": 530,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "531": {
+      "Id": 531,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "532": {
+      "Id": 532,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "533": {
+      "Id": 533,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 54,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "534": {
+      "Id": 534,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "535": {
+      "Id": 535,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "536": {
+      "Id": 536,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "537": {
+      "Id": 537,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "538": {
+      "Id": 538,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "539": {
+      "Id": 539,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 54,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd6": {
+    "601": {
+      "Id": 601,
+      "shopReward": {
+        "AdornSkin1100504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "602": {
+      "Id": 602,
+      "shopReward": {
+        "AdornSkin1100704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 15,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "603": {
+      "Id": 603,
+      "shopReward": {
+        "AdornSkin1100904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "604": {
+      "Id": 604,
+      "shopReward": {
+        "AdornSkin1101704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "605": {
+      "Id": 605,
+      "shopReward": {
+        "AdornSkin1101004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "606": {
+      "Id": 606,
+      "shopReward": {
+        "AdornSkin1102304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 61,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "607": {
+      "Id": 607,
+      "shopReward": {
+        "AdornSkin1101304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 62,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "608": {
+      "Id": 608,
+      "shopReward": {
+        "AdornSkin1102404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 62,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "609": {
+      "Id": 609,
+      "shopReward": {
+        "AdornSkin1102604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 62,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "610": {
+      "Id": 610,
+      "shopReward": {
+        "AdornSkin1101104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "611": {
+      "Id": 611,
+      "shopReward": {
+        "AdornSkin1101204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "612": {
+      "Id": 612,
+      "shopReward": {
+        "AdornSkin1101804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "613": {
+      "Id": 613,
+      "shopReward": {
+        "AdornSkin1100804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "614": {
+      "Id": 614,
+      "shopReward": {
+        "AdornSkin1101504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "615": {
+      "Id": 615,
+      "shopReward": {
+        "AdornSkin1101604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 62,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "616": {
+      "Id": 616,
+      "shopReward": {
+        "AdornSkin1102504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 63,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "617": {
+      "Id": 617,
+      "shopReward": {
+        "AdornSkin1101904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 63,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "618": {
+      "Id": 618,
+      "shopReward": {
+        "AdornSkin1102104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 63,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "619": {
+      "Id": 619,
+      "shopReward": {
+        "AdornSkin1102204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "620": {
+      "Id": 620,
+      "shopReward": {
+        "AdornSkin1101404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "621": {
+      "Id": 621,
+      "shopReward": {
+        "AdornSkin1100604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "622": {
+      "Id": 622,
+      "shopReward": {
+        "AdornSkin1100204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "623": {
+      "Id": 623,
+      "shopReward": {
+        "AdornSkin1100104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "624": {
+      "Id": 624,
+      "shopReward": {
+        "Goose1109": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 63,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "625": {
+      "Id": 625,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "626": {
+      "Id": 626,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "627": {
+      "Id": 627,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "628": {
+      "Id": 628,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "629": {
+      "Id": 629,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "630": {
+      "Id": 630,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 64,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "631": {
+      "Id": 631,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "632": {
+      "Id": 632,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "633": {
+      "Id": 633,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "634": {
+      "Id": 634,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "635": {
+      "Id": 635,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "636": {
+      "Id": 636,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 64,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "637": {
+      "Id": 637,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "638": {
+      "Id": 638,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "639": {
+      "Id": 639,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "640": {
+      "Id": 640,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "641": {
+      "Id": 641,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "642": {
+      "Id": 642,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 64,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd7": {
+    "701": {
+      "Id": 701,
+      "shopReward": {
+        "AdornSkin901104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "702": {
+      "Id": 702,
+      "shopReward": {
+        "AdornSkin900804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "703": {
+      "Id": 703,
+      "shopReward": {
+        "AdornSkin900204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "704": {
+      "Id": 704,
+      "shopReward": {
+        "AdornSkin900704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "705": {
+      "Id": 705,
+      "shopReward": {
+        "AdornSkin902004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "706": {
+      "Id": 706,
+      "shopReward": {
+        "AdornSkin901404": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 71,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "707": {
+      "Id": 707,
+      "shopReward": {
+        "AdornSkin901704": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 72,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "708": {
+      "Id": 708,
+      "shopReward": {
+        "AdornSkin901504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "709": {
+      "Id": 709,
+      "shopReward": {
+        "AdornSkin901604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "710": {
+      "Id": 710,
+      "shopReward": {
+        "AdornSkin901804": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "711": {
+      "Id": 711,
+      "shopReward": {
+        "AdornSkin901904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "712": {
+      "Id": 712,
+      "shopReward": {
+        "AdornSkin901204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "713": {
+      "Id": 713,
+      "shopReward": {
+        "AdornSkin902204": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "714": {
+      "Id": 714,
+      "shopReward": {
+        "AdornSkin901306": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 72,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "715": {
+      "Id": 715,
+      "shopReward": {
+        "AdornSkin900504": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 72,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "716": {
+      "Id": 716,
+      "shopReward": {
+        "AdornSkin902304": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "717": {
+      "Id": 717,
+      "shopReward": {
+        "AdornSkin901004": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "718": {
+      "Id": 718,
+      "shopReward": {
+        "AdornSkin900904": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "719": {
+      "Id": 719,
+      "shopReward": {
+        "AdornSkin900604": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "720": {
+      "Id": 720,
+      "shopReward": {
+        "AdornSkin902104": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "721": {
+      "Id": 721,
+      "shopReward": {
+        "Goose2130": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 73,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "722": {
+      "Id": 722,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "723": {
+      "Id": 723,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "724": {
+      "Id": 724,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "725": {
+      "Id": 725,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "726": {
+      "Id": 726,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "727": {
+      "Id": 727,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 74,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "728": {
+      "Id": 728,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "729": {
+      "Id": 729,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "730": {
+      "Id": 730,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "731": {
+      "Id": 731,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "732": {
+      "Id": 732,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "733": {
+      "Id": 733,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 74,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 10
+    },
+    "734": {
+      "Id": 734,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "735": {
+      "Id": 735,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "736": {
+      "Id": 736,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "737": {
+      "Id": 737,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "738": {
+      "Id": 738,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "739": {
+      "Id": 739,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 74,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd8": {
+    "801": {
+      "Id": 801,
+      "shopReward": {
+        "AdornSkin1401303": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 81,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "802": {
+      "Id": 802,
+      "shopReward": {
+        "AdornSkin1400903": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 81,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "803": {
+      "Id": 803,
+      "shopReward": {
+        "AdornSkin1400603": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 81,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "804": {
+      "Id": 804,
+      "shopReward": {
+        "AdornSkin1402403": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 82,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "805": {
+      "Id": 805,
+      "shopReward": {
+        "AdornSkin1400403": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 82,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "806": {
+      "Id": 806,
+      "shopReward": {
+        "AdornSkin1400703": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 82,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "807": {
+      "Id": 807,
+      "shopReward": {
+        "AdornSkin1400103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "808": {
+      "Id": 808,
+      "shopReward": {
+        "AdornSkin1401003": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "809": {
+      "Id": 809,
+      "shopReward": {
+        "AdornSkin1402503": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "810": {
+      "Id": 810,
+      "shopReward": {
+        "AdornSkin1401803": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "811": {
+      "Id": 811,
+      "shopReward": {
+        "AdornSkin1401103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "812": {
+      "Id": 812,
+      "shopReward": {
+        "Goose1115": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 83,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "813": {
+      "Id": 813,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "814": {
+      "Id": 814,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "815": {
+      "Id": 815,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "816": {
+      "Id": 816,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "817": {
+      "Id": 817,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "818": {
+      "Id": 818,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 84,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "819": {
+      "Id": 819,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "820": {
+      "Id": 820,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "821": {
+      "Id": 821,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "822": {
+      "Id": 822,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "823": {
+      "Id": 823,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "824": {
+      "Id": 824,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 84,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "825": {
+      "Id": 825,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "826": {
+      "Id": 826,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "827": {
+      "Id": 827,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "828": {
+      "Id": 828,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "829": {
+      "Id": 829,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "830": {
+      "Id": 830,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 84,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd9": {
+    "901": {
+      "Id": 901,
+      "shopReward": {
+        "AdornSkin1401503": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 91,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "902": {
+      "Id": 902,
+      "shopReward": {
+        "AdornSkin1402103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 91,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "903": {
+      "Id": 903,
+      "shopReward": {
+        "AdornSkin1402003": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 91,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "904": {
+      "Id": 904,
+      "shopReward": {
+        "AdornSkin1401703": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 92,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "905": {
+      "Id": 905,
+      "shopReward": {
+        "AdornSkin1401203": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 92,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "906": {
+      "Id": 906,
+      "shopReward": {
+        "AdornSkin1400203": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 92,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "907": {
+      "Id": 907,
+      "shopReward": {
+        "AdornSkin1400803": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "908": {
+      "Id": 908,
+      "shopReward": {
+        "AdornSkin1401903": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "909": {
+      "Id": 909,
+      "shopReward": {
+        "AdornSkin1402303": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "910": {
+      "Id": 910,
+      "shopReward": {
+        "AdornSkin1400503": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "911": {
+      "Id": 911,
+      "shopReward": {
+        "AdornSkin1401603": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "912": {
+      "Id": 912,
+      "shopReward": {
+        "Goose2135": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 93,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "913": {
+      "Id": 913,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "914": {
+      "Id": 914,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "915": {
+      "Id": 915,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "916": {
+      "Id": 916,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "917": {
+      "Id": 917,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "918": {
+      "Id": 918,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 94,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "919": {
+      "Id": 919,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "920": {
+      "Id": 920,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "921": {
+      "Id": 921,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "922": {
+      "Id": 922,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "923": {
+      "Id": 923,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "924": {
+      "Id": 924,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 94,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "925": {
+      "Id": 925,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "926": {
+      "Id": 926,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "927": {
+      "Id": 927,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "928": {
+      "Id": 928,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "929": {
+      "Id": 929,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "930": {
+      "Id": 930,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 94,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd10": {
+    "1001": {
+      "Id": 1001,
+      "shopReward": {
+        "AdornSkin1800202": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 101,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1002": {
+      "Id": 1002,
+      "shopReward": {
+        "AdornSkin1801102": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 101,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1003": {
+      "Id": 1003,
+      "shopReward": {
+        "AdornSkin1801502": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 101,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1004": {
+      "Id": 1004,
+      "shopReward": {
+        "AdornSkin1800702": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 102,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1005": {
+      "Id": 1005,
+      "shopReward": {
+        "AdornSkin1800902": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 102,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1006": {
+      "Id": 1006,
+      "shopReward": {
+        "AdornSkin1801302": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 102,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1007": {
+      "Id": 1007,
+      "shopReward": {
+        "AdornSkin1800802": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1008": {
+      "Id": 1008,
+      "shopReward": {
+        "AdornSkin1802102": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1009": {
+      "Id": 1009,
+      "shopReward": {
+        "AdornSkin1801402": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1010": {
+      "Id": 1010,
+      "shopReward": {
+        "AdornSkin1801602": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1011": {
+      "Id": 1011,
+      "shopReward": {
+        "AdornSkin1800603": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1012": {
+      "Id": 1012,
+      "shopReward": {
+        "Goose2137": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 103,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1013": {
+      "Id": 1013,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1014": {
+      "Id": 1014,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1015": {
+      "Id": 1015,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1016": {
+      "Id": 1016,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1017": {
+      "Id": 1017,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1018": {
+      "Id": 1018,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 104,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1019": {
+      "Id": 1019,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1020": {
+      "Id": 1020,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1021": {
+      "Id": 1021,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1022": {
+      "Id": 1022,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1023": {
+      "Id": 1023,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1024": {
+      "Id": 1024,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 104,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1025": {
+      "Id": 1025,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1026": {
+      "Id": 1026,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1027": {
+      "Id": 1027,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1028": {
+      "Id": 1028,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1029": {
+      "Id": 1029,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1030": {
+      "Id": 1030,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 104,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd12": {
+    "1201": {
+      "Id": 1201,
+      "shopReward": {
+        "AdornSkin1201405": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 121,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1202": {
+      "Id": 1202,
+      "shopReward": {
+        "AdornSkin1200505": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 121,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1203": {
+      "Id": 1203,
+      "shopReward": {
+        "AdornSkin1201306": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 121,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1204": {
+      "Id": 1204,
+      "shopReward": {
+        "AdornSkin1201808": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 122,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1205": {
+      "Id": 1205,
+      "shopReward": {
+        "AdornSkin1200705": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 122,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1206": {
+      "Id": 1206,
+      "shopReward": {
+        "AdornSkin1201505": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 122,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1207": {
+      "Id": 1207,
+      "shopReward": {
+        "AdornSkin1201705": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1208": {
+      "Id": 1208,
+      "shopReward": {
+        "AdornSkin1202005": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1209": {
+      "Id": 1209,
+      "shopReward": {
+        "AdornSkin1201205": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1210": {
+      "Id": 1210,
+      "shopReward": {
+        "AdornSkin1200205": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1211": {
+      "Id": 1211,
+      "shopReward": {
+        "AdornSkin1200605": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1212": {
+      "Id": 1212,
+      "shopReward": {
+        "Goose2141": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 123,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1213": {
+      "Id": 1213,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1214": {
+      "Id": 1214,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1215": {
+      "Id": 1215,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1216": {
+      "Id": 1216,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1217": {
+      "Id": 1217,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1218": {
+      "Id": 1218,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 124,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1219": {
+      "Id": 1219,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1220": {
+      "Id": 1220,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1221": {
+      "Id": 1221,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1222": {
+      "Id": 1222,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1223": {
+      "Id": 1223,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1224": {
+      "Id": 1224,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 124,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1225": {
+      "Id": 1225,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1226": {
+      "Id": 1226,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1227": {
+      "Id": 1227,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1228": {
+      "Id": 1228,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1229": {
+      "Id": 1229,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1230": {
+      "Id": 1230,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 124,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd11": {
+    "1101": {
+      "Id": 1101,
+      "shopReward": {
+        "AdornSkin1800502": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 111,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1102": {
+      "Id": 1102,
+      "shopReward": {
+        "AdornSkin1802002": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 111,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1103": {
+      "Id": 1103,
+      "shopReward": {
+        "AdornSkin1801902": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 111,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1104": {
+      "Id": 1104,
+      "shopReward": {
+        "AdornSkin1800602": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 112,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1105": {
+      "Id": 1105,
+      "shopReward": {
+        "AdornSkin1801202": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 112,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1106": {
+      "Id": 1106,
+      "shopReward": {
+        "AdornSkin1801802": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 112,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1107": {
+      "Id": 1107,
+      "shopReward": {
+        "AdornSkin1802202": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1108": {
+      "Id": 1108,
+      "shopReward": {
+        "AdornSkin1800102": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1109": {
+      "Id": 1109,
+      "shopReward": {
+        "AdornSkin1801002": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1110": {
+      "Id": 1110,
+      "shopReward": {
+        "AdornSkin1802303": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1111": {
+      "Id": 1111,
+      "shopReward": {
+        "AdornSkin1801303": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1112": {
+      "Id": 1112,
+      "shopReward": {
+        "Goose1119": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 113,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1113": {
+      "Id": 1113,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1114": {
+      "Id": 1114,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1115": {
+      "Id": 1115,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1116": {
+      "Id": 1116,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1117": {
+      "Id": 1117,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1118": {
+      "Id": 1118,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 114,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1119": {
+      "Id": 1119,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1120": {
+      "Id": 1120,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1121": {
+      "Id": 1121,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1122": {
+      "Id": 1122,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1123": {
+      "Id": 1123,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1124": {
+      "Id": 1124,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 114,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1125": {
+      "Id": 1125,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1126": {
+      "Id": 1126,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1127": {
+      "Id": 1127,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1128": {
+      "Id": 1128,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1129": {
+      "Id": 1129,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1130": {
+      "Id": 1130,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 114,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd13": {
+    "1301": {
+      "Id": 1301,
+      "shopReward": {
+        "AdornSkin1202306": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 131,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1302": {
+      "Id": 1302,
+      "shopReward": {
+        "AdornSkin1200805": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 131,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1303": {
+      "Id": 1303,
+      "shopReward": {
+        "AdornSkin1201605": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 131,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1304": {
+      "Id": 1304,
+      "shopReward": {
+        "AdornSkin1201005": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 132,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1305": {
+      "Id": 1305,
+      "shopReward": {
+        "AdornSkin1202206": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 132,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1306": {
+      "Id": 1306,
+      "shopReward": {
+        "AdornSkin1200105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 132,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1307": {
+      "Id": 1307,
+      "shopReward": {
+        "AdornSkin1202106": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1308": {
+      "Id": 1308,
+      "shopReward": {
+        "AdornSkin1200905": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1309": {
+      "Id": 1309,
+      "shopReward": {
+        "AdornSkin1201105": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1310": {
+      "Id": 1310,
+      "shopReward": {
+        "AdornSkin1201905": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1311": {
+      "Id": 1311,
+      "shopReward": {
+        "AdornSkin1200405": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1312": {
+      "Id": 1312,
+      "shopReward": {
+        "Goose2145": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 133,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1313": {
+      "Id": 1313,
+      "shopReward": {
+        "Coin": 300
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1314": {
+      "Id": 1314,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1315": {
+      "Id": 1315,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1316": {
+      "Id": 1316,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1317": {
+      "Id": 1317,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1318": {
+      "Id": 1318,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 134,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1319": {
+      "Id": 1319,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1320": {
+      "Id": 1320,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1321": {
+      "Id": 1321,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1322": {
+      "Id": 1322,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1323": {
+      "Id": 1323,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1324": {
+      "Id": 1324,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 134,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1325": {
+      "Id": 1325,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1326": {
+      "Id": 1326,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1327": {
+      "Id": 1327,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1328": {
+      "Id": 1328,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1329": {
+      "Id": 1329,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1330": {
+      "Id": 1330,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 134,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  },
+  "mhd14": {
+    "1401": {
+      "Id": 1401,
+      "shopReward": {
+        "AdornSkinRebate1100903": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 10,
+      "limit": 1,
+      "group": 141,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1402": {
+      "Id": 1402,
+      "shopReward": {
+        "AdornSkinRebate1101203": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 141,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1403": {
+      "Id": 1403,
+      "shopReward": {
+        "AdornSkinRebate1101103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 30,
+      "limit": 1,
+      "group": 141,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 10000
+    },
+    "1404": {
+      "Id": 1404,
+      "shopReward": {
+        "AdornSkinRebate1100803": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 142,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1405": {
+      "Id": 1405,
+      "shopReward": {
+        "AdornSkinRebate1100703": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 142,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1406": {
+      "Id": 1406,
+      "shopReward": {
+        "AdornSkinRebate1102503": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 20,
+      "limit": 1,
+      "group": 142,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1407": {
+      "Id": 1407,
+      "shopReward": {
+        "AdornSkinRebate1102103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1408": {
+      "Id": 1408,
+      "shopReward": {
+        "AdornSkinRebate1101503": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1409": {
+      "Id": 1409,
+      "shopReward": {
+        "AdornSkinRebate1101803": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1410": {
+      "Id": 1410,
+      "shopReward": {
+        "AdornSkinRebate1100603": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1411": {
+      "Id": 1411,
+      "shopReward": {
+        "AdornSkinRebate1100103": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 5,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 5
+    },
+    "1412": {
+      "Id": 1412,
+      "shopReward": {
+        "Goose1121": 1
+      },
+      "gambleLevel": 0,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 143,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1413": {
+      "Id": 1413,
+      "shopReward": {
+        "AdornSkinRebate1101703": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 1,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1414": {
+      "Id": 1414,
+      "shopReward": {
+        "AdornCoupon": 100
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": -1,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1415": {
+      "Id": 1415,
+      "shopReward": {
+        "Energy": 50
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1416": {
+      "Id": 1416,
+      "shopReward": {
+        "98401": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1417": {
+      "Id": 1417,
+      "shopReward": {
+        "98301": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1418": {
+      "Id": 1418,
+      "shopReward": {
+        "98803": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 25,
+      "limit": 5,
+      "group": 144,
+      "color": 1,
+      "split": {
+        "MhdIICoin": 1
+      },
+      "colorUI": 2,
+      "intactWeight": 1000
+    },
+    "1419": {
+      "Id": 1419,
+      "shopReward": {
+        "90501": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1420": {
+      "Id": 1420,
+      "shopReward": {
+        "90601": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1421": {
+      "Id": 1421,
+      "shopReward": {
+        "Diamond": 200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 1,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1422": {
+      "Id": 1422,
+      "shopReward": {
+        "AdornCoupon": 400
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": -1,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1423": {
+      "Id": 1423,
+      "shopReward": {
+        "98402": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1424": {
+      "Id": 1424,
+      "shopReward": {
+        "98302": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 12,
+      "limit": 2,
+      "group": 144,
+      "color": 2,
+      "split": {
+        "MhdIICoin": 2
+      },
+      "colorUI": 5,
+      "intactWeight": 100
+    },
+    "1425": {
+      "Id": 1425,
+      "shopReward": {
+        "AdornCoupon": 1200
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": -1,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1426": {
+      "Id": 1426,
+      "shopReward": {
+        "98303": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1427": {
+      "Id": 1427,
+      "shopReward": {
+        "98403": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 5,
+      "limit": 2,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 10
+    },
+    "1428": {
+      "Id": 1428,
+      "shopReward": {
+        "98701": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1429": {
+      "Id": 1429,
+      "shopReward": {
+        "98711": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    },
+    "1430": {
+      "Id": 1430,
+      "shopReward": {
+        "98721": 1
+      },
+      "gambleLevel": 1,
+      "peiceCount": 8,
+      "limit": 1,
+      "group": 144,
+      "color": 3,
+      "split": {
+        "MhdIICoin": 3
+      },
+      "colorUI": 6,
+      "intactWeight": 1
+    }
+  }
+}

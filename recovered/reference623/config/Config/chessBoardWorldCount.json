@@ -1,0 +1,46 @@
+{
+  "1": {
+    "id": 1,
+    "channel": [
+      "release",
+      "audit",
+      "weixin",
+      "redbook",
+      "hortor",
+      "douyintf",
+      "wangyi",
+      "taptap",
+      "douyin",
+      "AppStore"
+    ],
+    "numberElement": 10000000
+  },
+  "2": {
+    "id": 2,
+    "channel": [
+      "release-yh",
+      "audit-yh",
+      "vivo",
+      "oppo",
+      "xiaomi",
+      "huawei"
+    ],
+    "numberElement": 200000
+  },
+  "3": {
+    "id": 3,
+    "channel": [
+      "release-douyin",
+      "audit-douyin",
+      "dymini"
+    ],
+    "numberElement": 50000
+  },
+  "999": {
+    "id": 999,
+    "channel": [
+      "test"
+    ],
+    "numberElement": 10000000
+  }
+}

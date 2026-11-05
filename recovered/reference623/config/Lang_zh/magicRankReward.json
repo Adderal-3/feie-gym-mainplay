@@ -1,0 +1,122 @@
+{
+  "cauldron1": {
+    "1001": {
+      "rewardId": 1001,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "1002": {
+      "rewardId": 1002,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "1003": {
+      "rewardId": 1003,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  },
+  "cauldron2": {
+    "1011": {
+      "rewardId": 1011,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "1012": {
+      "rewardId": 1012,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "1013": {
+      "rewardId": 1013,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  },
+  "cauldron3": {
+    "3001": {
+      "rewardId": 3001,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "3002": {
+      "rewardId": 3002,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "3003": {
+      "rewardId": 3003,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  },
+  "cauldron4": {
+    "4001": {
+      "rewardId": 4001,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "4002": {
+      "rewardId": 4002,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "4003": {
+      "rewardId": 4003,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  },
+  "cauldron5": {
+    "5001": {
+      "rewardId": 5001,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "5002": {
+      "rewardId": 5002,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "5003": {
+      "rewardId": 5003,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  },
+  "cauldron6": {
+    "6001": {
+      "rewardId": 6001,
+      "mailContent": "我的魔药作业得到了A+！！太好了！多亏了店长大人！不知道这些你用不用得上，以后你就是我的好朋友，有需要的和我说！",
+      "mailTitle": "魔法师的友谊",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "6002": {
+      "rewardId": 6002,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    },
+    "6003": {
+      "rewardId": 6003,
+      "mailContent": "顺利把魔药作业糊弄过去了，取得了不错的成绩！谢谢你，店长大人！",
+      "mailTitle": "魔法师的谢礼",
+      "mailSignature": "魔法师肥鹅"
+    }
+  }
+}

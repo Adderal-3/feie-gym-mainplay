@@ -1,0 +1,33 @@
+{
+  "mhd1": {
+    "id": "mhd1",
+    "BeginDialog": 7015,
+    "FirstBuy": {},
+    "StageFinish": {}
+  },
+  "mhd2": {
+    "id": "mhd2",
+    "BeginDialog": 8912,
+    "FirstBuy": {
+      "103": 8913,
+      "104": 8914,
+      "107": 8915,
+      "111": 8916,
+      "114": 8917
+    },
+    "StageFinish": {
+      "106": 8918
+    }
+  },
+  "mhd3": {
+    "id": "mhd3",
+    "BeginDialog": 8912,
+    "FirstBuy": {
+      "203": 8919,
+      "205": 8920,
+      "220": 8921,
+      "224": 8922
+    },
+    "StageFinish": {}
+  }
+}

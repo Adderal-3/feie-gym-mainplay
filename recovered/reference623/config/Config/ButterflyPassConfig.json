@@ -1,0 +1,187 @@
+{
+  "butterfly": {
+    "id": "butterfly",
+    "unlock": [
+      "PlayerLevel14"
+    ],
+    "mainBgImagePath": "Texture/UI/ThemePass/bg_TP_03",
+    "explainImagePath": "Texture/UI/ThemePass/img_TP_tips",
+    "pointIconPath": "Texture/UI/ThemePass/icon_TP_butterfly",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "passIDWeight": {
+      "1": 100,
+      "2": 5
+    },
+    "bubblePassIDWeight": {
+      "1": 0,
+      "2": 100
+    },
+    "passInitTimes": [
+      1,
+      1,
+      11,
+      3,
+      12,
+      6,
+      11
+    ],
+    "passInitOrder": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "mainImagePath": "Texture/UI/ThemePass/img_TP_step",
+    "buyPassImagePath": "Texture/UI/ThemePass/img_TP_02",
+    "endGameImagePath": "Texture/UI/ThemePass/img_TP_03",
+    "butterflyElementSeries": [
+      "A_1",
+      "A_2",
+      "B_1",
+      "B_2",
+      "B_3",
+      "C_1",
+      "C_2",
+      "D_1",
+      "D_2",
+      "E_3",
+      "F_1",
+      "G_0",
+      "G_1",
+      "G_2",
+      "G_4",
+      "H_2",
+      "I_1",
+      "I_2",
+      "Coin",
+      "Energy",
+      "Diamond",
+      "Dlc_2",
+      "Dlc_4",
+      "Dlc_6",
+      "Dlc_8",
+      "Dlc_9",
+      "Dlc_10",
+      "Dlc_13",
+      "Dlc_14",
+      "Dlc_16",
+      "Dlc_18",
+      "Dlc_19",
+      "Scene_2"
+    ],
+    "butterflyBoard": [
+      "Main"
+    ],
+    "passId": 200000,
+    "pointImage1": "butter_z1",
+    "pointImage2": "butter_h1",
+    "iconSpine": "hudierukou"
+  },
+  "feather999": {
+    "id": "feather999",
+    "unlock": [
+      "PlayerLevel5"
+    ],
+    "mainBgImagePath": "Texture/UI/ThemePass/bg_TP_03_feather",
+    "explainImagePath": "Texture/UI/ThemePass/img_TP_tips",
+    "pointIconPath": "Texture/UI/ThemePass/icon_TP_butterfly_feather",
+    "initPassPoint": 0,
+    "mergeTimes": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "passWeight": [
+      60,
+      80,
+      120,
+      160,
+      500,
+      1000
+    ],
+    "passIDWeight": {
+      "1": 100,
+      "2": 5
+    },
+    "bubblePassIDWeight": {
+      "1": 0,
+      "2": 100
+    },
+    "passInitTimes": [
+      1,
+      1,
+      11,
+      3,
+      12,
+      6,
+      11
+    ],
+    "passInitOrder": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "mainImagePath": "Texture/UI/ThemePass/img_TP_step_feather",
+    "buyPassImagePath": "Texture/UI/ThemePass/img_TP_02_feather",
+    "endGameImagePath": "Texture/UI/ThemePass/img_TP_03_feather",
+    "butterflyElementSeries": [
+      "A_1",
+      "A_2",
+      "B_1",
+      "B_2",
+      "B_3",
+      "C_1",
+      "C_2",
+      "D_1",
+      "D_2",
+      "E_3",
+      "F_1",
+      "G_0",
+      "G_1",
+      "G_2",
+      "G_4",
+      "H_2",
+      "I_1",
+      "I_2",
+      "Coin",
+      "Energy",
+      "Diamond",
+      "Dlc_2",
+      "Dlc_4",
+      "Dlc_6",
+      "Dlc_8",
+      "Dlc_9"
+    ],
+    "butterflyBoard": [
+      "Main"
+    ],
+    "passId": 200001,
+    "pointImage1": "feather_z1",
+    "pointImage2": "feather_h1",
+    "iconSpine": "emaorukou"
+  }
+}

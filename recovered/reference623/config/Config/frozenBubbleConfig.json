@@ -1,0 +1,11 @@
+{
+  "frozenBubbl": {
+    "frozenBubble1": {
+      "id": "frozenBubble1",
+      "unlock": [
+        "PlayerLevel20"
+      ],
+      "version": ""
+    }
+  }
+}

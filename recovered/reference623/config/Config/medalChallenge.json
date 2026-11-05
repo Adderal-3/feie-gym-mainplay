@@ -1,0 +1,1956 @@
+{
+  "stamp1": {
+    "1": {
+      "id": 1,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "2": {
+      "id": 2,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "3": {
+      "id": 3,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 35000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "4": {
+      "id": 4,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 9,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "5": {
+      "id": 5,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "6": {
+      "id": 6,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "7": {
+      "id": 7,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "8": {
+      "id": 8,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "9": {
+      "id": 9,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "10": {
+      "id": 10,
+      "nameKey": "str_name_10",
+      "descKey": "str_desc_10",
+      "progressIcon": "icon_task_11_01",
+      "stampIcon": "icon_task_11",
+      "typeID": 1010,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "11": {
+      "id": 11,
+      "nameKey": "str_name_11",
+      "descKey": "str_desc_11",
+      "progressIcon": "icon_task_09_01",
+      "stampIcon": "icon_task_09",
+      "typeID": 1008,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "12": {
+      "id": 12,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "13": {
+      "id": 13,
+      "nameKey": "str_name_13",
+      "descKey": "str_desc_13",
+      "progressIcon": "icon_task_01_01",
+      "stampIcon": "icon_task_01",
+      "typeID": 1012,
+      "taskParam": "toycastle|32211,32212,32213,32214,32215,32216,32217,32218,32219,32220,32221,32222",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "14": {
+      "id": 14,
+      "nameKey": "str_name_14",
+      "descKey": "str_desc_14",
+      "progressIcon": "icon_task_13_01",
+      "stampIcon": "icon_task_13",
+      "typeID": 1012,
+      "taskParam": "doll|32311,32312,32313,32314,32315,32316,32317,32318,32319,32320,32321,32322",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "15": {
+      "id": 15,
+      "nameKey": "str_name_15",
+      "descKey": "str_desc_15",
+      "progressIcon": "icon_task_14_01",
+      "stampIcon": "icon_task_14",
+      "typeID": 1012,
+      "taskParam": "fairytale|32411,32412,32413,32414,32415,32416,32417,32418,32419,32420,32421,32422,32423",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    }
+  },
+  "stamp2": {
+    "201": {
+      "id": 201,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "202": {
+      "id": 202,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "203": {
+      "id": 203,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "204": {
+      "id": 204,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "205": {
+      "id": 205,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "206": {
+      "id": 206,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "207": {
+      "id": 207,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "208": {
+      "id": 208,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "209": {
+      "id": 209,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "210": {
+      "id": 210,
+      "nameKey": "str_name_16",
+      "descKey": "str_desc_16",
+      "progressIcon": "icon_task_10_01",
+      "stampIcon": "icon_task_10",
+      "typeID": 1009,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "211": {
+      "id": 211,
+      "nameKey": "str_name_11",
+      "descKey": "str_desc_11",
+      "progressIcon": "icon_task_09_01",
+      "stampIcon": "icon_task_09",
+      "typeID": 1008,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "212": {
+      "id": 212,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "213": {
+      "id": 213,
+      "nameKey": "str_name_17",
+      "descKey": "str_desc_17",
+      "progressIcon": "icon_task_15_01",
+      "stampIcon": "icon_task_15",
+      "typeID": 1012,
+      "taskParam": "concert3|32621,32622,32623,32624,32625,32626,32627,32628,32629,32630,32631,32632",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "214": {
+      "id": 214,
+      "nameKey": "str_name_18",
+      "descKey": "str_desc_18",
+      "progressIcon": "icon_task_16_01",
+      "stampIcon": "icon_task_16",
+      "typeID": 1012,
+      "taskParam": "nightcity|32711,32712,32713,32714,32715,32716,32717,32718,32719,32720,32721,32722,32723",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "215": {
+      "id": 215,
+      "nameKey": "str_name_19",
+      "descKey": "str_desc_19",
+      "progressIcon": "icon_task_17_01",
+      "stampIcon": "icon_task_17",
+      "typeID": 1012,
+      "taskParam": "card|32811,32812,32813,32814,32815,32816,32817,32818,32819,32820,32821,32822",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    }
+  },
+  "stamp3": {
+    "301": {
+      "id": 301,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "302": {
+      "id": 302,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "303": {
+      "id": 303,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "304": {
+      "id": 304,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "305": {
+      "id": 305,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "306": {
+      "id": 306,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "307": {
+      "id": 307,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "308": {
+      "id": 308,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "309": {
+      "id": 309,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "310": {
+      "id": 310,
+      "nameKey": "str_name_10",
+      "descKey": "str_desc_10",
+      "progressIcon": "icon_task_11_01",
+      "stampIcon": "icon_task_11",
+      "typeID": 1010,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "311": {
+      "id": 311,
+      "nameKey": "str_name_11",
+      "descKey": "str_desc_11",
+      "progressIcon": "icon_task_09_01",
+      "stampIcon": "icon_task_09",
+      "typeID": 1008,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "312": {
+      "id": 312,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "313": {
+      "id": 313,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "314": {
+      "id": 314,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "315": {
+      "id": 315,
+      "nameKey": "str_name_21",
+      "descKey": "str_desc_21",
+      "progressIcon": "icon_task_21_01",
+      "stampIcon": "icon_task_21",
+      "typeID": 1012,
+      "taskParam": "rocket|37311,37312,37313,37314,37315,37316,37317,37318,37319,37320,37321,37322",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "316": {
+      "id": 316,
+      "nameKey": "str_name_23",
+      "descKey": "str_desc_23",
+      "progressIcon": "icon_task_23_01",
+      "stampIcon": "icon_task_23",
+      "typeID": 1012,
+      "taskParam": "picnic5|37411,37412,37413,37414,37415,37416,37417,37418,37419,37420,37421,37422,37423",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "317": {
+      "id": 317,
+      "nameKey": "str_name_24",
+      "descKey": "str_desc_24",
+      "progressIcon": "icon_task_24_01",
+      "stampIcon": "icon_task_24",
+      "typeID": 1012,
+      "taskParam": "zodiac|37521,37522,37523,37524,37525,37526,37527,37528,37529,37530,37531,37532",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "318": {
+      "id": 318,
+      "nameKey": "str_name_25",
+      "descKey": "str_desc_25",
+      "progressIcon": "icon_task_24_01",
+      "stampIcon": "icon_task_24",
+      "typeID": 1012,
+      "taskParam": "zodiac|37541,37542,37543,37544,37545,37546,37547,37548",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  },
+  "stamp4": {
+    "401": {
+      "id": 401,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "402": {
+      "id": 402,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "403": {
+      "id": 403,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "404": {
+      "id": 404,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "405": {
+      "id": 405,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "406": {
+      "id": 406,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "407": {
+      "id": 407,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "408": {
+      "id": 408,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "409": {
+      "id": 409,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "410": {
+      "id": 410,
+      "nameKey": "str_name_16",
+      "descKey": "str_desc_16",
+      "progressIcon": "icon_task_10_01",
+      "stampIcon": "icon_task_10",
+      "typeID": 1009,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "411": {
+      "id": 411,
+      "nameKey": "str_name_11",
+      "descKey": "str_desc_11",
+      "progressIcon": "icon_task_09_01",
+      "stampIcon": "icon_task_09",
+      "typeID": 1008,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "412": {
+      "id": 412,
+      "nameKey": "str_name_26",
+      "descKey": "str_desc_26",
+      "progressIcon": "icon_task_26_01",
+      "stampIcon": "icon_task_26",
+      "typeID": 1013,
+      "taskParam": "",
+      "progress": 22,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "413": {
+      "id": 413,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "414": {
+      "id": 414,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "415": {
+      "id": 415,
+      "nameKey": "str_name_27",
+      "descKey": "str_desc_27",
+      "progressIcon": "icon_task_27_01",
+      "stampIcon": "icon_task_27",
+      "typeID": 1012,
+      "taskParam": "theatre2|37711,37712,37713,37714,37715,37716,37717,37718,37719,37720,37721,37722,37723",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "416": {
+      "id": 416,
+      "nameKey": "str_name_28",
+      "descKey": "str_desc_28",
+      "progressIcon": "icon_task_28_01",
+      "stampIcon": "icon_task_28",
+      "typeID": 1012,
+      "taskParam": "castlesky2|37821,37822,37823,37824,37825,37826,37827,37828,37829,37830,37831,37832",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "417": {
+      "id": 417,
+      "nameKey": "str_name_29",
+      "descKey": "str_desc_29",
+      "progressIcon": "icon_task_29_01",
+      "stampIcon": "icon_task_29",
+      "typeID": 1012,
+      "taskParam": "mistforest|37911,37912,37913,37914,37915,37916,37917,37918,37919,37920,37921,37922",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "418": {
+      "id": 418,
+      "nameKey": "str_name_30",
+      "descKey": "str_desc_30",
+      "progressIcon": "icon_task_29_01",
+      "stampIcon": "icon_task_29",
+      "typeID": 1012,
+      "taskParam": "mistforest|37931,37932,37933,37934,37935,37936,37937,37938",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  },
+  "stamp5": {
+    "501": {
+      "id": 501,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "502": {
+      "id": 502,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "503": {
+      "id": 503,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "504": {
+      "id": 504,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "505": {
+      "id": 505,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "506": {
+      "id": 506,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "507": {
+      "id": 507,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "508": {
+      "id": 508,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "509": {
+      "id": 509,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "510": {
+      "id": 510,
+      "nameKey": "str_name_16",
+      "descKey": "str_desc_16",
+      "progressIcon": "icon_task_10_01",
+      "stampIcon": "icon_task_10",
+      "typeID": 1009,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "511": {
+      "id": 511,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "512": {
+      "id": 512,
+      "nameKey": "str_name_26",
+      "descKey": "str_desc_26",
+      "progressIcon": "icon_task_26_01",
+      "stampIcon": "icon_task_26",
+      "typeID": 1013,
+      "taskParam": "",
+      "progress": 22,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "513": {
+      "id": 513,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "514": {
+      "id": 514,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "515": {
+      "id": 515,
+      "nameKey": "str_name_31",
+      "descKey": "str_desc_31",
+      "progressIcon": "icon_task_30_01",
+      "stampIcon": "icon_task_30",
+      "typeID": 1012,
+      "taskParam": "mooncastle|38221,38222,38223,38224,38225,38226,38227,38228,38229,38230,38231,38232",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "516": {
+      "id": 516,
+      "nameKey": "str_name_32",
+      "descKey": "str_desc_32",
+      "progressIcon": "icon_task_32_01",
+      "stampIcon": "icon_task_32",
+      "typeID": 1012,
+      "taskParam": "alice2|38311,38312,38313,38314,38315,38316,38317,38318,38319,38320,38321,38322",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "517": {
+      "id": 517,
+      "nameKey": "str_name_33",
+      "descKey": "str_desc_33",
+      "progressIcon": "icon_task_33_01",
+      "stampIcon": "icon_task_33",
+      "typeID": 1012,
+      "taskParam": "sport|38411,38412,38413,38414,38415,38416,38417,38418,38419,38420,38421,38422,38423",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "518": {
+      "id": 518,
+      "nameKey": "str_name_34",
+      "descKey": "str_desc_34",
+      "progressIcon": "icon_task_33_01",
+      "stampIcon": "icon_task_33",
+      "typeID": 1012,
+      "taskParam": "sport|38431,38432,38433,38434,38435,38436,38437,38438",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  },
+  "stamp6": {
+    "601": {
+      "id": 601,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "602": {
+      "id": 602,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "603": {
+      "id": 603,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "604": {
+      "id": 604,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "605": {
+      "id": 605,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "606": {
+      "id": 606,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "607": {
+      "id": 607,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "608": {
+      "id": 608,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "609": {
+      "id": 609,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "610": {
+      "id": 610,
+      "nameKey": "str_name_10",
+      "descKey": "str_desc_10",
+      "progressIcon": "icon_task_11_01",
+      "stampIcon": "icon_task_11",
+      "typeID": 1010,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "611": {
+      "id": 611,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "612": {
+      "id": 612,
+      "nameKey": "str_name_26",
+      "descKey": "str_desc_26",
+      "progressIcon": "icon_task_26_01",
+      "stampIcon": "icon_task_26",
+      "typeID": 1013,
+      "taskParam": "",
+      "progress": 22,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "613": {
+      "id": 613,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "614": {
+      "id": 614,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "615": {
+      "id": 615,
+      "nameKey": "str_name_35",
+      "descKey": "str_desc_35",
+      "progressIcon": "icon_task_34_01",
+      "stampIcon": "icon_task_34",
+      "typeID": 1012,
+      "taskParam": "oceanvoice|38521,38522,38523,38524,38525,38526,38527,38528,38529,38530,38531,38532",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "616": {
+      "id": 616,
+      "nameKey": "str_name_36",
+      "descKey": "str_desc_36",
+      "progressIcon": "icon_task_35_01",
+      "stampIcon": "icon_task_35",
+      "typeID": 1012,
+      "taskParam": "stadium|38711,38712,38713,38714,38715,38716,38717,38718,38719,38720,38721,38722,38723",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "617": {
+      "id": 617,
+      "nameKey": "str_name_37",
+      "descKey": "str_desc_37",
+      "progressIcon": "icon_task_36_01",
+      "stampIcon": "icon_task_36",
+      "typeID": 1012,
+      "taskParam": "flower|38811,38812,38813,38814,38815,38816,38817,38818,38819,38820,38821,38822",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "618": {
+      "id": 618,
+      "nameKey": "str_name_38",
+      "descKey": "str_desc_38",
+      "progressIcon": "icon_task_36_01",
+      "stampIcon": "icon_task_36",
+      "typeID": 1012,
+      "taskParam": "flower|38831,38832,38833,38834,38835,38836,38837,38838",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  },
+  "stamp7": {
+    "701": {
+      "id": 701,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "702": {
+      "id": 702,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "703": {
+      "id": 703,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "704": {
+      "id": 704,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "705": {
+      "id": 705,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "706": {
+      "id": 706,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "707": {
+      "id": 707,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "708": {
+      "id": 708,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "709": {
+      "id": 709,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "710": {
+      "id": 710,
+      "nameKey": "str_name_16",
+      "descKey": "str_desc_16",
+      "progressIcon": "icon_task_10_01",
+      "stampIcon": "icon_task_10",
+      "typeID": 1009,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "711": {
+      "id": 711,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "712": {
+      "id": 712,
+      "nameKey": "str_name_26",
+      "descKey": "str_desc_26",
+      "progressIcon": "icon_task_26_01",
+      "stampIcon": "icon_task_26",
+      "typeID": 1013,
+      "taskParam": "",
+      "progress": 22,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "713": {
+      "id": 713,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "714": {
+      "id": 714,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "715": {
+      "id": 715,
+      "nameKey": "str_name_39",
+      "descKey": "str_desc_39",
+      "progressIcon": "icon_task_37_01",
+      "stampIcon": "icon_task_37",
+      "typeID": 1012,
+      "taskParam": "fairyroll|39311,39312,39313,39314,39315,39316,39317,39318,39319,39320,39321,39322,39323",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "716": {
+      "id": 716,
+      "nameKey": "str_name_40",
+      "descKey": "str_desc_40",
+      "progressIcon": "icon_task_40_01",
+      "stampIcon": "icon_task_40",
+      "typeID": 1012,
+      "taskParam": "pirate3|40111,40112,40113,40114,40115,40116,40117,40118,40119,40120,40121,40122,40123",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "717": {
+      "id": 717,
+      "nameKey": "str_name_41",
+      "descKey": "str_desc_41",
+      "progressIcon": "icon_task_41_01",
+      "stampIcon": "icon_task_41",
+      "typeID": 1012,
+      "taskParam": "theatre3|40211,40212,40213,40214,40215,40216,40217,40218,40219,40220,40221,40222",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "718": {
+      "id": 718,
+      "nameKey": "str_name_42",
+      "descKey": "str_desc_42",
+      "progressIcon": "icon_task_41_01",
+      "stampIcon": "icon_task_41",
+      "typeID": 1012,
+      "taskParam": "theatre3|40231,40232,40233,40234,40235,40236,40237,40238",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  },
+  "stamp8": {
+    "801": {
+      "id": 801,
+      "nameKey": "str_name_01",
+      "descKey": "str_desc_01",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 20000,
+      "reward": {
+        "98805": 1,
+        "Medal": 1
+      }
+    },
+    "802": {
+      "id": 802,
+      "nameKey": "str_name_02",
+      "descKey": "str_desc_02",
+      "progressIcon": "icon_task_05_01",
+      "stampIcon": "icon_task_05",
+      "typeID": 1001,
+      "taskParam": "",
+      "progress": 650,
+      "reward": {
+        "98809": 1,
+        "Medal": 1
+      }
+    },
+    "803": {
+      "id": 803,
+      "nameKey": "str_name_03",
+      "descKey": "str_desc_03",
+      "progressIcon": "icon_task_07_01",
+      "stampIcon": "icon_task_07",
+      "typeID": 1003,
+      "taskParam": "",
+      "progress": 32000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "804": {
+      "id": 804,
+      "nameKey": "str_name_04",
+      "descKey": "str_desc_04",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 7,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "805": {
+      "id": 805,
+      "nameKey": "str_name_05",
+      "descKey": "str_desc_05",
+      "progressIcon": "icon_task_04_01",
+      "stampIcon": "icon_task_04",
+      "typeID": 1007,
+      "taskParam": "4|8",
+      "progress": 5,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "806": {
+      "id": 806,
+      "nameKey": "str_name_06",
+      "descKey": "str_desc_06",
+      "progressIcon": "icon_task_03_01",
+      "stampIcon": "icon_task_03",
+      "typeID": 1006,
+      "taskParam": "5|11|14|17",
+      "progress": 16,
+      "reward": {
+        "98302": 1,
+        "Medal": 1
+      }
+    },
+    "807": {
+      "id": 807,
+      "nameKey": "str_name_07",
+      "descKey": "str_desc_07",
+      "progressIcon": "",
+      "stampIcon": "icon_task_02",
+      "typeID": 1005,
+      "taskParam": "",
+      "progress": 8000,
+      "reward": {
+        "Medal": 1,
+        "Energy": 20
+      }
+    },
+    "808": {
+      "id": 808,
+      "nameKey": "str_name_08",
+      "descKey": "str_desc_08",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 300,
+      "reward": {
+        "98303": 1,
+        "Medal": 1
+      }
+    },
+    "809": {
+      "id": 809,
+      "nameKey": "str_name_09",
+      "descKey": "str_desc_09",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 500,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "810": {
+      "id": 810,
+      "nameKey": "str_name_16",
+      "descKey": "str_desc_16",
+      "progressIcon": "icon_task_10_01",
+      "stampIcon": "icon_task_10",
+      "typeID": 1009,
+      "taskParam": "",
+      "progress": 25,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "811": {
+      "id": 811,
+      "nameKey": "str_name_12",
+      "descKey": "str_desc_12",
+      "progressIcon": "icon_task_12_01",
+      "stampIcon": "icon_task_12",
+      "typeID": 1011,
+      "taskParam": "",
+      "progress": 15,
+      "reward": {
+        "Medal": 1,
+        "Diamond": 20
+      }
+    },
+    "812": {
+      "id": 812,
+      "nameKey": "str_name_26",
+      "descKey": "str_desc_26",
+      "progressIcon": "icon_task_26_01",
+      "stampIcon": "icon_task_26",
+      "typeID": 1013,
+      "taskParam": "",
+      "progress": 22,
+      "reward": {
+        "91004": 1,
+        "Medal": 1
+      }
+    },
+    "813": {
+      "id": 813,
+      "nameKey": "str_name_22",
+      "descKey": "str_desc_22",
+      "progressIcon": "icon_task_06_01",
+      "stampIcon": "icon_task_06",
+      "typeID": 1002,
+      "taskParam": "",
+      "progress": 1500,
+      "reward": {
+        "Medal": 1,
+        "Energy": 50
+      }
+    },
+    "814": {
+      "id": 814,
+      "nameKey": "str_name_20",
+      "descKey": "str_desc_20",
+      "progressIcon": "icon_task_08_01",
+      "stampIcon": "icon_task_08",
+      "typeID": 1004,
+      "taskParam": "",
+      "progress": 30,
+      "reward": {
+        "9820003": 1,
+        "Medal": 1,
+        "Diamond": 50
+      }
+    },
+    "815": {
+      "id": 815,
+      "nameKey": "str_name_43",
+      "descKey": "str_desc_43",
+      "progressIcon": "icon_task_42_01",
+      "stampIcon": "icon_task_42",
+      "typeID": 1012,
+      "taskParam": "dishroll|40411,40412,40413,40414,40415,40416,40417,40418,40419,40420,40421,40422,40423",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "816": {
+      "id": 816,
+      "nameKey": "str_name_44",
+      "descKey": "str_desc_44",
+      "progressIcon": "icon_task_43_01",
+      "stampIcon": "icon_task_43",
+      "typeID": 1012,
+      "taskParam": "market|40511,40512,40513,40514,40515,40516,40517,40518,40519,40520,40521,40522,40523",
+      "progress": 13,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "817": {
+      "id": 817,
+      "nameKey": "str_name_45",
+      "descKey": "str_desc_45",
+      "progressIcon": "icon_task_44_01",
+      "stampIcon": "icon_task_44",
+      "typeID": 1012,
+      "taskParam": "collection|40611,40612,40613,40614,40615,40616,40617,40618,40619,40620,40621,40622",
+      "progress": 12,
+      "reward": {
+        "Medal": 1,
+        "Energy": 30
+      }
+    },
+    "818": {
+      "id": 818,
+      "nameKey": "str_name_46",
+      "descKey": "str_desc_46",
+      "progressIcon": "icon_task_44_01",
+      "stampIcon": "icon_task_44",
+      "typeID": 1012,
+      "taskParam": "collection|40631,40632,40633,40634,40635,40636,40637,40638",
+      "progress": 8,
+      "reward": {
+        "91005": 1,
+        "Medal": 1
+      }
+    }
+  }
+}

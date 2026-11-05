@@ -1,0 +1,323 @@
+{
+  "rank1_1": {
+    "101": {
+      "id": 101,
+      "multiplier": 1,
+      "winnum": 3,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank1",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": [
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        }
+      ],
+      "finishScore": 100
+    },
+    "102": {
+      "id": 102,
+      "multiplier": 2,
+      "winnum": 2,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank2",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 240,
+      "expectCost": 160,
+      "reward": [
+        {
+          "WinStreakPassPoint": 60
+        },
+        {
+          "WinStreakPassPoint": 60
+        }
+      ],
+      "finishScore": 160
+    },
+    "103": {
+      "id": 103,
+      "multiplier": 4,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank3",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 330,
+      "expectCost": 220,
+      "reward": [
+        {
+          "WinStreakPassPoint": 80
+        }
+      ],
+      "finishScore": 220
+    },
+    "104": {
+      "id": 104,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "105": {
+      "id": 105,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 1,
+      "robotRankName": "winStreakRank5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "106": {
+      "id": 106,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 2,
+      "robotRankName": "winStreakRank6",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    }
+  },
+  "rank1_2": {
+    "201": {
+      "id": 201,
+      "multiplier": 1,
+      "winnum": 3,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank1",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": [
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        }
+      ],
+      "finishScore": 100
+    },
+    "202": {
+      "id": 202,
+      "multiplier": 2,
+      "winnum": 2,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank2",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 240,
+      "expectCost": 160,
+      "reward": [
+        {
+          "WinStreakPassPoint": 60
+        },
+        {
+          "WinStreakPassPoint": 60
+        }
+      ],
+      "finishScore": 160
+    },
+    "203": {
+      "id": 203,
+      "multiplier": 4,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank3",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 330,
+      "expectCost": 220,
+      "reward": [
+        {
+          "WinStreakPassPoint": 80
+        }
+      ],
+      "finishScore": 220
+    },
+    "204": {
+      "id": 204,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "205": {
+      "id": 205,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 1,
+      "robotRankName": "winStreakRank5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "206": {
+      "id": 206,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 2,
+      "robotRankName": "winStreakRank6",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    }
+  },
+  "rank1_3": {
+    "301": {
+      "id": 301,
+      "multiplier": 1,
+      "winnum": 3,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank1",
+      "playerExpectRank": 3,
+      "playerExpectConsume": 150,
+      "expectCost": 100,
+      "reward": [
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        },
+        {
+          "WinStreakPassPoint": 40
+        }
+      ],
+      "finishScore": 100
+    },
+    "302": {
+      "id": 302,
+      "multiplier": 2,
+      "winnum": 2,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank2",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 240,
+      "expectCost": 160,
+      "reward": [
+        {
+          "WinStreakPassPoint": 60
+        },
+        {
+          "WinStreakPassPoint": 60
+        }
+      ],
+      "finishScore": 160
+    },
+    "303": {
+      "id": 303,
+      "multiplier": 4,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank3",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 330,
+      "expectCost": 220,
+      "reward": [
+        {
+          "WinStreakPassPoint": 80
+        }
+      ],
+      "finishScore": 220
+    },
+    "304": {
+      "id": 304,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 0,
+      "robotRankName": "winStreakRank4",
+      "playerExpectRank": 1,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "305": {
+      "id": 305,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 1,
+      "robotRankName": "winStreakRank5",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    },
+    "306": {
+      "id": 306,
+      "multiplier": 10,
+      "winnum": 1,
+      "winCombo": 2,
+      "robotRankName": "winStreakRank6",
+      "playerExpectRank": 2,
+      "playerExpectConsume": 675,
+      "expectCost": 450,
+      "reward": [
+        {
+          "WinStreakPassPoint": 120
+        }
+      ],
+      "finishScore": 450
+    }
+  }
+}

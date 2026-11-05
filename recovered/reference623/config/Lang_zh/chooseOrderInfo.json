@@ -1,0 +1,32 @@
+{
+  "chooseOrder1": {
+    "id": "chooseOrder1",
+    "name": "阿强的自选挑战",
+    "actDifficulty": "入门"
+  },
+  "chooseOrder2": {
+    "id": "chooseOrder2",
+    "name": "阿强的自选挑战",
+    "actDifficulty": "进阶"
+  },
+  "chooseOrder3": {
+    "id": "chooseOrder3",
+    "name": "阿强的自选挑战",
+    "actDifficulty": "大师"
+  },
+  "chooseOrder4": {
+    "id": "chooseOrder4",
+    "name": "阿菇的自选挑战",
+    "actDifficulty": "入门"
+  },
+  "chooseOrder5": {
+    "id": "chooseOrder5",
+    "name": "阿菇的自选挑战",
+    "actDifficulty": "进阶"
+  },
+  "chooseOrder6": {
+    "id": "chooseOrder6",
+    "name": "阿菇的自选挑战",
+    "actDifficulty": "大师"
+  }
+}

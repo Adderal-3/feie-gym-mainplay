@@ -1,0 +1,12 @@
+{
+  "unlockLevel": 9999,
+  "dailyCycleDays": 7,
+  "progressCycleDays": 28,
+  "closeClaimEnable": 1,
+  "checkin_reward": {
+    "checkin_reward1": 100,
+    "checkin_reward2": 100,
+    "checkin_reward3": 100,
+    "checkin_reward4": 100
+  }
+}

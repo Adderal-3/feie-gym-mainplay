@@ -1,0 +1,306 @@
+{
+  "food": {
+    "id": "food",
+    "BeginDialog": 8101,
+    "EnterBoard": 8102,
+    "EndDialog": 8107,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "85502:8103",
+      "85902:8104",
+      "85904:8105",
+      "85910:8106",
+      "987315:8108"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin100106:8109",
+      "AdornSkin300504:8110",
+      "AdornSkin102404:8120"
+    ],
+    "FinishTask": [
+      "1007:8130"
+    ],
+    "clickElement": [],
+    "getAllShopProgressReward": 0
+  },
+  "kungfu": {
+    "id": "kungfu",
+    "BeginDialog": 8201,
+    "EnterBoard": 8202,
+    "EndDialog": 8206,
+    "happyEndDialog": 0,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 0,
+    "GetElement": [
+      "86101:8203",
+      "86406:8204",
+      "86805:8205"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin200905:8207",
+      "AdornSkin500105:8208"
+    ],
+    "FinishTask": [],
+    "clickElement": [],
+    "getAllShopProgressReward": 0
+  },
+  "moon": {
+    "id": "moon",
+    "BeginDialog": 8301,
+    "EnterBoard": 8302,
+    "EndDialog": 8311,
+    "happyEndDialog": 0,
+    "EnterRank": 8312,
+    "GetRankReward": 8313,
+    "EnterWorld": 0,
+    "GetElement": [
+      "87004:8306",
+      "87501:8308",
+      "87904:8307",
+      "87606:8309",
+      "87001:8303",
+      "87002:8305",
+      "87003:8304"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin501304:8310"
+    ],
+    "FinishTask": [],
+    "clickElement": [],
+    "getAllShopProgressReward": 0
+  },
+  "dream": {
+    "id": "dream",
+    "BeginDialog": 8401,
+    "EnterBoard": 8402,
+    "EndDialog": 8411,
+    "happyEndDialog": 8412,
+    "EnterRank": 8414,
+    "GetRankReward": 8415,
+    "EnterWorld": 0,
+    "GetElement": [
+      "88014:8405",
+      "88024:8406",
+      "88601:8407",
+      "88901:8408",
+      "88905:8409",
+      "88908:8410",
+      "88416:8413"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "88001:8403",
+      "88002:8404"
+    ],
+    "getAllShopProgressReward": 0
+  },
+  "unicorn": {
+    "id": "unicorn",
+    "BeginDialog": 8501,
+    "EnterBoard": 8502,
+    "EndDialog": 8509,
+    "happyEndDialog": 0,
+    "EnterRank": 8510,
+    "GetRankReward": 8511,
+    "EnterWorld": 0,
+    "GetElement": [
+      "89508:8505",
+      "89215:8506",
+      "89701:8508"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin200105:8512",
+      "AdornSkin701404:8513"
+    ],
+    "FinishTask": [],
+    "clickElement": [
+      "89001:8503",
+      "89401:8504"
+    ],
+    "getAllShopProgressReward": 0
+  },
+  "newyear": {
+    "id": "newyear",
+    "BeginDialog": 8601,
+    "EnterBoard": 8602,
+    "EndDialog": 8611,
+    "happyEndDialog": 8612,
+    "EnterRank": 8613,
+    "GetRankReward": 8614,
+    "EnterWorld": 0,
+    "GetElement": [
+      "81512:8607",
+      "81513:8608",
+      "81617:8610"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin400805:8617",
+      "AdornSkin5100204:8618"
+    ],
+    "FinishTask": [],
+    "clickElement": [
+      "80001:8603",
+      "81701:8604",
+      "81411:8605",
+      "81501:8606",
+      "81601:8609"
+    ],
+    "getAllShopProgressReward": 8615
+  },
+  "hoggoose": {
+    "id": "hoggoose",
+    "BeginDialog": 8631,
+    "EnterBoard": 0,
+    "EndDialog": 8644,
+    "happyEndDialog": 8644,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8646,
+    "GetElement": [
+      "78404:8634",
+      "78904:8639",
+      "78902:8638"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [
+      "7071:8640",
+      "7077:8642",
+      "7082:8641",
+      "7085:8643",
+      "7007:8645"
+    ],
+    "clickElement": [
+      "78101:8632",
+      "78301:8633",
+      "78002:8635",
+      "78001:8636",
+      "78003:8637"
+    ],
+    "getAllShopProgressReward": 0
+  },
+  "blovers": {
+    "id": "blovers",
+    "BeginDialog": 8647,
+    "EnterBoard": 0,
+    "EndDialog": 8653,
+    "happyEndDialog": 8653,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8655,
+    "GetElement": [
+      "77215:8649",
+      "77345:8650",
+      "77371:8651",
+      "77361:8652",
+      "77106:8654"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "77001:8648"
+    ],
+    "getAllShopProgressReward": 0
+  },
+  "moon2": {
+    "id": "moon2",
+    "BeginDialog": 8697,
+    "EnterBoard": 8698,
+    "EndDialog": 8712,
+    "happyEndDialog": 8713,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8708,
+    "GetElement": [
+      "74708:8703",
+      "74827:8705",
+      "74835:8706",
+      "74817:8707",
+      "74607:8714",
+      "74811:8704"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [
+      "9011:8702",
+      "9005:8700",
+      "9051:8701"
+    ],
+    "clickElement": [
+      "74101:8699",
+      "74507:8715"
+    ],
+    "getAllShopProgressReward": 8711
+  },
+  "snow": {
+    "id": "snow",
+    "BeginDialog": 8744,
+    "EnterBoard": 0,
+    "EndDialog": 8764,
+    "happyEndDialog": 8764,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8761,
+    "GetElement": [
+      "68206:8746",
+      "68416:8748",
+      "68014:8750",
+      "68024:8752",
+      "68807:8755",
+      "68905:8756",
+      "68908:8757",
+      "68910:8758",
+      "68911:8759",
+      "68615:8754"
+    ],
+    "GetAdornSkin": [],
+    "FinishTask": [],
+    "clickElement": [
+      "68101:8745",
+      "68601:8753",
+      "68002:8747",
+      "68011:8749",
+      "68021:8751"
+    ],
+    "getAllShopProgressReward": 8760
+  },
+  "pirate": {
+    "id": "pirate",
+    "BeginDialog": 8852,
+    "EnterBoard": 8853,
+    "EndDialog": 8872,
+    "happyEndDialog": 8872,
+    "EnterRank": 0,
+    "GetRankReward": 0,
+    "EnterWorld": 8873,
+    "GetElement": [
+      "59361:8861",
+      "59367:8862",
+      "59355:8863",
+      "59395:8865",
+      "59386:8866",
+      "59106:8867"
+    ],
+    "GetAdornSkin": [
+      "AdornSkin900603:8870"
+    ],
+    "FinishTask": [
+      "11002:8855",
+      "11005:8856",
+      "11008:8857",
+      "11011:8858",
+      "11015:8859"
+    ],
+    "clickElement": [
+      "59001:8854",
+      "59143:8860",
+      "59371:8864",
+      "59311:8868",
+      "59327:8869"
+    ],
+    "getAllShopProgressReward": 8871
+  }
+}

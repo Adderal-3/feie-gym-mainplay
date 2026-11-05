@@ -1,0 +1,5515 @@
+{
+  "101": {
+    "id": "101",
+    "router": [
+      "101"
+    ],
+    "finishFirstTaskDialog": 12101,
+    "endDialog": 12102,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 10001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 10011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_101",
+    "detailPicture": "story_limited_pic_101",
+    "progressBarStep": [
+      3,
+      5,
+      7,
+      10,
+      10,
+      8,
+      12,
+      10,
+      12,
+      12,
+      10,
+      10,
+      15,
+      10,
+      16,
+      10,
+      18,
+      20
+    ],
+    "progressReward": [
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98103": 1,
+        "Star": 1
+      },
+      {
+        "98606": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 4
+      },
+      {
+        "98403": 1,
+        "Star": 2
+      },
+      {
+        "2510": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 8000,
+        "Star": 2
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "Diamond": 50,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 4
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 19,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "102": {
+    "id": "102",
+    "router": [
+      "102"
+    ],
+    "finishFirstTaskDialog": 12201,
+    "endDialog": 12202,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 20001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 20005,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_102",
+    "detailPicture": "story_limited_pic_102",
+    "progressBarStep": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      10,
+      10,
+      11,
+      12,
+      12,
+      15,
+      10,
+      10,
+      15,
+      20,
+      30
+    ],
+    "progressReward": [
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "98801": 2,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 4
+      },
+      {
+        "CardPoint": 100,
+        "Star": 4
+      },
+      {
+        "98701": 1,
+        "Star": 4
+      },
+      {
+        "Coin": 4000,
+        "Star": 4
+      },
+      {
+        "98402": 1,
+        "Star": 4
+      },
+      {
+        "90601": 1,
+        "Star": 4
+      },
+      {
+        "98403": 1,
+        "Star": 4
+      },
+      {
+        "Coin": 10000,
+        "Star": 4
+      },
+      {
+        "90602": 2,
+        "Star": 4
+      },
+      {
+        "98731": 1,
+        "Star": 8
+      },
+      {
+        "CardPoint": 100,
+        "Star": 4
+      },
+      {
+        "CardPoint": 100,
+        "Star": 4
+      },
+      {
+        "CardPoint": 100,
+        "Star": 4
+      },
+      {
+        "CardPoint": 300,
+        "Star": 8
+      },
+      {
+        "CardPoint": 500,
+        "Star": 8
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "103": {
+    "id": "103",
+    "router": [
+      "103"
+    ],
+    "finishFirstTaskDialog": 12301,
+    "endDialog": 12302,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 30001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 30121,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_103",
+    "detailPicture": "story_limited_pic_103",
+    "progressBarStep": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      8,
+      15,
+      12,
+      12,
+      12,
+      12,
+      18,
+      12,
+      12,
+      15,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "CardPoint": 100,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98402": 1,
+        "Star": 2
+      },
+      {
+        "98721": 1,
+        "Star": 4
+      },
+      {
+        "98403": 1,
+        "Star": 3
+      },
+      {
+        "90502": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 8000,
+        "Star": 3
+      },
+      {
+        "90602": 1,
+        "Star": 3
+      },
+      {
+        "98731": 1,
+        "Star": 5
+      },
+      {
+        "CardPoint": 100,
+        "Star": 3
+      },
+      {
+        "CardPoint": 100,
+        "Star": 3
+      },
+      {
+        "CardPoint": 200,
+        "Star": 3
+      },
+      {
+        "CardPoint": 500,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 21,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "104": {
+    "id": "104",
+    "router": [
+      "104"
+    ],
+    "finishFirstTaskDialog": 12401,
+    "endDialog": 12402,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 40001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 40011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_104",
+    "detailPicture": "story_limited_pic_104",
+    "progressBarStep": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      10,
+      10,
+      15,
+      12,
+      12,
+      18,
+      6,
+      18,
+      6,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "98606": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98103": 1,
+        "Star": 2
+      },
+      {
+        "98403": 1,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "105": {
+    "id": "105",
+    "router": [
+      "105"
+    ],
+    "finishFirstTaskDialog": 12501,
+    "endDialog": 12502,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 50001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 50007,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_105",
+    "detailPicture": "story_limited_pic_105",
+    "progressBarStep": [
+      1,
+      2,
+      4,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      10,
+      9,
+      12,
+      11,
+      14,
+      13,
+      16,
+      5,
+      10,
+      15,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 21,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "106": {
+    "id": "106",
+    "router": [
+      "106"
+    ],
+    "finishFirstTaskDialog": 10001,
+    "endDialog": 10002,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 60001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 0,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_106",
+    "detailPicture": "story_limited_pic_106",
+    "progressBarStep": [
+      1,
+      2,
+      4,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      9,
+      8,
+      10,
+      9,
+      13,
+      12,
+      16,
+      13,
+      18,
+      5,
+      10,
+      15,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 4000,
+        "Star": 1
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 4
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 23,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "107": {
+    "id": "107",
+    "router": [
+      "107"
+    ],
+    "finishFirstTaskDialog": 12601,
+    "endDialog": 12602,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 70001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 70011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_107",
+    "detailPicture": "story_limited_pic_107",
+    "progressBarStep": [
+      2,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      9,
+      8,
+      10,
+      9,
+      11,
+      12,
+      14,
+      16,
+      8,
+      12,
+      16,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "108": {
+    "id": "108",
+    "router": [
+      "108"
+    ],
+    "finishFirstTaskDialog": 12701,
+    "endDialog": 12702,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 80001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 80011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_108",
+    "detailPicture": "story_limited_pic_108",
+    "progressBarStep": [
+      2,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      9,
+      8,
+      10,
+      9,
+      11,
+      12,
+      14,
+      16,
+      8,
+      12,
+      16,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "109": {
+    "id": "109",
+    "router": [
+      "109"
+    ],
+    "finishFirstTaskDialog": 12801,
+    "endDialog": 12802,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 90001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 90011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_109",
+    "detailPicture": "story_limited_pic_109",
+    "progressBarStep": [
+      2,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      9,
+      8,
+      10,
+      9,
+      11,
+      12,
+      14,
+      16,
+      8,
+      12,
+      16,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "110": {
+    "id": "110",
+    "router": [
+      "110"
+    ],
+    "finishFirstTaskDialog": 12901,
+    "endDialog": 12902,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 100001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 100011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_110",
+    "detailPicture": "story_limited_pic_110",
+    "progressBarStep": [
+      3,
+      8,
+      13,
+      10,
+      15,
+      12,
+      17,
+      14,
+      19,
+      17,
+      22,
+      20,
+      25,
+      23,
+      28,
+      29,
+      36,
+      39,
+      50,
+      15,
+      30,
+      45,
+      65
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      },
+      {
+        "92102": 2,
+        "Star": 1
+      },
+      {
+        "92103": 2,
+        "Star": 2
+      },
+      {
+        "92601": 2,
+        "Star": 3
+      },
+      {
+        "Goose1049": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 24,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "111": {
+    "id": "111",
+    "router": [
+      "111"
+    ],
+    "finishFirstTaskDialog": 12111,
+    "endDialog": 12112,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 110001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 110007,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_111",
+    "detailPicture": "story_limited_pic_111",
+    "progressBarStep": [
+      3,
+      7,
+      6,
+      12,
+      10,
+      14,
+      12,
+      16,
+      14,
+      19,
+      17,
+      22,
+      20,
+      25,
+      23,
+      31,
+      31,
+      41,
+      45,
+      15,
+      30,
+      30,
+      63
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 20,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "112": {
+    "id": "112",
+    "router": [
+      "112"
+    ],
+    "finishFirstTaskDialog": 12121,
+    "endDialog": 12122,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 120001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 120011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_112",
+    "detailPicture": "story_limited_pic_112",
+    "progressBarStep": [
+      3,
+      7,
+      6,
+      7,
+      7,
+      10,
+      8,
+      12,
+      14,
+      15,
+      12,
+      18,
+      15,
+      22,
+      20,
+      24,
+      26,
+      24,
+      22,
+      30,
+      15,
+      20,
+      20,
+      40
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "98401": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "CardPack1001": 8,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "98402": 1,
+        "Star": 2
+      },
+      {
+        "Energy": 40,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 12,
+        "Star": 3
+      },
+      {
+        "90501": 1,
+        "Star": 3
+      },
+      {
+        "Energy": 40,
+        "Star": 3
+      },
+      {
+        "90901": 1,
+        "Star": 3
+      },
+      {
+        "98711": 1,
+        "Star": 5
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardPack1001": 20,
+        "Star": 2
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 25,
+    "background": "ui_bg_timeorder2",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "113": {
+    "id": "113",
+    "router": [
+      "113"
+    ],
+    "finishFirstTaskDialog": 12141,
+    "endDialog": 12142,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 130001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 130011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      2,
+      3,
+      4,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6,
+      8,
+      7,
+      9,
+      8,
+      10,
+      9,
+      11,
+      12,
+      14,
+      16,
+      8,
+      12,
+      16,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "90301": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98605": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 3
+      },
+      {
+        "98103": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "firstShowStep": 23,
+    "background": "ui_bg_timeorder3",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "114": {
+    "id": "114",
+    "router": [
+      "114"
+    ],
+    "finishFirstTaskDialog": 12131,
+    "endDialog": 12132,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 140001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 0,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_114",
+    "detailPicture": "story_limited_pic_114",
+    "progressBarStep": [
+      2,
+      2,
+      3,
+      3,
+      5,
+      4,
+      6,
+      8,
+      10,
+      6,
+      8,
+      10,
+      15,
+      8,
+      11,
+      14,
+      20,
+      11,
+      15,
+      19,
+      50,
+      16,
+      23,
+      31,
+      100
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Energy": 5,
+        "Star": 1
+      },
+      {
+        "9880144": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 10,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "9840117": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 15,
+        "Star": 1
+      },
+      {
+        "9820117": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 2
+      },
+      {
+        "9820217": 1,
+        "Star": 2
+      },
+      {
+        "Energy": 20,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "9820317": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98711": 1,
+        "Star": 3
+      },
+      {
+        "Energy": 30,
+        "Star": 3
+      },
+      {
+        "9840217": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 4
+      },
+      {
+        "AdornSkin102405": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 26,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Zoo_1",
+      "Prop_Zoo_1_0",
+      "Prop_Zoo_2",
+      "Prop_Zoo_3"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "115": {
+    "id": "115",
+    "router": [
+      "115"
+    ],
+    "finishFirstTaskDialog": 12151,
+    "endDialog": 12152,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 150001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 150007,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_115",
+    "detailPicture": "story_limited_pic_115",
+    "progressBarStep": [
+      3,
+      4,
+      8,
+      5,
+      7,
+      9,
+      15,
+      12,
+      14,
+      16,
+      18,
+      20,
+      30,
+      25,
+      28,
+      31,
+      40,
+      30,
+      32,
+      34,
+      36,
+      38,
+      51
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "9880164": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 2,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "9840124": 1,
+        "Star": 1
+      },
+      {
+        "Diamond": 5,
+        "Star": 1
+      },
+      {
+        "9880164": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "9880165": 1,
+        "Star": 1
+      },
+      {
+        "9840124": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "9880166": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "9840224": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "9880166": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 3
+      },
+      {
+        "9840224": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 6
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 24,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "116": {
+    "id": "116",
+    "router": [
+      "116"
+    ],
+    "finishFirstTaskDialog": 12401,
+    "endDialog": 12402,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 160001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 160011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_104",
+    "detailPicture": "story_limited_pic_104",
+    "progressBarStep": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      10,
+      10,
+      15,
+      12,
+      12,
+      18,
+      6,
+      18,
+      6,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "9880167": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "9880167": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "9880167": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "9840125": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "9880168": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "9880168": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "9840125": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 2
+      },
+      {
+        "9880169": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Coin": 5000,
+        "Star": 4
+      },
+      {
+        "9840225": 1,
+        "Star": 4
+      },
+      {
+        "98701": 1,
+        "Star": 6
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 24,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_3",
+      "Prop_Limit_3_0",
+      "Prop_Limit_4"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "117": {
+    "id": "117",
+    "router": [
+      "117"
+    ],
+    "finishFirstTaskDialog": 12161,
+    "endDialog": 12162,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 170001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 170011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_116",
+    "detailPicture": "story_limited_pic_116",
+    "progressBarStep": [
+      3,
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      40,
+      35,
+      35,
+      40,
+      44
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "9880164": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "9840124": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "9880164": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "9840124": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 3000,
+        "Star": 1
+      },
+      {
+        "9880165": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 4000,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "9840224": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 5000,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "9840224": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "9880166": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 25,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "118": {
+    "id": "118",
+    "router": [
+      "118"
+    ],
+    "finishFirstTaskDialog": 12701,
+    "endDialog": 12702,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 180001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 180011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_108",
+    "detailPicture": "story_limited_pic_108",
+    "progressBarStep": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      6,
+      6,
+      6,
+      7,
+      7,
+      7,
+      8,
+      8,
+      10,
+      10,
+      10,
+      16,
+      11,
+      11,
+      11,
+      20
+    ],
+    "progressReward": [
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "98801": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "98801": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 4
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 26,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [],
+    "recycleChangeTo": 0
+  },
+  "1191": {
+    "id": "1191",
+    "router": [
+      "1193",
+      "1192",
+      "1191"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 1910001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 1910011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      30,
+      80,
+      100,
+      120,
+      140,
+      160,
+      180,
+      200,
+      240,
+      270,
+      300,
+      330,
+      360,
+      420,
+      460,
+      500,
+      540,
+      580,
+      620,
+      900,
+      800,
+      800,
+      900,
+      2000
+    ],
+    "progressReward": [
+      {
+        "Coin": 100,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 400,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 600,
+        "Star": 1
+      },
+      {
+        "90901": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Coin": 800,
+        "Star": 1
+      },
+      {
+        "Energy": 20,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 2
+      },
+      {
+        "Coin": 1000,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 2
+      },
+      {
+        "90901": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 26,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1192": {
+    "id": "1192",
+    "router": [
+      "1193",
+      "1192",
+      "1191"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001"
+    ],
+    "orderSpecialId1": 1920001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 1920011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      30,
+      80,
+      100,
+      120,
+      140,
+      160,
+      180,
+      200,
+      240,
+      270,
+      300,
+      330,
+      360,
+      420,
+      460,
+      500,
+      540,
+      580,
+      620,
+      900,
+      800,
+      800,
+      900,
+      2000
+    ],
+    "progressReward": [
+      {
+        "Coin": 100,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "90502": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 2
+      },
+      {
+        "Coin": 3000,
+        "Star": 2
+      },
+      {
+        "98801116": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 6,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 26,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1193": {
+    "id": "1193",
+    "router": [
+      "1193",
+      "1192",
+      "1191"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "orderSpecialId1": 1930001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 1930011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      30,
+      80,
+      100,
+      120,
+      140,
+      160,
+      180,
+      200,
+      240,
+      270,
+      300,
+      330,
+      360,
+      420,
+      460,
+      500,
+      540,
+      580,
+      620,
+      900,
+      800,
+      800,
+      900,
+      2000
+    ],
+    "progressReward": [
+      {
+        "Coin": 100,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 2000,
+        "Star": 1
+      },
+      {
+        "90902": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Coin": 4000,
+        "Star": 1
+      },
+      {
+        "Energy": 100,
+        "Star": 1
+      },
+      {
+        "90602": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 2
+      },
+      {
+        "Coin": 6000,
+        "Star": 2
+      },
+      {
+        "98801117": 1,
+        "Star": 2
+      },
+      {
+        "90902": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 2
+      },
+      {
+        "90702": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "firstShowStep": 26,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1201": {
+    "id": "1201",
+    "router": [
+      "1203",
+      "1202",
+      "1201"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 2010001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 2010011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      50,
+      80,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      220,
+      240,
+      260,
+      280,
+      300,
+      350,
+      400,
+      450,
+      500,
+      550,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1700
+    ],
+    "progressReward": [
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film8": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "90601": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film9": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film12": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1202": {
+    "id": "1202",
+    "router": [
+      "1203",
+      "1202",
+      "1201"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001"
+    ],
+    "orderSpecialId1": 2020001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 2020011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      50,
+      80,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      220,
+      240,
+      260,
+      280,
+      300,
+      350,
+      400,
+      450,
+      500,
+      550,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1700
+    ],
+    "progressReward": [
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 2
+      },
+      {
+        "90502": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film8": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 6,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 1
+      },
+      {
+        "Film9": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "Film12": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1203": {
+    "id": "1203",
+    "router": [
+      "1203",
+      "1202",
+      "1201"
+    ],
+    "finishFirstTaskDialog": 12163,
+    "endDialog": 12164,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "orderSpecialId1": 2030001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 2030011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_113",
+    "detailPicture": "story_limited_pic_113",
+    "progressBarStep": [
+      6,
+      50,
+      80,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      220,
+      240,
+      260,
+      280,
+      300,
+      350,
+      400,
+      450,
+      500,
+      550,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1700
+    ],
+    "progressReward": [
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film7": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film8": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90702": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 1
+      },
+      {
+        "Film9": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "Film12": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1301": {
+    "id": "1301",
+    "router": [
+      "1303",
+      "1302",
+      "1301"
+    ],
+    "finishFirstTaskDialog": 12401,
+    "endDialog": 12402,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 3010001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3010011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_104",
+    "detailPicture": "story_limited_pic_104",
+    "progressBarStep": [
+      4,
+      10,
+      16,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      44,
+      48,
+      52,
+      56,
+      60,
+      70,
+      80,
+      90,
+      100,
+      110,
+      120,
+      140,
+      160,
+      160,
+      200,
+      200
+    ],
+    "progressReward": [
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 100,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "90601": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film4": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film6": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1302": {
+    "id": "1302",
+    "router": [
+      "1303",
+      "1302",
+      "1301"
+    ],
+    "finishFirstTaskDialog": 12401,
+    "endDialog": 12402,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001"
+    ],
+    "orderSpecialId1": 3020001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3020011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_104",
+    "detailPicture": "story_limited_pic_104",
+    "progressBarStep": [
+      4,
+      10,
+      16,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      44,
+      48,
+      52,
+      56,
+      60,
+      70,
+      80,
+      90,
+      100,
+      110,
+      120,
+      140,
+      160,
+      160,
+      200,
+      200
+    ],
+    "progressReward": [
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 100,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 2
+      },
+      {
+        "90502": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 6,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "Film4": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 3
+      },
+      {
+        "Film6": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1303": {
+    "id": "1303",
+    "router": [
+      "1303",
+      "1302",
+      "1301"
+    ],
+    "finishFirstTaskDialog": 12401,
+    "endDialog": 12402,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "orderSpecialId1": 3030001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3030011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_104",
+    "detailPicture": "story_limited_pic_104",
+    "progressBarStep": [
+      4,
+      10,
+      16,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      44,
+      48,
+      52,
+      56,
+      60,
+      70,
+      80,
+      90,
+      100,
+      110,
+      120,
+      140,
+      160,
+      160,
+      200,
+      200
+    ],
+    "progressReward": [
+      {
+        "Energy": 50,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Energy": 100,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90702": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 8,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 2
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "Film4": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 10,
+        "Star": 3
+      },
+      {
+        "Film6": 1,
+        "Star": 3
+      },
+      {
+        "98701": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1311": {
+    "id": "1311",
+    "router": [
+      "1313",
+      "1312",
+      "1311"
+    ],
+    "finishFirstTaskDialog": 12701,
+    "endDialog": 12702,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "orderSpecialId1": 3110001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3110011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_108",
+    "detailPicture": "story_limited_pic_108",
+    "progressBarStep": [
+      16,
+      50,
+      80,
+      110,
+      140,
+      170,
+      200,
+      230,
+      290,
+      350,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      600,
+      600,
+      600,
+      600
+    ],
+    "progressReward": [
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 1,
+        "Star": 1
+      },
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 100,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 2,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "90501": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 500,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 2
+      },
+      {
+        "90601": 1,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film5": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1312": {
+    "id": "1312",
+    "router": [
+      "1313",
+      "1312",
+      "1311"
+    ],
+    "finishFirstTaskDialog": 12701,
+    "endDialog": 12702,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001"
+    ],
+    "orderSpecialId1": 3120001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3120011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_108",
+    "detailPicture": "story_limited_pic_108",
+    "progressBarStep": [
+      16,
+      50,
+      80,
+      110,
+      140,
+      170,
+      200,
+      230,
+      290,
+      350,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      600,
+      600,
+      600,
+      600
+    ],
+    "progressReward": [
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 3,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 200,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 300,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 6,
+        "Star": 2
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90502": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 700,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film5": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  },
+  "1313": {
+    "id": "1313",
+    "router": [
+      "1313",
+      "1312",
+      "1311"
+    ],
+    "finishFirstTaskDialog": 12701,
+    "endDialog": 12702,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "orderSpecialId1": 3130001,
+    "orderSpecialId2": 0,
+    "isOrderLoop1": 3130011,
+    "isOrderLoop2": 0,
+    "picture": "limited_pic_108",
+    "detailPicture": "story_limited_pic_108",
+    "progressBarStep": [
+      16,
+      50,
+      80,
+      110,
+      140,
+      170,
+      200,
+      230,
+      290,
+      350,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      600,
+      600,
+      600,
+      600
+    ],
+    "progressReward": [
+      {
+        "98801114": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "Coin": 300,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 2
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "98801115": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film1": 1,
+        "Star": 2
+      },
+      {
+        "Coin": 400,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 5,
+        "Star": 2
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "Film2": 1,
+        "Star": 1
+      },
+      {
+        "98801116": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 2
+      },
+      {
+        "90602": 1,
+        "Star": 1
+      },
+      {
+        "Film3": 1,
+        "Star": 1
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 1
+      },
+      {
+        "Coin": 1000,
+        "Star": 1
+      },
+      {
+        "Film4": 1,
+        "Star": 3
+      },
+      {
+        "90702": 1,
+        "Star": 3
+      },
+      {
+        "Film13": 1,
+        "Star": 3
+      },
+      {
+        "CardBag10002": 4,
+        "Star": 3
+      },
+      {
+        "Film5": 1,
+        "Star": 3
+      },
+      {
+        "98721": 1,
+        "Star": 5
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "firstShowStep": 31,
+    "background": "ui_bg_timeorder",
+    "recoveryElementSeries": [
+      "Prop_Limit_114"
+    ],
+    "recycleChangeTo": 99101
+  }
+}

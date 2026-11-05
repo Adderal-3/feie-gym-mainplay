@@ -1,0 +1,86 @@
+{
+  "mask1": {
+    "id": "mask1",
+    "router": [
+      "mask3",
+      "mask2",
+      "mask1"
+    ],
+    "reward": [
+      {
+        "BaseResChest6": 1
+      },
+      {
+        "BaseResChest9": 1
+      },
+      {
+        "BaseResChest12": 1
+      },
+      {
+        "BaseResChest15": 1
+      }
+    ],
+    "time": [
+      1800,
+      2700,
+      3600,
+      5400
+    ]
+  },
+  "mask2": {
+    "id": "mask2",
+    "router": [
+      "mask3",
+      "mask2",
+      "mask1"
+    ],
+    "reward": [
+      {
+        "BaseResChest7": 1
+      },
+      {
+        "BaseResChest10": 1
+      },
+      {
+        "BaseResChest13": 1
+      },
+      {
+        "BaseResChest16": 1
+      }
+    ],
+    "time": [
+      1800,
+      2700,
+      3600,
+      5400
+    ]
+  },
+  "mask3": {
+    "id": "mask3",
+    "router": [
+      "mask3",
+      "mask2",
+      "mask1"
+    ],
+    "reward": [
+      {
+        "BaseResChest8": 1
+      },
+      {
+        "BaseResChest11": 1
+      },
+      {
+        "BaseResChest14": 1
+      },
+      {
+        "BaseResChest17": 1
+      }
+    ],
+    "time": [
+      1800,
+      2700,
+      3600,
+      5400
+    ]
+  }
+}

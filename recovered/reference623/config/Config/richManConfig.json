@@ -1,0 +1,114 @@
+{
+  "zhenhuan": {
+    "gId": "zhenhuan",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "©Flower Film&TV Co., Ltd. All rights reserved.",
+    "themeColorHex": "#6C2875A8",
+    "npc": "goose18"
+  },
+  "general1": {
+    "gId": "general1",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "br1": {
+    "gId": "br1",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "moon2024": {
+    "gId": "moon2024",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "baixue": {
+    "gId": "baixue",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "theatre": {
+    "gId": "theatre",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "tiankong": {
+    "gId": "tiankong",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose18"
+  },
+  "tomjerry": {
+    "gId": "tomjerry",
+    "unlockCondition": [
+      "PlayerLevel12"
+    ],
+    "goldGodGiftNum": 6,
+    "goldGodGiftRareNum": 2,
+    "goldGodRefreshTime": 0,
+    "goldGodGetTimes": 2,
+    "adRefreshGoldGodNew": 3,
+    "ipDescription": "",
+    "themeColorHex": "",
+    "npc": "goose888"
+  }
+}

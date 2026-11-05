@@ -1,0 +1,45 @@
+{
+  "1": {
+    "id": 1,
+    "reward": {
+      "Coin": 200
+    },
+    "weight": 500,
+    "weightExtra": 400,
+    "elementRequire": [
+      "Coin",
+      "90901",
+      "90902",
+      "90903",
+      "90101"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "reward": {
+      "Energy": 5
+    },
+    "weight": 100,
+    "weightExtra": 400,
+    "elementRequire": [
+      "Energy",
+      "90301",
+      "99301",
+      "99302",
+      "99303",
+      "99304",
+      "99305"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "reward": {
+      "AdornCoupon": 20
+    },
+    "weight": 200,
+    "weightExtra": 400,
+    "elementRequire": [
+      "AdornCoupon"
+    ]
+  }
+}

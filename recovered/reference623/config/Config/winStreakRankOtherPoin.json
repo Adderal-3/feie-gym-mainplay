@@ -1,0 +1,278 @@
+{
+  "rank1_1": {
+    "101": {
+      "id": 101,
+      "leftBound": 1,
+      "rightBound": 9,
+      "pointNum": 2
+    },
+    "102": {
+      "id": 102,
+      "leftBound": 10,
+      "rightBound": 29,
+      "pointNum": 2
+    },
+    "103": {
+      "id": 103,
+      "leftBound": 30,
+      "rightBound": 39,
+      "pointNum": 4
+    },
+    "104": {
+      "id": 104,
+      "leftBound": 40,
+      "rightBound": 49,
+      "pointNum": 5
+    },
+    "105": {
+      "id": 105,
+      "leftBound": 50,
+      "rightBound": 59,
+      "pointNum": 6
+    },
+    "106": {
+      "id": 106,
+      "leftBound": 60,
+      "rightBound": 69,
+      "pointNum": 8
+    },
+    "107": {
+      "id": 107,
+      "leftBound": 70,
+      "rightBound": 79,
+      "pointNum": 9
+    },
+    "108": {
+      "id": 108,
+      "leftBound": 80,
+      "rightBound": 99,
+      "pointNum": 10
+    },
+    "109": {
+      "id": 109,
+      "leftBound": 100,
+      "rightBound": 119,
+      "pointNum": 12
+    },
+    "110": {
+      "id": 110,
+      "leftBound": 120,
+      "rightBound": 149,
+      "pointNum": 16
+    },
+    "111": {
+      "id": 111,
+      "leftBound": 150,
+      "rightBound": 179,
+      "pointNum": 20
+    },
+    "112": {
+      "id": 112,
+      "leftBound": 180,
+      "rightBound": 239,
+      "pointNum": 25
+    },
+    "113": {
+      "id": 113,
+      "leftBound": 240,
+      "rightBound": 399,
+      "pointNum": 39
+    },
+    "114": {
+      "id": 114,
+      "leftBound": 400,
+      "rightBound": 499,
+      "pointNum": 55
+    },
+    "115": {
+      "id": 115,
+      "leftBound": 500,
+      "rightBound": 99999,
+      "pointNum": 72
+    }
+  },
+  "rank1_2": {
+    "201": {
+      "id": 201,
+      "leftBound": 1,
+      "rightBound": 9,
+      "pointNum": 2
+    },
+    "202": {
+      "id": 202,
+      "leftBound": 10,
+      "rightBound": 29,
+      "pointNum": 2
+    },
+    "203": {
+      "id": 203,
+      "leftBound": 30,
+      "rightBound": 39,
+      "pointNum": 4
+    },
+    "204": {
+      "id": 204,
+      "leftBound": 40,
+      "rightBound": 49,
+      "pointNum": 5
+    },
+    "205": {
+      "id": 205,
+      "leftBound": 50,
+      "rightBound": 59,
+      "pointNum": 6
+    },
+    "206": {
+      "id": 206,
+      "leftBound": 60,
+      "rightBound": 69,
+      "pointNum": 8
+    },
+    "207": {
+      "id": 207,
+      "leftBound": 70,
+      "rightBound": 79,
+      "pointNum": 9
+    },
+    "208": {
+      "id": 208,
+      "leftBound": 80,
+      "rightBound": 99,
+      "pointNum": 10
+    },
+    "209": {
+      "id": 209,
+      "leftBound": 100,
+      "rightBound": 119,
+      "pointNum": 12
+    },
+    "210": {
+      "id": 210,
+      "leftBound": 120,
+      "rightBound": 149,
+      "pointNum": 16
+    },
+    "211": {
+      "id": 211,
+      "leftBound": 150,
+      "rightBound": 179,
+      "pointNum": 20
+    },
+    "212": {
+      "id": 212,
+      "leftBound": 180,
+      "rightBound": 239,
+      "pointNum": 25
+    },
+    "213": {
+      "id": 213,
+      "leftBound": 240,
+      "rightBound": 399,
+      "pointNum": 39
+    },
+    "214": {
+      "id": 214,
+      "leftBound": 400,
+      "rightBound": 499,
+      "pointNum": 55
+    },
+    "215": {
+      "id": 215,
+      "leftBound": 500,
+      "rightBound": 99999,
+      "pointNum": 72
+    }
+  },
+  "rank1_3": {
+    "301": {
+      "id": 301,
+      "leftBound": 1,
+      "rightBound": 9,
+      "pointNum": 2
+    },
+    "302": {
+      "id": 302,
+      "leftBound": 10,
+      "rightBound": 29,
+      "pointNum": 2
+    },
+    "303": {
+      "id": 303,
+      "leftBound": 30,
+      "rightBound": 39,
+      "pointNum": 4
+    },
+    "304": {
+      "id": 304,
+      "leftBound": 40,
+      "rightBound": 49,
+      "pointNum": 5
+    },
+    "305": {
+      "id": 305,
+      "leftBound": 50,
+      "rightBound": 59,
+      "pointNum": 6
+    },
+    "306": {
+      "id": 306,
+      "leftBound": 60,
+      "rightBound": 69,
+      "pointNum": 8
+    },
+    "307": {
+      "id": 307,
+      "leftBound": 70,
+      "rightBound": 79,
+      "pointNum": 9
+    },
+    "308": {
+      "id": 308,
+      "leftBound": 80,
+      "rightBound": 99,
+      "pointNum": 10
+    },
+    "309": {
+      "id": 309,
+      "leftBound": 100,
+      "rightBound": 119,
+      "pointNum": 12
+    },
+    "310": {
+      "id": 310,
+      "leftBound": 120,
+      "rightBound": 149,
+      "pointNum": 16
+    },
+    "311": {
+      "id": 311,
+      "leftBound": 150,
+      "rightBound": 179,
+      "pointNum": 20
+    },
+    "312": {
+      "id": 312,
+      "leftBound": 180,
+      "rightBound": 239,
+      "pointNum": 25
+    },
+    "313": {
+      "id": 313,
+      "leftBound": 240,
+      "rightBound": 399,
+      "pointNum": 39
+    },
+    "314": {
+      "id": 314,
+      "leftBound": 400,
+      "rightBound": 499,
+      "pointNum": 55
+    },
+    "315": {
+      "id": 315,
+      "leftBound": 500,
+      "rightBound": 99999,
+      "pointNum": 72
+    }
+  }
+}

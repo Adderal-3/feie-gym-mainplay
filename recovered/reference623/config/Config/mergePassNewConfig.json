@@ -1,0 +1,9 @@
+{
+  "initPassPoint": 0,
+  "energyToPoint": 1,
+  "vipEnergyToPoint": 2,
+  "DiamondToPoint": 5,
+  "freeBagNum": 5,
+  "mpNewBagUnlockPlayerLevel": 12,
+  "firstActID": "newmp0001"
+}

@@ -1,0 +1,26 @@
+{
+  "mhd1": {
+    "id": "mhd1",
+    "Title": "天空之城",
+    "shopTitle": "天空之城",
+    "eventCoinName": "装饰币"
+  },
+  "mhd2": {
+    "id": "mhd2",
+    "Title": "公园健身",
+    "shopTitle": "公园健身",
+    "eventCoinName": "装饰币"
+  },
+  "mhd3": {
+    "id": "mhd3",
+    "Title": "马戏之家",
+    "shopTitle": "马戏之家",
+    "eventCoinName": "装饰币"
+  },
+  "mhd4": {
+    "id": "mhd4",
+    "Title": "水上运动会",
+    "shopTitle": "水上运动会",
+    "eventCoinName": "装饰币"
+  }
+}

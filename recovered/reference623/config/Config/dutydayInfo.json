@@ -1,0 +1,8 @@
+{
+  "dutyday": {
+    "theme": "dutyday",
+    "boardAnim": "TimeOrderJianadae",
+    "firstEnterBoard": 9006,
+    "getFinalFreeGift": 9007
+  }
+}

@@ -1,0 +1,1669 @@
+{
+  "check1": {
+    "id": "check1",
+    "router": [
+      "check1"
+    ],
+    "enterDialog": 9212,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      90,
+      350,
+      460,
+      100,
+      350,
+      460,
+      110,
+      350,
+      460,
+      120,
+      350,
+      460,
+      200,
+      400,
+      540,
+      300,
+      600,
+      800,
+      450,
+      900,
+      1200,
+      700,
+      1350,
+      1800
+    ],
+    "progressReward": [
+      {
+        "9880164": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 3665,
+    "roundTwoOrderId": 12001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "waterId": "999013"
+  },
+  "check2": {
+    "id": "check2",
+    "router": [
+      "check2"
+    ],
+    "enterDialog": 9213,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      90,
+      350,
+      460,
+      100,
+      350,
+      460,
+      110,
+      350,
+      460,
+      120,
+      350,
+      460,
+      200,
+      400,
+      540,
+      300,
+      600,
+      800,
+      450,
+      900,
+      1200,
+      700,
+      1350,
+      1800
+    ],
+    "progressReward": [
+      {
+        "9880168": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_3",
+      "Prop_Limit_3_0",
+      "Prop_Limit_4"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 3665,
+    "roundTwoOrderId": 22001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "aqiang",
+    "boardAnim": "TimeOrderAqiang",
+    "character": "aqiangUI",
+    "waterId": "140"
+  },
+  "check3": {
+    "id": "check3",
+    "router": [
+      "check3"
+    ],
+    "enterDialog": 9214,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel20"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      90,
+      350,
+      460,
+      100,
+      350,
+      460,
+      110,
+      350,
+      460,
+      120,
+      350,
+      460,
+      200,
+      400,
+      540,
+      300,
+      600,
+      800,
+      450,
+      900,
+      1200,
+      700,
+      1350,
+      1800
+    ],
+    "progressReward": [
+      {
+        "9880168": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_3",
+      "Prop_Limit_3_0",
+      "Prop_Limit_4"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 3665,
+    "roundTwoOrderId": 32001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "waterId": "999013"
+  },
+  "check4": {
+    "id": "check4",
+    "router": [
+      "check4"
+    ],
+    "enterDialog": 9215,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      100,
+      300,
+      500,
+      110,
+      330,
+      550,
+      130,
+      390,
+      650,
+      150,
+      450,
+      750,
+      225,
+      675,
+      1125,
+      300,
+      900,
+      1500,
+      450,
+      1350,
+      2250,
+      750,
+      2250,
+      3750
+    ],
+    "progressReward": [
+      {
+        "9880164": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 4415,
+    "roundTwoOrderId": 42001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "fuemosie",
+    "boardAnim": "TimeOrderfuemosi",
+    "character": "fuemosieUI",
+    "waterId": "165"
+  },
+  "check5": {
+    "id": "check5",
+    "router": [
+      "check5"
+    ],
+    "enterDialog": 9216,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      30,
+      65,
+      70,
+      90,
+      100,
+      110,
+      120,
+      130,
+      140,
+      150,
+      175,
+      200,
+      215,
+      400,
+      240,
+      260,
+      300,
+      320,
+      370,
+      510,
+      400,
+      600,
+      300,
+      700,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500
+    ],
+    "progressReward": [
+      {
+        "98801": 1
+      },
+      {
+        "Coin": 200
+      },
+      {
+        "Energy": 10
+      },
+      {
+        "90234": 1
+      },
+      {
+        "Star": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Coin": 500
+      },
+      {
+        "98401": 1
+      },
+      {
+        "90235": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "Diamond": 5
+      },
+      {
+        "Coin": 1000
+      },
+      {
+        "90236": 1
+      },
+      {
+        "Star": 2
+      },
+      {
+        "AdornSkin1400602": 1
+      },
+      {
+        "98801": 1
+      },
+      {
+        "90237": 1
+      },
+      {
+        "Star": 3
+      },
+      {
+        "Coin": 2000
+      },
+      {
+        "98401": 1
+      },
+      {
+        "AdornSkin1400402": 1
+      },
+      {
+        "Star": 4
+      },
+      {
+        "AdornSkin1400502": 1
+      },
+      {
+        "Coin": 3000
+      },
+      {
+        "AdornSkin1400102": 1
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      },
+      {
+        "CardPoint": 100
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_1",
+      "Prop_Limit_1_0",
+      "Prop_Limit_2"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 6000,
+    "roundTwoOrderId": 52001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "wanpin",
+    "boardAnim": "TimeOrderwanpin",
+    "character": "wanpineUI",
+    "waterId": "154"
+  },
+  "check6": {
+    "id": "check6",
+    "router": [
+      "check8",
+      "check7",
+      "check6"
+    ],
+    "enterDialog": 9217,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      245,
+      200,
+      200,
+      500,
+      400,
+      400,
+      700,
+      650,
+      650,
+      800,
+      1600,
+      2000,
+      3000,
+      3600
+    ],
+    "progressReward": [
+      {
+        "9880175": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Film1": 2
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Film2": 2
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "Film13": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_6",
+      "Prop_Limit_6_0",
+      "Prop_Limit_7"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 4750,
+    "roundTwoOrderId": 62001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "waterId": "999022"
+  },
+  "check7": {
+    "id": "check7",
+    "router": [
+      "check8",
+      "check7",
+      "check6"
+    ],
+    "enterDialog": 9217,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22",
+      "FinishOrder330001"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      305,
+      250,
+      250,
+      620,
+      500,
+      500,
+      870,
+      800,
+      800,
+      1000,
+      2000,
+      2500,
+      3700,
+      4500
+    ],
+    "progressReward": [
+      {
+        "9880175": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Film1": 2
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Film2": 2
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "Film13": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_6",
+      "Prop_Limit_6_0",
+      "Prop_Limit_7"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 5900,
+    "roundTwoOrderId": 72001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "waterId": "999022"
+  },
+  "check8": {
+    "id": "check8",
+    "router": [
+      "check8",
+      "check7",
+      "check6"
+    ],
+    "enterDialog": 9217,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      365,
+      300,
+      300,
+      740,
+      600,
+      600,
+      1000,
+      950,
+      950,
+      1200,
+      2400,
+      3000,
+      4400,
+      5400
+    ],
+    "progressReward": [
+      {
+        "9880175": 1
+      },
+      {
+        "Film1": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "Film1": 2
+      },
+      {
+        "90501": 1
+      },
+      {
+        "Film2": 2
+      },
+      {
+        "90601": 1
+      },
+      {
+        "Film3": 1
+      },
+      {
+        "90701": 1
+      },
+      {
+        "Film4": 1
+      },
+      {
+        "Film13": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90701": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_6",
+      "Prop_Limit_6_0",
+      "Prop_Limit_7"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 7010,
+    "roundTwoOrderId": 82001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "azhen",
+    "boardAnim": "TimeOrder",
+    "character": "azheneUI",
+    "waterId": "999022"
+  },
+  "check9": {
+    "id": "check9",
+    "router": [
+      "check11",
+      "check10",
+      "check9"
+    ],
+    "enterDialog": 9214,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      100,
+      300,
+      400,
+      110,
+      330,
+      550,
+      200,
+      390,
+      600,
+      280,
+      450,
+      700,
+      400,
+      680,
+      1125,
+      500,
+      900,
+      1200,
+      600,
+      1350,
+      2000,
+      770,
+      2250,
+      3750
+    ],
+    "progressReward": [
+      {
+        "98801134": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_9",
+      "Prop_Limit_9_0",
+      "Prop_Limit_10"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 4415,
+    "roundTwoOrderId": 92001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "waterId": "999025"
+  },
+  "check10": {
+    "id": "check10",
+    "router": [
+      "check11",
+      "check10",
+      "check9"
+    ],
+    "enterDialog": 9214,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22",
+      "FinishOrder330001"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      100,
+      300,
+      400,
+      110,
+      330,
+      550,
+      200,
+      390,
+      600,
+      280,
+      450,
+      700,
+      400,
+      680,
+      1125,
+      500,
+      900,
+      1200,
+      600,
+      1350,
+      2000,
+      770,
+      2250,
+      3750
+    ],
+    "progressReward": [
+      {
+        "98801134": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_9",
+      "Prop_Limit_9_0",
+      "Prop_Limit_10"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 4415,
+    "roundTwoOrderId": 102001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "waterId": "999025"
+  },
+  "check11": {
+    "id": "check11",
+    "router": [
+      "check11",
+      "check10",
+      "check9"
+    ],
+    "enterDialog": 9214,
+    "type": "Main",
+    "unlock": [
+      "PlayerLevel22",
+      "FinishOrder330001",
+      "FinishDrawer45"
+    ],
+    "prepareDuration": 43200,
+    "EntranceIcon": "2404",
+    "progressBarStep": [
+      5,
+      160,
+      480,
+      640,
+      176,
+      528,
+      1170,
+      320,
+      624,
+      960,
+      448,
+      720,
+      1800,
+      640,
+      1088,
+      1800,
+      800,
+      1440,
+      3000,
+      960,
+      2160,
+      3200,
+      1231,
+      3600,
+      6700
+    ],
+    "progressReward": [
+      {
+        "98801136": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90701": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90701": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90701": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90601": 1
+      },
+      {
+        "90901": 1
+      },
+      {
+        "90501": 1
+      },
+      {
+        "90701": 1
+      }
+    ],
+    "canSpeacialReward": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "recoveryElementSeries": [
+      "Prop_Limit_9",
+      "Prop_Limit_9_0",
+      "Prop_Limit_10"
+    ],
+    "recycleChangeTo": 99101,
+    "roundOneScore": 8031,
+    "roundTwoOrderId": 112001,
+    "roundTwoStopOrderSeries": [
+      1
+    ],
+    "walkGoose": "agu",
+    "boardAnim": "TimeOrderAgu",
+    "character": "agueUI",
+    "waterId": "999025"
+  }
+}

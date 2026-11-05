@@ -1,0 +1,128 @@
+{
+  "1001": {
+    "gachaID": 1001,
+    "title": "普通肥鹅卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "1002": {
+    "gachaID": 1002,
+    "title": "高级肥鹅卡牌",
+    "explanation": "更高概率获得2-5星卡牌"
+  },
+  "2001": {
+    "gachaID": 2001,
+    "title": "超级会员卡牌",
+    "explanation": "必出3-5星卡牌"
+  },
+  "2002": {
+    "gachaID": 2002,
+    "title": "限时精选卡牌",
+    "explanation": "抽取时必得带有限时精选标识的卡牌。",
+    "upDescription": "本期限时精选卡组，通过限时精选卡牌即可抽取获得"
+  },
+  "2003": {
+    "gachaID": 2003,
+    "title": "健康餐活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "2004": {
+    "gachaID": 2004,
+    "title": "不健康餐活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "2005": {
+    "gachaID": 2005,
+    "title": "旅行活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "2006": {
+    "gachaID": 2006,
+    "title": "一起抓蝴蝶活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6001": {
+    "gachaID": 6001,
+    "title": "新春福卡限定卡牌",
+    "explanation": "可抽出【新春福卡限定】系列卡牌。"
+  },
+  "6002": {
+    "gachaID": 6002,
+    "title": "新春限定卡牌",
+    "explanation": "可抽出【新春限定】系列卡牌。"
+  },
+  "6003": {
+    "gachaID": 6003,
+    "title": "活动限定卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6004": {
+    "gachaID": 6004,
+    "title": "宝石活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6005": {
+    "gachaID": 6005,
+    "title": "木雕活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6006": {
+    "gachaID": 6006,
+    "title": "新春限定卡牌·财",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6007": {
+    "gachaID": 6007,
+    "title": "新春限定卡牌·福",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6008": {
+    "gachaID": 6008,
+    "title": "肥鹅打怪兽活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6009": {
+    "gachaID": 6009,
+    "title": "饼干活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6010": {
+    "gachaID": 6010,
+    "title": "饼干活动卡牌",
+    "explanation": "● 包含1-5星卡牌         \n● 重复卡牌分解为钻石"
+  },
+  "6011": {
+    "gachaID": 6011,
+    "title": "木雕活动卡牌",
+    "explanation": "● 包含1-5星卡牌         \n● 重复卡牌分解为钻石"
+  },
+  "6012": {
+    "gachaID": 6012,
+    "title": "宝石活动卡牌",
+    "explanation": "● 包含1-5星卡牌         \n● 重复卡牌分解为钻石"
+  },
+  "6013": {
+    "gachaID": 6013,
+    "title": "神灯活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6014": {
+    "gachaID": 6014,
+    "title": "考古活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6015": {
+    "gachaID": 6015,
+    "title": "香蕉活动卡牌",
+    "explanation": "包含1-5星卡牌"
+  },
+  "6016": {
+    "gachaID": 6016,
+    "title": "香蕉活动卡牌",
+    "explanation": "● 包含1-5星卡牌         \n● 重复卡牌分解为钻石"
+  },
+  "8888": {
+    "gachaID": 8888,
+    "title": "万能卡牌",
+    "explanation": "可在任意已解锁的系列中，兑换一张未获得的卡牌。"
+  }
+}

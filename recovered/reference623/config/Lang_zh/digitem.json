@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "digtitle": "锄头不够看这里！",
+    "digdescription": "完成棋盘订单可获得锄头。",
+    "ShopGiveResource": "每日最多可在此处获得{0}把锄头"
+  },
+  "2": {
+    "id": 2,
+    "digtitle": "锄头不够看这里！",
+    "digdescription": "完成棋盘订单可获得锄头。",
+    "ShopGiveResource": "每日最多可在此处获得{0}把锄头"
+  },
+  "3": {
+    "id": 3,
+    "digtitle": "锄头不够看这里！",
+    "digdescription": "完成棋盘订单可获得锄头。",
+    "ShopGiveResource": "每日最多可在此处获得{0}把锄头"
+  }
+}

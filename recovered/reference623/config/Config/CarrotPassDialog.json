@@ -1,0 +1,8 @@
+{
+  "carrot": {
+    "id": "carrot",
+    "beginDialog": 15009,
+    "firstGetButterfly": 15010,
+    "endDialog": 15011
+  }
+}

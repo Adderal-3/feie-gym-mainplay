@@ -1,0 +1,12 @@
+{
+  "A": {
+    "id": "A",
+    "condition": "id % 10 < 5",
+    "robotScoreConfig": "partnerRobot1A"
+  },
+  "B": {
+    "id": "B",
+    "condition": "id % 10 >= 5",
+    "robotScoreConfig": "partnerRobot1B"
+  }
+}

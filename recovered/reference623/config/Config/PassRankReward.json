@@ -1,0 +1,26 @@
+{
+  "1001": {
+    "rewardId": 1001,
+    "eventId": "honey",
+    "startRank": 1,
+    "endRank": 1,
+    "icon": "icon_rankreward_04",
+    "rankReward": {
+      "CardPack1001": 8,
+      "Energy": 80,
+      "Coin": 1000
+    }
+  },
+  "1002": {
+    "rewardId": 1002,
+    "eventId": "honey",
+    "startRank": 2,
+    "endRank": 3,
+    "icon": "icon_rankreward_01",
+    "rankReward": {
+      "CardPack1001": 4,
+      "Energy": 30,
+      "Coin": 800
+    }
+  }
+}

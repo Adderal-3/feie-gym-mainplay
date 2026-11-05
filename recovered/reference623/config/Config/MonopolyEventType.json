@@ -1,0 +1,277 @@
+{
+  "1": {
+    "id": 1,
+    "reward": [
+      {
+        "Coin": 10
+      },
+      {
+        "Coin": 10
+      },
+      {
+        "Coin": 10
+      },
+      {
+        "Coin": 10
+      },
+      {
+        "Coin": 10
+      },
+      {
+        "Coin": 10
+      }
+    ],
+    "weight": 50,
+    "pic": "PicCoin"
+  },
+  "2": {
+    "id": 2,
+    "reward": [
+      {
+        "monopolyDice": 1
+      },
+      {
+        "monopolyDice": 1
+      },
+      {
+        "monopolyDice": 1
+      },
+      {
+        "monopolyDice": 1
+      },
+      {
+        "monopolyDice": 1
+      },
+      {
+        "monopolyDice": 1
+      }
+    ],
+    "weight": 100,
+    "pic": "PicDice"
+  },
+  "3": {
+    "id": 3,
+    "reward": [
+      {
+        "monopolyDice": 2
+      },
+      {
+        "monopolyDice": 2
+      },
+      {
+        "monopolyDice": 2
+      },
+      {
+        "monopolyDice": 2
+      },
+      {
+        "monopolyDice": 2
+      },
+      {
+        "monopolyDice": 2
+      }
+    ],
+    "weight": 100,
+    "pic": "PicDice"
+  },
+  "4": {
+    "id": 4,
+    "reward": [
+      {
+        "monopolyCoin": 10
+      },
+      {
+        "monopolyCoin": 10
+      },
+      {
+        "monopolyCoin": 10
+      },
+      {
+        "monopolyCoin": 10
+      },
+      {
+        "monopolyCoin": 10
+      },
+      {
+        "monopolyCoin": 10
+      }
+    ],
+    "weight": 205,
+    "pic": "PicmonopolyCoin"
+  },
+  "5": {
+    "id": 5,
+    "reward": [
+      {
+        "monopolyCoin": 100
+      },
+      {
+        "monopolyCoin": 100
+      },
+      {
+        "monopolyCoin": 100
+      },
+      {
+        "monopolyCoin": 100
+      },
+      {
+        "monopolyCoin": 100
+      },
+      {
+        "monopolyCoin": 100
+      }
+    ],
+    "weight": 600,
+    "pic": "PicmonopolyCoin"
+  },
+  "6": {
+    "id": 6,
+    "reward": [
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      },
+      {
+        "monopolyCoin": 200
+      }
+    ],
+    "weight": 400,
+    "pic": "PicmonopolyCoin"
+  },
+  "7": {
+    "id": 7,
+    "reward": [
+      {
+        "monopolyCoin": 300
+      },
+      {
+        "monopolyCoin": 300
+      },
+      {
+        "monopolyCoin": 300
+      },
+      {
+        "monopolyCoin": 300
+      },
+      {
+        "monopolyCoin": 300
+      },
+      {
+        "monopolyCoin": 300
+      }
+    ],
+    "weight": 500,
+    "pic": "PicmonopolyCoin"
+  },
+  "8": {
+    "id": 8,
+    "reward": [
+      {
+        "monopolyCoin": 500
+      },
+      {
+        "monopolyCoin": 500
+      },
+      {
+        "monopolyCoin": 500
+      },
+      {
+        "monopolyCoin": 500
+      },
+      {
+        "monopolyCoin": 500
+      },
+      {
+        "monopolyCoin": 500
+      }
+    ],
+    "weight": 500,
+    "pic": "PicmonopolyCoin"
+  },
+  "9": {
+    "id": 9,
+    "reward": [
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      },
+      {
+        "monopolyCoin": 600
+      }
+    ],
+    "weight": 500,
+    "pic": "PicmonopolyCoin"
+  },
+  "10": {
+    "id": 10,
+    "reward": [
+      {
+        "monopolyCoin": 800
+      },
+      {
+        "monopolyCoin": 800
+      },
+      {
+        "monopolyCoin": 800
+      },
+      {
+        "monopolyCoin": 800
+      },
+      {
+        "monopolyCoin": 800
+      },
+      {
+        "monopolyCoin": 800
+      }
+    ],
+    "weight": 300,
+    "pic": "PicmonopolyCoin"
+  },
+  "11": {
+    "id": 11,
+    "reward": [
+      {
+        "monopolyCoin": 1000
+      },
+      {
+        "monopolyCoin": 1000
+      },
+      {
+        "monopolyCoin": 1000
+      },
+      {
+        "monopolyCoin": 1000
+      },
+      {
+        "monopolyCoin": 1000
+      },
+      {
+        "monopolyCoin": 1000
+      }
+    ],
+    "weight": 300,
+    "pic": "PicmonopolyCoin"
+  }
+}

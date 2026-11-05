@@ -1,0 +1,181 @@
+{
+  "healthy1": {
+    "EventId": "healthy1",
+    "BeginDialog": 8619,
+    "EnterBoard": 8620,
+    "EndDialog": 8623,
+    "HappyEndDialog": 8623,
+    "GetElement": [
+      "79005:8627"
+    ],
+    "ClickElement": [
+      "79006:8621",
+      "79007:8622"
+    ],
+    "getPassport": 8626,
+    "RankInDialog": 8624,
+    "GetFirstPassReward": 8625,
+    "FinishTask": []
+  },
+  "healthy2": {
+    "EventId": "healthy2",
+    "BeginDialog": 8716,
+    "EnterBoard": 0,
+    "EndDialog": 8719,
+    "HappyEndDialog": 8719,
+    "GetElement": [
+      "69005:8723"
+    ],
+    "ClickElement": [
+      "69007:8717",
+      "69006:8718"
+    ],
+    "getPassport": 8722,
+    "RankInDialog": 8720,
+    "GetFirstPassReward": 8721,
+    "FinishTask": []
+  },
+  "travel1": {
+    "EventId": "travel1",
+    "BeginDialog": 8837,
+    "EnterBoard": 8838,
+    "EndDialog": 8849,
+    "HappyEndDialog": 8849,
+    "GetElement": [
+      "62206:8841",
+      "62217:8843",
+      "62226:8844",
+      "62617:8847",
+      "62626:8848"
+    ],
+    "ClickElement": [
+      "62012:8839",
+      "62022:8840",
+      "62032:8842",
+      "62052:8845",
+      "62536:8846"
+    ],
+    "getPassport": 8850,
+    "RankInDialog": 8851,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  },
+  "travel2": {
+    "EventId": "travel2",
+    "BeginDialog": 8837,
+    "EnterBoard": 8838,
+    "EndDialog": 8849,
+    "HappyEndDialog": 8849,
+    "GetElement": [
+      "62206:8841",
+      "62217:8843",
+      "62226:8844",
+      "62617:8847",
+      "62626:8848"
+    ],
+    "ClickElement": [
+      "62012:8839",
+      "62022:8840",
+      "62032:8842",
+      "62052:8845",
+      "62536:8846"
+    ],
+    "getPassport": 8850,
+    "RankInDialog": 8851,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  },
+  "travel3": {
+    "EventId": "travel3",
+    "BeginDialog": 8837,
+    "EnterBoard": 8838,
+    "EndDialog": 8849,
+    "HappyEndDialog": 8849,
+    "GetElement": [
+      "62206:8841",
+      "62217:8843",
+      "62226:8844",
+      "62617:8847",
+      "62626:8848"
+    ],
+    "ClickElement": [
+      "62012:8839",
+      "62022:8840",
+      "62032:8842",
+      "62052:8845",
+      "62536:8846"
+    ],
+    "getPassport": 8850,
+    "RankInDialog": 8851,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  },
+  "travel4": {
+    "EventId": "travel4",
+    "BeginDialog": 8837,
+    "EnterBoard": 8838,
+    "EndDialog": 8849,
+    "HappyEndDialog": 8849,
+    "GetElement": [
+      "62206:8841",
+      "62217:8843",
+      "62226:8844",
+      "62617:8847",
+      "62626:8848"
+    ],
+    "ClickElement": [
+      "62012:8839",
+      "62022:8840",
+      "62032:8842",
+      "62052:8845",
+      "62536:8846"
+    ],
+    "getPassport": 8850,
+    "RankInDialog": 8851,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  },
+  "travel5": {
+    "EventId": "travel5",
+    "BeginDialog": 8837,
+    "EnterBoard": 8838,
+    "EndDialog": 8849,
+    "HappyEndDialog": 8849,
+    "GetElement": [
+      "62206:8841",
+      "62217:8843",
+      "62226:8844",
+      "62617:8847",
+      "62626:8848"
+    ],
+    "ClickElement": [
+      "62012:8839",
+      "62022:8840",
+      "62032:8842",
+      "62052:8845",
+      "62536:8846"
+    ],
+    "getPassport": 8850,
+    "RankInDialog": 8851,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  },
+  "arch": {
+    "EventId": "arch",
+    "BeginDialog": 17111,
+    "EnterBoard": 17112,
+    "EndDialog": 17117,
+    "HappyEndDialog": 17117,
+    "GetElement": [
+      "53215:17114"
+    ],
+    "ClickElement": [
+      "53201:17113",
+      "53003:17115"
+    ],
+    "getPassport": 17118,
+    "RankInDialog": 17116,
+    "GetFirstPassReward": 0,
+    "FinishTask": []
+  }
+}

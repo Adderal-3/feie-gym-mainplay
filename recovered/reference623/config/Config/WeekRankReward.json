@@ -1,0 +1,441 @@
+{
+  "0": {
+    "101": {
+      "ID": 101,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "98102": 1,
+        "98202": 1,
+        "Coin": 300,
+        "Energy": 50,
+        "Diamond": 10,
+        "AdornCoupon": 100
+      }
+    },
+    "102": {
+      "ID": 102,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 200,
+        "Energy": 25,
+        "AdornCoupon": 50
+      }
+    },
+    "103": {
+      "ID": 103,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 100,
+        "Energy": 25
+      }
+    },
+    "104": {
+      "ID": 104,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "98102": 1,
+        "98202": 1,
+        "Coin": 500,
+        "Energy": 50,
+        "Diamond": 10,
+        "AdornCoupon": 200
+      }
+    },
+    "105": {
+      "ID": 105,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 300,
+        "Energy": 25,
+        "AdornCoupon": 100
+      }
+    },
+    "106": {
+      "ID": 106,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 200,
+        "Energy": 25
+      }
+    },
+    "107": {
+      "ID": 107,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "98102": 1,
+        "98202": 1,
+        "Coin": 800,
+        "Energy": 50,
+        "Diamond": 10,
+        "AdornCoupon": 200
+      }
+    },
+    "108": {
+      "ID": 108,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 500,
+        "Energy": 25,
+        "AdornCoupon": 100
+      }
+    },
+    "109": {
+      "ID": 109,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "98101": 1,
+        "98201": 1,
+        "Coin": 300,
+        "Energy": 25
+      }
+    },
+    "110": {
+      "ID": 110,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 800,
+        "Energy": 50,
+        "Diamond": 10,
+        "AdornCoupon": 200,
+        "CardPoint": 200
+      }
+    },
+    "111": {
+      "ID": 111,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 500,
+        "Energy": 25,
+        "AdornCoupon": 100,
+        "CardPoint": 150
+      }
+    },
+    "112": {
+      "ID": 112,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 300,
+        "Energy": 25,
+        "CardPoint": 100
+      }
+    },
+    "113": {
+      "ID": 113,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 800,
+        "Energy": 50,
+        "Diamond": 10,
+        "AdornCoupon": 200,
+        "CardPoint": 200
+      }
+    },
+    "114": {
+      "ID": 114,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 500,
+        "Energy": 25,
+        "AdornCoupon": 100,
+        "CardPoint": 150
+      }
+    },
+    "115": {
+      "ID": 115,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 300,
+        "Energy": 25,
+        "CardPoint": 100
+      }
+    }
+  },
+  "20230102": {
+    "201": {
+      "ID": 201,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "98102": 1,
+        "98202": 1,
+        "Coin": 1000,
+        "Energy": 100,
+        "AdornCoupon": 50
+      }
+    },
+    "202": {
+      "ID": 202,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 100,
+        "Energy": 10
+      }
+    },
+    "203": {
+      "ID": 203,
+      "rankGroupId": [
+        10
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 100
+      }
+    },
+    "204": {
+      "ID": 204,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 2000,
+        "Energy": 100,
+        "AdornCoupon": 50,
+        "CardPack1001": 4
+      }
+    },
+    "205": {
+      "ID": 205,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 100,
+        "Energy": 10
+      }
+    },
+    "206": {
+      "ID": 206,
+      "rankGroupId": [
+        30
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 100
+      }
+    },
+    "207": {
+      "ID": 207,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 3000,
+        "Energy": 100,
+        "AdornCoupon": 100,
+        "CardPack1001": 8
+      }
+    },
+    "208": {
+      "ID": 208,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 100,
+        "Energy": 10
+      }
+    },
+    "209": {
+      "ID": 209,
+      "rankGroupId": [
+        60
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 100
+      }
+    },
+    "210": {
+      "ID": 210,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 3000,
+        "Energy": 100,
+        "AdornCoupon": 100,
+        "CardPack1001": 12
+      }
+    },
+    "211": {
+      "ID": 211,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 100,
+        "Energy": 10
+      }
+    },
+    "212": {
+      "ID": 212,
+      "rankGroupId": [
+        80
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 100
+      }
+    },
+    "213": {
+      "ID": 213,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Coin": 4000,
+        "Energy": 100,
+        "AdornCoupon": 100,
+        "CardPack1001": 16
+      }
+    },
+    "214": {
+      "ID": 214,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Coin": 100,
+        "Energy": 10
+      }
+    },
+    "215": {
+      "ID": 215,
+      "rankGroupId": [
+        100
+      ],
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Coin": 100
+      }
+    }
+  }
+}

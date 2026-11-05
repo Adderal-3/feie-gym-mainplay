@@ -1,0 +1,92 @@
+{
+  "1": {
+    "qbRewardID": 1,
+    "qbReward": {
+      "90101": 1
+    }
+  },
+  "2": {
+    "qbRewardID": 2,
+    "qbReward": {
+      "Coin": 1000
+    }
+  },
+  "3": {
+    "qbRewardID": 3,
+    "qbReward": {
+      "Energy": 100
+    }
+  },
+  "4": {
+    "qbRewardID": 4,
+    "qbReward": {
+      "Diamond": 10
+    }
+  },
+  "5": {
+    "qbRewardID": 5,
+    "qbReward": {
+      "Energy": 50
+    }
+  },
+  "6": {
+    "qbRewardID": 6,
+    "qbReward": {
+      "CardPack1001": 4
+    }
+  },
+  "7": {
+    "qbRewardID": 7,
+    "qbReward": {
+      "90901": 1
+    }
+  },
+  "8": {
+    "qbRewardID": 8,
+    "qbReward": {
+      "90301": 1
+    }
+  },
+  "9": {
+    "qbRewardID": 9,
+    "qbReward": {
+      "AdornCoupon": 5
+    }
+  },
+  "10": {
+    "qbRewardID": 10,
+    "qbReward": {
+      "AdornCoupon": 10
+    }
+  },
+  "11": {
+    "qbRewardID": 11,
+    "qbReward": {
+      "AdornCoupon": 20
+    }
+  },
+  "12": {
+    "qbRewardID": 12,
+    "qbReward": {
+      "CardPack1001": 1
+    }
+  },
+  "13": {
+    "qbRewardID": 13,
+    "qbReward": {
+      "CardPack1001": 2
+    }
+  },
+  "14": {
+    "qbRewardID": 14,
+    "qbReward": {
+      "Coin": 100
+    }
+  },
+  "15": {
+    "qbRewardID": 15,
+    "qbReward": {
+      "Coin": 500
+    }
+  }
+}

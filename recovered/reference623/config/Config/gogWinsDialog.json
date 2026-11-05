@@ -1,0 +1,20 @@
+{
+  "volcano1": {
+    "id": "volcano1",
+    "enterDialog": 9325,
+    "firstDialog": 9326,
+    "rankDialog": 9327,
+    "failDialog": 9328,
+    "endDialog": 9329,
+    "closeDialog": 9330
+  },
+  "volcano2": {
+    "id": "volcano2",
+    "enterDialog": 9325,
+    "firstDialog": 9326,
+    "rankDialog": 9327,
+    "failDialog": 9328,
+    "endDialog": 9329,
+    "closeDialog": 9330
+  }
+}

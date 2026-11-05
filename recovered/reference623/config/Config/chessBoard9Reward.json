@@ -1,0 +1,444 @@
+{
+  "holmes2": {
+    "101": {
+      "Id": 101,
+      "NeedFoodPoint": 30,
+      "NormalReward": {
+        "Coin": 50
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "102": {
+      "Id": 102,
+      "NeedFoodPoint": 90,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "103": {
+      "Id": 103,
+      "NeedFoodPoint": 130,
+      "NormalReward": {
+        "Coin": 100
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "104": {
+      "Id": 104,
+      "NeedFoodPoint": 230,
+      "NormalReward": {
+        "9820001": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "105": {
+      "Id": 105,
+      "NeedFoodPoint": 300,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "106": {
+      "Id": 106,
+      "NeedFoodPoint": 420,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "107": {
+      "Id": 107,
+      "NeedFoodPoint": 520,
+      "NormalReward": {
+        "Coin": 400
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "108": {
+      "Id": 108,
+      "NeedFoodPoint": 700,
+      "NormalReward": {
+        "9820001": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "109": {
+      "Id": 109,
+      "NeedFoodPoint": 850,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "110": {
+      "Id": 110,
+      "NeedFoodPoint": 1050,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "111": {
+      "Id": 111,
+      "NeedFoodPoint": 1250,
+      "NormalReward": {
+        "Coin": 800
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "112": {
+      "Id": 112,
+      "NeedFoodPoint": 1490,
+      "NormalReward": {
+        "9820001": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "113": {
+      "Id": 113,
+      "NeedFoodPoint": 1760,
+      "NormalReward": {
+        "MhdIIBlindBox1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "114": {
+      "Id": 114,
+      "NeedFoodPoint": 2060,
+      "NormalReward": {
+        "Film1": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "115": {
+      "Id": 115,
+      "NeedFoodPoint": 2420,
+      "NormalReward": {
+        "9820002": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "116": {
+      "Id": 116,
+      "NeedFoodPoint": 2740,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "117": {
+      "Id": 117,
+      "NeedFoodPoint": 3140,
+      "NormalReward": {
+        "MhdIIBlindBox2": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "118": {
+      "Id": 118,
+      "NeedFoodPoint": 3600,
+      "NormalReward": {
+        "9820002": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "119": {
+      "Id": 119,
+      "NeedFoodPoint": 4020,
+      "NormalReward": {
+        "Film2": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "120": {
+      "Id": 120,
+      "NeedFoodPoint": 4520,
+      "NormalReward": {
+        "9820002": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "121": {
+      "Id": 121,
+      "NeedFoodPoint": 5140,
+      "NormalReward": {
+        "Film3": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 0
+    },
+    "122": {
+      "Id": 122,
+      "NeedFoodPoint": 5700,
+      "NormalReward": {
+        "MhdIIBlindBox3": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "123": {
+      "Id": 123,
+      "NeedFoodPoint": 6400,
+      "NormalReward": {
+        "9820003": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "124": {
+      "Id": 124,
+      "NeedFoodPoint": 7150,
+      "NormalReward": {
+        "Film4": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "125": {
+      "Id": 125,
+      "NeedFoodPoint": 8000,
+      "NormalReward": {
+        "Film5": 1
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 0,
+      "specialBg": 1
+    },
+    "126": {
+      "Id": 126,
+      "NeedFoodPoint": 8800,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "127": {
+      "Id": 127,
+      "NeedFoodPoint": 9600,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "128": {
+      "Id": 128,
+      "NeedFoodPoint": 10400,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "129": {
+      "Id": 129,
+      "NeedFoodPoint": 11200,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "130": {
+      "Id": 130,
+      "NeedFoodPoint": 12000,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "131": {
+      "Id": 131,
+      "NeedFoodPoint": 12800,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "132": {
+      "Id": 132,
+      "NeedFoodPoint": 13600,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "133": {
+      "Id": 133,
+      "NeedFoodPoint": 14400,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "134": {
+      "Id": 134,
+      "NeedFoodPoint": 15200,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "135": {
+      "Id": 135,
+      "NeedFoodPoint": 16000,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "136": {
+      "Id": 136,
+      "NeedFoodPoint": 16800,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "137": {
+      "Id": 137,
+      "NeedFoodPoint": 17600,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "138": {
+      "Id": 138,
+      "NeedFoodPoint": 18400,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "139": {
+      "Id": 139,
+      "NeedFoodPoint": 19200,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    },
+    "140": {
+      "Id": 140,
+      "NeedFoodPoint": 20000,
+      "NormalReward": {
+        "Coin": 200
+      },
+      "SpecialReward": {},
+      "RewardPriority": 0,
+      "belongStageTwo": 1,
+      "specialBg": 0
+    }
+  }
+}

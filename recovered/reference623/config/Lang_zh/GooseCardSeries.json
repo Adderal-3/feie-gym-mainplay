@@ -1,0 +1,452 @@
+{
+  "event001": {
+    "id": "event001",
+    "name": "露营VCR",
+    "catWord": "活动限定"
+  },
+  "event002": {
+    "id": "event002",
+    "name": "童话之森",
+    "catWord": "活动限定"
+  },
+  "event003": {
+    "id": "event003",
+    "name": "宝石之光",
+    "catWord": "活动限定"
+  },
+  "event004": {
+    "id": "event004",
+    "name": "木艺雕刻",
+    "catWord": "活动限定"
+  },
+  "event005": {
+    "id": "event005",
+    "name": "乌有乡寻亲",
+    "catWord": "活动限定"
+  },
+  "event006": {
+    "id": "event006",
+    "name": "甜品饼干屋",
+    "catWord": "活动限定"
+  },
+  "event007": {
+    "id": "event007",
+    "name": "宫闱华胥之梦",
+    "catWord": "活动限定"
+  },
+  "event008": {
+    "id": "event008",
+    "name": "蕉味寻香",
+    "catWord": "活动限定"
+  },
+  "event009": {
+    "id": "event009",
+    "name": "名为月亮的童话书",
+    "catWord": "活动限定"
+  },
+  "goose0001": {
+    "id": "goose0001",
+    "name": "欧巴桑的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0002": {
+    "id": "goose0002",
+    "name": "小学生的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0003": {
+    "id": "goose0003",
+    "name": "护士鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0004": {
+    "id": "goose0004",
+    "name": "普普的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0005": {
+    "id": "goose0005",
+    "name": "水手服的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0006": {
+    "id": "goose0006",
+    "name": "只练手肥鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0007": {
+    "id": "goose0007",
+    "name": "兔女郎的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0008": {
+    "id": "goose0008",
+    "name": "旱鸭子的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0009": {
+    "id": "goose0009",
+    "name": "包子头的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0010": {
+    "id": "goose0010",
+    "name": "耳机鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0011": {
+    "id": "goose0011",
+    "name": "贵妇鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0012": {
+    "id": "goose0012",
+    "name": "热量爱好者的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0013": {
+    "id": "goose0013",
+    "name": "胖虎的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0014": {
+    "id": "goose0014",
+    "name": "气功大师的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0015": {
+    "id": "goose0015",
+    "name": "哈莉的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0016": {
+    "id": "goose0016",
+    "name": "宇航员的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0017": {
+    "id": "goose0017",
+    "name": "潜水鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0018": {
+    "id": "goose0018",
+    "name": "相扑鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0019": {
+    "id": "goose0019",
+    "name": "朱古力的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0020": {
+    "id": "goose0020",
+    "name": "奇异果的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0021": {
+    "id": "goose0021",
+    "name": "鲨鲨的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0022": {
+    "id": "goose0022",
+    "name": "波拿拿的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0023": {
+    "id": "goose0023",
+    "name": "泳池辣妹的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0024": {
+    "id": "goose0024",
+    "name": "魔法师的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0025": {
+    "id": "goose0025",
+    "name": "列车长的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0027": {
+    "id": "goose0027",
+    "name": "鲍爷的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0028": {
+    "id": "goose0028",
+    "name": "铁锅鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0030": {
+    "id": "goose0030",
+    "name": "体操鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0031": {
+    "id": "goose0031",
+    "name": "爱丽丝的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0032": {
+    "id": "goose0032",
+    "name": "滑板爱好者的故事",
+    "catWord": "肥鹅故事"
+  },
+  "goose0033": {
+    "id": "goose0033",
+    "name": "兜帽鹅的故事",
+    "catWord": "肥鹅故事"
+  },
+  "gym0001": {
+    "id": "gym0001",
+    "name": "健身房一隅",
+    "catWord": "健身房故事"
+  },
+  "gym0002": {
+    "id": "gym0002",
+    "name": "运动与健身",
+    "catWord": "健身房故事"
+  },
+  "gym0003": {
+    "id": "gym0003",
+    "name": "有氧区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0004": {
+    "id": "gym0004",
+    "name": "重量区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0005": {
+    "id": "gym0005",
+    "name": "更衣室掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0006": {
+    "id": "gym0006",
+    "name": "黄昏健身房",
+    "catWord": "健身房故事"
+  },
+  "gym0007": {
+    "id": "gym0007",
+    "name": "练操区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0008": {
+    "id": "gym0008",
+    "name": "篮球区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0009": {
+    "id": "gym0009",
+    "name": "冥想室掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0010": {
+    "id": "gym0010",
+    "name": "餐饮区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0011": {
+    "id": "gym0011",
+    "name": "游泳区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0012": {
+    "id": "gym0012",
+    "name": "动感舞区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0013": {
+    "id": "gym0013",
+    "name": "街道掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0014": {
+    "id": "gym0014",
+    "name": "拳击区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0015": {
+    "id": "gym0015",
+    "name": "射箭区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0016": {
+    "id": "gym0016",
+    "name": "闯关区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0017": {
+    "id": "gym0017",
+    "name": "体操区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0018": {
+    "id": "gym0018",
+    "name": "滑板区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0019": {
+    "id": "gym0019",
+    "name": "搓澡区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0020": {
+    "id": "gym0020",
+    "name": "美容区掠影",
+    "catWord": "健身房故事"
+  },
+  "gym0021": {
+    "id": "gym0021",
+    "name": "阅读区掠影",
+    "catWord": "健身房故事"
+  },
+  "instance101": {
+    "id": "instance101",
+    "name": "创始鹅之谜",
+    "catWord": "健身房活动"
+  },
+  "instance102": {
+    "id": "instance102",
+    "name": "无疾而终的恋情",
+    "catWord": "健身房活动"
+  },
+  "instance103": {
+    "id": "instance103",
+    "name": "甜蜜的过往",
+    "catWord": "健身房活动"
+  },
+  "instance201": {
+    "id": "instance201",
+    "name": "海滨旅行",
+    "catWord": "健身房活动"
+  },
+  "instance202": {
+    "id": "instance202",
+    "name": "黄昏与夜",
+    "catWord": "健身房活动"
+  },
+  "instance203": {
+    "id": "instance203",
+    "name": "冒险旅程",
+    "catWord": "健身房活动"
+  },
+  "instance301": {
+    "id": "instance301",
+    "name": "赛前准备",
+    "catWord": "健身房活动"
+  },
+  "instance302": {
+    "id": "instance302",
+    "name": "首战折戟",
+    "catWord": "健身房活动"
+  },
+  "instance303": {
+    "id": "instance303",
+    "name": "重返巅峰",
+    "catWord": "健身房活动"
+  },
+  "instance501": {
+    "id": "instance501",
+    "name": "健康饮食",
+    "catWord": "健身房活动"
+  },
+  "instance502": {
+    "id": "instance502",
+    "name": "美食故事",
+    "catWord": "健身房活动"
+  },
+  "instance503": {
+    "id": "instance503",
+    "name": "见习外卖员",
+    "catWord": "健身房活动"
+  },
+  "instance504": {
+    "id": "instance504",
+    "name": "异世恋曲",
+    "catWord": "健身房活动"
+  },
+  "instance505": {
+    "id": "instance505",
+    "name": "蝴蝶入梦",
+    "catWord": "健身房活动"
+  },
+  "instance506": {
+    "id": "instance506",
+    "name": "鹅鹅幼稚园",
+    "catWord": "健身房活动"
+  },
+  "instance507": {
+    "id": "instance507",
+    "name": "钓鱼记",
+    "catWord": "健身房活动"
+  },
+  "instance508": {
+    "id": "instance508",
+    "name": "甜品盛宴",
+    "catWord": "健身房活动"
+  },
+  "instance509": {
+    "id": "instance509",
+    "name": "旅行准备",
+    "catWord": "健身房活动"
+  },
+  "instance510": {
+    "id": "instance510",
+    "name": "海边拾贝",
+    "catWord": "健身房活动"
+  },
+  "instance511": {
+    "id": "instance511",
+    "name": "街头逛吃",
+    "catWord": "健身房活动"
+  },
+  "instance512": {
+    "id": "instance512",
+    "name": "神灯之愿",
+    "catWord": "健身房活动"
+  },
+  "instance513": {
+    "id": "instance513",
+    "name": "探访文物",
+    "catWord": "健身房活动"
+  },
+  "instance401": {
+    "id": "instance401",
+    "name": "瑞兔临门",
+    "catWord": "新春限定"
+  },
+  "instance402": {
+    "id": "instance402",
+    "name": "元宵灯影",
+    "catWord": "新春限定"
+  },
+  "instance403": {
+    "id": "instance403",
+    "name": "恭贺新禧",
+    "catWord": "新春限定"
+  },
+  "instance404": {
+    "id": "instance404",
+    "name": "新春祥瑞",
+    "catWord": "新春限定"
+  },
+  "instance405": {
+    "id": "instance405",
+    "name": "肥鹅拜年",
+    "catWord": "新春限定"
+  },
+  "instance406": {
+    "id": "instance406",
+    "name": "新年穿新衣",
+    "catWord": "新春限定"
+  },
+  "event010": {
+    "id": "event010",
+    "name": "特邀嘉宾",
+    "catWord": "活动限定"
+  }
+}

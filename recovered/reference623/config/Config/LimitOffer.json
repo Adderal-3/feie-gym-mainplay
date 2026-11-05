@@ -1,0 +1,110 @@
+{
+  "11002": {
+    "id": 11002,
+    "unlock": "Diamond",
+    "level": 1,
+    "duration": 0,
+    "content": {
+      "Diamond": 99
+    },
+    "price": {
+      "Cash": 600
+    },
+    "stamp": "",
+    "icon": "diamondgift_icon_02",
+    "img": "diamondgift_bg_02",
+    "ogPrice": {
+      "Cash": 1200
+    }
+  },
+  "11003": {
+    "id": 11003,
+    "unlock": "Diamond",
+    "level": 2,
+    "duration": 0,
+    "content": {
+      "Diamond": 268
+    },
+    "price": {
+      "Cash": 1800
+    },
+    "stamp": "",
+    "icon": "diamondgift_icon_03",
+    "img": "diamondgift_bg_03",
+    "ogPrice": {
+      "Cash": 3200
+    }
+  },
+  "11004": {
+    "id": 11004,
+    "unlock": "Diamond",
+    "level": 3,
+    "duration": 0,
+    "content": {
+      "Diamond": 400
+    },
+    "price": {
+      "Cash": 3000
+    },
+    "stamp": "",
+    "icon": "diamondgift_icon_03",
+    "img": "diamondgift_bg_03",
+    "ogPrice": {
+      "Cash": 4800
+    }
+  },
+  "12002": {
+    "id": 12002,
+    "unlock": "Coin",
+    "level": 1,
+    "duration": 0,
+    "content": {
+      "Coin": 2288
+    },
+    "price": {
+      "Cash": 600
+    },
+    "stamp": "",
+    "icon": "coingift_icon_02",
+    "img": "coingift_bg_02",
+    "ogPrice": {
+      "Cash": 1200
+    }
+  },
+  "12003": {
+    "id": 12003,
+    "unlock": "Coin",
+    "level": 2,
+    "duration": 0,
+    "content": {
+      "Coin": 6666
+    },
+    "price": {
+      "Cash": 1800
+    },
+    "stamp": "",
+    "icon": "coingift_icon_03",
+    "img": "coingift_bg_03",
+    "ogPrice": {
+      "Cash": 3200
+    }
+  },
+  "12004": {
+    "id": 12004,
+    "unlock": "Coin",
+    "level": 3,
+    "duration": 0,
+    "content": {
+      "Coin": 8888
+    },
+    "price": {
+      "Cash": 3000
+    },
+    "stamp": "",
+    "icon": "coingift_icon_03",
+    "img": "coingift_bg_03",
+    "ogPrice": {
+      "Cash": 4800
+    }
+  }
+}

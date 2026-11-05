@@ -1,0 +1,340 @@
+{
+  "700001": {
+    "id": 700001,
+    "order": 100,
+    "starTag": 1,
+    "rareStrokeColor": "#ca956d",
+    "targetWeight": [
+      0.3,
+      3.5,
+      4
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 4
+      }
+    ],
+    "factor": 0.03,
+    "orderReward": {
+      "ChessVPoint": 25
+    }
+  },
+  "700002": {
+    "id": 700002,
+    "order": 99,
+    "starTag": 1,
+    "rareStrokeColor": "#ca956d",
+    "targetWeight": [
+      0.4,
+      4.5,
+      6
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 5
+      }
+    ],
+    "factor": 0.05,
+    "orderReward": {
+      "ChessVPoint": 25
+    }
+  },
+  "700003": {
+    "id": 700003,
+    "order": 98,
+    "starTag": 2,
+    "rareStrokeColor": "#67bd49",
+    "targetWeight": [
+      0.3,
+      4.5,
+      5
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 5
+      }
+    ],
+    "factor": 0.03,
+    "orderReward": {
+      "ChessVPoint": 60
+    }
+  },
+  "700004": {
+    "id": 700004,
+    "order": 97,
+    "starTag": 2,
+    "rareStrokeColor": "#67bd49",
+    "targetWeight": [
+      0.4,
+      8,
+      9
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "factor": 0.05,
+    "orderReward": {
+      "ChessVPoint": 60
+    }
+  },
+  "700005": {
+    "id": 700005,
+    "order": 96,
+    "starTag": 3,
+    "rareStrokeColor": "#42b1d5",
+    "targetWeight": [
+      0.6,
+      14,
+      18
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 6
+      }
+    ],
+    "factor": 0.07,
+    "orderReward": {
+      "ChessVPoint": 75
+    }
+  },
+  "700006": {
+    "id": 700006,
+    "order": 95,
+    "starTag": 3,
+    "rareStrokeColor": "#42b1d5",
+    "targetWeight": [
+      0.8,
+      16,
+      26
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 7
+      }
+    ],
+    "factor": 0.1,
+    "orderReward": {
+      "ChessVPoint": 75
+    }
+  },
+  "700007": {
+    "id": 700007,
+    "order": 94,
+    "starTag": 4,
+    "rareStrokeColor": "#c85adc",
+    "targetWeight": [
+      0.6,
+      16,
+      22
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 7
+      }
+    ],
+    "factor": 0.07,
+    "orderReward": {
+      "ChessVPoint": 100
+    }
+  },
+  "700008": {
+    "id": 700008,
+    "order": 93,
+    "starTag": 4,
+    "rareStrokeColor": "#c85adc",
+    "targetWeight": [
+      0.8,
+      25,
+      32
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 8
+      }
+    ],
+    "factor": 0.1,
+    "orderReward": {
+      "ChessVPoint": 100
+    }
+  },
+  "700009": {
+    "id": 700009,
+    "order": 92,
+    "starTag": 5,
+    "rareStrokeColor": "#d28312",
+    "targetWeight": [
+      0.8,
+      34.5,
+      45
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 8
+      }
+    ],
+    "factor": 0.1,
+    "orderReward": {
+      "ChessVPoint": 300
+    }
+  },
+  "700010": {
+    "id": 700010,
+    "order": 91,
+    "starTag": 5,
+    "rareStrokeColor": "#d28312",
+    "targetWeight": [
+      1,
+      35.5,
+      55
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 9
+      }
+    ],
+    "factor": 0.12,
+    "orderReward": {
+      "ChessVPoint": 300
+    }
+  },
+  "700011": {
+    "id": 700011,
+    "order": 90,
+    "starTag": 6,
+    "rareStrokeColor": "#ea7434",
+    "targetWeight": [
+      0.8,
+      50,
+      65
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 9
+      }
+    ],
+    "factor": 0.1,
+    "orderReward": {
+      "ChessVPoint": 500
+    }
+  },
+  "700012": {
+    "id": 700012,
+    "order": 89,
+    "starTag": 6,
+    "rareStrokeColor": "#ea7434",
+    "targetWeight": [
+      1,
+      60,
+      80
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "factor": 0.12,
+    "orderReward": {
+      "ChessVPoint": 500
+    }
+  },
+  "700013": {
+    "id": 700013,
+    "order": 88,
+    "starTag": 7,
+    "rareStrokeColor": "#e63b3a",
+    "targetWeight": [
+      20,
+      70,
+      80
+    ],
+    "targetReward": [
+      {
+        "Diamond": 1
+      },
+      {
+        "Diamond": 2
+      },
+      {
+        "Diamond": 10
+      }
+    ],
+    "factor": 0,
+    "orderReward": {
+      "ChessVPoint": 1000
+    }
+  }
+}

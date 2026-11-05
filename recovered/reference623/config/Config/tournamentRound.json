@@ -1,0 +1,359 @@
+{
+  "tournament1": {
+    "101": {
+      "id": 101,
+      "stage": 1,
+      "round": 1,
+      "finishScore": 250,
+      "playerExpectConsume": 100,
+      "expectCost": 250,
+      "robotRankName": "tournament1",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "102": {
+      "id": 102,
+      "stage": 1,
+      "round": 2,
+      "finishScore": 375,
+      "playerExpectConsume": 150,
+      "expectCost": 375,
+      "robotRankName": "tournament2",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "103": {
+      "id": 103,
+      "stage": 1,
+      "round": 3,
+      "finishScore": 500,
+      "playerExpectConsume": 200,
+      "expectCost": 500,
+      "robotRankName": "tournament3",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox1": 1,
+        "Film3": 1,
+        "StarChest7": 1
+      }
+    },
+    "104": {
+      "id": 104,
+      "stage": 2,
+      "round": 1,
+      "finishScore": 440,
+      "playerExpectConsume": 176,
+      "expectCost": 440,
+      "robotRankName": "tournament4",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "105": {
+      "id": 105,
+      "stage": 2,
+      "round": 2,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament5",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "106": {
+      "id": 106,
+      "stage": 2,
+      "round": 3,
+      "finishScore": 940,
+      "playerExpectConsume": 376,
+      "expectCost": 940,
+      "robotRankName": "tournament6",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox2": 1,
+        "Film4": 1,
+        "StarChest9": 1
+      }
+    },
+    "107": {
+      "id": 107,
+      "stage": 3,
+      "round": 1,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament7",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "108": {
+      "id": 108,
+      "stage": 3,
+      "round": 2,
+      "finishScore": 875,
+      "playerExpectConsume": 350,
+      "expectCost": 875,
+      "robotRankName": "tournament8",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "109": {
+      "id": 109,
+      "stage": 3,
+      "round": 3,
+      "finishScore": 1250,
+      "playerExpectConsume": 500,
+      "expectCost": 1250,
+      "robotRankName": "tournament9",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox3": 1,
+        "Film5": 1,
+        "StarChest4": 1
+      }
+    }
+  },
+  "tournament2": {
+    "201": {
+      "id": 201,
+      "stage": 1,
+      "round": 1,
+      "finishScore": 250,
+      "playerExpectConsume": 100,
+      "expectCost": 250,
+      "robotRankName": "tournament1",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "202": {
+      "id": 202,
+      "stage": 1,
+      "round": 2,
+      "finishScore": 375,
+      "playerExpectConsume": 150,
+      "expectCost": 375,
+      "robotRankName": "tournament2",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "203": {
+      "id": 203,
+      "stage": 1,
+      "round": 3,
+      "finishScore": 500,
+      "playerExpectConsume": 200,
+      "expectCost": 500,
+      "robotRankName": "tournament3",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox1": 1,
+        "Film3": 1,
+        "StarChest7": 1
+      }
+    },
+    "204": {
+      "id": 204,
+      "stage": 2,
+      "round": 1,
+      "finishScore": 440,
+      "playerExpectConsume": 176,
+      "expectCost": 440,
+      "robotRankName": "tournament4",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "205": {
+      "id": 205,
+      "stage": 2,
+      "round": 2,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament5",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "206": {
+      "id": 206,
+      "stage": 2,
+      "round": 3,
+      "finishScore": 940,
+      "playerExpectConsume": 376,
+      "expectCost": 940,
+      "robotRankName": "tournament6",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox2": 1,
+        "Film4": 1,
+        "StarChest9": 1
+      }
+    },
+    "207": {
+      "id": 207,
+      "stage": 3,
+      "round": 1,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament7",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "208": {
+      "id": 208,
+      "stage": 3,
+      "round": 2,
+      "finishScore": 875,
+      "playerExpectConsume": 350,
+      "expectCost": 875,
+      "robotRankName": "tournament8",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "209": {
+      "id": 209,
+      "stage": 3,
+      "round": 3,
+      "finishScore": 1250,
+      "playerExpectConsume": 500,
+      "expectCost": 1250,
+      "robotRankName": "tournament9",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox3": 1,
+        "Film5": 1,
+        "StarChest4": 1
+      }
+    }
+  },
+  "tournament3": {
+    "301": {
+      "id": 301,
+      "stage": 1,
+      "round": 1,
+      "finishScore": 250,
+      "playerExpectConsume": 100,
+      "expectCost": 250,
+      "robotRankName": "tournament1",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "302": {
+      "id": 302,
+      "stage": 1,
+      "round": 2,
+      "finishScore": 375,
+      "playerExpectConsume": 150,
+      "expectCost": 375,
+      "robotRankName": "tournament2",
+      "reward": {
+        "StarChest5[preview]": 1
+      }
+    },
+    "303": {
+      "id": 303,
+      "stage": 1,
+      "round": 3,
+      "finishScore": 500,
+      "playerExpectConsume": 200,
+      "expectCost": 500,
+      "robotRankName": "tournament3",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox1": 1,
+        "Film3": 1,
+        "StarChest7": 1
+      }
+    },
+    "304": {
+      "id": 304,
+      "stage": 2,
+      "round": 1,
+      "finishScore": 440,
+      "playerExpectConsume": 176,
+      "expectCost": 440,
+      "robotRankName": "tournament4",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "305": {
+      "id": 305,
+      "stage": 2,
+      "round": 2,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament5",
+      "reward": {
+        "StarChest6[preview]": 1
+      }
+    },
+    "306": {
+      "id": 306,
+      "stage": 2,
+      "round": 3,
+      "finishScore": 940,
+      "playerExpectConsume": 376,
+      "expectCost": 940,
+      "robotRankName": "tournament6",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox2": 1,
+        "Film4": 1,
+        "StarChest9": 1
+      }
+    },
+    "307": {
+      "id": 307,
+      "stage": 3,
+      "round": 1,
+      "finishScore": 625,
+      "playerExpectConsume": 250,
+      "expectCost": 625,
+      "robotRankName": "tournament7",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "308": {
+      "id": 308,
+      "stage": 3,
+      "round": 2,
+      "finishScore": 875,
+      "playerExpectConsume": 350,
+      "expectCost": 875,
+      "robotRankName": "tournament8",
+      "reward": {
+        "StarChest8[preview]": 1
+      }
+    },
+    "309": {
+      "id": 309,
+      "stage": 3,
+      "round": 3,
+      "finishScore": 1250,
+      "playerExpectConsume": 500,
+      "expectCost": 1250,
+      "robotRankName": "tournament9",
+      "reward": {
+        "BuffProp4": 1,
+        "MhdIIBlindBox3": 1,
+        "Film5": 1,
+        "StarChest4": 1
+      }
+    }
+  }
+}

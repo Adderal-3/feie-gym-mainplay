@@ -1,0 +1,46 @@
+{
+  "check1": {
+    "id": "check1",
+    "name": "健身房大扫除"
+  },
+  "check2": {
+    "id": "check2",
+    "name": "燃烧吧！脂肪"
+  },
+  "check3": {
+    "id": "check3",
+    "name": "健康饮食计划"
+  },
+  "check4": {
+    "id": "check4",
+    "name": "器材维修处理"
+  },
+  "check5": {
+    "id": "check5",
+    "name": "碎玉轩洗扫"
+  },
+  "check6": {
+    "id": "check6",
+    "name": "垃圾清理行动"
+  },
+  "check7": {
+    "id": "check7",
+    "name": "垃圾清理行动"
+  },
+  "check8": {
+    "id": "check8",
+    "name": "垃圾清理行动"
+  },
+  "check9": {
+    "id": "check9",
+    "name": "健康饮食计划"
+  },
+  "check10": {
+    "id": "check10",
+    "name": "健康饮食计划"
+  },
+  "check11": {
+    "id": "check11",
+    "name": "健康饮食计划"
+  }
+}

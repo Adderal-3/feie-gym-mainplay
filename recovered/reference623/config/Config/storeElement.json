@@ -1,0 +1,149 @@
+{
+  "77701": {
+    "shopElementId": 77701,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011,
+      1012
+    ]
+  },
+  "77702": {
+    "shopElementId": 77702,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012
+    ]
+  },
+  "77703": {
+    "shopElementId": 77703,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      3005,
+      3006,
+      3007,
+      3008,
+      3009,
+      3010,
+      3011,
+      3012
+    ]
+  },
+  "77704": {
+    "shopElementId": 77704,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      4004,
+      4005,
+      4006,
+      4007,
+      4008,
+      4009,
+      4010
+    ]
+  },
+  "77705": {
+    "shopElementId": 77705,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      5004,
+      5005,
+      5006,
+      5007,
+      5008,
+      5009,
+      5010,
+      5011,
+      5012
+    ]
+  },
+  "77706": {
+    "shopElementId": 77706,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      5206,
+      5207,
+      5208,
+      5209,
+      5210,
+      5211
+    ]
+  },
+  "77707": {
+    "shopElementId": 77707,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      8005,
+      8006,
+      8007,
+      8008,
+      8009,
+      8010
+    ]
+  },
+  "77708": {
+    "shopElementId": 77708,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      9005,
+      9006,
+      9007,
+      9008,
+      9009,
+      9010,
+      9011,
+      9012
+    ]
+  },
+  "77709": {
+    "shopElementId": 77709,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      70805,
+      70806,
+      70807,
+      70808,
+      70809,
+      70810,
+      70811
+    ]
+  },
+  "77710": {
+    "shopElementId": 77710,
+    "initialSlot": 2,
+    "maxSlot": 6,
+    "supportElementId": [
+      70905,
+      70906,
+      70907,
+      70908,
+      70909,
+      70910,
+      70911,
+      70912
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "gog1": {
+    "101": {
+      "id": 101,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "Diamond": 600,
+        "Energy": 600,
+        "Coin": 60000
+      }
+    },
+    "102": {
+      "id": 102,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Diamond": 100,
+        "Energy": 100,
+        "Coin": 10000
+      }
+    },
+    "103": {
+      "id": 103,
+      "rankId": 3,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Diamond": 50,
+        "Energy": 50,
+        "Coin": 5000
+      }
+    },
+    "104": {
+      "id": 104,
+      "rankId": 4,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Diamond": 10,
+        "Energy": 10,
+        "Coin": 1000
+      }
+    }
+  },
+  "gog2": {
+    "201": {
+      "id": 201,
+      "rankId": 1,
+      "startRank": 1,
+      "endRank": 1,
+      "icon": "icon_rankreward_04",
+      "rankReward": {
+        "Diamond": 600,
+        "Energy": 600,
+        "Coin": 60000
+      }
+    },
+    "202": {
+      "id": 202,
+      "rankId": 2,
+      "startRank": 2,
+      "endRank": 2,
+      "icon": "icon_rankreward_01",
+      "rankReward": {
+        "Diamond": 100,
+        "Energy": 100,
+        "Coin": 10000
+      }
+    },
+    "203": {
+      "id": 203,
+      "rankId": 3,
+      "startRank": 3,
+      "endRank": 3,
+      "icon": "icon_rankreward_02",
+      "rankReward": {
+        "Diamond": 50,
+        "Energy": 50,
+        "Coin": 5000
+      }
+    },
+    "204": {
+      "id": 204,
+      "rankId": 4,
+      "startRank": 4,
+      "endRank": 10,
+      "icon": "icon_rankreward_03",
+      "rankReward": {
+        "Diamond": 10,
+        "Energy": 10,
+        "Coin": 1000
+      }
+    }
+  }
+}

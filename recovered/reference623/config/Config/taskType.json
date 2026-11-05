@@ -1,0 +1,320 @@
+{
+  "Main": {
+    "1": {
+      "taskType": 1,
+      "field": "",
+      "valType": 1,
+      "taskName": "主棋盘合成次数"
+    },
+    "2": {
+      "taskType": 2,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗能量数"
+    },
+    "3": {
+      "taskType": 3,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗钻石数"
+    },
+    "4": {
+      "taskType": 4,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗金币数"
+    },
+    "5": {
+      "taskType": 5,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗星星数"
+    },
+    "6": {
+      "taskType": 6,
+      "field": "",
+      "valType": 2,
+      "taskName": "解锁背包格子数"
+    },
+    "7": {
+      "taskType": 7,
+      "field": "",
+      "valType": 1,
+      "taskName": "完成订单数量"
+    },
+    "8": {
+      "taskType": 8,
+      "field": "",
+      "valType": 1,
+      "taskName": "商店购买次数"
+    },
+    "9": {
+      "taskType": 9,
+      "field": "",
+      "valType": 3,
+      "taskName": "指定id的发射器累计发射次数（含黑粉包、能量金币箱等所有能发射的元素）"
+    },
+    "10": {
+      "taskType": 10,
+      "field": "",
+      "valType": 3,
+      "taskName": "合成/获得指定id物品次数"
+    },
+    "11": {
+      "taskType": 11,
+      "field": "",
+      "valType": 1,
+      "taskName": "购买气泡次数"
+    },
+    "12": {
+      "taskType": 12,
+      "field": "",
+      "valType": 1,
+      "taskName": "购买cd次数"
+    },
+    "13": {
+      "taskType": 13,
+      "field": "",
+      "valType": 1,
+      "taskName": "购买装饰物次数"
+    },
+    "14": {
+      "taskType": 14,
+      "field": "",
+      "valType": 1,
+      "taskName": "完成建造次数"
+    },
+    "15": {
+      "taskType": 15,
+      "field": "",
+      "valType": 1,
+      "taskName": "出售物品次数"
+    },
+    "16": {
+      "taskType": 16,
+      "field": "",
+      "valType": 3,
+      "taskName": "解锁箱子根据id"
+    },
+    "17": {
+      "taskType": 17,
+      "field": "",
+      "valType": 3,
+      "taskName": "商店购买物品指定id，仅限shop表"
+    },
+    "18": {
+      "taskType": 18,
+      "field": "",
+      "valType": 2,
+      "taskName": "获得金币（每收集1金币计数1，需重点注意出售道具再撤回要避免金币数重复加）"
+    },
+    "19": {
+      "taskType": 19,
+      "field": "",
+      "valType": 2,
+      "taskName": "收集每日挑战代币：获得1代币计数1，任意途径获得都生效"
+    },
+    "20": {
+      "taskType": 20,
+      "field": "",
+      "valType": 2,
+      "taskName": "获得赛季卡牌数量"
+    },
+    "21": {
+      "taskType": 21,
+      "field": "",
+      "valType": 2,
+      "taskName": "获得4星赛季卡牌数量"
+    },
+    "22": {
+      "taskType": 22,
+      "field": "",
+      "valType": 2,
+      "taskName": "获得5星赛季卡牌数量"
+    },
+    "23": {
+      "taskType": 23,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗粉体力数"
+    },
+    "24": {
+      "taskType": 24,
+      "field": "",
+      "valType": 2,
+      "taskName": "每日经营计划任务完成数"
+    },
+    "25": {
+      "taskType": 25,
+      "field": "",
+      "valType": 2,
+      "taskName": "完成活动订单数"
+    },
+    "26": {
+      "taskType": 26,
+      "field": "",
+      "valType": 2,
+      "taskName": "使用弹珠数"
+    },
+    "27": {
+      "taskType": 27,
+      "field": "",
+      "valType": 2,
+      "taskName": "使用铲子数"
+    },
+    "28": {
+      "taskType": 28,
+      "field": "",
+      "valType": 2,
+      "taskName": "使用手电筒数"
+    },
+    "29": {
+      "taskType": 29,
+      "field": "",
+      "valType": 2,
+      "taskName": "使用魔药瓶数"
+    },
+    "30": {
+      "taskType": 30,
+      "field": "",
+      "valType": 2,
+      "taskName": "在主棋盘的合成次数"
+    }
+  },
+  "Sum": {
+    "10000": {
+      "taskType": 10000,
+      "field": "energyCost",
+      "valType": 0,
+      "taskName": "累计消耗能量数"
+    },
+    "10001": {
+      "taskType": 10001,
+      "field": "diamondCost",
+      "valType": 0,
+      "taskName": "累计消耗钻石数"
+    },
+    "10002": {
+      "taskType": 10002,
+      "field": "coinCost",
+      "valType": 0,
+      "taskName": "累计消耗金币数"
+    },
+    "10003": {
+      "taskType": 10003,
+      "field": "starCost",
+      "valType": 0,
+      "taskName": "累计消耗星星数"
+    },
+    "10004": {
+      "taskType": 10004,
+      "field": "bagSizeAll",
+      "valType": 0,
+      "taskName": "累计解锁背包格子数"
+    },
+    "10005": {
+      "taskType": 10005,
+      "field": "level",
+      "valType": 0,
+      "taskName": "累计达到等级数"
+    },
+    "10006": {
+      "taskType": 10006,
+      "field": "loginCount",
+      "valType": 0,
+      "taskName": "累计登录"
+    },
+    "10007": {
+      "taskType": 10007,
+      "field": "sellCount",
+      "valType": 0,
+      "taskName": "累计出售次数"
+    },
+    "10008": {
+      "taskType": 10008,
+      "field": "mergeCount",
+      "valType": 0,
+      "taskName": "累计合成次数"
+    }
+  },
+  "medalChallenge": {
+    "1001": {
+      "taskType": 1001,
+      "field": "",
+      "valType": 2,
+      "taskName": "获得星星数"
+    },
+    "1002": {
+      "taskType": 1002,
+      "field": "",
+      "valType": 2,
+      "taskName": "消耗钻石数"
+    },
+    "1003": {
+      "taskType": 1003,
+      "field": "",
+      "valType": 2,
+      "taskName": "收集贴纸数"
+    },
+    "1004": {
+      "taskType": 1004,
+      "field": "",
+      "valType": 2,
+      "taskName": "充值金额数"
+    },
+    "1005": {
+      "taskType": 1005,
+      "field": "",
+      "valType": 2,
+      "taskName": "收集阿秋积分"
+    },
+    "1006": {
+      "taskType": 1006,
+      "field": "",
+      "valType": 4,
+      "taskName": "赛季卡牌开启指定卡包数"
+    },
+    "1007": {
+      "taskType": 1007,
+      "field": "",
+      "valType": 4,
+      "taskName": "梦幻岛开启指定盲盒数"
+    },
+    "1008": {
+      "taskType": 1008,
+      "field": "",
+      "valType": 3,
+      "taskName": "火焰排行达成进度数"
+    },
+    "1009": {
+      "taskType": 1009,
+      "field": "",
+      "valType": 3,
+      "taskName": "咩咩牌达成进度数"
+    },
+    "1010": {
+      "taskType": 1010,
+      "field": "",
+      "valType": 3,
+      "taskName": "拧螺丝达成进度数"
+    },
+    "1011": {
+      "taskType": 1011,
+      "field": "",
+      "valType": 3,
+      "taskName": "竞速赛达成进度数"
+    },
+    "1012": {
+      "taskType": 1012,
+      "field": "",
+      "valType": 4,
+      "taskName": "进度棋盘集齐进度数"
+    },
+    "1013": {
+      "taskType": 1013,
+      "field": "",
+      "valType": 3,
+      "taskName": "多倍竞速赛达成进度数"
+    }
+  }
+}

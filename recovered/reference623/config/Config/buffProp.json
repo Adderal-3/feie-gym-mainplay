@@ -1,0 +1,119 @@
+{
+  "1": {
+    "id": 1,
+    "type": "timeTravel",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_timeTravel",
+    "time": 0
+  },
+  "2": {
+    "id": 2,
+    "type": "timeHourglass",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_level1Hourglass",
+    "time": 3600
+  },
+  "3": {
+    "id": 3,
+    "type": "timeHourglass",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_level2Hourglass",
+    "time": 7200
+  },
+  "4": {
+    "id": 4,
+    "type": "timeHourglass",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_level3Hourglass",
+    "time": 14400
+  },
+  "5": {
+    "id": 5,
+    "type": "timeHourglass",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_level4Hourglass",
+    "time": 28800
+  },
+  "6": {
+    "id": 6,
+    "type": "timeHourglass",
+    "boardType": [
+      "main"
+    ],
+    "icon": "icon_buff_level5Hourglass",
+    "time": 57600
+  },
+  "7": {
+    "id": 7,
+    "type": "autoMerge",
+    "boardType": [
+      "1"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 600
+  },
+  "8": {
+    "id": 8,
+    "type": "autoMerge",
+    "boardType": [
+      "1"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 1200
+  },
+  "9": {
+    "id": 9,
+    "type": "autoMerge",
+    "boardType": [
+      "1"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 1800
+  },
+  "10": {
+    "id": 10,
+    "type": "autoMerge",
+    "boardType": [
+      "4"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 600
+  },
+  "11": {
+    "id": 11,
+    "type": "autoMerge",
+    "boardType": [
+      "4"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 1200
+  },
+  "12": {
+    "id": 12,
+    "type": "autoMerge",
+    "boardType": [
+      "4"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 1800
+  },
+  "13": {
+    "id": 13,
+    "type": "autoMerge",
+    "boardType": [
+      "4"
+    ],
+    "icon": "icon_buff_magnet",
+    "time": 3600
+  }
+}

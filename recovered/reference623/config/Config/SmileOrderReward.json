@@ -1,0 +1,27 @@
+{
+  "smileOrder1": {
+    "1": {
+      "id": 1,
+      "userLevel": [
+        8,
+        24
+      ],
+      "energyRTP": 0.15,
+      "superRoundRange": [],
+      "superEnergyRTP": 0
+    },
+    "2": {
+      "id": 2,
+      "userLevel": [
+        25,
+        9999
+      ],
+      "energyRTP": 0.15,
+      "superRoundRange": [
+        2,
+        3
+      ],
+      "superEnergyRTP": 0.225
+    }
+  }
+}

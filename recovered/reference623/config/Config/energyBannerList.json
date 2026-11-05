@@ -1,0 +1,13 @@
+{
+  "1": {
+    "Id": "1",
+    "boardType": [
+      "main"
+    ],
+    "typeSequence": [
+      "eventPassNew",
+      "gooseOffer"
+    ],
+    "maxDepth": 1
+  }
+}

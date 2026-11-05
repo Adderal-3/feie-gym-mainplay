@@ -1,0 +1,280 @@
+{
+  "101": {
+    "id": 101,
+    "score": 2,
+    "stageReward": {
+      "Energy": 50
+    },
+    "isSP": 0,
+    "index": 1
+  },
+  "102": {
+    "id": 102,
+    "score": 4,
+    "stageReward": {
+      "9820001": 1
+    },
+    "isSP": 0,
+    "index": 2
+  },
+  "103": {
+    "id": 103,
+    "score": 7,
+    "stageReward": {
+      "77701": 1,
+      "98302": 1
+    },
+    "isSP": 1,
+    "index": 3
+  },
+  "104": {
+    "id": 104,
+    "score": 11,
+    "stageReward": {
+      "Film3": 1
+    },
+    "isSP": 0,
+    "index": 4
+  },
+  "105": {
+    "id": 105,
+    "score": 16,
+    "stageReward": {
+      "Diamond": 30
+    },
+    "isSP": 0,
+    "index": 5
+  },
+  "106": {
+    "id": 106,
+    "score": 20,
+    "stageReward": {
+      "77702": 1,
+      "9820001": 1
+    },
+    "isSP": 1,
+    "index": 6
+  },
+  "107": {
+    "id": 107,
+    "score": 26,
+    "stageReward": {
+      "Energy": 80
+    },
+    "isSP": 0,
+    "index": 7
+  },
+  "108": {
+    "id": 108,
+    "score": 32,
+    "stageReward": {
+      "90501": 1
+    },
+    "isSP": 0,
+    "index": 8
+  },
+  "109": {
+    "id": 109,
+    "score": 39,
+    "stageReward": {
+      "77705": 1,
+      "Film9": 1
+    },
+    "isSP": 1,
+    "index": 9
+  },
+  "110": {
+    "id": 110,
+    "score": 47,
+    "stageReward": {
+      "9820002": 1
+    },
+    "isSP": 0,
+    "index": 10
+  },
+  "111": {
+    "id": 111,
+    "score": 52,
+    "stageReward": {
+      "Film4": 1
+    },
+    "isSP": 0,
+    "index": 11
+  },
+  "112": {
+    "id": 112,
+    "score": 58,
+    "stageReward": {
+      "Diamond": 35
+    },
+    "isSP": 0,
+    "index": 12
+  },
+  "113": {
+    "id": 113,
+    "score": 65,
+    "stageReward": {
+      "77703": 1,
+      "98303": 1
+    },
+    "isSP": 1,
+    "index": 13
+  },
+  "114": {
+    "id": 114,
+    "score": 73,
+    "stageReward": {
+      "Energy": 120
+    },
+    "isSP": 0,
+    "index": 14
+  },
+  "115": {
+    "id": 115,
+    "score": 81,
+    "stageReward": {
+      "9820002": 1
+    },
+    "isSP": 0,
+    "index": 15
+  },
+  "116": {
+    "id": 116,
+    "score": 87,
+    "stageReward": {
+      "90601": 1
+    },
+    "isSP": 0,
+    "index": 16
+  },
+  "117": {
+    "id": 117,
+    "score": 94,
+    "stageReward": {
+      "Diamond": 40
+    },
+    "isSP": 0,
+    "index": 17
+  },
+  "118": {
+    "id": 118,
+    "score": 101,
+    "stageReward": {
+      "77704": 1,
+      "Film10": 1
+    },
+    "isSP": 1,
+    "index": 18
+  },
+  "119": {
+    "id": 119,
+    "score": 109,
+    "stageReward": {
+      "Energy": 150
+    },
+    "isSP": 0,
+    "index": 19
+  },
+  "120": {
+    "id": 120,
+    "score": 117,
+    "stageReward": {
+      "Film10": 1
+    },
+    "isSP": 0,
+    "index": 20
+  },
+  "121": {
+    "id": 121,
+    "score": 123,
+    "stageReward": {
+      "90501": 1
+    },
+    "isSP": 0,
+    "index": 21
+  },
+  "122": {
+    "id": 122,
+    "score": 130,
+    "stageReward": {
+      "77707": 1,
+      "9820003": 1
+    },
+    "isSP": 1,
+    "index": 22
+  },
+  "123": {
+    "id": 123,
+    "score": 138,
+    "stageReward": {
+      "Film5": 1
+    },
+    "isSP": 0,
+    "index": 23
+  },
+  "124": {
+    "id": 124,
+    "score": 146,
+    "stageReward": {
+      "90601": 1
+    },
+    "isSP": 0,
+    "index": 24
+  },
+  "125": {
+    "id": 125,
+    "score": 155,
+    "stageReward": {
+      "Energy": 180
+    },
+    "isSP": 0,
+    "index": 25
+  },
+  "126": {
+    "id": 126,
+    "score": 162,
+    "stageReward": {
+      "77708": 1,
+      "Diamond": 45
+    },
+    "isSP": 1,
+    "index": 26
+  },
+  "127": {
+    "id": 127,
+    "score": 169,
+    "stageReward": {
+      "9820003": 1
+    },
+    "isSP": 0,
+    "index": 27
+  },
+  "128": {
+    "id": 128,
+    "score": 177,
+    "stageReward": {
+      "Film11": 1
+    },
+    "isSP": 0,
+    "index": 28
+  },
+  "129": {
+    "id": 129,
+    "score": 185,
+    "stageReward": {
+      "Diamond": 50
+    },
+    "isSP": 0,
+    "index": 29
+  },
+  "130": {
+    "id": 130,
+    "score": 194,
+    "stageReward": {
+      "77706": 1,
+      "Energy": 200
+    },
+    "isSP": 1,
+    "index": 30
+  }
+}

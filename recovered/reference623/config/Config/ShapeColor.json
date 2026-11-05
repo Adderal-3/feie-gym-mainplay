@@ -1,0 +1,44 @@
+{
+  "1": {
+    "id": 1,
+    "lineColor": "fa9b9c",
+    "marginColor": "ffe4e4",
+    "faceColor": "fc80a9"
+  },
+  "2": {
+    "id": 2,
+    "lineColor": "89d6e8",
+    "marginColor": "dffffc",
+    "faceColor": "5fceff"
+  },
+  "3": {
+    "id": 3,
+    "lineColor": "f2b147",
+    "marginColor": "fff9cf",
+    "faceColor": "ffc849"
+  },
+  "4": {
+    "id": 4,
+    "lineColor": "f0d84c",
+    "marginColor": "ffffc9",
+    "faceColor": "f7e839"
+  },
+  "5": {
+    "id": 5,
+    "lineColor": "ade44d",
+    "marginColor": "f4ffd7",
+    "faceColor": "a7d756"
+  },
+  "6": {
+    "id": 6,
+    "lineColor": "fdb269",
+    "marginColor": "ffedde",
+    "faceColor": "ffa377"
+  },
+  "7": {
+    "id": 7,
+    "lineColor": "aebdff",
+    "marginColor": "f1f5ff",
+    "faceColor": "9ca1ff"
+  }
+}

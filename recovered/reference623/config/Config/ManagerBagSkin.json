@@ -1,0 +1,714 @@
+{
+  "5001": {
+    "id": 5001,
+    "order": 100,
+    "isDefault": 1,
+    "canBuyHere": 1,
+    "img": "icon_bag_01",
+    "getWay": {},
+    "bagSkinImg": "bg_bagskin_01",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5002": {
+    "id": 5002,
+    "order": 99,
+    "isDefault": 0,
+    "canBuyHere": 1,
+    "img": "icon_bag_02",
+    "getWay": {
+      "AdornCoupon": 100
+    },
+    "bagSkinImg": "bg_bagskin_02",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5003": {
+    "id": 5003,
+    "order": 1,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_03",
+    "getWay": {
+      "mp001": 1
+    },
+    "bagSkinImg": "bg_bagskin_03",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5004": {
+    "id": 5004,
+    "order": 2,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_04",
+    "getWay": {
+      "mp002": 1
+    },
+    "bagSkinImg": "bg_bagskin_04",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5005": {
+    "id": 5005,
+    "order": 3,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_05",
+    "getWay": {
+      "mp003": 1
+    },
+    "bagSkinImg": "bg_bagskin_05",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5006": {
+    "id": 5006,
+    "order": 4,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_06",
+    "getWay": {
+      "mp004": 1
+    },
+    "bagSkinImg": "bg_bagskin_06",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5007": {
+    "id": 5007,
+    "order": 5,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_07",
+    "getWay": {
+      "mp005": 1
+    },
+    "bagSkinImg": "bg_bagskin_07",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5008": {
+    "id": 5008,
+    "order": 6,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_08",
+    "getWay": {
+      "mp006": 1
+    },
+    "bagSkinImg": "bg_bagskin_08",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5009": {
+    "id": 5009,
+    "order": 7,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_09",
+    "getWay": {
+      "mp007": 1
+    },
+    "bagSkinImg": "bg_bagskin_09",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5010": {
+    "id": 5010,
+    "order": 8,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_10",
+    "getWay": {
+      "mp008": 1
+    },
+    "bagSkinImg": "bg_bagskin_10",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5011": {
+    "id": 5011,
+    "order": 9,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_11",
+    "getWay": {
+      "mp009": 1
+    },
+    "bagSkinImg": "bg_bagskin_11",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5012": {
+    "id": 5012,
+    "order": 10,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_12",
+    "getWay": {
+      "mp010": 1
+    },
+    "bagSkinImg": "bg_bagskin_12",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5013": {
+    "id": 5013,
+    "order": 11,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_13",
+    "getWay": {
+      "mp011": 1
+    },
+    "bagSkinImg": "bg_bagskin_13",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5014": {
+    "id": 5014,
+    "order": 12,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_14",
+    "getWay": {
+      "mp012": 1
+    },
+    "bagSkinImg": "bg_bagskin_14",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5015": {
+    "id": 5015,
+    "order": 13,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_15",
+    "getWay": {
+      "mp013": 1
+    },
+    "bagSkinImg": "bg_bagskin_15",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5016": {
+    "id": 5016,
+    "order": 14,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_16",
+    "getWay": {
+      "mp014": 1
+    },
+    "bagSkinImg": "bg_bagskin_16",
+    "bagSkinAnim": "bag16",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5017": {
+    "id": 5017,
+    "order": 15,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_17",
+    "getWay": {
+      "mp015": 1
+    },
+    "bagSkinImg": "bg_bagskin_17",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5018": {
+    "id": 5018,
+    "order": 16,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_18",
+    "getWay": {
+      "mp016": 1
+    },
+    "bagSkinImg": "bg_bagskin_18",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5019": {
+    "id": 5019,
+    "order": 17,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_19",
+    "getWay": {
+      "mp017": 1
+    },
+    "bagSkinImg": "bg_bagskin_19",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5020": {
+    "id": 5020,
+    "order": 18,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_20",
+    "getWay": {
+      "mp018": 1
+    },
+    "bagSkinImg": "bg_bagskin_20",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5021": {
+    "id": 5021,
+    "order": 19,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_21",
+    "getWay": {
+      "mp019": 1
+    },
+    "bagSkinImg": "bg_bagskin_21",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5022": {
+    "id": 5022,
+    "order": 20,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_22",
+    "getWay": {
+      "mp020": 1
+    },
+    "bagSkinImg": "bg_bagskin_22",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5023": {
+    "id": 5023,
+    "order": 21,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_23",
+    "getWay": {
+      "mp021": 1
+    },
+    "bagSkinImg": "bg_bagskin_23",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5024": {
+    "id": 5024,
+    "order": 22,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_24",
+    "getWay": {
+      "mp022": 1
+    },
+    "bagSkinImg": "bg_bagskin_24",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5025": {
+    "id": 5025,
+    "order": 23,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_25",
+    "getWay": {
+      "mp023": 1
+    },
+    "bagSkinImg": "bg_bagskin_25",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5026": {
+    "id": 5026,
+    "order": 24,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_26",
+    "getWay": {
+      "mp024": 1
+    },
+    "bagSkinImg": "bg_bagskin_26",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5027": {
+    "id": 5027,
+    "order": 25,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_27",
+    "getWay": {
+      "mp025": 1
+    },
+    "bagSkinImg": "bg_bagskin_27",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5028": {
+    "id": 5028,
+    "order": 26,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_28",
+    "getWay": {
+      "mp026": 1
+    },
+    "bagSkinImg": "bg_bagskin_28",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5029": {
+    "id": 5029,
+    "order": 27,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_29",
+    "getWay": {
+      "mp027": 1
+    },
+    "bagSkinImg": "bg_bagskin_29",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5030": {
+    "id": 5030,
+    "order": 28,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_30",
+    "getWay": {
+      "mp028": 1
+    },
+    "bagSkinImg": "bg_bagskin_30",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5031": {
+    "id": 5031,
+    "order": 29,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_31",
+    "getWay": {
+      "mp029": 1
+    },
+    "bagSkinImg": "bg_bagskin_31",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5032": {
+    "id": 5032,
+    "order": 30,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_32",
+    "getWay": {
+      "mp030": 1
+    },
+    "bagSkinImg": "bg_bagskin_32",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5033": {
+    "id": 5033,
+    "order": 31,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_33",
+    "getWay": {
+      "mp031": 1
+    },
+    "bagSkinImg": "bg_bagskin_33",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5034": {
+    "id": 5034,
+    "order": 32,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_34",
+    "getWay": {
+      "mp032": 1
+    },
+    "bagSkinImg": "bg_bagskin_34",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5035": {
+    "id": 5035,
+    "order": 33,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_35",
+    "getWay": {
+      "mp033": 1
+    },
+    "bagSkinImg": "bg_bagskin_35",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5036": {
+    "id": 5036,
+    "order": 34,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_36",
+    "getWay": {
+      "newmp0001": 1
+    },
+    "bagSkinImg": "bg_bagskin_36",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5037": {
+    "id": 5037,
+    "order": 35,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_37",
+    "getWay": {
+      "newmp0002": 1
+    },
+    "bagSkinImg": "bg_bagskin_37",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5038": {
+    "id": 5038,
+    "order": 36,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_38",
+    "getWay": {
+      "newmp0003": 1
+    },
+    "bagSkinImg": "bg_bagskin_38",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5039": {
+    "id": 5039,
+    "order": 37,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_39",
+    "getWay": {
+      "newmp0004": 1
+    },
+    "bagSkinImg": "bg_bagskin_39",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5040": {
+    "id": 5040,
+    "order": 38,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_40",
+    "getWay": {
+      "newmp0005": 1
+    },
+    "bagSkinImg": "bg_bagskin_40",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5041": {
+    "id": 5041,
+    "order": 39,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_41",
+    "getWay": {
+      "newmp0006": 1
+    },
+    "bagSkinImg": "bg_bagskin_41",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5042": {
+    "id": 5042,
+    "order": 40,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_42",
+    "getWay": {
+      "newmp0007": 1
+    },
+    "bagSkinImg": "bg_bagskin_42",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5043": {
+    "id": 5043,
+    "order": 41,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_43",
+    "getWay": {
+      "newmp0008": 1
+    },
+    "bagSkinImg": "bg_bagskin_43",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5044": {
+    "id": 5044,
+    "order": 42,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_44",
+    "getWay": {
+      "newmp0009": 1
+    },
+    "bagSkinImg": "bg_bagskin_44",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5045": {
+    "id": 5045,
+    "order": 43,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_45",
+    "getWay": {
+      "newmp0010": 1
+    },
+    "bagSkinImg": "bg_bagskin_45",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5046": {
+    "id": 5046,
+    "order": 44,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_46",
+    "getWay": {
+      "newmp0011": 1
+    },
+    "bagSkinImg": "bg_bagskin_46",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5047": {
+    "id": 5047,
+    "order": 45,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_47",
+    "getWay": {
+      "newmp0012": 1
+    },
+    "bagSkinImg": "bg_bagskin_47",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5048": {
+    "id": 5048,
+    "order": 46,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_48",
+    "getWay": {
+      "newmp0013": 1
+    },
+    "bagSkinImg": "bg_bagskin_48",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5049": {
+    "id": 5049,
+    "order": 47,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_49",
+    "getWay": {
+      "newmp0014": 1
+    },
+    "bagSkinImg": "bg_bagskin_49",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  },
+  "5050": {
+    "id": 5050,
+    "order": 48,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_50",
+    "getWay": {
+      "newmp0015": 1
+    },
+    "bagSkinImg": "bg_bagskin_50",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 0
+  },
+  "5051": {
+    "id": 5051,
+    "order": 49,
+    "isDefault": 0,
+    "canBuyHere": 2,
+    "img": "icon_bag_51",
+    "getWay": {
+      "newmp0016": 1
+    },
+    "bagSkinImg": "bg_bagskin_51",
+    "bagSkinAnim": "",
+    "i18nType": [],
+    "notShowTitle": 1
+  }
+}

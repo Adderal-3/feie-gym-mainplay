@@ -1,0 +1,48 @@
+{
+  "masterMatch1": {
+    "theme": "masterMatch1",
+    "graphID": "masterOrder1",
+    "awardTime": 300,
+    "intervalDuration": 300,
+    "priceType": "star",
+    "price": [
+      10,
+      12,
+      14,
+      18,
+      22,
+      28,
+      36,
+      50
+    ],
+    "rewards": {
+      "masterMatchPoint": 10
+    },
+    "orderType": "basicsOrder",
+    "orderSlotNum": 4,
+    "backUpSlotNum": 0
+  },
+  "masterMatch2": {
+    "theme": "masterMatch2",
+    "graphID": "",
+    "awardTime": 300,
+    "intervalDuration": 300,
+    "priceType": "star",
+    "price": [
+      10,
+      12,
+      14,
+      18,
+      22,
+      28,
+      36,
+      50
+    ],
+    "rewards": {
+      "masterMatchPoint": 10
+    },
+    "orderType": "",
+    "orderSlotNum": 0,
+    "backUpSlotNum": 0
+  }
+}

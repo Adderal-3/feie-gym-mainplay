@@ -1,0 +1,4578 @@
+{
+  "baixue": {
+    "5001": {
+      "id": 5001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "5002": {
+      "id": 5002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "5003": {
+      "id": 5003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "5004": {
+      "id": 5004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "5005": {
+      "id": 5005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "5006": {
+      "id": 5006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "5007": {
+      "id": 5007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5008": {
+      "id": 5008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5009": {
+      "id": 5009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "5010": {
+      "id": 5010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "5011": {
+      "id": 5011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "5012": {
+      "id": 5012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "5013": {
+      "id": 5013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "5014": {
+      "id": 5014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5015": {
+      "id": 5015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5016": {
+      "id": 5016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "5017": {
+      "id": 5017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "5018": {
+      "id": 5018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "5019": {
+      "id": 5019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "5020": {
+      "id": 5020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "5021": {
+      "id": 5021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "5022": {
+      "id": 5022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5023": {
+      "id": 5023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5024": {
+      "id": 5024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 50,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "5025": {
+      "id": 5025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 10,
+      "weight5": 80,
+      "weight6": 400
+    },
+    "5026": {
+      "id": 5026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "5027": {
+      "id": 5027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 50
+    },
+    "5028": {
+      "id": 5028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "5029": {
+      "id": 5029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "5030": {
+      "id": 5030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "5031": {
+      "id": 5031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "5032": {
+      "id": 5032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "5033": {
+      "id": 5033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "5034": {
+      "id": 5034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "5035": {
+      "id": 5035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "5036": {
+      "id": 5036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "5037": {
+      "id": 5037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "5038": {
+      "id": 5038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "5039": {
+      "id": 5039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "5040": {
+      "id": 5040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "5041": {
+      "id": 5041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "5042": {
+      "id": 5042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "5043": {
+      "id": 5043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "5044": {
+      "id": 5044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "5045": {
+      "id": 5045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "5046": {
+      "id": 5046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "5047": {
+      "id": 5047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "br1": {
+    "3001": {
+      "id": 3001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "3002": {
+      "id": 3002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "3003": {
+      "id": 3003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "3004": {
+      "id": 3004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "3005": {
+      "id": 3005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "3006": {
+      "id": 3006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "3007": {
+      "id": 3007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3008": {
+      "id": 3008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3009": {
+      "id": 3009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "3010": {
+      "id": 3010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "3011": {
+      "id": 3011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "3012": {
+      "id": 3012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "3013": {
+      "id": 3013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "3014": {
+      "id": 3014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3015": {
+      "id": 3015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3016": {
+      "id": 3016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "3017": {
+      "id": 3017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "3018": {
+      "id": 3018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "3019": {
+      "id": 3019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "3020": {
+      "id": 3020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "3021": {
+      "id": 3021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "3022": {
+      "id": 3022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3023": {
+      "id": 3023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3024": {
+      "id": 3024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 50,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "3025": {
+      "id": 3025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 10,
+      "weight5": 80,
+      "weight6": 400
+    },
+    "3026": {
+      "id": 3026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "3027": {
+      "id": 3027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 50
+    },
+    "3028": {
+      "id": 3028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "3029": {
+      "id": 3029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "3030": {
+      "id": 3030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "3031": {
+      "id": 3031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "3032": {
+      "id": 3032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "3033": {
+      "id": 3033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "3034": {
+      "id": 3034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "3035": {
+      "id": 3035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "3036": {
+      "id": 3036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "3037": {
+      "id": 3037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "3038": {
+      "id": 3038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "3039": {
+      "id": 3039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "3040": {
+      "id": 3040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "3041": {
+      "id": 3041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "3042": {
+      "id": 3042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "3043": {
+      "id": 3043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "3044": {
+      "id": 3044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "3045": {
+      "id": 3045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "3046": {
+      "id": 3046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "3047": {
+      "id": 3047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "general1": {
+    "2001": {
+      "id": 2001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "2002": {
+      "id": 2002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 2
+    },
+    "2003": {
+      "id": 2003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "2004": {
+      "id": 2004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 200
+    },
+    "2005": {
+      "id": 2005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "2006": {
+      "id": 2006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 130,
+      "weight6": 0
+    },
+    "2007": {
+      "id": 2007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2008": {
+      "id": 2008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2009": {
+      "id": 2009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "2010": {
+      "id": 2010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "2011": {
+      "id": 2011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 10
+    },
+    "2012": {
+      "id": 2012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 1200
+    },
+    "2013": {
+      "id": 2013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 380,
+      "weight6": 0
+    },
+    "2014": {
+      "id": 2014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2015": {
+      "id": 2015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 90,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2016": {
+      "id": 2016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "2017": {
+      "id": 2017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "2018": {
+      "id": 2018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "2019": {
+      "id": 2019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 1200
+    },
+    "2020": {
+      "id": 2020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "2021": {
+      "id": 2021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 600,
+      "weight6": 0
+    },
+    "2022": {
+      "id": 2022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2023": {
+      "id": 2023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 200,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2024": {
+      "id": 2024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 100,
+      "weight5": 500,
+      "weight6": 1080
+    },
+    "2025": {
+      "id": 2025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 1,
+      "weight5": 10,
+      "weight6": 50
+    },
+    "2026": {
+      "id": 2026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "2027": {
+      "id": 2027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "2028": {
+      "id": 2028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "2029": {
+      "id": 2029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "2030": {
+      "id": 2030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2031": {
+      "id": 2031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2032": {
+      "id": 2032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2033": {
+      "id": 2033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2034": {
+      "id": 2034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "2035": {
+      "id": 2035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "2036": {
+      "id": 2036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "2037": {
+      "id": 2037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 700
+    },
+    "2038": {
+      "id": 2038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 100,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "2039": {
+      "id": 2039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "2040": {
+      "id": 2040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "2041": {
+      "id": 2041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "2042": {
+      "id": 2042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "2043": {
+      "id": 2043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 50
+    },
+    "2044": {
+      "id": 2044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 50
+    },
+    "2045": {
+      "id": 2045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 1,
+      "weight5": 350,
+      "weight6": 2000
+    },
+    "2046": {
+      "id": 2046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "2047": {
+      "id": 2047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 140,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "moon2024": {
+    "4001": {
+      "id": 4001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "4002": {
+      "id": 4002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "4003": {
+      "id": 4003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "4004": {
+      "id": 4004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "4005": {
+      "id": 4005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "4006": {
+      "id": 4006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "4007": {
+      "id": 4007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4008": {
+      "id": 4008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4009": {
+      "id": 4009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "4010": {
+      "id": 4010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "4011": {
+      "id": 4011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "4012": {
+      "id": 4012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "4013": {
+      "id": 4013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "4014": {
+      "id": 4014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4015": {
+      "id": 4015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4016": {
+      "id": 4016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "4017": {
+      "id": 4017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "4018": {
+      "id": 4018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "4019": {
+      "id": 4019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "4020": {
+      "id": 4020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "4021": {
+      "id": 4021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "4022": {
+      "id": 4022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4023": {
+      "id": 4023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4024": {
+      "id": 4024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 50,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "4025": {
+      "id": 4025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 10,
+      "weight5": 80,
+      "weight6": 400
+    },
+    "4026": {
+      "id": 4026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "4027": {
+      "id": 4027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 50
+    },
+    "4028": {
+      "id": 4028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "4029": {
+      "id": 4029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "4030": {
+      "id": 4030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "4031": {
+      "id": 4031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "4032": {
+      "id": 4032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "4033": {
+      "id": 4033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "4034": {
+      "id": 4034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "4035": {
+      "id": 4035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "4036": {
+      "id": 4036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "4037": {
+      "id": 4037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "4038": {
+      "id": 4038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "4039": {
+      "id": 4039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "4040": {
+      "id": 4040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "4041": {
+      "id": 4041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "4042": {
+      "id": 4042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "4043": {
+      "id": 4043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "4044": {
+      "id": 4044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "4045": {
+      "id": 4045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "4046": {
+      "id": 4046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "4047": {
+      "id": 4047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "theatre": {
+    "6001": {
+      "id": 6001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "6002": {
+      "id": 6002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "6003": {
+      "id": 6003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "6004": {
+      "id": 6004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "6005": {
+      "id": 6005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "6006": {
+      "id": 6006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "6007": {
+      "id": 6007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6008": {
+      "id": 6008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6009": {
+      "id": 6009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "6010": {
+      "id": 6010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "6011": {
+      "id": 6011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "6012": {
+      "id": 6012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "6013": {
+      "id": 6013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "6014": {
+      "id": 6014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6015": {
+      "id": 6015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6016": {
+      "id": 6016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "6017": {
+      "id": 6017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "6018": {
+      "id": 6018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "6019": {
+      "id": 6019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "6020": {
+      "id": 6020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "6021": {
+      "id": 6021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "6022": {
+      "id": 6022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6023": {
+      "id": 6023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6024": {
+      "id": 6024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 50,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "6025": {
+      "id": 6025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 10,
+      "weight5": 80,
+      "weight6": 400
+    },
+    "6026": {
+      "id": 6026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "6027": {
+      "id": 6027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 50
+    },
+    "6028": {
+      "id": 6028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "6029": {
+      "id": 6029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "6030": {
+      "id": 6030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "6031": {
+      "id": 6031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "6032": {
+      "id": 6032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "6033": {
+      "id": 6033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "6034": {
+      "id": 6034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "6035": {
+      "id": 6035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "6036": {
+      "id": 6036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "6037": {
+      "id": 6037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "6038": {
+      "id": 6038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "6039": {
+      "id": 6039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "6040": {
+      "id": 6040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "6041": {
+      "id": 6041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "6042": {
+      "id": 6042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "6043": {
+      "id": 6043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "6044": {
+      "id": 6044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "6045": {
+      "id": 6045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "6046": {
+      "id": 6046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "6047": {
+      "id": 6047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "tiankong": {
+    "7001": {
+      "id": 7001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "7002": {
+      "id": 7002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "7003": {
+      "id": 7003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "7004": {
+      "id": 7004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "7005": {
+      "id": 7005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "7006": {
+      "id": 7006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "7007": {
+      "id": 7007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7008": {
+      "id": 7008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7009": {
+      "id": 7009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "7010": {
+      "id": 7010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "7011": {
+      "id": 7011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "7012": {
+      "id": 7012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "7013": {
+      "id": 7013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "7014": {
+      "id": 7014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7015": {
+      "id": 7015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7016": {
+      "id": 7016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "7017": {
+      "id": 7017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "7018": {
+      "id": 7018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "7019": {
+      "id": 7019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "7020": {
+      "id": 7020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "7021": {
+      "id": 7021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "7022": {
+      "id": 7022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7023": {
+      "id": 7023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7024": {
+      "id": 7024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 50,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "7025": {
+      "id": 7025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 10,
+      "weight5": 80,
+      "weight6": 400
+    },
+    "7026": {
+      "id": 7026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "7027": {
+      "id": 7027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 50
+    },
+    "7028": {
+      "id": 7028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "7029": {
+      "id": 7029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "7030": {
+      "id": 7030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "7031": {
+      "id": 7031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "7032": {
+      "id": 7032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "7033": {
+      "id": 7033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "7034": {
+      "id": 7034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "7035": {
+      "id": 7035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "7036": {
+      "id": 7036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "7037": {
+      "id": 7037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "7038": {
+      "id": 7038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "7039": {
+      "id": 7039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "7040": {
+      "id": 7040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "7041": {
+      "id": 7041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "7042": {
+      "id": 7042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "7043": {
+      "id": 7043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "7044": {
+      "id": 7044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "7045": {
+      "id": 7045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "7046": {
+      "id": 7046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "7047": {
+      "id": 7047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "tomjerry": {
+    "8001": {
+      "id": 8001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "8002": {
+      "id": 8002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 2
+    },
+    "8003": {
+      "id": 8003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8004": {
+      "id": 8004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 200
+    },
+    "8005": {
+      "id": 8005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "8006": {
+      "id": 8006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 130,
+      "weight6": 0
+    },
+    "8007": {
+      "id": 8007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8008": {
+      "id": 8008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8009": {
+      "id": 8009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "8010": {
+      "id": 8010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8011": {
+      "id": 8011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 10
+    },
+    "8012": {
+      "id": 8012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 1200
+    },
+    "8013": {
+      "id": 8013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 380,
+      "weight6": 0
+    },
+    "8014": {
+      "id": 8014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8015": {
+      "id": 8015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 90,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8016": {
+      "id": 8016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "8017": {
+      "id": 8017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "8018": {
+      "id": 8018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "8019": {
+      "id": 8019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 1200
+    },
+    "8020": {
+      "id": 8020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "8021": {
+      "id": 8021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 600,
+      "weight6": 0
+    },
+    "8022": {
+      "id": 8022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8023": {
+      "id": 8023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 200,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8024": {
+      "id": 8024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 50,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 100,
+      "weight5": 500,
+      "weight6": 1080
+    },
+    "8025": {
+      "id": 8025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 10,
+      "weight2": 80,
+      "weight3": 400,
+      "weight4": 1,
+      "weight5": 10,
+      "weight6": 50
+    },
+    "8026": {
+      "id": 8026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "8027": {
+      "id": 8027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 50,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "8028": {
+      "id": 8028,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8029": {
+      "id": 8029,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "8030": {
+      "id": 8030,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8031": {
+      "id": 8031,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "8032": {
+      "id": 8032,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8033": {
+      "id": 8033,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "8034": {
+      "id": 8034,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 1
+    },
+    "8035": {
+      "id": 8035,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "8036": {
+      "id": 8036,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "8037": {
+      "id": 8037,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 5,
+      "weight6": 700
+    },
+    "8038": {
+      "id": 8038,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 100,
+      "weight5": 10,
+      "weight6": 0
+    },
+    "8039": {
+      "id": 8039,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "8040": {
+      "id": 8040,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "8041": {
+      "id": 8041,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "8042": {
+      "id": 8042,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "8043": {
+      "id": 8043,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 10,
+      "weight6": 50
+    },
+    "8044": {
+      "id": 8044,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 50
+    },
+    "8045": {
+      "id": 8045,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 1,
+      "weight5": 350,
+      "weight6": 2000
+    },
+    "8046": {
+      "id": 8046,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "8047": {
+      "id": 8047,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 140,
+      "weight5": 0,
+      "weight6": 0
+    }
+  },
+  "zhenhuan": {
+    "999": {
+      "id": 999,
+      "reward": {
+        "90236": 1
+      },
+      "weight1": 20,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 20,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "1000": {
+      "id": 1000,
+      "reward": {
+        "90237": 1
+      },
+      "weight1": 8,
+      "weight2": 70,
+      "weight3": 500,
+      "weight4": 8,
+      "weight5": 70,
+      "weight6": 500
+    },
+    "1001": {
+      "id": 1001,
+      "reward": {
+        "Diamond": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 5,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 5
+    },
+    "1002": {
+      "id": 1002,
+      "reward": {
+        "Diamond": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 20,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 20
+    },
+    "1003": {
+      "id": 1003,
+      "reward": {
+        "Diamond": 20
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 60,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 60
+    },
+    "1004": {
+      "id": 1004,
+      "reward": {
+        "Diamond": 10
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 500
+    },
+    "1005": {
+      "id": 1005,
+      "reward": {
+        "Diamond": 8
+      },
+      "weight1": 0,
+      "weight2": 40,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 40,
+      "weight6": 0
+    },
+    "1006": {
+      "id": 1006,
+      "reward": {
+        "Diamond": 5
+      },
+      "weight1": 21,
+      "weight2": 70,
+      "weight3": 0,
+      "weight4": 21,
+      "weight5": 70,
+      "weight6": 0
+    },
+    "1007": {
+      "id": 1007,
+      "reward": {
+        "Diamond": 2
+      },
+      "weight1": 8,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 8,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1008": {
+      "id": 1008,
+      "reward": {
+        "Diamond": 1
+      },
+      "weight1": 1,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 1,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1009": {
+      "id": 1009,
+      "reward": {
+        "Energy": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 30,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 30
+    },
+    "1010": {
+      "id": 1010,
+      "reward": {
+        "Energy": 80
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "1011": {
+      "id": 1011,
+      "reward": {
+        "Energy": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 100
+    },
+    "1012": {
+      "id": 1012,
+      "reward": {
+        "Energy": 30
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 1000,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 1000
+    },
+    "1013": {
+      "id": 1013,
+      "reward": {
+        "Energy": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "1014": {
+      "id": 1014,
+      "reward": {
+        "Energy": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1015": {
+      "id": 1015,
+      "reward": {
+        "Energy": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1016": {
+      "id": 1016,
+      "reward": {
+        "AdornCoupon": 150
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "1017": {
+      "id": 1017,
+      "reward": {
+        "AdornCoupon": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 300
+    },
+    "1018": {
+      "id": 1018,
+      "reward": {
+        "AdornCoupon": 75
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "1019": {
+      "id": 1019,
+      "reward": {
+        "AdornCoupon": 50
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 300,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 300
+    },
+    "1020": {
+      "id": 1020,
+      "reward": {
+        "AdornCoupon": 30
+      },
+      "weight1": 0,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "1021": {
+      "id": 1021,
+      "reward": {
+        "AdornCoupon": 20
+      },
+      "weight1": 0,
+      "weight2": 150,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 150,
+      "weight6": 0
+    },
+    "1022": {
+      "id": 1022,
+      "reward": {
+        "AdornCoupon": 10
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1023": {
+      "id": 1023,
+      "reward": {
+        "AdornCoupon": 5
+      },
+      "weight1": 30,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 30,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1024": {
+      "id": 1024,
+      "reward": {
+        "90201": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1025": {
+      "id": 1025,
+      "reward": {
+        "90202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1026": {
+      "id": 1026,
+      "reward": {
+        "90203": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1027": {
+      "id": 1027,
+      "reward": {
+        "90204": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1028": {
+      "id": 1028,
+      "reward": {
+        "90223": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1029": {
+      "id": 1029,
+      "reward": {
+        "90227": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1030": {
+      "id": 1030,
+      "reward": {
+        "98302": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "1031": {
+      "id": 1031,
+      "reward": {
+        "98301": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "1032": {
+      "id": 1032,
+      "reward": {
+        "98202": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "1033": {
+      "id": 1033,
+      "reward": {
+        "98201": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "1034": {
+      "id": 1034,
+      "reward": {
+        "98102": 1
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "1035": {
+      "id": 1035,
+      "reward": {
+        "98101": 1
+      },
+      "weight1": 0,
+      "weight2": 20,
+      "weight3": 70,
+      "weight4": 0,
+      "weight5": 20,
+      "weight6": 70
+    },
+    "1036": {
+      "id": 1036,
+      "reward": {
+        "CardPoint": 100
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 10,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 10
+    },
+    "1037": {
+      "id": 1037,
+      "reward": {
+        "CardPoint": 50
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 100,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 100
+    },
+    "1038": {
+      "id": 1038,
+      "reward": {
+        "CardPoint": 30
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 200
+    },
+    "1039": {
+      "id": 1039,
+      "reward": {
+        "CardPoint": 20
+      },
+      "weight1": 0,
+      "weight2": 50,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 50,
+      "weight6": 500
+    },
+    "1040": {
+      "id": 1040,
+      "reward": {
+        "CardPoint": 10
+      },
+      "weight1": 20,
+      "weight2": 100,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 100,
+      "weight6": 0
+    },
+    "1041": {
+      "id": 1041,
+      "reward": {
+        "CardPoint": 5
+      },
+      "weight1": 20,
+      "weight2": 20,
+      "weight3": 0,
+      "weight4": 20,
+      "weight5": 20,
+      "weight6": 0
+    },
+    "1042": {
+      "id": 1042,
+      "reward": {
+        "Coin": 588
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 400,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 400
+    },
+    "1043": {
+      "id": 1043,
+      "reward": {
+        "Coin": 488
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 500
+    },
+    "1044": {
+      "id": 1044,
+      "reward": {
+        "Coin": 388
+      },
+      "weight1": 0,
+      "weight2": 0,
+      "weight3": 600,
+      "weight4": 0,
+      "weight5": 0,
+      "weight6": 600
+    },
+    "1045": {
+      "id": 1045,
+      "reward": {
+        "Coin": 328
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 500,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 500
+    },
+    "1046": {
+      "id": 1046,
+      "reward": {
+        "Coin": 288
+      },
+      "weight1": 0,
+      "weight2": 200,
+      "weight3": 200,
+      "weight4": 0,
+      "weight5": 200,
+      "weight6": 200
+    },
+    "1047": {
+      "id": 1047,
+      "reward": {
+        "Coin": 188
+      },
+      "weight1": 50,
+      "weight2": 150,
+      "weight3": 200,
+      "weight4": 50,
+      "weight5": 150,
+      "weight6": 200
+    },
+    "1048": {
+      "id": 1048,
+      "reward": {
+        "Coin": 128
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    },
+    "1049": {
+      "id": 1049,
+      "reward": {
+        "Coin": 68
+      },
+      "weight1": 50,
+      "weight2": 0,
+      "weight3": 0,
+      "weight4": 50,
+      "weight5": 0,
+      "weight6": 0
+    }
+  }
+}

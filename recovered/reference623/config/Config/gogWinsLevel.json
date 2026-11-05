@@ -1,0 +1,472 @@
+{
+  "1": {
+    "id": 1,
+    "levelId": [
+      [
+        "gog3001",
+        "gog3002",
+        "gog3003"
+      ],
+      [
+        "gog3004",
+        "gog3005",
+        "gog3006"
+      ],
+      [
+        "gog3007",
+        "gog3008",
+        "gog3009"
+      ],
+      [
+        "gog3010",
+        "gog3011",
+        "gog3012"
+      ],
+      [
+        "gog3013",
+        "gog3014",
+        "gog3015"
+      ],
+      [
+        "gog3016",
+        "gog3017",
+        "gog3018"
+      ],
+      [
+        "gog3019",
+        "gog3020",
+        "gog3021"
+      ]
+    ],
+    "levelPassReward": [
+      {
+        "Star": 1,
+        "DCTaskVal": 50
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 60
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 80
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 120
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 140
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 140
+      },
+      {
+        "Diamond": 100,
+        "DCTaskVal": 180
+      }
+    ],
+    "levelPassPoint": [
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      0
+    ],
+    "levelPassMultiplier": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "levelNRemainId": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  "2": {
+    "id": 2,
+    "levelId": [
+      [
+        "gog3022",
+        "gog3023",
+        "gog3024"
+      ],
+      [
+        "gog3025",
+        "gog3026",
+        "gog3027"
+      ],
+      [
+        "gog3028",
+        "gog3029",
+        "gog3030"
+      ],
+      [
+        "gog3031",
+        "gog3032",
+        "gog3033"
+      ],
+      [
+        "gog3034",
+        "gog3035",
+        "gog3036"
+      ],
+      [
+        "gog3037",
+        "gog3038",
+        "gog3039"
+      ],
+      [
+        "gog3040",
+        "gog3041",
+        "gog3042"
+      ]
+    ],
+    "levelPassReward": [
+      {
+        "Star": 1,
+        "DCTaskVal": 50
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 60
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 80
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 120
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 140
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 140
+      },
+      {
+        "Diamond": 200,
+        "DCTaskVal": 180
+      }
+    ],
+    "levelPassPoint": [
+      1,
+      2,
+      3,
+      4,
+      4,
+      5,
+      0
+    ],
+    "levelPassMultiplier": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "levelNRemainId": [
+      201,
+      202,
+      203,
+      204,
+      205,
+      206
+    ]
+  },
+  "3": {
+    "id": 3,
+    "levelId": [
+      [
+        "gog3043",
+        "gog3044",
+        "gog3045"
+      ],
+      [
+        "gog3046",
+        "gog3047",
+        "gog3048"
+      ],
+      [
+        "gog3049",
+        "gog3050",
+        "gog3051"
+      ],
+      [
+        "gog3052",
+        "gog3053",
+        "gog3054"
+      ],
+      [
+        "gog3055",
+        "gog3056",
+        "gog3057"
+      ],
+      [
+        "gog3058",
+        "gog3059",
+        "gog3060"
+      ],
+      [
+        "gog3061",
+        "gog3062",
+        "gog3063"
+      ]
+    ],
+    "levelPassReward": [
+      {
+        "Star": 1,
+        "DCTaskVal": 50
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 60
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 80
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 120
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 140
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 140
+      },
+      {
+        "Diamond": 300,
+        "DCTaskVal": 180
+      }
+    ],
+    "levelPassPoint": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      6,
+      0
+    ],
+    "levelPassMultiplier": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "levelNRemainId": [
+      301,
+      302,
+      303,
+      304,
+      305,
+      306
+    ]
+  },
+  "4": {
+    "id": 4,
+    "levelId": [
+      [
+        "gog3064",
+        "gog3065",
+        "gog3066"
+      ],
+      [
+        "gog3067",
+        "gog3068",
+        "gog3069"
+      ],
+      [
+        "gog3070",
+        "gog3071",
+        "gog3072"
+      ],
+      [
+        "gog3073",
+        "gog3074",
+        "gog3075"
+      ],
+      [
+        "gog3076",
+        "gog3077",
+        "gog3078"
+      ],
+      [
+        "gog3079",
+        "gog3080",
+        "gog3081"
+      ],
+      [
+        "gog3082",
+        "gog3083",
+        "gog3084"
+      ]
+    ],
+    "levelPassReward": [
+      {
+        "Star": 1,
+        "DCTaskVal": 50
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 60
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 80
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 120
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 140
+      },
+      {
+        "Star": 3,
+        "DCTaskVal": 140
+      },
+      {
+        "Diamond": 400,
+        "DCTaskVal": 180
+      }
+    ],
+    "levelPassPoint": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      0
+    ],
+    "levelPassMultiplier": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "levelNRemainId": [
+      401,
+      402,
+      403,
+      404,
+      405,
+      406
+    ]
+  },
+  "5": {
+    "id": 5,
+    "levelId": [
+      [
+        "gog3085",
+        "gog3086",
+        "gog3087"
+      ],
+      [
+        "gog3088",
+        "gog3089",
+        "gog3090"
+      ],
+      [
+        "gog3091",
+        "gog3092",
+        "gog3093"
+      ],
+      [
+        "gog3094",
+        "gog3095",
+        "gog3096"
+      ],
+      [
+        "gog3097",
+        "gog3098",
+        "gog3099"
+      ],
+      [
+        "gog3100",
+        "gog3101",
+        "gog3102"
+      ],
+      [
+        "gog3103",
+        "gog3104",
+        "gog3105"
+      ]
+    ],
+    "levelPassReward": [
+      {
+        "Star": 1,
+        "DCTaskVal": 50
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 60
+      },
+      {
+        "Star": 1,
+        "DCTaskVal": 80
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 120
+      },
+      {
+        "Star": 2,
+        "DCTaskVal": 140
+      },
+      {
+        "Star": 3,
+        "DCTaskVal": 140
+      },
+      {
+        "Diamond": 500,
+        "DCTaskVal": 180
+      }
+    ],
+    "levelPassPoint": [
+      1,
+      2,
+      6,
+      8,
+      10,
+      16,
+      0
+    ],
+    "levelPassMultiplier": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "levelNRemainId": [
+      501,
+      502,
+      503,
+      504,
+      505,
+      506
+    ]
+  }
+}

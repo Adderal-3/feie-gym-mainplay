@@ -1,0 +1,9 @@
+{
+  "maxPassedDays": 30,
+  "privilegeDailyRewardRefreshTime": 5,
+  "privilegeDailyRewardRefreshTimeNew": 0,
+  "privilegeDurationNew": 30,
+  "privilegeWindowTime": 24,
+  "privilegeExperienceCardDuration": 10800,
+  "privilegeExperienceSoonTime": 1200
+}

@@ -1,0 +1,29 @@
+{
+  "ghost1": {
+    "seriesId": "ghost1",
+    "elementId": [
+      29161,
+      29162,
+      29163
+    ],
+    "orderElementMark": "29176_mark"
+  },
+  "ghost2": {
+    "seriesId": "ghost2",
+    "elementId": [
+      29164,
+      29165,
+      29166
+    ],
+    "orderElementMark": "29176_mark"
+  },
+  "ghost3": {
+    "seriesId": "ghost3",
+    "elementId": [
+      29167,
+      29168,
+      29169
+    ],
+    "orderElementMark": "29176_mark"
+  }
+}

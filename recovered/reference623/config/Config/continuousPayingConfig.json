@@ -1,0 +1,14 @@
+{
+  "conpay1": {
+    "id": "conpay1",
+    "actPic": "Conpay/img_CPay_01",
+    "actIcon": "Home/icon_btn_conpay",
+    "refreshTime": 0,
+    "payingTime": 7,
+    "grandRewardUnlock": 3,
+    "grandReward": {
+      "Goose2043": 1
+    },
+    "goose": 2043
+  }
+}

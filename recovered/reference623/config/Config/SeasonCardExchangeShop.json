@@ -1,0 +1,82 @@
+{
+  "1": {
+    "id": 1,
+    "goods": {
+      "Film2": 1,
+      "Energy": 30
+    },
+    "price": 150,
+    "cd": 7200,
+    "skipCdPrice": [
+      {
+        "Coin": 1000
+      },
+      {
+        "Coin": 2000
+      },
+      {
+        "Diamond": 10
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "goods": {
+      "Film3": 1,
+      "Energy": 40
+    },
+    "price": 200,
+    "cd": 21600,
+    "skipCdPrice": [
+      {
+        "Coin": 2000
+      },
+      {
+        "Coin": 5000
+      },
+      {
+        "Diamond": 15
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "goods": {
+      "Film4": 1,
+      "Energy": 70
+    },
+    "price": 350,
+    "cd": 86400,
+    "skipCdPrice": [
+      {
+        "Coin": 5000
+      },
+      {
+        "Coin": 10000
+      },
+      {
+        "Diamond": 20
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "goods": {
+      "Film5": 1,
+      "Energy": 100
+    },
+    "price": 500,
+    "cd": 604800,
+    "skipCdPrice": [
+      {
+        "Coin": 10000
+      },
+      {
+        "Coin": 20000
+      },
+      {
+        "Diamond": 30
+      }
+    ]
+  }
+}

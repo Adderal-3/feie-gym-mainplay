@@ -1,0 +1,97 @@
+{
+  "100": {
+    "id": "100",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "orderDifficultCoef": 0.047,
+    "taskIds": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "energyCosts": [
+      1000,
+      1200,
+      1500,
+      1800
+    ],
+    "graphID": "masterOrder1",
+    "energyToBall": [],
+    "shopGive": [],
+    "activeGoose": "goose_46",
+    "activeBG": "",
+    "beginDialog": 7019,
+    "endDialog": 7020,
+    "freeBall": 3,
+    "giftID": 244
+  },
+  "101": {
+    "id": "101",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "orderDifficultCoef": 0,
+    "taskIds": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "energyCosts": [
+      900,
+      1000,
+      1100,
+      1200
+    ],
+    "graphID": "",
+    "energyToBall": [
+      10
+    ],
+    "shopGive": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "activeGoose": "goose_46",
+    "activeBG": "",
+    "beginDialog": 7019,
+    "endDialog": 7020,
+    "freeBall": 3,
+    "giftID": 244
+  },
+  "102": {
+    "id": "102",
+    "unlock": [
+      "PlayerLevel15"
+    ],
+    "orderDifficultCoef": 0,
+    "taskIds": [
+      201,
+      202
+    ],
+    "energyCosts": [
+      1000,
+      1200
+    ],
+    "graphID": "",
+    "energyToBall": [
+      25
+    ],
+    "shopGive": [],
+    "activeGoose": "goose_46",
+    "activeBG": "",
+    "beginDialog": 7019,
+    "endDialog": 7020,
+    "freeBall": 3,
+    "giftID": 244
+  }
+}

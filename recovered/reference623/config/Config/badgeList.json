@@ -1,0 +1,565 @@
+{
+  "101": {
+    "badgeID": 101,
+    "badgeRes": "2308",
+    "showCondition": "",
+    "actType": "butterfly_fish",
+    "badgeRankBg": "rankbg_Badge_2308",
+    "worldRank": []
+  },
+  "102": {
+    "badgeID": 102,
+    "badgeRes": "2309",
+    "showCondition": "",
+    "actType": "chessBoard_moon2",
+    "badgeRankBg": "rankbg_Badge_2309",
+    "worldRank": []
+  },
+  "103": {
+    "badgeID": 103,
+    "badgeRes": "2311",
+    "showCondition": "",
+    "actType": "chessBoard2_misty",
+    "badgeRankBg": "rankbg_Badge_2311",
+    "worldRank": []
+  },
+  "104": {
+    "badgeID": 104,
+    "badgeRes": "2312",
+    "showCondition": "",
+    "actType": "chessBoard_snow",
+    "badgeRankBg": "rankbg_Badge_2312",
+    "worldRank": []
+  },
+  "105": {
+    "badgeID": 105,
+    "badgeRes": "2401",
+    "showCondition": "",
+    "actType": "chessBoard2_shin",
+    "badgeRankBg": "rankbg_Badge_2401",
+    "worldRank": []
+  },
+  "106": {
+    "badgeID": 106,
+    "badgeRes": "2402",
+    "showCondition": "",
+    "actType": "chessBoard2_spring",
+    "badgeRankBg": "rankbg_Badge_2402",
+    "worldRank": []
+  },
+  "107": {
+    "badgeID": 107,
+    "badgeRes": "2211",
+    "showCondition": "",
+    "actType": "chessBoard_unicorn",
+    "badgeRankBg": "rankbg_Badge_2211",
+    "worldRank": []
+  },
+  "108": {
+    "badgeID": 108,
+    "badgeRes": "2210",
+    "showCondition": "",
+    "actType": "chessBoard_dream",
+    "badgeRankBg": "rankbg_Badge_2210",
+    "worldRank": []
+  },
+  "109": {
+    "badgeID": 109,
+    "badgeRes": "2404",
+    "showCondition": "",
+    "actType": "chessBoard_pirate",
+    "badgeRankBg": "rankbg_Badge_2404",
+    "worldRank": []
+  },
+  "110": {
+    "badgeID": 110,
+    "badgeRes": "2207",
+    "showCondition": "",
+    "actType": "chessBoard_food",
+    "badgeRankBg": "rankbg_Badge_2207",
+    "worldRank": []
+  },
+  "111": {
+    "badgeID": 111,
+    "badgeRes": "2406",
+    "showCondition": "",
+    "actType": "chessBoard2_zhzboard",
+    "badgeRankBg": "rankbg_Badge_2406",
+    "worldRank": []
+  },
+  "112": {
+    "badgeID": 112,
+    "badgeRes": "2307",
+    "showCondition": "",
+    "actType": "chessBoard2_undersea",
+    "badgeRankBg": "rankbg_Badge_2307",
+    "worldRank": []
+  },
+  "113": {
+    "badgeID": 113,
+    "badgeRes": "2407",
+    "showCondition": "",
+    "actType": "chessBoard2_battleroyal",
+    "badgeRankBg": "rankbg_Badge_2407",
+    "worldRank": []
+  },
+  "114": {
+    "badgeID": 114,
+    "badgeRes": "2306",
+    "showCondition": "",
+    "actType": "chessBoard2_picnic",
+    "badgeRankBg": "rankbg_Badge_2306",
+    "worldRank": []
+  },
+  "115": {
+    "badgeID": 115,
+    "badgeRes": "2409",
+    "showCondition": "",
+    "actType": "healthy_arch",
+    "badgeRankBg": "rankbg_Badge_2409",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "116": {
+    "badgeID": 116,
+    "badgeRes": "2410",
+    "showCondition": "",
+    "actType": "chessBoard2_moon2024",
+    "badgeRankBg": "rankbg_Badge_2410",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "117": {
+    "badgeID": 117,
+    "badgeRes": "2411",
+    "showCondition": "",
+    "actType": "chessBoard2_shin",
+    "badgeRankBg": "rankbg_Badge_2411",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "118": {
+    "badgeID": 118,
+    "badgeRes": "2412",
+    "showCondition": "",
+    "actType": "chessBoard2_snowwhite",
+    "badgeRankBg": "rankbg_Badge_2412",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "119": {
+    "badgeID": 119,
+    "badgeRes": "2501",
+    "showCondition": "",
+    "actType": "chessBoard2_theatre",
+    "badgeRankBg": "rankbg_Badge_2501",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "120": {
+    "badgeID": 120,
+    "badgeRes": "2503",
+    "showCondition": "",
+    "actType": "chessBoard2_castlesky",
+    "badgeRankBg": "rankbg_Badge_2503",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "121": {
+    "badgeID": 121,
+    "badgeRes": "2508",
+    "showCondition": "",
+    "actType": "chessBoard2_fashion",
+    "badgeRankBg": "rankbg_Badge_2508",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "122": {
+    "badgeID": 122,
+    "badgeRes": "2510",
+    "showCondition": "",
+    "actType": "chessBoard2_cheese",
+    "badgeRankBg": "rankbg_Badge_2510",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "123": {
+    "badgeID": 123,
+    "badgeRes": "2512",
+    "showCondition": "",
+    "actType": "chessBoard2_cinderella",
+    "badgeRankBg": "rankbg_Badge_2512",
+    "worldRank": [
+      1,
+      100
+    ]
+  },
+  "124": {
+    "badgeID": 124,
+    "badgeRes": "4years",
+    "showCondition": "",
+    "actType": "chessBoard_kungfu",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "201": {
+    "badgeID": 201,
+    "badgeRes": "Cardprimary",
+    "showCondition": "",
+    "actType": "cardSeason_seasonCard01",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "202": {
+    "badgeID": 202,
+    "badgeRes": "Cardsenior",
+    "showCondition": "Badge201",
+    "actType": "cardSeason_seasonCard01",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "203": {
+    "badgeID": 203,
+    "badgeRes": "Card2503",
+    "showCondition": "",
+    "actType": "cardSeason_s2",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20401": {
+    "badgeID": 20401,
+    "badgeRes": "Card2504_01",
+    "showCondition": "",
+    "actType": "cardSeason_s3",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20402": {
+    "badgeID": 20402,
+    "badgeRes": "Card2504",
+    "showCondition": "Badge20401",
+    "actType": "cardSeason_s3",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20501": {
+    "badgeID": 20501,
+    "badgeRes": "Card2505_01",
+    "showCondition": "",
+    "actType": "cardSeason_s4",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20502": {
+    "badgeID": 20502,
+    "badgeRes": "Card2505",
+    "showCondition": "Badge20501",
+    "actType": "cardSeason_s4",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20601": {
+    "badgeID": 20601,
+    "badgeRes": "Card2506_01",
+    "showCondition": "",
+    "actType": "cardSeason_s5",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20602": {
+    "badgeID": 20602,
+    "badgeRes": "Card2506",
+    "showCondition": "Badge20601",
+    "actType": "cardSeason_s5",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20701": {
+    "badgeID": 20701,
+    "badgeRes": "Card2507_01",
+    "showCondition": "",
+    "actType": "cardSeason_s6",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20702": {
+    "badgeID": 20702,
+    "badgeRes": "Card2507",
+    "showCondition": "Badge20701",
+    "actType": "cardSeason_s6",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20801": {
+    "badgeID": 20801,
+    "badgeRes": "Card2510_01",
+    "showCondition": "",
+    "actType": "cardSeason_s7",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20802": {
+    "badgeID": 20802,
+    "badgeRes": "Card2510",
+    "showCondition": "Badge20801",
+    "actType": "cardSeason_s7",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20901": {
+    "badgeID": 20901,
+    "badgeRes": "Card2509_01",
+    "showCondition": "",
+    "actType": "cardSeason_s8",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "20902": {
+    "badgeID": 20902,
+    "badgeRes": "Card2509",
+    "showCondition": "Badge20901",
+    "actType": "cardSeason_s8",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21001": {
+    "badgeID": 21001,
+    "badgeRes": "Card2511_1",
+    "showCondition": "",
+    "actType": "cardSeason_s9",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21002": {
+    "badgeID": 21002,
+    "badgeRes": "Card2511",
+    "showCondition": "Badge21001",
+    "actType": "cardSeason_s9",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21101": {
+    "badgeID": 21101,
+    "badgeRes": "Card2512_1",
+    "showCondition": "",
+    "actType": "cardSeason_s10",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21102": {
+    "badgeID": 21102,
+    "badgeRes": "Card2512",
+    "showCondition": "Badge21101",
+    "actType": "cardSeason_s10",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21201": {
+    "badgeID": 21201,
+    "badgeRes": "Card2601_1",
+    "showCondition": "",
+    "actType": "cardSeason_s11",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21202": {
+    "badgeID": 21202,
+    "badgeRes": "Card2601",
+    "showCondition": "Badge21201",
+    "actType": "cardSeason_s11",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21301": {
+    "badgeID": 21301,
+    "badgeRes": "Card2602_1",
+    "showCondition": "",
+    "actType": "cardSeason_s12",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21302": {
+    "badgeID": 21302,
+    "badgeRes": "Card2602",
+    "showCondition": "Badge21301",
+    "actType": "cardSeason_s12",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21401": {
+    "badgeID": 21401,
+    "badgeRes": "Card2603_1",
+    "showCondition": "",
+    "actType": "cardSeason_s13",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21402": {
+    "badgeID": 21402,
+    "badgeRes": "Card2603",
+    "showCondition": "Badge21401",
+    "actType": "cardSeason_s13",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21501": {
+    "badgeID": 21501,
+    "badgeRes": "Card2604_1",
+    "showCondition": "",
+    "actType": "cardSeason_s14",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21502": {
+    "badgeID": 21502,
+    "badgeRes": "Card2604",
+    "showCondition": "",
+    "actType": "cardSeason_s14",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21601": {
+    "badgeID": 21601,
+    "badgeRes": "Card2605_1",
+    "showCondition": "",
+    "actType": "cardSeason_s15",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21602": {
+    "badgeID": 21602,
+    "badgeRes": "Card2605",
+    "showCondition": "",
+    "actType": "cardSeason_s15",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21701": {
+    "badgeID": 21701,
+    "badgeRes": "Card2606_1",
+    "showCondition": "",
+    "actType": "cardSeason_s16",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21702": {
+    "badgeID": 21702,
+    "badgeRes": "Card2606",
+    "showCondition": "",
+    "actType": "cardSeason_s16",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21801": {
+    "badgeID": 21801,
+    "badgeRes": "Card2607_1",
+    "showCondition": "",
+    "actType": "cardSeason_s17",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21802": {
+    "badgeID": 21802,
+    "badgeRes": "Card2607",
+    "showCondition": "",
+    "actType": "cardSeason_s17",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21901": {
+    "badgeID": 21901,
+    "badgeRes": "Card2608_1",
+    "showCondition": "",
+    "actType": "cardSeason_s18",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "21902": {
+    "badgeID": 21902,
+    "badgeRes": "Card2608",
+    "showCondition": "",
+    "actType": "cardSeason_s18",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "22001": {
+    "badgeID": 22001,
+    "badgeRes": "Card2609_1",
+    "showCondition": "",
+    "actType": "cardSeason_s19",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "22002": {
+    "badgeID": 22002,
+    "badgeRes": "Card2609",
+    "showCondition": "",
+    "actType": "cardSeason_s19",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "22101": {
+    "badgeID": 22101,
+    "badgeRes": "Card2610_1",
+    "showCondition": "",
+    "actType": "cardSeason_s20",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "22102": {
+    "badgeID": 22102,
+    "badgeRes": "Card2610",
+    "showCondition": "",
+    "actType": "cardSeason_s20",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "23101": {
+    "badgeID": 23101,
+    "badgeRes": "Card2611_1",
+    "showCondition": "",
+    "actType": "cardSeason_s21",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "23102": {
+    "badgeID": 23102,
+    "badgeRes": "Card2611",
+    "showCondition": "",
+    "actType": "cardSeason_s21",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "23201": {
+    "badgeID": 23201,
+    "badgeRes": "Card2612_1",
+    "showCondition": "",
+    "actType": "cardSeason_s22",
+    "badgeRankBg": "",
+    "worldRank": []
+  },
+  "23202": {
+    "badgeID": 23202,
+    "badgeRes": "Card2612",
+    "showCondition": "",
+    "actType": "cardSeason_s22",
+    "badgeRankBg": "",
+    "worldRank": []
+  }
+}

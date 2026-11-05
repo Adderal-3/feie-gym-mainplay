@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": 1,
+    "screwIcon": "blue",
+    "boxIcon": "box_blue"
+  },
+  "2": {
+    "id": 2,
+    "screwIcon": "green",
+    "boxIcon": "box_green"
+  },
+  "3": {
+    "id": 3,
+    "screwIcon": "orange",
+    "boxIcon": "box_orange"
+  },
+  "4": {
+    "id": 4,
+    "screwIcon": "pink",
+    "boxIcon": "box_pink"
+  },
+  "5": {
+    "id": 5,
+    "screwIcon": "purple",
+    "boxIcon": "box_purple"
+  },
+  "6": {
+    "id": 6,
+    "screwIcon": "red",
+    "boxIcon": "box_red"
+  },
+  "7": {
+    "id": 7,
+    "screwIcon": "yellow",
+    "boxIcon": "box_yellow"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "race1": {
+    "101": {
+      "id": "101",
+      "lableID": "float_race_desc_start",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "102": {
+      "id": "102",
+      "lableID": "float_race_desc_end",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "103": {
+      "id": "103",
+      "lableID": "float_race_desc_main",
+      "color": "#03382C",
+      "outLineColor": ""
+    },
+    "104": {
+      "id": "104",
+      "lableID": "float_race_desc_prize",
+      "color": "#97411F",
+      "outLineColor": ""
+    },
+    "105": {
+      "id": "105",
+      "lableID": "float_race_desc_remain",
+      "color": "",
+      "outLineColor": "#925009"
+    },
+    "106": {
+      "id": "106",
+      "lableID": "float_race_desc_numtip",
+      "color": "#723A1B",
+      "outLineColor": ""
+    },
+    "107": {
+      "id": "107",
+      "lableID": "float_race_tip_title",
+      "color": "",
+      "outLineColor": "#9B3752"
+    },
+    "108": {
+      "id": "108",
+      "lableID": "float_race_continue",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "109": {
+      "id": "109",
+      "lableID": "float_race_remain_num",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "110": {
+      "id": "110",
+      "lableID": "float_race_last_one",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "111": {
+      "id": "111",
+      "lableID": "float_race_desc_fail",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "112": {
+      "id": "112",
+      "lableID": "float_race_rank_desc",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "113": {
+      "id": "113",
+      "lableID": "float_race_next_tips",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "114": {
+      "id": "114",
+      "lableID": "float_race_success_desc",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "115": {
+      "id": "115",
+      "lableID": "float_race_next_succ_tips",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "116": {
+      "id": "116",
+      "lableID": "float_race_rank_succ_desc",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    },
+    "117": {
+      "id": "117",
+      "lableID": "float_race_desc_end1",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "118": {
+      "id": "118",
+      "lableID": "float_race_rest_tips",
+      "color": "#723A1B",
+      "outLineColor": ""
+    },
+    "119": {
+      "id": "119",
+      "lableID": "float_race_reward_title",
+      "color": "#971B90",
+      "outLineColor": ""
+    },
+    "120": {
+      "id": "120",
+      "lableID": "float_race_reward_tips",
+      "color": "#A5369E",
+      "outLineColor": ""
+    },
+    "121": {
+      "id": "121",
+      "lableID": "chooseOrder_chooseTip1",
+      "color": "#E74BD5",
+      "outLineColor": ""
+    }
+  },
+  "race2": {
+    "201": {
+      "id": "201",
+      "lableID": "float_race_desc_start",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "202": {
+      "id": "202",
+      "lableID": "float_race_desc_end",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "203": {
+      "id": "203",
+      "lableID": "float_race_desc_main",
+      "color": "#03382C",
+      "outLineColor": ""
+    },
+    "204": {
+      "id": "204",
+      "lableID": "float_race_desc_prize",
+      "color": "#97411F",
+      "outLineColor": ""
+    },
+    "205": {
+      "id": "205",
+      "lableID": "float_race_desc_remain",
+      "color": "",
+      "outLineColor": "#925009"
+    },
+    "206": {
+      "id": "206",
+      "lableID": "float_race_desc_numtip",
+      "color": "#723A1B",
+      "outLineColor": ""
+    },
+    "207": {
+      "id": "207",
+      "lableID": "float_race_tip_title",
+      "color": "",
+      "outLineColor": "#3b4280"
+    },
+    "208": {
+      "id": "208",
+      "lableID": "float_race_continue",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "209": {
+      "id": "209",
+      "lableID": "float_race_remain_num",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "210": {
+      "id": "210",
+      "lableID": "float_race_last_one",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "211": {
+      "id": "211",
+      "lableID": "float_race_desc_fail",
+      "color": "#B911A5",
+      "outLineColor": ""
+    },
+    "212": {
+      "id": "212",
+      "lableID": "float_race_rank_desc",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "213": {
+      "id": "213",
+      "lableID": "float_race_next_tips",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "214": {
+      "id": "214",
+      "lableID": "float_race_success_desc",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "215": {
+      "id": "215",
+      "lableID": "float_race_next_succ_tips",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "216": {
+      "id": "216",
+      "lableID": "float_race_rank_succ_desc",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "217": {
+      "id": "217",
+      "lableID": "float_race_desc_end1",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "218": {
+      "id": "218",
+      "lableID": "float_race_rest_tips",
+      "color": "#723A1B",
+      "outLineColor": ""
+    },
+    "219": {
+      "id": "219",
+      "lableID": "float_race_reward_title",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "220": {
+      "id": "220",
+      "lableID": "float_race_reward_tips",
+      "color": "#305eba",
+      "outLineColor": ""
+    },
+    "221": {
+      "id": "221",
+      "lableID": "chooseOrder_chooseTip1",
+      "color": "#305eba",
+      "outLineColor": ""
+    }
+  }
+}

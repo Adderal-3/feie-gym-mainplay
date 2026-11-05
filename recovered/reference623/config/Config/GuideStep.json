@@ -1,0 +1,4753 @@
+{
+  "Board": {
+    "2001": {
+      "id": 2001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1001",
+        ""
+      ],
+      "action": [
+        "",
+        "onShowMainBox"
+      ],
+      "condition": [],
+      "delay": 2,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2002": {
+      "id": 2002,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1002",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2003": {
+      "id": 2003,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice1",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2004": {
+      "id": 2004,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice2",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1001",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2005": {
+      "id": 2005,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1002",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2006": {
+      "id": 2006,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice4",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1003",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2007": {
+      "id": 2007,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2008": {
+      "id": 2008,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2009": {
+      "id": 2009,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice6",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1201",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2010": {
+      "id": 2010,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1202",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2011": {
+      "id": 2011,
+      "hand": [
+        "OrderItemBtn_10001"
+      ],
+      "mask": [
+        "OrderItemBtn_10001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice14",
+      "talk": [],
+      "action": [
+        "openScreen_3,check_order&10001"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2012": {
+      "id": 2012,
+      "hand": [
+        "MergeBoardTaskBtn"
+      ],
+      "mask": [
+        "MergeBoardTaskBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2013": {
+      "id": 2013,
+      "hand": [
+        "BuildWindowItemBtn1001"
+      ],
+      "mask": [
+        "BuildWindowItemBtn1001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice9",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2014": {
+      "id": 2014,
+      "hand": [
+        "BuildStar_1001"
+      ],
+      "mask": [
+        "BuildStar_1001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "FadeInAdornReady",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2015": {
+      "id": 2015,
+      "hand": [
+        "BuildDetailsWindowBtn"
+      ],
+      "mask": [
+        "BuildDetailsWindowBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openWindow_1013&10001,check_star&1"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2016": {
+      "id": 2016,
+      "hand": [
+        "BuildEditConfirmBtn"
+      ],
+      "mask": [
+        "BuildEditConfirmBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openAdornDetail_1001"
+      ],
+      "condition": [
+        "AdornBuildReady"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2017": {
+      "id": 2017,
+      "hand": [],
+      "mask": [
+        "LevelUpRewardBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "LevelUpContinue"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "2018": {
+      "id": 2018,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2019": {
+      "id": 2019,
+      "hand": [
+        "ChannelBtn"
+      ],
+      "mask": [
+        "ChannelBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice12",
+      "talk": [],
+      "action": [
+        "openScreen_3,check_channel&91101"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "2020": {
+      "id": 2020,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "2001"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Dlc": {
+    "10001": {
+      "id": 10001,
+      "hand": [
+        "ChannelBtn",
+        "center",
+        "1"
+      ],
+      "mask": [
+        "ChannelBtn",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice12",
+      "talk": [
+        "1005",
+        ""
+      ],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Build": {
+    "7001": {
+      "id": 7001,
+      "hand": [
+        "MergeBoardTaskBtn"
+      ],
+      "mask": [
+        "MergeBoardTaskBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice8",
+      "talk": [],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7002": {
+      "id": 7002,
+      "hand": [
+        "BuildWindowItemBtn1002"
+      ],
+      "mask": [
+        "BuildWindowItemBtn1002",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7003": {
+      "id": 7003,
+      "hand": [
+        "BuildStar_1002"
+      ],
+      "mask": [
+        "BuildStar_1002",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "FadeInAdornReady",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7004": {
+      "id": 7004,
+      "hand": [
+        "BuildDetailsWindowBtn"
+      ],
+      "mask": [
+        "BuildDetailsWindowBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openWindow_1013&10002,check_star&2"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "7005": {
+      "id": 7005,
+      "hand": [
+        "BuildEditConfirmBtn"
+      ],
+      "mask": [
+        "BuildEditConfirmBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice15",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "AdornBuildReady"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7006": {
+      "id": 7006,
+      "hand": [
+        "NewGooseWindowOkBtn"
+      ],
+      "mask": [
+        "NewGooseWindowOkBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7007": {
+      "id": 7007,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1003",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "7008": {
+      "id": 7008,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice1",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Buy": {
+    "3001": {
+      "id": 3001,
+      "hand": [
+        "exp",
+        "right"
+      ],
+      "mask": [
+        "exp",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice11",
+      "talk": [],
+      "action": [
+        "openScreen_2"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "3002": {
+      "id": 3002,
+      "hand": [
+        "LevelUpWindowBtn"
+      ],
+      "mask": [
+        "LevelUpWindowBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openWindow_1008,check_level"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "3003": {
+      "id": 3003,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Skin": {
+    "8001": {
+      "id": 8001,
+      "hand": [
+        "AdornItemGuideNode_100702"
+      ],
+      "mask": [
+        "AdornItemGuideNode_100702",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openAdornDetail_1007,check_adorncoupon&100"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "8002": {
+      "id": 8002,
+      "hand": [
+        "AdornItemBuyBtn_100702"
+      ],
+      "mask": [
+        "AdornItemBuyBtn_100702",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_2,openAdornDetail_1007"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "8003": {
+      "id": 8003,
+      "hand": [
+        "BuySkinWindowBuyBtn"
+      ],
+      "mask": [
+        "BuySkinWindowBuyBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_1020&100702,check_adorncoupon&100"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "8004": {
+      "id": 8004,
+      "hand": [
+        "BuildEditConfirmBtn"
+      ],
+      "mask": [
+        "BuildEditConfirmBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "8005": {
+      "id": 8005,
+      "hand": [
+        "NewGooseWindowOkBtn"
+      ],
+      "mask": [
+        "NewGooseWindowOkBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "8006": {
+      "id": 8006,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1004",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "8007": {
+      "id": 8007,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice1",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Bag": {
+    "4001": {
+      "id": 4001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "4001",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "4002": {
+      "id": 4002,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice17",
+      "talk": [],
+      "action": [
+        "openScreen_3,putBag",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "PutBagComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "4003": {
+      "id": 4003,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "tap_99901",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "WindowReady"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "4004": {
+      "id": 4004,
+      "hand": [
+        "BagItem0"
+      ],
+      "mask": [
+        "BagItem0",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,openWindow_1003"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "4005": {
+      "id": 4005,
+      "hand": [
+        "ClosetWindowCloseBtn"
+      ],
+      "mask": [
+        "ClosetWindowCloseBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "4002"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "DailyTask": {
+    "6001": {
+      "id": 6001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "customActionStart",
+        "customActionEnd"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 1
+    },
+    "6002": {
+      "id": 6002,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "6001",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "FirstActivity": {
+    "9001": {
+      "id": 9001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "9002"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9002": {
+      "id": 9002,
+      "hand": [
+        "btn_back"
+      ],
+      "mask": [
+        "btn_back",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_2"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9003": {
+      "id": 9003,
+      "hand": [
+        "event"
+      ],
+      "mask": [
+        "event",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9004": {
+      "id": 9004,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "9001"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "GooseCard": {
+    "5001": {
+      "id": 5001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "9104"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "5002": {
+      "id": 5002,
+      "hand": [
+        "btn_card",
+        "left"
+      ],
+      "mask": [
+        "btn_card",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "5003": {
+      "id": 5003,
+      "hand": [],
+      "mask": [
+        "GuideCardBg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "5004": {
+      "id": 5004,
+      "hand": [
+        "btn_exchange"
+      ],
+      "mask": [
+        "btn_exchange",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "5005": {
+      "id": 5005,
+      "hand": [
+        "btn_point"
+      ],
+      "mask": [
+        "btn_point",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "5006": {
+      "id": 5006,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "9106"
+      ],
+      "action": [],
+      "condition": [
+        "CardShowReady",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "cauldron": {
+    "11001": {
+      "id": 11001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_1236"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "11002": {
+      "id": 11002,
+      "hand": [
+        "bottle_0"
+      ],
+      "mask": [
+        "bottle_0",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "11003": {
+      "id": 11003,
+      "hand": [
+        "bottle_1"
+      ],
+      "mask": [
+        "bottle_1",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "11004": {
+      "id": 11004,
+      "hand": [
+        "bottle_undo_1"
+      ],
+      "mask": [
+        "bottle_undo_1",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "11005": {
+      "id": 11005,
+      "hand": [
+        "bottle_1"
+      ],
+      "mask": [
+        "bottle_1",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "11006": {
+      "id": 11006,
+      "hand": [
+        "bottle_2"
+      ],
+      "mask": [
+        "bottle_2",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "STActivity": {
+    "14001": {
+      "id": 14001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_1259"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14002": {
+      "id": 14002,
+      "hand": [],
+      "mask": [
+        "STGuideMask",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "useSTProp_1&4&2",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CompleteUseSTPropA"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14003": {
+      "id": 14003,
+      "hand": [],
+      "mask": [
+        "STGuideMask",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "clickSTProp_1&5&2"
+      ],
+      "condition": [
+        "",
+        "CompleteClickSTPropA"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14004": {
+      "id": 14004,
+      "hand": [],
+      "mask": [
+        "focusBrick",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "focusSTBrick_5&3"
+      ],
+      "condition": [
+        "",
+        "CompleteFocusSTBrick"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14005": {
+      "id": 14005,
+      "hand": [],
+      "mask": [
+        "STGuideMask",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "useSTProp_2&5&2",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CompleteUseSTPropB"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14006": {
+      "id": 14006,
+      "hand": [],
+      "mask": [
+        "STGuideMask",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "useSTProp_3&6&3",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CompleteUseSTPropC"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14007": {
+      "id": 14007,
+      "hand": [],
+      "mask": [
+        "STPassLookBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "14008": {
+      "id": 14008,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "9405"
+      ],
+      "action": [
+        "openWindow_1254"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Gog": {
+    "12001": {
+      "id": 12001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1006",
+        ""
+      ],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "12002": {
+      "id": 12002,
+      "hand": [
+        "GogBtn"
+      ],
+      "mask": [
+        "GogBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "GogBubble": {
+    "13001": {
+      "id": 13001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1007",
+        ""
+      ],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "13002": {
+      "id": 13002,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "gogBubble",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "GogBubbleComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "13003": {
+      "id": 13003,
+      "hand": [
+        "GogBubbleBtn"
+      ],
+      "mask": [
+        "GogBubbleBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Monopoly": {
+    "15001": {
+      "id": 15001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_1279"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "15002": {
+      "id": 15002,
+      "hand": [
+        "monopolyDice"
+      ],
+      "mask": [
+        "monopolyDice",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "15003": {
+      "id": 15003,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 2,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "15004": {
+      "id": 15004,
+      "hand": [
+        "monopolyGuideCard"
+      ],
+      "mask": [
+        "monopolyGuideCard",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Monopoly2": {
+    "16001": {
+      "id": 16001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_1279"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "16002": {
+      "id": 16002,
+      "hand": [
+        "monopolyButton"
+      ],
+      "mask": [
+        "monopolyButton",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "16003": {
+      "id": 16003,
+      "hand": [],
+      "mask": [
+        "monopolyShop",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SeasonCardEnter": {
+    "17001": {
+      "id": 17001,
+      "hand": [
+        "btn_back"
+      ],
+      "mask": [
+        "btn_back",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_2"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17002": {
+      "id": 17002,
+      "hand": [
+        "btn_CardsSeason",
+        "left"
+      ],
+      "mask": [
+        "btn_CardsSeason",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17003": {
+      "id": 17003,
+      "hand": [
+        "item_CardsSeries",
+        "right"
+      ],
+      "mask": [
+        "item_CardsSeries",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "CardWindowOpen"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17004": {
+      "id": 17004,
+      "hand": [],
+      "mask": [
+        "Top_CardSeasonCollect",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17005": {
+      "id": 17005,
+      "hand": [
+        "Btn_CollectClose",
+        "left"
+      ],
+      "mask": [
+        "Btn_CollectClose",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17006": {
+      "id": 17006,
+      "hand": [],
+      "mask": [
+        "Top_seasonReward",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17007": {
+      "id": 17007,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "7013"
+      ],
+      "action": [
+        "openWindow_3001",
+        "openPack"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "17008": {
+      "id": 17008,
+      "hand": [
+        "BtnContinue",
+        "right"
+      ],
+      "mask": [
+        "BtnContinue",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "17009": {
+      "id": 17009,
+      "hand": [
+        "btn_close_season",
+        "left"
+      ],
+      "mask": [
+        "btn_close_season",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "openPack_end"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SeasonCardPack": {
+    "18001": {
+      "id": 18001,
+      "hand": [
+        "ChannelBtn"
+      ],
+      "mask": [
+        "ChannelBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "18002": {
+      "id": 18002,
+      "hand": [
+        "BtnContinue",
+        "right"
+      ],
+      "mask": [
+        "BtnContinue",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SeasonCardGolden": {
+    "19001": {
+      "id": 19001,
+      "hand": [
+        "BtnContinue",
+        "right"
+      ],
+      "mask": [
+        "BtnContinue",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "PinballGuide1": {
+    "20001": {
+      "id": 20001,
+      "hand": [],
+      "mask": [
+        "launchGuide",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "pinballLaunch"
+      ],
+      "condition": [
+        "",
+        "pinballLaunchFinish"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "PinballGuide2": {
+    "21001": {
+      "id": 21001,
+      "hand": [],
+      "mask": [
+        "pinballProgressBar",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "House": {
+    "22001": {
+      "id": 22001,
+      "hand": [
+        "btn_House",
+        "center",
+        "1"
+      ],
+      "mask": [
+        "btn_House",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "22002": {
+      "id": 22002,
+      "hand": [
+        "room_1"
+      ],
+      "mask": [
+        "room_1",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openHouse"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "22003": {
+      "id": 22003,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "",
+        "16190"
+      ],
+      "action": [],
+      "condition": [
+        "enterHouse1"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "FloatRace1": {
+    "25001": {
+      "id": 25001,
+      "hand": [],
+      "mask": [
+        "root_yun1",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "25002": {
+      "id": 25002,
+      "hand": [
+        "bg_title"
+      ],
+      "mask": [
+        "bg_title",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "FloatRace2": {
+    "25003": {
+      "id": 25003,
+      "hand": [],
+      "mask": [
+        "FloatRaceBtn",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "OpenBoxStart": {
+    "23001": {
+      "id": 23001,
+      "hand": [],
+      "mask": [
+        "openBoxProgressBar",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "23002": {
+      "id": 23002,
+      "hand": [
+        "OpenBoxFirstBox"
+      ],
+      "mask": [
+        "OpenBoxFirstBox",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "hideRewardBlock"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "OpenBoxSmallCoin": {
+    "23003": {
+      "id": 23003,
+      "hand": [],
+      "mask": [
+        "openBoxSmallProgressBar",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "OpenBoxNothing": {
+    "23004": {
+      "id": 23004,
+      "hand": [],
+      "mask": [
+        "openBoxBoxGuide",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "OpenBoxBigCoin": {
+    "23005": {
+      "id": 23005,
+      "hand": [
+        "OpenBoxContinue",
+        "right"
+      ],
+      "mask": [
+        "OpenBoxContinue",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "CollectionAct": {
+    "24001": {
+      "id": 24001,
+      "hand": [],
+      "mask": [
+        "CollectionActMask",
+        "0.45",
+        "0",
+        "None"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "24002": {
+      "id": 24002,
+      "hand": [],
+      "mask": [
+        "CollectionActFinalReward",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "24003": {
+      "id": 24003,
+      "hand": [
+        "CollectionActProgress",
+        "down"
+      ],
+      "mask": [
+        "CollectionActProgress",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "24004": {
+      "id": 24004,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openWindow_3051"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "FrozenBubble": {
+    "26001": {
+      "id": 26001,
+      "hand": [],
+      "mask": [
+        "frozenBubble",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "26002": {
+      "id": 26002,
+      "hand": [],
+      "mask": [
+        "elementInfo",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Medal": {
+    "29001": {
+      "id": 29001,
+      "hand": [],
+      "mask": [
+        "medal_top",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "29002": {
+      "id": 29002,
+      "hand": [
+        "medal_card"
+      ],
+      "mask": [
+        "medal_card",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "29003": {
+      "id": 29003,
+      "hand": [],
+      "mask": [
+        "medal_bottom",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "WinStreak_1": {
+    "29101": {
+      "id": 29101,
+      "hand": [
+        "winstreak_start"
+      ],
+      "mask": [
+        "winstreak_start",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "WinStreak_2": {
+    "29201": {
+      "id": 29201,
+      "hand": [],
+      "mask": [
+        "winstreak_guide_1",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "29202": {
+      "id": 29202,
+      "hand": [],
+      "mask": [
+        "winstreak_guide_2",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "WinStreak_3": {
+    "29301": {
+      "id": 29301,
+      "hand": [],
+      "mask": [
+        "winstreak_guide_3",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "TrainOrderGuide": {
+    "30001": {
+      "id": 30001,
+      "hand": [],
+      "mask": [
+        "TrainOrderTrain",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "30002": {
+      "id": 30002,
+      "hand": [],
+      "mask": [
+        "TrainOrderReward",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "30003": {
+      "id": 30003,
+      "hand": [],
+      "mask": [
+        "TrainOrderProgress",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "30004": {
+      "id": 30004,
+      "hand": [],
+      "mask": [
+        "TrainOrderBoard",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "HiveGuide": {
+    "31001": {
+      "id": 31001,
+      "hand": [],
+      "mask": [
+        "HiveReward",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "31002": {
+      "id": 31002,
+      "hand": [
+        "HiveInfoCloseBtn"
+      ],
+      "mask": [],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "",
+        "closeWindow_3026"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "31003": {
+      "id": 31003,
+      "hand": [
+        "HiveGoBtn"
+      ],
+      "mask": [
+        "HiveGoBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "JungleGuide_1": {
+    "32001": {
+      "id": 32001,
+      "hand": [],
+      "mask": [
+        "jungle_guide2",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "32002": {
+      "id": 32002,
+      "hand": [],
+      "mask": [
+        "jungle_guide1",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "JungleGuide_2": {
+    "32003": {
+      "id": 32003,
+      "hand": [],
+      "mask": [
+        "jungle_guide3",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "32004": {
+      "id": 32004,
+      "hand": [],
+      "mask": [
+        "jungle_guide4",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SmileOrderGuide1": {
+    "33001": {
+      "id": 33001,
+      "hand": [],
+      "mask": [
+        "SmileOrderEntrance",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33002": {
+      "id": 33002,
+      "hand": [],
+      "mask": [
+        "FirstSmileOrder",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "locateSmileOrder"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33003": {
+      "id": 33003,
+      "hand": [
+        "SmileOrderEntrance",
+        "down",
+        "1"
+      ],
+      "mask": [
+        "SmileOrderEntrance",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SmileOrderGuide2": {
+    "33101": {
+      "id": 33101,
+      "hand": [],
+      "mask": [
+        "SmileOrderEntrance",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33102": {
+      "id": 33102,
+      "hand": [
+        "root_btns_smile",
+        "down",
+        "1"
+      ],
+      "mask": [
+        "root_btns_smile",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "SmileOrderWindowOpen",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "partnerGuide1": {
+    "33201": {
+      "id": 33201,
+      "hand": [],
+      "mask": [
+        "partner_guide1",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33202": {
+      "id": 33202,
+      "hand": [],
+      "mask": [
+        "partner_guide2",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33203": {
+      "id": 33203,
+      "hand": [],
+      "mask": [
+        "partner_guide3",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33204": {
+      "id": 33204,
+      "hand": [],
+      "mask": [
+        "partner_guide4",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "partnerGuide2": {
+    "33301": {
+      "id": 33301,
+      "hand": [],
+      "mask": [
+        "partner_guide5",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33302": {
+      "id": 33302,
+      "hand": [],
+      "mask": [
+        "partner_guide6",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33303": {
+      "id": 33303,
+      "hand": [],
+      "mask": [
+        "partner_guide7",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "33304": {
+      "id": 33304,
+      "hand": [],
+      "mask": [
+        "partner_guide8",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SystemOrder": {
+    "34001": {
+      "id": 34001,
+      "hand": [
+        "SystemOrderEntrance",
+        "center",
+        "1"
+      ],
+      "mask": [
+        "SystemOrderEntrance",
+        "0.45",
+        "0",
+        "1"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "34002": {
+      "id": 34002,
+      "hand": [],
+      "mask": [
+        "OrderDrawerUnlockWindow",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "",
+        "closeWindow_3032"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "MultiEnergyBtn1": {
+    "35001": {
+      "id": 35001,
+      "hand": [
+        "EnergyBuffBtn",
+        "down"
+      ],
+      "mask": [
+        "EnergyBuffBtn",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "35002": {
+      "id": 35002,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [
+        "2002",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "MultiEnergyBtn2": {
+    "35004": {
+      "id": 35004,
+      "hand": [
+        "EnergyBuffBtn",
+        "down"
+      ],
+      "mask": [
+        "EnergyBuffBtn",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "CheckIn": {
+    "35101": {
+      "id": 35101,
+      "hand": [],
+      "mask": [
+        "day1",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 1,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "35102": {
+      "id": 35102,
+      "hand": [],
+      "mask": [
+        "checkInProgress",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "StoreElement": {
+    "36001": {
+      "id": 36001,
+      "hand": [],
+      "mask": [
+        "StoreElementGuideTarget",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "selectStoreElement",
+        "mergeGuideEnd,clearStoreElementTarget"
+      ],
+      "condition": [
+        "",
+        "SelectComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "36002": {
+      "id": 36002,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "putStoreLauncher",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "PutStoreLauncherComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "36003": {
+      "id": 36003,
+      "hand": [
+        "Store",
+        "up"
+      ],
+      "mask": [
+        "Store",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "RankMatch": {
+    "37001": {
+      "id": 37001,
+      "hand": [
+        "RankMatch",
+        "right"
+      ],
+      "mask": [
+        "RankMatch",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SuperChargeGuide2X": {
+    "38001": {
+      "id": 38001,
+      "hand": [],
+      "mask": [
+        "",
+        "0"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "38002": {
+      "id": 38002,
+      "hand": [
+        "BtnSuperChargeSwitch"
+      ],
+      "mask": [
+        "BtnSuperChargeSwitch",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "38003": {
+      "id": 38003,
+      "hand": [
+        "BtnSuperChargeHide",
+        "down"
+      ],
+      "mask": [
+        "BtnSuperChargeHide",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "38004": {
+      "id": 38004,
+      "hand": [
+        "SuperChargeEntrance",
+        "right"
+      ],
+      "mask": [
+        "SuperChargeEntrance",
+        "0.45"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "SuperChargeGuide4X": {
+    "39001": {
+      "id": 39001,
+      "hand": [],
+      "mask": [
+        "",
+        "0"
+      ],
+      "touchEnd": 2,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "39002": {
+      "id": 39002,
+      "hand": [
+        "BtnSuperChargeSwitch"
+      ],
+      "mask": [
+        "BtnSuperChargeSwitch",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "TennisPartyGuide": {
+    "40001": {
+      "id": 40001,
+      "hand": [],
+      "mask": [
+        "tennis_panel_content",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "40002": {
+      "id": 40002,
+      "hand": [],
+      "mask": [
+        "btn_tennis_ok",
+        "0.45"
+      ],
+      "touchEnd": 1,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Board_13": {
+    "9913101": {
+      "id": 9913101,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1001",
+        ""
+      ],
+      "action": [
+        "",
+        "onShowMainBox"
+      ],
+      "condition": [],
+      "delay": 2,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913102": {
+      "id": 9913102,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1012"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913103": {
+      "id": 9913103,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice1",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913104": {
+      "id": 9913104,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice2",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1001",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913105": {
+      "id": 9913105,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1002",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913106": {
+      "id": 9913106,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1003",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913107": {
+      "id": 9913107,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice5",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913108": {
+      "id": 9913108,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1101",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913109": {
+      "id": 9913109,
+      "hand": [
+        "OrderItemBtn_1001"
+      ],
+      "mask": [
+        "OrderItemBtn_1001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice14",
+      "talk": [],
+      "action": [
+        "check_order&1001,openScreen_3"
+      ],
+      "condition": [],
+      "delay": 1,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913110": {
+      "id": 9913110,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Build1_13": {
+    "9913201": {
+      "id": 9913201,
+      "hand": [
+        "MergeBoardTaskBtn"
+      ],
+      "mask": [
+        "MergeBoardTaskBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice8",
+      "talk": [],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913202": {
+      "id": 9913202,
+      "hand": [
+        "BuildWindowItemBtn1001"
+      ],
+      "mask": [
+        "BuildWindowItemBtn1001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913203": {
+      "id": 9913203,
+      "hand": [
+        "BuildDetailsWindowBtn"
+      ],
+      "mask": [
+        "BuildDetailsWindowBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice9",
+      "talk": [],
+      "action": [
+        "check_adorn&1001,check_star&2,openScreen_2,openWindow_1013&10001"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913204": {
+      "id": 9913204,
+      "hand": [
+        "BuildEditConfirmBtn"
+      ],
+      "mask": [
+        "BuildEditConfirmBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice15",
+      "talk": [],
+      "action": [
+        "openScreen_2,openAdornDetail_1001"
+      ],
+      "condition": [
+        "AdornBuildReady"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913205": {
+      "id": 9913205,
+      "hand": [],
+      "mask": [
+        "LevelUpRewardBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice11",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "LevelUpContinue"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913206": {
+      "id": 9913206,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice12",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913207": {
+      "id": 9913207,
+      "hand": [
+        "ChannelBtn"
+      ],
+      "mask": [
+        "ChannelBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "check_channel&1004,openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913208": {
+      "id": 9913208,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 1,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913209": {
+      "id": 9913209,
+      "hand": [
+        "FirstMergeWindowCloseBtn"
+      ],
+      "mask": [
+        "FirstMergeWindowCloseBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913210": {
+      "id": 9913210,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1005",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913211": {
+      "id": 9913211,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice6",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1201",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Shop_13": {
+    "9913301": {
+      "id": 9913301,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913302": {
+      "id": 9913302,
+      "hand": [
+        "mergeShopBtn",
+        "left"
+      ],
+      "mask": [
+        "mergeShopBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice16",
+      "talk": [],
+      "action": [
+        "",
+        "openShop"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913303": {
+      "id": 9913303,
+      "hand": [],
+      "mask": [
+        "Mid",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Build2_13": {
+    "9913401": {
+      "id": 9913401,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_2001",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913402": {
+      "id": 9913402,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_2002",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913403": {
+      "id": 9913403,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_2003",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 1,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913404": {
+      "id": 9913404,
+      "hand": [
+        "FirstMergeWindowCloseBtn"
+      ],
+      "mask": [
+        "FirstMergeWindowCloseBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913405": {
+      "id": 9913405,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice5",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_2004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Generator_13": {
+    "9913501": {
+      "id": 9913501,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_2004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 1,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913502": {
+      "id": 9913502,
+      "hand": [
+        "FirstMergeWindowCloseBtn"
+      ],
+      "mask": [
+        "FirstMergeWindowCloseBtn",
+        "0"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913503": {
+      "id": 9913503,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_2005",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Bag_13": {
+    "9913601": {
+      "id": 9913601,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice17",
+      "talk": [],
+      "action": [
+        "openScreen_3,putBag",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "PutBagComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913602": {
+      "id": 9913602,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "tap_99901",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "WindowReady"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913603": {
+      "id": 9913603,
+      "hand": [
+        "BagItem0"
+      ],
+      "mask": [
+        "BagItem0",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,openWindow_1003"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913604": {
+      "id": 9913604,
+      "hand": [
+        "ClosetWindowCloseBtn"
+      ],
+      "mask": [
+        "ClosetWindowCloseBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Bubble_13": {
+    "9913701": {
+      "id": 9913701,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,selectBubble",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "BubbleComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Hourglass_13": {
+    "9913801": {
+      "id": 9913801,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1024",
+        ""
+      ],
+      "action": [
+        "openScreen_3,useProp_Prop_10&Prop_12+randomCdCell:2111",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "touchComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "BlackPack_13": {
+    "9913901": {
+      "id": 9913901,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,selectLockedCellById_90501&90502&90601&90602",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "PackageSelectComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9913902": {
+      "id": 9913902,
+      "hand": [
+        "ElementUnlockBtn"
+      ],
+      "mask": [
+        "ElementUnlockBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice13",
+      "talk": [],
+      "action": [],
+      "condition": [
+        "touchComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9913903": {
+      "id": 9913903,
+      "hand": [
+        "ElementSpeedupBtn"
+      ],
+      "mask": [
+        "ElementSpeedupBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    }
+  },
+  "Charger_13": {
+    "99131001": {
+      "id": 99131001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1025"
+      ],
+      "action": [
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "99131002": {
+      "id": 99131002,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,useProp_Prop_2+randomSeriesCell:H_0",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "touchComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "AQiu_13": {
+    "99131101": {
+      "id": 99131101,
+      "hand": [
+        "EventPassNewEntrance",
+        "left"
+      ],
+      "mask": [
+        "EventPassNewEntrance",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "NoEnergy_13": {
+    "99131201": {
+      "id": 99131201,
+      "hand": [
+        "Energy",
+        "down(80,10)"
+      ],
+      "mask": [
+        "Energy",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "SkipCd_13": {
+    "9914401": {
+      "id": 9914401,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "1026",
+        ""
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914402": {
+      "id": 9914402,
+      "hand": [
+        "ElementSpeedupBtn"
+      ],
+      "mask": [
+        "ElementSpeedupBtn",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "checkSkipCdButton"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "PlayableBoard_14": {
+    "9914001": {
+      "id": 9914001,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "991"
+      ],
+      "action": [
+        "PlayableOpen",
+        "PlayableIntroTransition"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914002": {
+      "id": 9914002,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "992"
+      ],
+      "action": [],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914003": {
+      "id": 9914003,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStart,PlayableShowOrder,PlayableShowBoardMask_1&2&2&2,PlayableShowMergeGuide_1&2&2&2"
+      ],
+      "condition": [
+        "",
+        "MergeEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914004": {
+      "id": 9914004,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowBoardMask_2&2&2&1,PlayableShowMergeGuide_2&2&2&1"
+      ],
+      "condition": [
+        "",
+        "MergeEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914005": {
+      "id": 9914005,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914006": {
+      "id": 9914006,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "993"
+      ],
+      "action": [],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914007": {
+      "id": 9914007,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowOrder,PlayableShowBoardMask_1&1&1&1,PlayableShowTapGuide_1&1"
+      ],
+      "condition": [
+        "",
+        "DropEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914008": {
+      "id": 9914008,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStartGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableOrderComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914009": {
+      "id": 9914009,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914010": {
+      "id": 9914010,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "994"
+      ],
+      "action": [],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914011": {
+      "id": 9914011,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowOrder,PlayableShowBoardMask_1&1&1&1,PlayableShowTapGuide_1&1"
+      ],
+      "condition": [
+        "",
+        "DropEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914012": {
+      "id": 9914012,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStartGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableOrderComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914013": {
+      "id": 9914013,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914014": {
+      "id": 9914014,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "995"
+      ],
+      "action": [
+        "",
+        "PlayableEnd,PlayableExit"
+      ],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "PlayableBoardD_14": {
+    "9914403": {
+      "id": 9914403,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStart,PlayableShowOrder,PlayableShowBoardMask_1&2&2&2,PlayableShowMergeGuide_1&2&2&2"
+      ],
+      "condition": [
+        "",
+        "MergeEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914404": {
+      "id": 9914404,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowBoardMask_2&2&2&1,PlayableShowMergeGuide_2&2&2&1"
+      ],
+      "condition": [
+        "",
+        "MergeEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914405": {
+      "id": 9914405,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914406": {
+      "id": 9914406,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "993"
+      ],
+      "action": [],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914407": {
+      "id": 9914407,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowOrder,PlayableShowBoardMask_1&1&1&1,PlayableShowTapGuide_1&1"
+      ],
+      "condition": [
+        "",
+        "DropEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914408": {
+      "id": 9914408,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStartGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableOrderComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914409": {
+      "id": 9914409,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914410": {
+      "id": 9914410,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "994"
+      ],
+      "action": [],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914411": {
+      "id": 9914411,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableShowOrder,PlayableShowBoardMask_1&1&1&1,PlayableShowTapGuide_1&1"
+      ],
+      "condition": [
+        "",
+        "DropEnd"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914412": {
+      "id": 9914412,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStartGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableOrderComplete"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914413": {
+      "id": 9914413,
+      "hand": [
+        "PlayableOrderBtn"
+      ],
+      "mask": [
+        "PlayableOrder",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "PlayableStopGuide"
+      ],
+      "condition": [
+        "",
+        "PlayableSubmitted"
+      ],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914414": {
+      "id": 9914414,
+      "hand": [],
+      "mask": [],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [
+        "995"
+      ],
+      "action": [
+        "",
+        "PlayableEnd,PlayableExit"
+      ],
+      "condition": [
+        "PlayableOrdered",
+        ""
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  },
+  "Board_14": {
+    "9914103": {
+      "id": 9914103,
+      "hand": [
+        "element"
+      ],
+      "mask": [
+        "element",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice1",
+      "talk": [],
+      "action": [
+        "",
+        "openScreen_3"
+      ],
+      "condition": [],
+      "delay": 0,
+      "keyStep": 0,
+      "autoTime": 0
+    },
+    "9914104": {
+      "id": 9914104,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice2",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1001",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914105": {
+      "id": 9914105,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1002",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914106": {
+      "id": 9914106,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1003",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914107": {
+      "id": 9914107,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice5",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914108": {
+      "id": 9914108,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,merge_1101",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "MergeComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914109": {
+      "id": 9914109,
+      "hand": [
+        "OrderItemBtn_1001"
+      ],
+      "mask": [
+        "OrderItemBtn_1001",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "guidevoice14",
+      "talk": [],
+      "action": [
+        "check_order&1001,openScreen_3"
+      ],
+      "condition": [],
+      "delay": 1,
+      "keyStep": 1,
+      "autoTime": 0
+    },
+    "9914110": {
+      "id": 9914110,
+      "hand": [],
+      "mask": [
+        "boardbg",
+        "0.45"
+      ],
+      "touchEnd": 0,
+      "audio": "",
+      "talk": [],
+      "action": [
+        "openScreen_3,tap_1004",
+        "mergeGuideEnd"
+      ],
+      "condition": [
+        "",
+        "CreateComplete"
+      ],
+      "delay": 0,
+      "keyStep": 1,
+      "autoTime": 0
+    }
+  }
+}

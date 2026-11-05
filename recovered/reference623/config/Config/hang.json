@@ -1,0 +1,4214 @@
+{
+  "hang1": {
+    "101": {
+      "id": 101,
+      "expectDifficulty": 10,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        5,
+        25
+      ],
+      "extraReward": {}
+    },
+    "102": {
+      "id": 102,
+      "expectDifficulty": 25,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        13,
+        63
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "103": {
+      "id": 103,
+      "expectDifficulty": 30,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        15,
+        75
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "104": {
+      "id": 104,
+      "expectDifficulty": 35,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        18,
+        88
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "105": {
+      "id": 105,
+      "expectDifficulty": 40,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        20,
+        100
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "106": {
+      "id": 106,
+      "expectDifficulty": 48,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        24,
+        120
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "107": {
+      "id": 107,
+      "expectDifficulty": 58,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        29,
+        145
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2": {
+    "201": {
+      "id": 201,
+      "expectDifficulty": 14,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        7,
+        35
+      ],
+      "extraReward": {}
+    },
+    "202": {
+      "id": 202,
+      "expectDifficulty": 31,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        78
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "203": {
+      "id": 203,
+      "expectDifficulty": 37,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        93
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "204": {
+      "id": 204,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        22,
+        108
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "205": {
+      "id": 205,
+      "expectDifficulty": 50,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        25,
+        125
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "206": {
+      "id": 206,
+      "expectDifficulty": 59,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        30,
+        148
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "207": {
+      "id": 207,
+      "expectDifficulty": 71,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        36,
+        178
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3": {
+    "301": {
+      "id": 301,
+      "expectDifficulty": 17,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        9,
+        43
+      ],
+      "extraReward": {}
+    },
+    "302": {
+      "id": 302,
+      "expectDifficulty": 37,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        93
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "303": {
+      "id": 303,
+      "expectDifficulty": 44,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        22,
+        110
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "304": {
+      "id": 304,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "305": {
+      "id": 305,
+      "expectDifficulty": 59,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        30,
+        148
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "306": {
+      "id": 306,
+      "expectDifficulty": 70,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        35,
+        175
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "307": {
+      "id": 307,
+      "expectDifficulty": 84,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        42,
+        210
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4": {
+    "401": {
+      "id": 401,
+      "expectDifficulty": 20,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        10,
+        50
+      ],
+      "extraReward": {}
+    },
+    "402": {
+      "id": 402,
+      "expectDifficulty": 42,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        21,
+        105
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "403": {
+      "id": 403,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "404": {
+      "id": 404,
+      "expectDifficulty": 59,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        30,
+        148
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "405": {
+      "id": 405,
+      "expectDifficulty": 68,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        34,
+        170
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "406": {
+      "id": 406,
+      "expectDifficulty": 81,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        41,
+        203
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "407": {
+      "id": 407,
+      "expectDifficulty": 98,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        49,
+        245
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang5": {
+    "501": {
+      "id": 501,
+      "expectDifficulty": 24,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        12,
+        60
+      ],
+      "extraReward": {}
+    },
+    "502": {
+      "id": 502,
+      "expectDifficulty": 49,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        25,
+        123
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "503": {
+      "id": 503,
+      "expectDifficulty": 58,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        29,
+        145
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "504": {
+      "id": 504,
+      "expectDifficulty": 68,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        34,
+        170
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "505": {
+      "id": 505,
+      "expectDifficulty": 78,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        39,
+        195
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "506": {
+      "id": 506,
+      "expectDifficulty": 92,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        46,
+        230
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "507": {
+      "id": 507,
+      "expectDifficulty": 112,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        56,
+        280
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang6": {
+    "601": {
+      "id": 601,
+      "expectDifficulty": 29,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        15,
+        73
+      ],
+      "extraReward": {}
+    },
+    "602": {
+      "id": 602,
+      "expectDifficulty": 57,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        29,
+        143
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "603": {
+      "id": 603,
+      "expectDifficulty": 68,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        34,
+        170
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "604": {
+      "id": 604,
+      "expectDifficulty": 79,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        40,
+        198
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "605": {
+      "id": 605,
+      "expectDifficulty": 91,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        46,
+        228
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "606": {
+      "id": 606,
+      "expectDifficulty": 108,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        54,
+        270
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "607": {
+      "id": 607,
+      "expectDifficulty": 130,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        65,
+        325
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang7": {
+    "701": {
+      "id": 701,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {}
+    },
+    "702": {
+      "id": 702,
+      "expectDifficulty": 72,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        36,
+        180
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "703": {
+      "id": 703,
+      "expectDifficulty": 86,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        43,
+        215
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "704": {
+      "id": 704,
+      "expectDifficulty": 101,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        51,
+        253
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "705": {
+      "id": 705,
+      "expectDifficulty": 115,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        58,
+        288
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "706": {
+      "id": 706,
+      "expectDifficulty": 137,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        69,
+        343
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "707": {
+      "id": 707,
+      "expectDifficulty": 166,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        83,
+        415
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang8": {
+    "801": {
+      "id": 801,
+      "expectDifficulty": 48,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        24,
+        120
+      ],
+      "extraReward": {}
+    },
+    "802": {
+      "id": 802,
+      "expectDifficulty": 88,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        44,
+        220
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "803": {
+      "id": 803,
+      "expectDifficulty": 106,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        53,
+        265
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "804": {
+      "id": 804,
+      "expectDifficulty": 123,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        62,
+        308
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "805": {
+      "id": 805,
+      "expectDifficulty": 141,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        71,
+        353
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "806": {
+      "id": 806,
+      "expectDifficulty": 167,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        84,
+        418
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "807": {
+      "id": 807,
+      "expectDifficulty": 202,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        101,
+        505
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang9": {
+    "901": {
+      "id": 901,
+      "expectDifficulty": 67,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        34,
+        168
+      ],
+      "extraReward": {}
+    },
+    "902": {
+      "id": 902,
+      "expectDifficulty": 120,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        60,
+        300
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "903": {
+      "id": 903,
+      "expectDifficulty": 144,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        72,
+        360
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "904": {
+      "id": 904,
+      "expectDifficulty": 168,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        84,
+        420
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "905": {
+      "id": 905,
+      "expectDifficulty": 192,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        96,
+        480
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "906": {
+      "id": 906,
+      "expectDifficulty": 228,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        114,
+        570
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "907": {
+      "id": 907,
+      "expectDifficulty": 276,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        138,
+        690
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_1": {
+    "2101": {
+      "id": 2101,
+      "expectDifficulty": 21,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        11,
+        53
+      ],
+      "extraReward": {}
+    },
+    "2102": {
+      "id": 2102,
+      "expectDifficulty": 32,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        80
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2103": {
+      "id": 2103,
+      "expectDifficulty": 33,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        83
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2104": {
+      "id": 2104,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2105": {
+      "id": 2105,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        22,
+        108
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2106": {
+      "id": 2106,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2107": {
+      "id": 2107,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        31,
+        155
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_2": {
+    "2201": {
+      "id": 2201,
+      "expectDifficulty": 25,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        13,
+        63
+      ],
+      "extraReward": {}
+    },
+    "2202": {
+      "id": 2202,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2203": {
+      "id": 2203,
+      "expectDifficulty": 40,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        20,
+        100
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2204": {
+      "id": 2204,
+      "expectDifficulty": 46,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        23,
+        115
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2205": {
+      "id": 2205,
+      "expectDifficulty": 53,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        27,
+        133
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2206": {
+      "id": 2206,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2207": {
+      "id": 2207,
+      "expectDifficulty": 76,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        38,
+        190
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_3": {
+    "2301": {
+      "id": 2301,
+      "expectDifficulty": 29,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        15,
+        73
+      ],
+      "extraReward": {}
+    },
+    "2302": {
+      "id": 2302,
+      "expectDifficulty": 44,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        22,
+        110
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2303": {
+      "id": 2303,
+      "expectDifficulty": 47,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        24,
+        118
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2304": {
+      "id": 2304,
+      "expectDifficulty": 55,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        28,
+        138
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2305": {
+      "id": 2305,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2306": {
+      "id": 2306,
+      "expectDifficulty": 75,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        38,
+        188
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2307": {
+      "id": 2307,
+      "expectDifficulty": 90,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        45,
+        225
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_4": {
+    "2401": {
+      "id": 2401,
+      "expectDifficulty": 32,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        80
+      ],
+      "extraReward": {}
+    },
+    "2402": {
+      "id": 2402,
+      "expectDifficulty": 50,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        25,
+        125
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2403": {
+      "id": 2403,
+      "expectDifficulty": 54,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        27,
+        135
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2404": {
+      "id": 2404,
+      "expectDifficulty": 64,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        160
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2405": {
+      "id": 2405,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2406": {
+      "id": 2406,
+      "expectDifficulty": 86,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        43,
+        215
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2407": {
+      "id": 2407,
+      "expectDifficulty": 104,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        52,
+        260
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_5": {
+    "2501": {
+      "id": 2501,
+      "expectDifficulty": 36,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        18,
+        90
+      ],
+      "extraReward": {}
+    },
+    "2502": {
+      "id": 2502,
+      "expectDifficulty": 57,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        29,
+        143
+      ],
+      "extraReward": {
+        "9840158": 1
+      }
+    },
+    "2503": {
+      "id": 2503,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2504": {
+      "id": 2504,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2505": {
+      "id": 2505,
+      "expectDifficulty": 83,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        42,
+        208
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2506": {
+      "id": 2506,
+      "expectDifficulty": 99,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        50,
+        248
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2507": {
+      "id": 2507,
+      "expectDifficulty": 120,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        60,
+        300
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_6": {
+    "2601": {
+      "id": 2601,
+      "expectDifficulty": 41,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        21,
+        103
+      ],
+      "extraReward": {}
+    },
+    "2602": {
+      "id": 2602,
+      "expectDifficulty": 66,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        33,
+        165
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2603": {
+      "id": 2603,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2604": {
+      "id": 2604,
+      "expectDifficulty": 85,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        43,
+        213
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2605": {
+      "id": 2605,
+      "expectDifficulty": 97,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        49,
+        243
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2606": {
+      "id": 2606,
+      "expectDifficulty": 115,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        58,
+        288
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2607": {
+      "id": 2607,
+      "expectDifficulty": 139,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        70,
+        348
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_7": {
+    "2701": {
+      "id": 2701,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {}
+    },
+    "2702": {
+      "id": 2702,
+      "expectDifficulty": 82,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        41,
+        205
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2703": {
+      "id": 2703,
+      "expectDifficulty": 93,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        47,
+        233
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2704": {
+      "id": 2704,
+      "expectDifficulty": 108,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        54,
+        270
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2705": {
+      "id": 2705,
+      "expectDifficulty": 123,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        62,
+        308
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2706": {
+      "id": 2706,
+      "expectDifficulty": 146,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        73,
+        365
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2707": {
+      "id": 2707,
+      "expectDifficulty": 177,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        89,
+        443
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_8": {
+    "2801": {
+      "id": 2801,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        31,
+        155
+      ],
+      "extraReward": {}
+    },
+    "2802": {
+      "id": 2802,
+      "expectDifficulty": 99,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        50,
+        248
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2803": {
+      "id": 2803,
+      "expectDifficulty": 113,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        57,
+        283
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2804": {
+      "id": 2804,
+      "expectDifficulty": 132,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        66,
+        330
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2805": {
+      "id": 2805,
+      "expectDifficulty": 151,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        76,
+        378
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2806": {
+      "id": 2806,
+      "expectDifficulty": 179,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        90,
+        448
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2807": {
+      "id": 2807,
+      "expectDifficulty": 217,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        109,
+        543
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang2_9": {
+    "2901": {
+      "id": 2901,
+      "expectDifficulty": 82,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        41,
+        205
+      ],
+      "extraReward": {}
+    },
+    "2902": {
+      "id": 2902,
+      "expectDifficulty": 133,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        67,
+        333
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2903": {
+      "id": 2903,
+      "expectDifficulty": 154,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        77,
+        385
+      ],
+      "extraReward": {
+        "9840258": 1
+      }
+    },
+    "2904": {
+      "id": 2904,
+      "expectDifficulty": 180,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        90,
+        450
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2905": {
+      "id": 2905,
+      "expectDifficulty": 205,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        103,
+        513
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2906": {
+      "id": 2906,
+      "expectDifficulty": 244,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        122,
+        610
+      ],
+      "extraReward": {
+        "9840358": 1
+      }
+    },
+    "2907": {
+      "id": 2907,
+      "expectDifficulty": 295,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        148,
+        738
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_1": {
+    "3101": {
+      "id": 3101,
+      "expectDifficulty": 21,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        11,
+        53
+      ],
+      "extraReward": {}
+    },
+    "3102": {
+      "id": 3102,
+      "expectDifficulty": 32,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        80
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3103": {
+      "id": 3103,
+      "expectDifficulty": 33,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        83
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3104": {
+      "id": 3104,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3105": {
+      "id": 3105,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        22,
+        108
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3106": {
+      "id": 3106,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3107": {
+      "id": 3107,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        31,
+        155
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_2": {
+    "3201": {
+      "id": 3201,
+      "expectDifficulty": 25,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        13,
+        63
+      ],
+      "extraReward": {}
+    },
+    "3202": {
+      "id": 3202,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3203": {
+      "id": 3203,
+      "expectDifficulty": 40,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        20,
+        100
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3204": {
+      "id": 3204,
+      "expectDifficulty": 46,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        23,
+        115
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3205": {
+      "id": 3205,
+      "expectDifficulty": 53,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        27,
+        133
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3206": {
+      "id": 3206,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3207": {
+      "id": 3207,
+      "expectDifficulty": 76,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        38,
+        190
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_3": {
+    "3301": {
+      "id": 3301,
+      "expectDifficulty": 26,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        5,
+        52
+      ],
+      "extraReward": {}
+    },
+    "3302": {
+      "id": 3302,
+      "expectDifficulty": 33,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        7,
+        66
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3303": {
+      "id": 3303,
+      "expectDifficulty": 35,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        7,
+        70
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3304": {
+      "id": 3304,
+      "expectDifficulty": 41,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        8,
+        82
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3305": {
+      "id": 3305,
+      "expectDifficulty": 47,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        9,
+        94
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3306": {
+      "id": 3306,
+      "expectDifficulty": 56,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        11,
+        112
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3307": {
+      "id": 3307,
+      "expectDifficulty": 68,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        14,
+        136
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_4": {
+    "3401": {
+      "id": 3401,
+      "expectDifficulty": 26,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        5,
+        52
+      ],
+      "extraReward": {}
+    },
+    "3402": {
+      "id": 3402,
+      "expectDifficulty": 40,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        8,
+        80
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3403": {
+      "id": 3403,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        9,
+        86
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3404": {
+      "id": 3404,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        10,
+        102
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3405": {
+      "id": 3405,
+      "expectDifficulty": 58,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        12,
+        116
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3406": {
+      "id": 3406,
+      "expectDifficulty": 69,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        14,
+        138
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3407": {
+      "id": 3407,
+      "expectDifficulty": 83,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        166
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_5": {
+    "3501": {
+      "id": 3501,
+      "expectDifficulty": 27,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        5,
+        54
+      ],
+      "extraReward": {}
+    },
+    "3502": {
+      "id": 3502,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        9,
+        86
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "3503": {
+      "id": 3503,
+      "expectDifficulty": 47,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        9,
+        94
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3504": {
+      "id": 3504,
+      "expectDifficulty": 55,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        11,
+        110
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3505": {
+      "id": 3505,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        12,
+        124
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3506": {
+      "id": 3506,
+      "expectDifficulty": 74,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        15,
+        148
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3507": {
+      "id": 3507,
+      "expectDifficulty": 90,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        18,
+        180
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_6": {
+    "3601": {
+      "id": 3601,
+      "expectDifficulty": 31,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        6,
+        62
+      ],
+      "extraReward": {}
+    },
+    "3602": {
+      "id": 3602,
+      "expectDifficulty": 50,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        10,
+        100
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3603": {
+      "id": 3603,
+      "expectDifficulty": 55,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        11,
+        110
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3604": {
+      "id": 3604,
+      "expectDifficulty": 64,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        13,
+        128
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3605": {
+      "id": 3605,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        15,
+        146
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3606": {
+      "id": 3606,
+      "expectDifficulty": 86,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        172
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3607": {
+      "id": 3607,
+      "expectDifficulty": 104,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        21,
+        208
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_7": {
+    "3701": {
+      "id": 3701,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        8,
+        76
+      ],
+      "extraReward": {}
+    },
+    "3702": {
+      "id": 3702,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        12,
+        124
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3703": {
+      "id": 3703,
+      "expectDifficulty": 70,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        14,
+        140
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3704": {
+      "id": 3704,
+      "expectDifficulty": 81,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        16,
+        162
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3705": {
+      "id": 3705,
+      "expectDifficulty": 92,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        18,
+        184
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3706": {
+      "id": 3706,
+      "expectDifficulty": 110,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        22,
+        220
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3707": {
+      "id": 3707,
+      "expectDifficulty": 133,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        27,
+        266
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_8": {
+    "3801": {
+      "id": 3801,
+      "expectDifficulty": 47,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        9,
+        94
+      ],
+      "extraReward": {}
+    },
+    "3802": {
+      "id": 3802,
+      "expectDifficulty": 74,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        15,
+        148
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3803": {
+      "id": 3803,
+      "expectDifficulty": 85,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        170
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3804": {
+      "id": 3804,
+      "expectDifficulty": 99,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        20,
+        198
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3805": {
+      "id": 3805,
+      "expectDifficulty": 113,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        23,
+        226
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3806": {
+      "id": 3806,
+      "expectDifficulty": 134,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        27,
+        268
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3807": {
+      "id": 3807,
+      "expectDifficulty": 163,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        33,
+        326
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang3_9": {
+    "3901": {
+      "id": 3901,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        12,
+        124
+      ],
+      "extraReward": {}
+    },
+    "3902": {
+      "id": 3902,
+      "expectDifficulty": 100,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        20,
+        200
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3903": {
+      "id": 3903,
+      "expectDifficulty": 116,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        23,
+        232
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "3904": {
+      "id": 3904,
+      "expectDifficulty": 135,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        27,
+        270
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3905": {
+      "id": 3905,
+      "expectDifficulty": 154,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        31,
+        308
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3906": {
+      "id": 3906,
+      "expectDifficulty": 183,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        37,
+        366
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "3907": {
+      "id": 3907,
+      "expectDifficulty": 221,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        44,
+        442
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_1": {
+    "4101": {
+      "id": 4101,
+      "expectDifficulty": 21,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        11,
+        53
+      ],
+      "extraReward": {}
+    },
+    "4102": {
+      "id": 4102,
+      "expectDifficulty": 32,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        80
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4103": {
+      "id": 4103,
+      "expectDifficulty": 33,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        17,
+        83
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4104": {
+      "id": 4104,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4105": {
+      "id": 4105,
+      "expectDifficulty": 43,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        22,
+        108
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4106": {
+      "id": 4106,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4107": {
+      "id": 4107,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        31,
+        155
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_2": {
+    "4201": {
+      "id": 4201,
+      "expectDifficulty": 25,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        13,
+        63
+      ],
+      "extraReward": {}
+    },
+    "4202": {
+      "id": 4202,
+      "expectDifficulty": 38,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        19,
+        95
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4203": {
+      "id": 4203,
+      "expectDifficulty": 40,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        20,
+        100
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4204": {
+      "id": 4204,
+      "expectDifficulty": 46,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        23,
+        115
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4205": {
+      "id": 4205,
+      "expectDifficulty": 53,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        27,
+        133
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4206": {
+      "id": 4206,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4207": {
+      "id": 4207,
+      "expectDifficulty": 76,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        38,
+        190
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_3": {
+    "4301": {
+      "id": 4301,
+      "expectDifficulty": 29,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        15,
+        73
+      ],
+      "extraReward": {}
+    },
+    "4302": {
+      "id": 4302,
+      "expectDifficulty": 44,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        22,
+        110
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4303": {
+      "id": 4303,
+      "expectDifficulty": 47,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        24,
+        118
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4304": {
+      "id": 4304,
+      "expectDifficulty": 55,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        28,
+        138
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4305": {
+      "id": 4305,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4306": {
+      "id": 4306,
+      "expectDifficulty": 75,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        38,
+        188
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4307": {
+      "id": 4307,
+      "expectDifficulty": 90,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        45,
+        225
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_4": {
+    "4401": {
+      "id": 4401,
+      "expectDifficulty": 32,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        16,
+        80
+      ],
+      "extraReward": {}
+    },
+    "4402": {
+      "id": 4402,
+      "expectDifficulty": 50,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        25,
+        125
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4403": {
+      "id": 4403,
+      "expectDifficulty": 54,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        27,
+        135
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4404": {
+      "id": 4404,
+      "expectDifficulty": 64,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        160
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4405": {
+      "id": 4405,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4406": {
+      "id": 4406,
+      "expectDifficulty": 86,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        43,
+        215
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4407": {
+      "id": 4407,
+      "expectDifficulty": 104,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        52,
+        260
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_5": {
+    "4501": {
+      "id": 4501,
+      "expectDifficulty": 36,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        18,
+        90
+      ],
+      "extraReward": {}
+    },
+    "4502": {
+      "id": 4502,
+      "expectDifficulty": 57,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        29,
+        143
+      ],
+      "extraReward": {
+        "BuffProp2": 1
+      }
+    },
+    "4503": {
+      "id": 4503,
+      "expectDifficulty": 63,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        32,
+        158
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4504": {
+      "id": 4504,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4505": {
+      "id": 4505,
+      "expectDifficulty": 83,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        42,
+        208
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4506": {
+      "id": 4506,
+      "expectDifficulty": 99,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        50,
+        248
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4507": {
+      "id": 4507,
+      "expectDifficulty": 120,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        60,
+        300
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_6": {
+    "4601": {
+      "id": 4601,
+      "expectDifficulty": 41,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        21,
+        103
+      ],
+      "extraReward": {}
+    },
+    "4602": {
+      "id": 4602,
+      "expectDifficulty": 66,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        33,
+        165
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4603": {
+      "id": 4603,
+      "expectDifficulty": 73,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        37,
+        183
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4604": {
+      "id": 4604,
+      "expectDifficulty": 85,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        43,
+        213
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4605": {
+      "id": 4605,
+      "expectDifficulty": 97,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        49,
+        243
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4606": {
+      "id": 4606,
+      "expectDifficulty": 115,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        58,
+        288
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4607": {
+      "id": 4607,
+      "expectDifficulty": 139,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        70,
+        348
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_7": {
+    "4701": {
+      "id": 4701,
+      "expectDifficulty": 51,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        26,
+        128
+      ],
+      "extraReward": {}
+    },
+    "4702": {
+      "id": 4702,
+      "expectDifficulty": 82,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        41,
+        205
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4703": {
+      "id": 4703,
+      "expectDifficulty": 93,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        47,
+        233
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4704": {
+      "id": 4704,
+      "expectDifficulty": 108,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        54,
+        270
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4705": {
+      "id": 4705,
+      "expectDifficulty": 123,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        62,
+        308
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4706": {
+      "id": 4706,
+      "expectDifficulty": 146,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        73,
+        365
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4707": {
+      "id": 4707,
+      "expectDifficulty": 177,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        89,
+        443
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_8": {
+    "4801": {
+      "id": 4801,
+      "expectDifficulty": 62,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        31,
+        155
+      ],
+      "extraReward": {}
+    },
+    "4802": {
+      "id": 4802,
+      "expectDifficulty": 99,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        50,
+        248
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4803": {
+      "id": 4803,
+      "expectDifficulty": 113,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        57,
+        283
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4804": {
+      "id": 4804,
+      "expectDifficulty": 132,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        66,
+        330
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4805": {
+      "id": 4805,
+      "expectDifficulty": 151,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        76,
+        378
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4806": {
+      "id": 4806,
+      "expectDifficulty": 179,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        90,
+        448
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4807": {
+      "id": 4807,
+      "expectDifficulty": 217,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        109,
+        543
+      ],
+      "extraReward": {}
+    }
+  },
+  "hang4_9": {
+    "4901": {
+      "id": 4901,
+      "expectDifficulty": 82,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        41,
+        205
+      ],
+      "extraReward": {}
+    },
+    "4902": {
+      "id": 4902,
+      "expectDifficulty": 133,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act1",
+      "algorithm": "Most",
+      "safeDifficultyRange": [
+        67,
+        333
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4903": {
+      "id": 4903,
+      "expectDifficulty": 154,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        77,
+        385
+      ],
+      "extraReward": {
+        "BuffProp3": 1
+      }
+    },
+    "4904": {
+      "id": 4904,
+      "expectDifficulty": 180,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        90,
+        450
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4905": {
+      "id": 4905,
+      "expectDifficulty": 205,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Random",
+      "safeDifficultyRange": [
+        103,
+        513
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4906": {
+      "id": 4906,
+      "expectDifficulty": 244,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        122,
+        610
+      ],
+      "extraReward": {
+        "BuffProp4": 1
+      }
+    },
+    "4907": {
+      "id": 4907,
+      "expectDifficulty": 295,
+      "orderFactorRange": [
+        0.5,
+        1
+      ],
+      "orderRatio": "act2",
+      "algorithm": "Least",
+      "safeDifficultyRange": [
+        148,
+        738
+      ],
+      "extraReward": {}
+    }
+  }
+}
